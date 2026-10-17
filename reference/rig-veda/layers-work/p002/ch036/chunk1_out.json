@@ -1,0 +1,1226 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tubhya̭ṃ",
+      "words": [
+       {
+        "w": "tubhyam",
+        "gloss": "for you",
+        "gram": "2 sg. dat."
+       }
+      ]
+     },
+     {
+      "src": "hinvā̱no",
+      "words": [
+       {
+        "w": "hinvānaḥ",
+        "gloss": "being urged on",
+        "gram": "m. nom. sg. pres. part. mid. √hinv"
+       }
+      ]
+     },
+     {
+      "src": "va̭siṣṭa̱",
+      "words": [
+       {
+        "w": "vasiṣṭa",
+        "gloss": "clothed himself",
+        "gram": "3 sg. aor. mid. √vas"
+       }
+      ]
+     },
+     {
+      "src": "gā",
+      "words": [
+       {
+        "w": "gāḥ",
+        "gloss": "cows",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱po",
+      "words": [
+       {
+        "w": "apaḥ",
+        "gloss": "waters",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "'dhṷkṣan",
+      "words": [
+       {
+        "w": "adhukṣan",
+        "gloss": "milked",
+        "gram": "3 pl. aor. √duh"
+       }
+      ]
+     },
+     {
+      "src": "tsī̱mavi̭bhi̱radri̭bhi̱rnara̭:",
+      "words": [
+       {
+        "w": "sīm",
+        "gloss": "him",
+        "gram": "ind. (acc. particle)"
+       },
+       {
+        "w": "avibhiḥ",
+        "gloss": "with the sheep",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "adribhiḥ",
+        "gloss": "with the stones",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "naraḥ",
+        "gloss": "men",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pibḙndra̱",
+      "words": [
+       {
+        "w": "piba",
+        "gloss": "drink",
+        "gram": "2 sg. imper. √pā"
+       },
+       {
+        "w": "indra",
+        "gloss": "Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svāhā̱",
+      "words": [
+       {
+        "w": "svāhā",
+        "gloss": "svāhā",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prahṷta̱ṃ",
+      "words": [
+       {
+        "w": "prahutam",
+        "gloss": "offered",
+        "gram": "m. acc. sg. ppp. pra-√hu"
+       }
+      ]
+     },
+     {
+      "src": "vaṣa̭ṭkṛtaṃ",
+      "words": [
+       {
+        "w": "vaṣaṭ-kṛtam",
+        "gloss": "made with vaṣaṭ",
+        "gram": "tat-puruṣa; m. acc. sg. ppp."
+       }
+      ]
+     },
+     {
+      "src": "ho̱trādā",
+      "words": [
+       {
+        "w": "hotrāt",
+        "gloss": "from the Hotṛ's office",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "from",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "soma̭ṃ",
+      "words": [
+       {
+        "w": "somam",
+        "gloss": "Soma",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratha̱mo",
+      "words": [
+       {
+        "w": "prathamaḥ",
+        "gloss": "first",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "īśi̭ṣe",
+      "words": [
+       {
+        "w": "īśiṣe",
+        "gloss": "you rule",
+        "gram": "2 sg. pres. mid. √īś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हारे लिए प्रेरित होकर उसने गायों और जलों से स्वयं को ढक लिया; भेड़ों और पत्थरों के द्वारा मनुष्यों ने उसे दुहा। हे इन्द्र, स्वाहा के साथ अर्पित और वषट् से किए गए सोम को होता के कार्य से पी, तू जो सबसे पहले स्वामी है।",
+  "english": "For you, being urged on, he clothed himself with cows and waters; the men milked him with the sheep and the stones. Drink, Indra, the Soma offered with svāhā and made with vaṣaṭ, from the Hotṛ's office, you who rule first.",
+  "text_flags": [],
+  "notes": "vasiṣṭa: read as aorist middle of √vas 'clothe' (he clothed himself), subject unnamed (the Soma, by the sense of 'milked him'); a vocative 'Vasiṣṭa' is possible but not preferred. gāḥ 'cows' and avibhiḥ 'sheep' are literal; the text does not say milk or woollen strainer. 'tsīm' = sīm with a euphonic t after the final n of adhukṣan. hotrāt ā: ablative with ā 'from'; hotrā = the Hotṛ's office/function; not expanded to 'cup'. prathamaḥ: 'first' taken as predicate of īśiṣe.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ya̱jñaiḥ",
+      "words": [
+       {
+        "w": "yajñaiḥ",
+        "gloss": "with sacrifices",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sammi̭ślā̱:",
+      "words": [
+       {
+        "w": "sam-miślāḥ",
+        "gloss": "joined, mingled",
+        "gram": "m. nom. pl. ppp. sam-√miśl"
+       }
+      ]
+     },
+     {
+      "src": "pṛṣa̭tībhiṝ̱ṣṭibhi̱ryāma̭ñchu̱bhrāso̭",
+      "words": [
+       {
+        "w": "pṛṣatībhiḥ",
+        "gloss": "with dappled ones",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "ṛṣṭibhiḥ",
+        "gloss": "with spears",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "yāman",
+        "gloss": "on the course",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "śubhrāsaḥ",
+        "gloss": "bright",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱ñjiṣṷ",
+      "words": [
+       {
+        "w": "añjiṣu",
+        "gloss": "in ornaments",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pri̱yā",
+      "words": [
+       {
+        "w": "priyāḥ",
+        "gloss": "dear",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā̱sadyā̭",
+      "words": [
+       {
+        "w": "āsadya",
+        "gloss": "having sat down",
+        "gram": "abs. ā-√sad"
+       }
+      ]
+     },
+     {
+      "src": "ba̱rhirbha̭ratasya",
+      "words": [
+       {
+        "w": "barhiḥ",
+        "gloss": "barhis, sacred grass",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "bharatasya",
+        "gloss": "of Bharata",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūnavaḥ",
+      "words": [
+       {
+        "w": "sūnavaḥ",
+        "gloss": "sons",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "po̱trādā",
+      "words": [
+       {
+        "w": "potrāt",
+        "gloss": "from the Potṛ's office",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "from",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "soma̭ṃ",
+      "words": [
+       {
+        "w": "somam",
+        "gloss": "Soma",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pibatā",
+      "words": [
+       {
+        "w": "pibata",
+        "gloss": "drink",
+        "gram": "2 pl. imper. √pā"
+       }
+      ]
+     },
+     {
+      "src": "divo",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of heaven",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "naraḥ",
+      "words": [
+       {
+        "w": "naraḥ",
+        "gloss": "men",
+        "gram": "m. voc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यज्ञों से संयुक्त, चितकबरी (मादाओं) और भालों से युक्त, यात्रा में उज्ज्वल और आभूषणों में प्रिय, बर्हि पर बैठकर, हे भरत के पुत्रो, हे द्युलोक के पुरुषो, पोता के कार्य से सोम पियो।",
+  "english": "Joined with sacrifices, with dappled ones and spears, bright on the course and dear among the ornaments, having sat down on the barhis, O sons of Bharata, O men of heaven, drink Soma from the Potṛ's office.",
+  "text_flags": [
+   {
+    "src": "pṛṣa̭tībhiṝ̱ṣṭibhi̱ryāma̭ñchu̱bhrāso̭",
+    "suggest": "pṛṣatībhirṛṣṭibhir…",
+    "why": "long ṝ printed where short ṛ is expected (pṛṣatībhiḥ + ṛṣṭibhiḥ); probable typo"
+   }
+  ],
+  "notes": "The addressees are not named in the verse; none is supplied. pṛṣatībhiḥ: 'dappled ones' (feminine), noun not stated. añjiṣu: 'in ornaments' (añji: ornament/unguent); sense of the phrase 'dear in the ornaments' is uncertain. bharatasya sūnavaḥ: Bharata taken as a name; 'sons of the bearer' is an alternative. The ṝ in the printed token is flagged; only the printed token is kept.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱meva̭",
+      "words": [
+       {
+        "w": "amā",
+        "gloss": "at home",
+        "gram": "ind."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "1 pl. gen./dat."
+       }
+      ]
+     },
+     {
+      "src": "suhavā̱",
+      "words": [
+       {
+        "w": "su-havāḥ",
+        "gloss": "easy to invoke",
+        "gram": "bahuvrīhi; m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ganta̭na̱",
+      "words": [
+       {
+        "w": "gantana",
+        "gloss": "come",
+        "gram": "2 pl. imper. √gam"
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ba̱rhiṣi̭",
+      "words": [
+       {
+        "w": "barhiṣi",
+        "gloss": "on the barhis",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sadatanā̱",
+      "words": [
+       {
+        "w": "sadatana",
+        "gloss": "sit",
+        "gram": "2 pl. imper. √sad"
+       }
+      ]
+     },
+     {
+      "src": "raṇi̭ṣṭana",
+      "words": [
+       {
+        "w": "raṇiṣṭana",
+        "gloss": "delight",
+        "gram": "2 pl. imper. √raṇ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "athā̭",
+      "words": [
+       {
+        "w": "atha",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mandasva",
+      "words": [
+       {
+        "w": "mandasva",
+        "gloss": "rejoice",
+        "gram": "2 sg. imper. mid. √mand"
+       }
+      ]
+     },
+     {
+      "src": "jujuṣā̱ṇo",
+      "words": [
+       {
+        "w": "jujuṣāṇaḥ",
+        "gloss": "enjoying",
+        "gram": "m. nom. sg. pf. part. mid. √juṣ"
+       }
+      ]
+     },
+     {
+      "src": "andha̭sa̱stvaṣṭa̭rde̱vebhi̱rjani̭bhiḥ",
+      "words": [
+       {
+        "w": "andhasaḥ",
+        "gloss": "of the juice",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "tvaṣṭar",
+        "gloss": "O Tvaṣṭṛ",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "devebhiḥ",
+        "gloss": "with the gods",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "janibhiḥ",
+        "gloss": "with the wives",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "su̱madga̭ṇaḥ",
+      "words": [
+       {
+        "w": "su-mat-gaṇaḥ",
+        "gloss": "having a joyful host",
+        "gram": "bahuvrīhi; m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मानो घर में हों, सहज बुलाए जाने वाले होकर हमारे पास आओ, बर्हि पर बैठो और आनन्द लो। फिर, हे त्वष्टा, रस का सेवन करते हुए देवों और पत्नियों के साथ प्रसन्न हो, तू जिसके साथ आनन्दित गण है।",
+  "english": "Come to us indeed, as if at home, easy to invoke; sit down on the barhis and delight. Then rejoice, O Tvaṣṭṛ, enjoying the juice, with the gods and the wives, having a joyful host.",
+  "text_flags": [],
+  "notes": "'sadatanā' is printed in the samhitā text with a long final vowel (metrical lengthening of sadatana); the word restored is sadatana. tvaṣṭar is vocative. andhasaḥ is read with jujuṣāṇaḥ ('enjoying the juice'); andhas is a plant/juice word and is not identified. devebhir janibhiḥ: janī 'wife' taken literally, the pairing 'gods and wives' is as printed. sumadgaṇaḥ: 'having a joyful host' is a plain bahuvrīhi reading; the host is not identified. amā iva: amā 'at home, together'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭kṣi",
+      "words": [
+       {
+        "w": "vakṣi",
+        "gloss": "bring",
+        "gram": "2 sg. imper. √vah"
+       }
+      ]
+     },
+     {
+      "src": "de̱vā~",
+      "words": [
+       {
+        "w": "devān",
+        "gloss": "gods",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "i̱ha",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̭pra̱",
+      "words": [
+       {
+        "w": "vipra",
+        "gloss": "O inspired one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yakṣi̭",
+      "words": [
+       {
+        "w": "yakṣi",
+        "gloss": "sacrifice",
+        "gram": "2 sg. imper. √yaj"
+       }
+      ]
+     },
+     {
+      "src": "co̱śan",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uśan",
+        "gloss": "eager",
+        "gram": "m. nom. sg. pres. part. √vaś"
+       }
+      ]
+     },
+     {
+      "src": "ho̭ta̱rni",
+      "words": [
+       {
+        "w": "hotar",
+        "gloss": "O Hotṛ priest",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣa̭dā̱",
+      "words": [
+       {
+        "w": "sada",
+        "gloss": "sit",
+        "gram": "2 sg. imper. √sad"
+       }
+      ]
+     },
+     {
+      "src": "yoni̭ṣu",
+      "words": [
+       {
+        "w": "yoniṣu",
+        "gloss": "in the wombs",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tri̱ṣu",
+      "words": [
+       {
+        "w": "triṣu",
+        "gloss": "three",
+        "gram": "loc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prati̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "toward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vīhi̱",
+      "words": [
+       {
+        "w": "vīhi",
+        "gloss": "partake",
+        "gram": "2 sg. imper. √vī"
+       }
+      ]
+     },
+     {
+      "src": "prasthi̭taṃ",
+      "words": [
+       {
+        "w": "prasthitam",
+        "gloss": "set forth",
+        "gram": "n. acc. sg. ppp. pra-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "so̱myaṃ",
+      "words": [
+       {
+        "w": "somyam",
+        "gloss": "of Soma",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhu̱",
+      "words": [
+       {
+        "w": "madhu",
+        "gloss": "honey",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pibāgnī̭dhrā̱t",
+      "words": [
+       {
+        "w": "piba",
+        "gloss": "drink",
+        "gram": "2 sg. imper. √pā"
+       },
+       {
+        "w": "agnīdhrāt",
+        "gloss": "from the Agnīdhra's office",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "tava̭",
+      "words": [
+       {
+        "w": "tava",
+        "gloss": "your",
+        "gram": "2 sg. gen."
+       }
+      ]
+     },
+     {
+      "src": "bhā̱gasya̭",
+      "words": [
+       {
+        "w": "bhāgasya",
+        "gloss": "share",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tṛpṇuhi",
+      "words": [
+       {
+        "w": "tṛpṇuhi",
+        "gloss": "be satisfied",
+        "gram": "2 sg. imper. √tṛp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ देवों को ले आ और यज्ञ कर, हे प्रेरित, उत्सुक होकर; हे होता, तीन योनियों में बैठ। आगे रखे हुए सोम-मधु का सेवन कर, अग्नीध्र के कार्य से पी, अपने भाग से तृप्त हो।",
+  "english": "Bring the gods here, O inspired one, and sacrifice; eager, O Hotṛ priest, sit down in the three wombs. Partake of the Soma honey set forth, drink from the Agnīdhra's office, be satisfied with your share.",
+  "text_flags": [],
+  "notes": "vipra 'inspired one' is a plain vocative; no deity is named in the verse. 'three wombs' (yoniṣu triṣu) is literal; the three places are not named. 'ṣadā' in the printed text is sada with lengthened final vowel. prasthitam somyam madhu: 'set forth' for pra-sthita is literal. agnīdhrāt: ablative of the Agnīdhra's office, kept as 'office' like hotrāt; the cup reading is not applied. tṛpṇuhi with genitive bhāgasya 'be satisfied with your share'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "e̱ṣa",
+      "words": [
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sya",
+      "words": [
+       {
+        "w": "syaḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "2 sg. gen."
+       }
+      ]
+     },
+     {
+      "src": "ta̱nvo̭",
+      "words": [
+       {
+        "w": "tanvaḥ",
+        "gloss": "of the body",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nṛmṇa̱vardha̭na̱:",
+      "words": [
+       {
+        "w": "nṛmṇa-vardhanaḥ",
+        "gloss": "increasing manly power",
+        "gram": "tat-puruṣa; m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saha̱",
+      "words": [
+       {
+        "w": "sahaḥ",
+        "gloss": "might",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "oja̭:",
+      "words": [
+       {
+        "w": "ojaḥ",
+        "gloss": "strength",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra̱divi̭",
+      "words": [
+       {
+        "w": "pra-divi",
+        "gloss": "from of old",
+        "gram": "loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bā̱hvorhi̱taḥ",
+      "words": [
+       {
+        "w": "bāhvoḥ",
+        "gloss": "in the two arms",
+        "gram": "m. loc. du."
+       },
+       {
+        "w": "hitaḥ",
+        "gloss": "placed",
+        "gram": "m. nom. sg. ppp. √dhā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tubhya̭ṃ",
+      "words": [
+       {
+        "w": "tubhyam",
+        "gloss": "for you",
+        "gram": "2 sg. dat."
+       }
+      ]
+     },
+     {
+      "src": "su̱to",
+      "words": [
+       {
+        "w": "sutaḥ",
+        "gloss": "pressed",
+        "gram": "m. nom. sg. ppp. √su"
+       }
+      ]
+     },
+     {
+      "src": "ma̭ghava̱n",
+      "words": [
+       {
+        "w": "maghavan",
+        "gloss": "O Maghavan",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tubhya̱mābhṛ̭ta̱stvama̭sya̱",
+      "words": [
+       {
+        "w": "tubhyam",
+        "gloss": "for you",
+        "gram": "2 sg. dat."
+       },
+       {
+        "w": "ābhṛtaḥ",
+        "gloss": "brought",
+        "gram": "m. nom. sg. ppp. ā-√bhṛ"
+       },
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "2 sg. nom."
+       },
+       {
+        "w": "asya",
+        "gloss": "of this",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "brāhma̭ṇā̱dā",
+      "words": [
+       {
+        "w": "brāhmaṇāt",
+        "gloss": "from the Brāhmaṇa priest",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "from",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tṛ̱pat",
+      "words": [
+       {
+        "w": "tṛpat",
+        "gloss": "to satisfaction",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pi̭ba",
+      "words": [
+       {
+        "w": "piba",
+        "gloss": "drink",
+        "gram": "2 sg. imper. √pā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह वही तुम्हारे शरीर का पुरुषार्थ बढ़ाने वाला, बल और ओज, प्राचीन काल से भुजाओं में रखा गया है। तुम्हारे लिए निचोड़ा गया है, हे मघवन्, तुम्हारे लिए लाया गया है; तुम इसे ब्राह्मण से तृप्त होकर पियो।",
+  "english": "This one here, increasing the manly power of your body, might and strength, has been placed in your arms from of old. For you it was pressed, O Maghavan, for you it was brought; drink of it from the Brāhmaṇa priest to satisfaction.",
+  "text_flags": [],
+  "notes": "Line a is syntactically unclear: te tanvaḥ (tanvaḥ read as genitive singular, 'of your body'; acc. pl. 'bodies' is possible), sahaḥ ojaḥ read as nominative appositives of the Soma, and pradivi 'from of old' (literally a locative) are all uncertain. The identity of 'this one' is not stated in the verse. brāhmaṇāt: ablative of brāhmaṇa; read as 'from the Brāhmaṇa priest' without importing the later cup/office tradition. tṛpat taken as adverbial 'to satisfaction'; alternative: participle 'satisfied'.",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ju̱ṣethā̭ṃ",
+      "words": [
+       {
+        "w": "juṣethām",
+        "gloss": "take pleasure",
+        "gram": "2 du. imper. mid. √juṣ"
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñaṃ",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "in the sacrifice",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bodha̭ta̱ṃ",
+      "words": [
+       {
+        "w": "bodhatam",
+        "gloss": "take heed",
+        "gram": "2 du. imper. √budh"
+       }
+      ]
+     },
+     {
+      "src": "hava̭sya",
+      "words": [
+       {
+        "w": "havasya",
+        "gloss": "of the call",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "1 sg. gen."
+       }
+      ]
+     },
+     {
+      "src": "sa̱tto",
+      "words": [
+       {
+        "w": "sattaḥ",
+        "gloss": "seated",
+        "gram": "m. nom. sg. ppp. √sad"
+       }
+      ]
+     },
+     {
+      "src": "hotā̭",
+      "words": [
+       {
+        "w": "hotā",
+        "gloss": "Hotṛ priest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni̱vida̭:",
+      "words": [
+       {
+        "w": "nividaḥ",
+        "gloss": "nivids",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pū̱rvyā",
+      "words": [
+       {
+        "w": "pūrvyāḥ",
+        "gloss": "ancient",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "anṷ",
+      "words": [
+       {
+        "w": "anu",
+        "gloss": "following",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "acchā̱",
+      "words": [
+       {
+        "w": "acchā",
+        "gloss": "toward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājā̭nā̱",
+      "words": [
+       {
+        "w": "rājānā",
+        "gloss": "O two kings",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "nama̭",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "with homage",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "etyā̱vṛta̭ṃ",
+      "words": [
+       {
+        "w": "etya",
+        "gloss": "having come",
+        "gram": "abs. ā-√i"
+       },
+       {
+        "w": "āvṛtam",
+        "gloss": "the circuit",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "praśā̱strādā",
+      "words": [
+       {
+        "w": "praśāstrāt",
+        "gloss": "from the Praśāstṛ's office",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "from",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pi̭bataṃ",
+      "words": [
+       {
+        "w": "pibatam",
+        "gloss": "drink",
+        "gram": "2 du. imper. √pā"
+       }
+      ]
+     },
+     {
+      "src": "so̱myaṃ",
+      "words": [
+       {
+        "w": "somyam",
+        "gloss": "of Soma",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhṷ",
+      "words": [
+       {
+        "w": "madhu",
+        "gloss": "honey",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यज्ञ का सेवन करो, मेरे आह्वान को सुनो; होता बैठा है, प्राचीन निविदों का अनुसरण करते हुए। हे दो राजाओ, नमस्कार के साथ आवृत की ओर आकर, प्रशास्ता के कार्य से सोम-मधु पियो।",
+  "english": "Take pleasure in the sacrifice, take heed of my call; the Hotṛ priest is seated, following the ancient nivids. Having come toward the circuit with homage, O two kings, drink the Soma honey from the Praśāstṛ's office.",
+  "text_flags": [],
+  "notes": "The addressees are two ('rājānā', O two kings); not identified. yajñam: object of juṣethām ('take pleasure in the sacrifice'). nividaḥ pūrvyāḥ anu: nivid is a ritual invocation formula; 'ancient nivids' is literal. Line b is unclear: 'etyāvṛtam' is read as etya (having come) + āvṛtam (m. acc., 'circuit'); the exact sense of āvṛtam and the construction with acchā are uncertain, so the translation is a cautious reading. praśāstrāt: ablative of the Praśāstṛ's office, kept as 'office'.",
+  "confidence": "low"
+ }
+]

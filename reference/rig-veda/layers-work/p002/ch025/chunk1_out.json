@@ -1,0 +1,957 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "indhā̭no",
+      "words": [
+       {
+        "w": "indhānaḥ",
+        "gloss": "kindling",
+        "gram": "m. nom. sg. pres. part. mid. √indh"
+       }
+      ]
+     },
+     {
+      "src": "a̱gniṃ",
+      "words": [
+       {
+        "w": "agnim",
+        "gloss": "Agni",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̭navad",
+      "words": [
+       {
+        "w": "vanavat",
+        "gloss": "he shall overcome",
+        "gram": "3 sg. subj. √van"
+       }
+      ]
+     },
+     {
+      "src": "vanuṣya̱taḥ",
+      "words": [
+       {
+        "w": "vanuṣyataḥ",
+        "gloss": "the hostile",
+        "gram": "m. acc. pl. pres. part."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̱tabra̭hmā",
+      "words": [
+       {
+        "w": "kṛta-brahmā",
+        "gloss": "who has made the sacred word",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śūśuvad",
+      "words": [
+       {
+        "w": "śūśuvat",
+        "gloss": "he shall thrive",
+        "gram": "3 sg. subj. √śvi"
+       }
+      ]
+     },
+     {
+      "src": "rā̱taha̭vya̱",
+      "words": [
+       {
+        "w": "rāta-havyaḥ",
+        "gloss": "whose oblation is given",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "it",
+      "words": [
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jā̱tena̭",
+      "words": [
+       {
+        "w": "jātena",
+        "gloss": "with the born",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "jā̱tamati̱",
+      "words": [
+       {
+        "w": "jātam",
+        "gloss": "the born",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ati",
+        "gloss": "beyond",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̭rsṛte̱",
+      "words": [
+       {
+        "w": "sarsṛte",
+        "gloss": "he rushes",
+        "gram": "3 sg. intens. pres. mid. √sṛ"
+       }
+      ]
+     },
+     {
+      "src": "yaṃya̱ṃ",
+      "words": [
+       {
+        "w": "yam-yam",
+        "gloss": "whomever",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuja̭ṃ",
+      "words": [
+       {
+        "w": "yujam",
+        "gloss": "companion",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇu̱te",
+      "words": [
+       {
+        "w": "kṛṇute",
+        "gloss": "makes",
+        "gram": "3 sg. pres. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇa̱spati̭:",
+      "words": [
+       {
+        "w": "brahmaṇaspatiḥ",
+        "gloss": "Brahmaṇaspati",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अग्नि को प्रज्वलित करता हुआ वह विरोधियों को जीत ले; जिसने ब्रह्म रचा है और जिसने हवि दी है वही बढ़े। जात के साथ वह जात से आगे बढ़ जाता है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "english": "Kindling Agni, he shall overcome the hostile; he who has made the sacred word, whose oblation is given, shall thrive. With the born he rushes forth beyond the born, whomever Brahmaṇaspati makes his companion.",
+  "text_flags": [],
+  "notes": "jātena jātam ati is obscure (literally 'beyond the born with the born'); the reference of 'sa' to the refrain is by position only. vanuṣyataḥ read as 'the hostile'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vī̱rebhi̭rvī̱rān",
+      "words": [
+       {
+        "w": "vīrebhiḥ",
+        "gloss": "with heroes",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "vīrān",
+        "gloss": "heroes",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "va̭navad",
+      "words": [
+       {
+        "w": "vanavat",
+        "gloss": "he shall win",
+        "gram": "3 sg. subj. √van"
+       }
+      ]
+     },
+     {
+      "src": "vanuṣya̱to",
+      "words": [
+       {
+        "w": "vanuṣyataḥ",
+        "gloss": "the hostile",
+        "gram": "m. acc. pl. pres. part."
+       }
+      ]
+     },
+     {
+      "src": "gobhī̭",
+      "words": [
+       {
+        "w": "gobhiḥ",
+        "gloss": "with cattle",
+        "gram": "m./f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "ra̱yiṃ",
+      "words": [
+       {
+        "w": "rayim",
+        "gloss": "wealth",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̭pratha̱d",
+      "words": [
+       {
+        "w": "paprathat",
+        "gloss": "he shall spread",
+        "gram": "3 sg. subj. √prath"
+       }
+      ]
+     },
+     {
+      "src": "bodha̭ti̱",
+      "words": [
+       {
+        "w": "bodhati",
+        "gloss": "he shall take heed",
+        "gram": "3 sg. subj. √budh"
+       }
+      ]
+     },
+     {
+      "src": "tmanā̭",
+      "words": [
+       {
+        "w": "tmanā",
+        "gloss": "by himself",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "to̱kaṃ",
+      "words": [
+       {
+        "w": "tokam",
+        "gloss": "offspring",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tasya̱",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tana̭yaṃ",
+      "words": [
+       {
+        "w": "tanayam",
+        "gloss": "descendant",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vardhate̱",
+      "words": [
+       {
+        "w": "vardhate",
+        "gloss": "grows",
+        "gram": "3 sg. pres. mid. √vṛdh"
+       }
+      ]
+     },
+     {
+      "src": "yaṃya̱ṃ",
+      "words": [
+       {
+        "w": "yam-yam",
+        "gloss": "whomever",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuja̭ṃ",
+      "words": [
+       {
+        "w": "yujam",
+        "gloss": "companion",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇu̱te",
+      "words": [
+       {
+        "w": "kṛṇute",
+        "gloss": "makes",
+        "gram": "3 sg. pres. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇa̱spati̭:",
+      "words": [
+       {
+        "w": "brahmaṇaspatiḥ",
+        "gloss": "Brahmaṇaspati",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वीरों के साथ वह वीरों को और विरोधियों को जीत ले; गायों के साथ वह धन फैलाए और स्वयं सावधान रहे। उसकी सन्तान और उसका वंशज बढ़ता है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "english": "With heroes he shall win heroes and the hostile; with cattle he shall spread wealth and take heed by himself. His offspring and his descendant grow, whomever Brahmaṇaspati makes his companion.",
+  "text_flags": [],
+  "notes": "The object of vanavat is read as 'vīrān' with 'vanuṣyataḥ' in apposition; bodhati tmanā is read as 'take heed by himself'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sindhu̱rna",
+      "words": [
+       {
+        "w": "sindhuḥ",
+        "gloss": "river",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣoda̱:",
+      "words": [
+       {
+        "w": "kṣodaḥ",
+        "gloss": "surge",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śimī̭vā~",
+      "words": [
+       {
+        "w": "śimīvān",
+        "gloss": "vigorous",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛghāya̱to",
+      "words": [
+       {
+        "w": "ṛghāyataḥ",
+        "gloss": "storming",
+        "gram": "m. nom. sg. pres. part."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣḙva̱",
+      "words": [
+       {
+        "w": "vṛṣā",
+        "gloss": "bull",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vadhrī̭~ra̱bhi",
+      "words": [
+       {
+        "w": "vadhrīn",
+        "gloss": "the emasculated",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "abhi",
+        "gloss": "against",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̱ṣṭyoja̭sā",
+      "words": [
+       {
+        "w": "vaṣṭi",
+        "gloss": "he wishes",
+        "gram": "3 sg. pres. √vaś"
+       },
+       {
+        "w": "ojasā",
+        "gloss": "with might",
+        "gram": "n. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱gneri̭va̱",
+      "words": [
+       {
+        "w": "agneḥ",
+        "gloss": "of Agni",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prasi̭ti̱rnāha̱",
+      "words": [
+       {
+        "w": "prasitiḥ",
+        "gloss": "onrush",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "aha",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "varta̭ve̱",
+      "words": [
+       {
+        "w": "vartave",
+        "gloss": "to be turned back",
+        "gram": "inf. √vṛt"
+       }
+      ]
+     },
+     {
+      "src": "yaṃya̱ṃ",
+      "words": [
+       {
+        "w": "yam-yam",
+        "gloss": "whomever",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuja̭ṃ",
+      "words": [
+       {
+        "w": "yujam",
+        "gloss": "companion",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇu̱te",
+      "words": [
+       {
+        "w": "kṛṇute",
+        "gloss": "makes",
+        "gram": "3 sg. pres. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇa̱spati̭:",
+      "words": [
+       {
+        "w": "brahmaṇaspatiḥ",
+        "gloss": "Brahmaṇaspati",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नदी की तरह उमड़ने वाला, बलवान्, उबलता हुआ, साँड की तरह निर्बलों की ओर बल से जाना चाहता है। अग्नि के प्रसार की तरह वह लौटाया जाने योग्य नहीं है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "english": "Like a river, a surge, the vigorous one, storming, like a bull he wishes against the emasculated with might. Like the onrush of Agni, indeed not to be turned back, whomever Brahmaṇaspati makes his companion.",
+  "text_flags": [],
+  "notes": "Line a is uncertain: kṣodaḥ ('surge'), ṛghāyataḥ ('storming'), vadhrīn ('the emasculated') and the object of vaṣṭi are literal guesses. 'nāha' read as na + aha ('indeed not'); an alternative is na + āha ('has not said').",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmā̭",
+      "words": [
+       {
+        "w": "tasmai",
+        "gloss": "to him",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "arṣanti",
+      "words": [
+       {
+        "w": "arṣanti",
+        "gloss": "they flow",
+        "gram": "3 pl. pres. √ṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "di̱vyā",
+      "words": [
+       {
+        "w": "divyāḥ",
+        "gloss": "heavenly",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭sa̱ścata̱:",
+      "words": [
+       {
+        "w": "asaścataḥ",
+        "gloss": "unfailing",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "satva̭bhiḥ",
+      "words": [
+       {
+        "w": "satvabhiḥ",
+        "gloss": "with warriors",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratha̱mo",
+      "words": [
+       {
+        "w": "prathamaḥ",
+        "gloss": "first",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "goṣṷ",
+      "words": [
+       {
+        "w": "goṣu",
+        "gloss": "among cattle",
+        "gram": "m./f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "gacchati",
+      "words": [
+       {
+        "w": "gacchati",
+        "gloss": "he goes",
+        "gram": "3 sg. pres. √gam"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ani̭bhṛṣṭataviṣirha̱ntyoja̭sā̱",
+      "words": [
+       {
+        "w": "anibhṛṣṭa-taviṣiḥ",
+        "gloss": "of unassailed strength",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "hanti",
+        "gloss": "he smites",
+        "gram": "3 sg. pres. √han"
+       },
+       {
+        "w": "ojasā",
+        "gloss": "with might",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaṃya̱ṃ",
+      "words": [
+       {
+        "w": "yam-yam",
+        "gloss": "whomever",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuja̭ṃ",
+      "words": [
+       {
+        "w": "yujam",
+        "gloss": "companion",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇu̱te",
+      "words": [
+       {
+        "w": "kṛṇute",
+        "gloss": "makes",
+        "gram": "3 sg. pres. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇa̱spati̭:",
+      "words": [
+       {
+        "w": "brahmaṇaspatiḥ",
+        "gloss": "Brahmaṇaspati",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसकी ओर दिव्य, अक्षय धाराएँ बहती हैं; वह योद्धाओं के साथ सबसे पहले गायों में जाता है। अटल बल वाला वह बल से मारता है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "english": "To him the heavenly unfailing ones flow; he goes first with the warriors among the cattle. Of unassailed strength, he smites with might, whomever Brahmaṇaspati makes his companion.",
+  "text_flags": [],
+  "notes": "What 'divyāḥ asaścataḥ' qualifies is not stated in the verse; 'streams' is not added. asaścataḥ read as 'unfailing'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmā̱",
+      "words": [
+       {
+        "w": "tasmai",
+        "gloss": "for him",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "id",
+      "words": [
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśvḙ",
+      "words": [
+       {
+        "w": "viśve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhunayanta̱",
+      "words": [
+       {
+        "w": "dhunayanta",
+        "gloss": "they roar",
+        "gram": "3 pl. impf. mid. caus. √dhū"
+       }
+      ]
+     },
+     {
+      "src": "sindha̱vo",
+      "words": [
+       {
+        "w": "sindhavaḥ",
+        "gloss": "rivers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "'cchi̭drā̱",
+      "words": [
+       {
+        "w": "acchidrā",
+        "gloss": "unbroken",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śarma̭",
+      "words": [
+       {
+        "w": "śarma",
+        "gloss": "shelter",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadhire",
+      "words": [
+       {
+        "w": "dadhire",
+        "gloss": "they have set",
+        "gram": "3 pl. pf. mid. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "pu̱rūṇi̭",
+      "words": [
+       {
+        "w": "purūṇi",
+        "gloss": "many",
+        "gram": "n. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "de̱vānā̭ṃ",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "su̱mne",
+      "words": [
+       {
+        "w": "sumne",
+        "gloss": "in the favour",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱bhaga̱:",
+      "words": [
+       {
+        "w": "su-bhagaḥ",
+        "gloss": "fortunate",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ḙdhate̱",
+      "words": [
+       {
+        "w": "edhate",
+        "gloss": "he prospers",
+        "gram": "3 sg. pres. mid. √edh"
+       }
+      ]
+     },
+     {
+      "src": "yaṃya̱ṃ",
+      "words": [
+       {
+        "w": "yam-yam",
+        "gloss": "whomever",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuja̭ṃ",
+      "words": [
+       {
+        "w": "yujam",
+        "gloss": "companion",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇu̱te",
+      "words": [
+       {
+        "w": "kṛṇute",
+        "gloss": "makes",
+        "gram": "3 sg. pres. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇa̱spati̭:",
+      "words": [
+       {
+        "w": "brahmaṇaspatiḥ",
+        "gloss": "Brahmaṇaspati",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसी के लिए सब नदियाँ गर्जती हैं; उन्होंने बहुत से अटूट आश्रय स्थापित किए हैं। देवों की कृपा में वह भाग्यवान् बढ़ता है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "english": "For him indeed all the rivers roar; they have set many unbroken shelters. In the favour of the gods he, the fortunate one, prospers, whomever Brahmaṇaspati makes his companion.",
+  "text_flags": [],
+  "notes": "dhunayanta read as 3 pl. 'they roar'; the agreement of acchidrā (pl.) with śarma (sg.) and purūṇi is loose.",
+  "confidence": "medium"
+ }
+]

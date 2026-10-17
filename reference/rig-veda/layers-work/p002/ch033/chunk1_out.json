@@ -1,0 +1,2765 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pitarmarutāṃ",
+      "words": [
+       {
+        "w": "pitaḥ",
+        "gloss": "O father",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "marutām",
+        "gloss": "of the Maruts",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "su̱mnamḙtu̱",
+      "words": [
+       {
+        "w": "sumnam",
+        "gloss": "favour",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "etu",
+        "gloss": "may it come",
+        "gram": "3 sg. imv. ā-√i"
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na̱:",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sūrya̭sya",
+      "words": [
+       {
+        "w": "sūryasya",
+        "gloss": "of the sun",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱ṃdṛśo̭",
+      "words": [
+       {
+        "w": "saṃdṛśaḥ",
+        "gloss": "from the sight",
+        "gram": "f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuyothāḥ",
+      "words": [
+       {
+        "w": "yuyothāḥ",
+        "gloss": "do you separate",
+        "gram": "2 sg. inj. √yu"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱bhi",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "against, over",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vī̱ro",
+      "words": [
+       {
+        "w": "vīraḥ",
+        "gloss": "hero",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "arva̭ti",
+      "words": [
+       {
+        "w": "arvati",
+        "gloss": "against the charger",
+        "gram": "m. loc. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "kṣameta̱",
+      "words": [
+       {
+        "w": "kṣameta",
+        "gloss": "may he hold out",
+        "gram": "3 sg. opt. mid. √kṣam"
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jā̭yemahi",
+      "words": [
+       {
+        "w": "jāyemahi",
+        "gloss": "may we be born",
+        "gram": "1 pl. opt. mid. √jan"
+       }
+      ]
+     },
+     {
+      "src": "rudra",
+      "words": [
+       {
+        "w": "rudra",
+        "gloss": "O Rudra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra̱jābhi̭:",
+      "words": [
+       {
+        "w": "prajābhiḥ",
+        "gloss": "with offspring",
+        "gram": "f. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे मरुतों के पिता, तुम्हारी कृपा हमारे पास आए; हमें सूर्य के दर्शन से अलग न करो। हमारा वीर घोड़े के सामने टिका रहे; हे रुद्र, हम संतान के साथ बढ़ें।",
+  "english": "O father of the Maruts, may your favour come to us; do not separate us from the sight of the sun. May our hero hold out against the charger; O Rudra, may we be born forth with offspring.",
+  "text_flags": [],
+  "notes": "'abhi ... arvati kṣameta' is uncertain: arvati is taken as locative of arvant 'charger', abhi as 'against'; the sense 'hold out against the charger' is a literal guess. 'pra jāyemahi' is literally 'may we be born forth'.",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvāda̭ttebhī",
+      "words": [
+       {
+        "w": "tvā-dattebhiḥ",
+        "gloss": "given by you",
+        "gram": "m./n. inst. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rudra̱",
+      "words": [
+       {
+        "w": "rudra",
+        "gloss": "O Rudra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaṃta̭mebhiḥ",
+      "words": [
+       {
+        "w": "śaṃtamebhiḥ",
+        "gloss": "most beneficial",
+        "gram": "inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "śa̱taṃ",
+      "words": [
+       {
+        "w": "śatam",
+        "gloss": "hundred",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "himā̭",
+      "words": [
+       {
+        "w": "himāḥ",
+        "gloss": "winters",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "aśīya",
+      "words": [
+       {
+        "w": "aśīya",
+        "gloss": "may I attain",
+        "gram": "1 sg. opt. mid. √aś"
+       }
+      ]
+     },
+     {
+      "src": "bheṣa̱jebhi̭:",
+      "words": [
+       {
+        "w": "bheṣajebhiḥ",
+        "gloss": "with remedies",
+        "gram": "n. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vya1smaddveṣo̭",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "away",
+        "gram": "ind."
+       },
+       {
+        "w": "asmat",
+        "gloss": "from us",
+        "gram": "abl. pl."
+       },
+       {
+        "w": "dveṣaḥ",
+        "gloss": "hatred",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vita̱raṃ",
+      "words": [
+       {
+        "w": "vitaram",
+        "gloss": "further",
+        "gram": "adv."
+       }
+      ]
+     },
+     {
+      "src": "vyaṃho̱",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "away",
+        "gram": "ind."
+       },
+       {
+        "w": "aṃhaḥ",
+        "gloss": "distress",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyamī̭vāścātayasvā̱",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "away",
+        "gram": "ind."
+       },
+       {
+        "w": "amīvāḥ",
+        "gloss": "afflictions",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "cātayasva",
+        "gloss": "drive off",
+        "gram": "2 sg. imv. mid. caus. √cat"
+       }
+      ]
+     },
+     {
+      "src": "viṣṷ̄cīḥ",
+      "words": [
+       {
+        "w": "viṣūcīḥ",
+        "gloss": "scattering, in different directions",
+        "gram": "f. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे रुद्र, तुम्हारे दिए हुए अत्यंत सुखकर उपचारों के साथ मैं सौ वर्ष पाऊँ। हमसे द्वेष को दूर करो, और भी दूर करो; संकट को दूर करो; पीड़ाओं को बिखेरकर दूर भगाओ।",
+  "english": "O Rudra, with the most beneficial remedies given by you, may I attain a hundred winters. Drive hatred away from us, further away; drive away distress; drive off the afflictions, scattering them in all directions.",
+  "text_flags": [
+   {
+    "src": "vya1smaddveṣo̭",
+    "suggest": "vyasmaddveṣo",
+    "why": "possible stray digit 1 after 'vya' (accent or footnote mark); the word is vi asmat dveṣaḥ"
+   }
+  ],
+  "notes": "'viṣūcīḥ' is taken as 'in different directions', agreeing with amīvāḥ. 'amīvā' is rendered 'affliction' (literally something that afflicts).",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śreṣṭho̭",
+      "words": [
+       {
+        "w": "śreṣṭhaḥ",
+        "gloss": "best",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jā̱tasya̭",
+      "words": [
+       {
+        "w": "jātasya",
+        "gloss": "of the born",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "rudra",
+      "words": [
+       {
+        "w": "rudra",
+        "gloss": "O Rudra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śri̱yāsi̭",
+      "words": [
+       {
+        "w": "śriyā",
+        "gloss": "by splendour",
+        "gram": "f. inst. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "ta̱vasta̭masta̱vasā̭ṃ",
+      "words": [
+       {
+        "w": "tavastamaḥ",
+        "gloss": "mightiest",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tavasām",
+        "gloss": "of the mighty",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "vajrabāho",
+      "words": [
+       {
+        "w": "vajra-bāho",
+        "gloss": "O thunderbolt-armed one",
+        "gram": "m. voc. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "parṣi̭",
+      "words": [
+       {
+        "w": "parṣi",
+        "gloss": "carry across",
+        "gram": "2 sg. imv. √pṛ"
+       }
+      ]
+     },
+     {
+      "src": "ṇaḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pā̱ramaṃha̭saḥ",
+      "words": [
+       {
+        "w": "pāram",
+        "gloss": "the far side",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "aṃhasaḥ",
+        "gloss": "of distress",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva̱sti",
+      "words": [
+       {
+        "w": "svasti",
+        "gloss": "well-being",
+        "gram": "ind./n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśvā̭",
+      "words": [
+       {
+        "w": "viśvāḥ",
+        "gloss": "all",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱bhī̭tī̱",
+      "words": [
+       {
+        "w": "abhītīḥ",
+        "gloss": "assaults",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rapa̭so",
+      "words": [
+       {
+        "w": "rapasaḥ",
+        "gloss": "of harm",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuyodhi",
+      "words": [
+       {
+        "w": "yuyodhi",
+        "gloss": "keep away",
+        "gram": "2 sg. imv. √yu"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे रुद्र, तुम उत्पन्न हुओं में तेज से सर्वश्रेष्ठ हो, बलवानों में सबसे बलवान हो, हे वज्र भुजाओं वाले। हमें संकट के पार ले चलो; कल्याण दो; हानि के सब आक्रमणों को दूर रखो।",
+  "english": "O Rudra, you are the best of the born in splendour, the mightiest of the mighty, O thunderbolt-armed one. Carry us across to the far side of distress; grant well-being; keep away all assaults of harm.",
+  "text_flags": [],
+  "notes": "'abhītī rapasaḥ' is abhītīḥ rapasaḥ by ordinary sandhi (īḥ r- gives ī r-). 'svasti' is taken with the sense 'well-being' as the object of the imperative; the line is elliptical. 'rapas' rendered 'harm'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā̭",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rudra",
+      "words": [
+       {
+        "w": "rudra",
+        "gloss": "O Rudra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cukrudhāmā̱",
+      "words": [
+       {
+        "w": "cukrudhāma",
+        "gloss": "may we anger",
+        "gram": "1 pl. aor. subj. √krudh"
+       }
+      ]
+     },
+     {
+      "src": "namo̭bhi̱rmā",
+      "words": [
+       {
+        "w": "namobhiḥ",
+        "gloss": "with obeisances",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "duṣṭṷtī",
+      "words": [
+       {
+        "w": "duṣṭutī",
+        "gloss": "by ill praise",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣabha̱",
+      "words": [
+       {
+        "w": "vṛṣabha",
+        "gloss": "O bull",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sahṷ̄tī",
+      "words": [
+       {
+        "w": "sahūtī",
+        "gloss": "by joint invocation",
+        "gram": "f. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "unno̭",
+      "words": [
+       {
+        "w": "ut",
+        "gloss": "up",
+        "gram": "ind."
+       },
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vī̱rā~",
+      "words": [
+       {
+        "w": "vīrān",
+        "gloss": "heroes",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭rpaya",
+      "words": [
+       {
+        "w": "arpaya",
+        "gloss": "raise, set up",
+        "gram": "2 sg. imv. caus. √ṛ"
+       }
+      ]
+     },
+     {
+      "src": "bheṣa̱jebhi̭rbhi̱ṣakta̭maṃ",
+      "words": [
+       {
+        "w": "bheṣajebhiḥ",
+        "gloss": "with remedies",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "bhiṣaktamam",
+        "gloss": "best physician",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhi̱ṣajā̭ṃ",
+      "words": [
+       {
+        "w": "bhiṣajām",
+        "gloss": "of physicians",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "śṛṇomi",
+      "words": [
+       {
+        "w": "śṛṇomi",
+        "gloss": "I hear",
+        "gram": "1 sg. pres. √śru"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे रुद्र, हम तुम्हें प्रणामों से क्रुद्ध न करें, न बुरी स्तुति से, हे वृषभ, न सम्मिलित पुकार से। उपचारों से हमारे वीरों को उठाओ; वैद्यों में तुम्हें सर्वश्रेष्ठ वैद्य सुनता हूँ।",
+  "english": "O Rudra, may we not anger you with obeisances, nor with ill praise, O bull, nor with joint invocation. Raise up our heroes with remedies; I hear you to be the best physician of physicians.",
+  "text_flags": [],
+  "notes": "The first half is uncertain in construction: 'namobhiḥ' (obeisances) as the means of angering is taken literally, in the sense of obeisances wrongly offered; 'sahūtī' (joint invocation) is taken literally. 'śṛṇomi' with accusative 'tvā' is rendered 'I hear (that you are)'; the translation keeps 'hear you to be'.",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "havī̭mabhi̱rhava̭te̱",
+      "words": [
+       {
+        "w": "havīmabhiḥ",
+        "gloss": "with cries",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "havate",
+        "gloss": "is invoked",
+        "gram": "3 sg. pres. mid."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "ha̱virbhi̱rava̱",
+      "words": [
+       {
+        "w": "havirbhiḥ",
+        "gloss": "with oblations",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "ava",
+        "gloss": "down, away",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "stomḙbhī",
+      "words": [
+       {
+        "w": "stomebhiḥ",
+        "gloss": "with praises",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "ru̱draṃ",
+      "words": [
+       {
+        "w": "rudram",
+        "gloss": "Rudra",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "di̭ṣīya",
+      "words": [
+       {
+        "w": "diṣīya",
+        "gloss": "may I appease",
+        "gram": "1 sg. opt. mid. (root uncertain)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ṛ̱dū̱dara̭:",
+      "words": [
+       {
+        "w": "ṛdūdaraḥ",
+        "gloss": "soft-bellied",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "su̱havo̱",
+      "words": [
+       {
+        "w": "suhavaḥ",
+        "gloss": "easy to invoke",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱syai",
+      "words": [
+       {
+        "w": "asyai",
+        "gloss": "to this",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ba̱bhruḥ",
+      "words": [
+       {
+        "w": "babhruḥ",
+        "gloss": "tawny",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱śipro̭",
+      "words": [
+       {
+        "w": "su-śipraḥ",
+        "gloss": "fair-lipped",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "rīradhanma̱nāyai̭",
+      "words": [
+       {
+        "w": "rīradhat",
+        "gloss": "may he give over",
+        "gram": "3 sg. inj. caus. √radh"
+       },
+       {
+        "w": "manāyai",
+        "gloss": "to ill will",
+        "gram": "f. dat. sg. (uncertain)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो पुकारों से, हवियों से बुलाया जाता है, उस रुद्र को मैं स्तुतियों से प्रसन्न करूँ। कोमल पेट वाला, सरलता से बुलाया जाने वाला, भूरा, सुंदर ओठों वाला वह हमें इस द्वेष के हाथ न सौंपे।",
+  "english": "Rudra, who is invoked with cries and with oblations, may I appease with praises. Soft-bellied, easy to invoke, tawny, fair-lipped, may he not give us over to this ill will.",
+  "text_flags": [],
+  "notes": "'ava diṣīya' is uncertain: taken as an optative meaning 'may I appease' (ava with a root meaning to bind or appease). 'su-śipra' is rendered 'fair-lipped' (some take it as 'fair-helmeted'). 'manāyai' is uncertain: taken as 'ill will'. 'ṛdūdara' literally 'soft-bellied'.",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "unmā̭",
+      "words": [
+       {
+        "w": "ut",
+        "gloss": "up",
+        "gram": "ind."
+       },
+       {
+        "w": "mā",
+        "gloss": "me",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mamanda",
+      "words": [
+       {
+        "w": "mamanda",
+        "gloss": "has gladdened",
+        "gram": "3 sg. pf. √mad"
+       }
+      ]
+     },
+     {
+      "src": "vṛṣa̱bho",
+      "words": [
+       {
+        "w": "vṛṣabhaḥ",
+        "gloss": "bull",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱rutvā̱n",
+      "words": [
+       {
+        "w": "marutvān",
+        "gloss": "accompanied by the Maruts",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvakṣī̭yasā̱",
+      "words": [
+       {
+        "w": "tvakṣīyasā",
+        "gloss": "with more vigorous",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaya̭sā̱",
+      "words": [
+       {
+        "w": "vayasā",
+        "gloss": "with life force",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "nādha̭mānam",
+      "words": [
+       {
+        "w": "nādhamānam",
+        "gloss": "one who begs",
+        "gram": "m. acc. sg. pres. part. mid. √nādh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ghṛṇī̭va",
+      "words": [
+       {
+        "w": "ghṛṇiḥ",
+        "gloss": "heat",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cchā̱yāma̭ra̱pā",
+      "words": [
+       {
+        "w": "chāyām",
+        "gloss": "shade",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "arapāḥ",
+        "gloss": "free from fault",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭śī̱yā''",
+      "words": [
+       {
+        "w": "aśīya",
+        "gloss": "may I attain",
+        "gram": "1 sg. opt. mid. √aś"
+       }
+      ]
+     },
+     {
+      "src": "vi̭vāseyaṃ",
+      "words": [
+       {
+        "w": "vivāseyam",
+        "gloss": "may I gain by service",
+        "gram": "1 sg. opt. √vas (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "ru̱drasya̭",
+      "words": [
+       {
+        "w": "rudrasya",
+        "gloss": "of Rudra",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱mnam",
+      "words": [
+       {
+        "w": "sumnam",
+        "gloss": "favour",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मरुतों से युक्त वृषभ ने मुझ याचना करने वाले को अधिक बलवान जीवन-शक्ति से प्रसन्न किया है। जैसे ताप से पीड़ित छाया को, वैसे निर्दोष होकर मैं (उसे) पाऊँ; मैं रुद्र की कृपा को सेवा से पाऊँ।",
+  "english": "The bull accompanied by the Maruts has gladdened me, who beg, with more vigorous life force. Like one in the heat reaching shade, free from fault may I attain it; may I win Rudra's favour by service.",
+  "text_flags": [
+   {
+    "src": "a̭śī̱yā''",
+    "suggest": "aśīya",
+    "why": "double apostrophe after the word looks like a stray mark or an avagraha artefact; the word is aśīya"
+   }
+  ],
+  "notes": "'ghṛṇīva chāyām' is read ghṛṇiḥ iva chāyām 'like one in the heat (seeking) shade'; the object of aśīya is not stated, so the translation completes only what the grammar needs. 'vivāseyam' (root vas, 'serve, honour') is uncertain. nādhamāna 'one in need, begging' is taken from √nādh.",
+  "confidence": "low"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kva1",
+      "words": [
+       {
+        "w": "kva",
+        "gloss": "where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sya",
+      "words": [
+       {
+        "w": "syaḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "rudra",
+      "words": [
+       {
+        "w": "rudra",
+        "gloss": "O Rudra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛḻa̱yāku̱rhasto̱",
+      "words": [
+       {
+        "w": "mṛḻayākuḥ",
+        "gloss": "gracious",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "hastaḥ",
+        "gloss": "hand",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "asti̭",
+      "words": [
+       {
+        "w": "asti",
+        "gloss": "is",
+        "gram": "3 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "bheṣa̱jo",
+      "words": [
+       {
+        "w": "bheṣajaḥ",
+        "gloss": "healing",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jalā̭ṣaḥ",
+      "words": [
+       {
+        "w": "jalāṣaḥ",
+        "gloss": "soothing",
+        "gram": "m. nom. sg. (uncertain)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱pa̱bha̱rtā",
+      "words": [
+       {
+        "w": "apa-bhartā",
+        "gloss": "remover",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rapa̭so̱",
+      "words": [
+       {
+        "w": "rapasaḥ",
+        "gloss": "of harm",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "daivya̭syā̱bhī",
+      "words": [
+       {
+        "w": "daivyasya",
+        "gloss": "of the gods",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "abhi",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nu",
+      "words": [
+       {
+        "w": "nu",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mā̭",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "me",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣabha",
+      "words": [
+       {
+        "w": "vṛṣabha",
+        "gloss": "O bull",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cakṣamīthāḥ",
+      "words": [
+       {
+        "w": "cakṣamīthāḥ",
+        "gloss": "do pardon",
+        "gram": "2 sg. opt./imv. mid. √kṣam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे रुद्र, तुम्हारा वह कृपालु हाथ कहाँ है जो उपचार करने वाला और शीतल करने वाला है? हे वृषभ, तुम देवों की हानि को दूर करने वाले हो; अब मुझे क्षमा करो।",
+  "english": "Where is that gracious hand of yours, O Rudra, which is healing and soothing? Remover of the harm of the gods, O bull, now pardon me.",
+  "text_flags": [
+   {
+    "src": "kva1",
+    "suggest": "kva",
+    "why": "stray digit 1 after 'kva' (accent or footnote mark)"
+   }
+  ],
+  "notes": "'jalāṣa' is traditionally 'soothing, cooling'; rendered 'soothing' but uncertain. 'daivyasya rapasaḥ' is rendered 'harm of the gods' (harm coming from the gods is a possible reading). 'abhi ... cakṣamīthāḥ' is taken as 'pardon', form uncertain.",
+  "confidence": "low"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ba̱bhravḙ",
+      "words": [
+       {
+        "w": "babhrave",
+        "gloss": "to the tawny one",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣa̱bhāya̭",
+      "words": [
+       {
+        "w": "vṛṣabhāya",
+        "gloss": "to the bull",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "śvitī̱ce",
+      "words": [
+       {
+        "w": "śvitīce",
+        "gloss": "bright",
+        "gram": "m. dat. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "ma̱ho",
+      "words": [
+       {
+        "w": "mahaḥ",
+        "gloss": "great",
+        "gram": "(dat. sg., form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "ma̱hīṃ",
+      "words": [
+       {
+        "w": "mahīm",
+        "gloss": "great",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sṷṣṭu̱timī̭rayāmi",
+      "words": [
+       {
+        "w": "suṣṭutim",
+        "gloss": "good praise",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "īrayāmi",
+        "gloss": "I send forth",
+        "gram": "1 sg. pres. caus. √ṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "na̱ma̱syā",
+      "words": [
+       {
+        "w": "namasyā",
+        "gloss": "do homage",
+        "gram": "2 sg. imv. (or f. inst. sg. 'with homage', uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "ka̭lmalī̱kina̱ṃ",
+      "words": [
+       {
+        "w": "kalmalīkinam",
+        "gloss": "blazing",
+        "gram": "m. acc. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "namo̭bhirgṛṇī̱masi̭",
+      "words": [
+       {
+        "w": "namobhiḥ",
+        "gloss": "with obeisances",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "gṛṇīmasi",
+        "gloss": "we praise",
+        "gram": "1 pl. pres. √gṛ"
+       }
+      ]
+     },
+     {
+      "src": "tve̱ṣaṃ",
+      "words": [
+       {
+        "w": "tveṣam",
+        "gloss": "fierce",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ru̱drasya̱",
+      "words": [
+       {
+        "w": "rudrasya",
+        "gloss": "of Rudra",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nāma̭",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "name",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "महान् भूरे वृषभ, उज्ज्वल रूप वाले के लिए मैं महान् उत्तम स्तुति भेजता हूँ। उस दीप्तिमान् को प्रणाम करो; प्रणामों के साथ हम रुद्र के प्रचंड नाम की स्तुति करते हैं।",
+  "english": "To the tawny bull, the bright one, I send forth a great good praise. Do homage to the blazing one; with obeisances we praise the fierce name of Rudra.",
+  "text_flags": [],
+  "notes": "'śvitīce' (bright, white) and 'kalmalīkinam' (blazing) are uncertain; 'maho' is taken as an agreeing dative 'great' but the form is unclear. 'namasyā' may be an imperative 'do homage' or an instrumental 'with homage'; in the latter case the line would read 'we praise the blazing one with homage, with obeisances the fierce name of Rudra'.",
+  "confidence": "low"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sthi̱rebhi̱raṅgai̭:",
+      "words": [
+       {
+        "w": "sthirebhiḥ",
+        "gloss": "with firm",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "aṅgaiḥ",
+        "gloss": "limbs",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "puru̱rūpa̭",
+      "words": [
+       {
+        "w": "pururūpaḥ",
+        "gloss": "of many forms",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "u̱gro",
+      "words": [
+       {
+        "w": "ugraḥ",
+        "gloss": "mighty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ba̱bhruḥ",
+      "words": [
+       {
+        "w": "babhruḥ",
+        "gloss": "tawny",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śu̱krebhi̭:",
+      "words": [
+       {
+        "w": "śukrebhiḥ",
+        "gloss": "with bright",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pipiśe̱",
+      "words": [
+       {
+        "w": "pipiśe",
+        "gloss": "is adorned",
+        "gram": "3 sg. pf. mid. √piś"
+       }
+      ]
+     },
+     {
+      "src": "hira̭ṇyaiḥ",
+      "words": [
+       {
+        "w": "hiraṇyaiḥ",
+        "gloss": "with gold",
+        "gram": "n. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "īśā̭nāda̱sya",
+      "words": [
+       {
+        "w": "īśānāt",
+        "gloss": "from the ruler",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "asya",
+        "gloss": "of this",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhuva̭nasya̱",
+      "words": [
+       {
+        "w": "bhuvanasya",
+        "gloss": "of the world",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūre̱rna",
+      "words": [
+       {
+        "w": "bhūreḥ",
+        "gloss": "abundant",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṷ",
+      "words": [
+       {
+        "w": "u",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yoṣad",
+      "words": [
+       {
+        "w": "yoṣat",
+        "gloss": "will separate",
+        "gram": "3 sg. aor. subj. √yu"
+       }
+      ]
+     },
+     {
+      "src": "ru̱drāda̭su̱rya̭m",
+      "words": [
+       {
+        "w": "rudrāt",
+        "gloss": "from Rudra",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "asuryam",
+        "gloss": "lordship",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दृढ़ अंगों से, अनेक रूपों वाला, प्रचंड, भूरा, वह चमकते सोने के आभूषणों से सजा है। इस विशाल जगत् के स्वामी रुद्र से प्रभुत्व कभी अलग नहीं होगा।",
+  "english": "With firm limbs, of many forms, mighty, tawny, he is adorned with bright gold. Lordship (asurya) will not indeed separate from Rudra, the ruler of this abundant world.",
+  "text_flags": [],
+  "notes": "'īśānād ... rudrād' both ablatives; the translation takes 'īśānāt' in apposition to Rudra ('from Rudra, the ruler'), a literal reading. 'asurya' is rendered 'lordship' with the Sanskrit given. 'pipiśe' is taken as 'is adorned'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "arha̭n",
+      "words": [
+       {
+        "w": "arhan",
+        "gloss": "being fitting, worthy",
+        "gram": "m. nom. sg. pres. part. √arh"
+       }
+      ]
+     },
+     {
+      "src": "bibharṣi̱",
+      "words": [
+       {
+        "w": "bibharṣi",
+        "gloss": "you bear",
+        "gram": "2 sg. pres. √bhṛ"
+       }
+      ]
+     },
+     {
+      "src": "sāya̭kāni̱",
+      "words": [
+       {
+        "w": "sāyakāni",
+        "gloss": "arrows",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhanvārha̭n",
+      "words": [
+       {
+        "w": "dhanva",
+        "gloss": "bow",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "arhan",
+        "gloss": "being fitting, worthy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni̱ṣkaṃ",
+      "words": [
+       {
+        "w": "niṣkam",
+        "gloss": "neck ornament (niṣka)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̭ja̱taṃ",
+      "words": [
+       {
+        "w": "yajatam",
+        "gloss": "worshipful",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱śvarṷ̄pam",
+      "words": [
+       {
+        "w": "viśva-rūpam",
+        "gloss": "of every form",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "arha̭nni̱daṃ",
+      "words": [
+       {
+        "w": "arhan",
+        "gloss": "being fitting, worthy",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "da̭yase̱",
+      "words": [
+       {
+        "w": "dayase",
+        "gloss": "you show mercy to",
+        "gram": "2 sg. pres. mid. √day (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "viśva̱mabhva̱ṃ",
+      "words": [
+       {
+        "w": "viśvam",
+        "gloss": "all",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "abhvam",
+        "gloss": "immensity",
+        "gram": "n. acc. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ojī̭yo",
+      "words": [
+       {
+        "w": "ojīyaḥ",
+        "gloss": "mightier",
+        "gram": "n. nom. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "rudra̱",
+      "words": [
+       {
+        "w": "rudra",
+        "gloss": "O Rudra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvada̭sti",
+      "words": [
+       {
+        "w": "tvat",
+        "gloss": "than you",
+        "gram": "abl. sg."
+       },
+       {
+        "w": "asti",
+        "gloss": "is",
+        "gram": "3 sg. pres. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "योग्य होकर तुम बाण और धनुष धारण करते हो; योग्य होकर पूजनीय, सब रूपों वाला निष्क (धारण करते हो)। योग्य होकर तुम इस सारे विशाल पर दया करते हो; हे रुद्र, तुमसे बढ़कर बलवान् कोई नहीं।",
+  "english": "Worthy, you bear arrows and a bow; worthy, a venerable niṣka of every form. Worthy, you show mercy to all this immensity; none indeed is mightier than you, O Rudra.",
+  "text_flags": [],
+  "notes": "'arhan' is rendered 'worthy' (as is fitting). 'niṣka' is a gold neck ornament; kept as niṣka. 'dayase' (mercy, or apportioning) and 'abhva' (immense, monstrous; here a noun) are uncertain.",
+  "confidence": "low"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "stu̱hi",
+      "words": [
+       {
+        "w": "stuhi",
+        "gloss": "praise",
+        "gram": "2 sg. imv. √stu"
+       }
+      ]
+     },
+     {
+      "src": "śru̱taṃ",
+      "words": [
+       {
+        "w": "śrutam",
+        "gloss": "renowned",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ga̭rta̱sada̱ṃ",
+      "words": [
+       {
+        "w": "garta-sadam",
+        "gloss": "sitting in the chariot seat",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "yuvā̭naṃ",
+      "words": [
+       {
+        "w": "yuvānam",
+        "gloss": "young",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛ̱gaṃ",
+      "words": [
+       {
+        "w": "mṛgam",
+        "gloss": "wild beast",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhī̱mamṷpaha̱tnumu̱gram",
+      "words": [
+       {
+        "w": "bhīmam",
+        "gloss": "terrible",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "upahatnum",
+        "gloss": "smiter close at hand",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ugram",
+        "gloss": "mighty",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mṛ̱ḻā",
+      "words": [
+       {
+        "w": "mṛḻa",
+        "gloss": "be gracious",
+        "gram": "2 sg. imv. √mṛḍ"
+       }
+      ]
+     },
+     {
+      "src": "ja̭ri̱tre",
+      "words": [
+       {
+        "w": "jaritre",
+        "gloss": "to the singer",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "rṷdra̱",
+      "words": [
+       {
+        "w": "rudra",
+        "gloss": "O Rudra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "stavā̭no̱",
+      "words": [
+       {
+        "w": "stavānaḥ",
+        "gloss": "being praised",
+        "gram": "m. nom. sg. pres. part. pass."
+       }
+      ]
+     },
+     {
+      "src": "'nyaṃ",
+      "words": [
+       {
+        "w": "anyam",
+        "gloss": "another",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱smanni",
+      "words": [
+       {
+        "w": "asmat",
+        "gloss": "from us",
+        "gram": "abl. pl."
+       },
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭pantu̱",
+      "words": [
+       {
+        "w": "vapantu",
+        "gloss": "let them cut down",
+        "gram": "3 pl. imv. √vap"
+       }
+      ]
+     },
+     {
+      "src": "senā̭:",
+      "words": [
+       {
+        "w": "senāḥ",
+        "gloss": "hosts",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रसिद्ध, रथ के आसन पर बैठने वाले, युवा, जंगली पशु के समान भयंकर, निकट से प्रहार करने वाले, प्रचंड (रुद्र) की स्तुति करो। हे रुद्र, स्तुति पाकर गायक पर कृपा करो; तुम्हारी सेनाएँ हमारे सिवा किसी और को काट गिराएँ।",
+  "english": "Praise the renowned one, who sits in the chariot seat, the youth, terrible like a wild beast, the smiter close at hand, the mighty. O Rudra, being praised, be gracious to the singer; let your hosts cut down another than us.",
+  "text_flags": [],
+  "notes": "'gartasad' is taken as 'sitting in the chariot seat' (garta, a seat or cavity). The name Rudra is not in the first line; the object of 'stuhi' is the described one. 'anyam te asmat ni vapantu' is literally 'let your hosts cut down another, away from us'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ku̱mā̱raści̭t",
+      "words": [
+       {
+        "w": "kumāraḥ",
+        "gloss": "boy",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tara̱ṃ",
+      "words": [
+       {
+        "w": "pitaram",
+        "gloss": "father",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vanda̭māna̱ṃ",
+      "words": [
+       {
+        "w": "vandamānam",
+        "gloss": "being greeted",
+        "gram": "m. acc. sg. pres. part. mid. √vand (or: greeting)"
+       }
+      ]
+     },
+     {
+      "src": "prati̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nānāma",
+      "words": [
+       {
+        "w": "nānāma",
+        "gloss": "I have bowed",
+        "gram": "1 sg. pf. √nam"
+       }
+      ]
+     },
+     {
+      "src": "rudropa̱yanta̭m",
+      "words": [
+       {
+        "w": "rudra",
+        "gloss": "O Rudra",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "upayantam",
+        "gloss": "approaching",
+        "gram": "m. acc. sg. pres. part. upa-√i"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhūrḙrdā̱tāra̱ṃ",
+      "words": [
+       {
+        "w": "bhūreḥ",
+        "gloss": "of abundance",
+        "gram": "gen. sg."
+       },
+       {
+        "w": "dātāram",
+        "gloss": "giver",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "satpa̭tiṃ",
+      "words": [
+       {
+        "w": "satpatim",
+        "gloss": "lord of the good",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gṛṇīṣe",
+      "words": [
+       {
+        "w": "gṛṇīṣe",
+        "gloss": "I praise",
+        "gram": "1 sg. pres. mid. √gṛ (person uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "stu̱tastvaṃ",
+      "words": [
+       {
+        "w": "stutaḥ",
+        "gloss": "praised",
+        "gram": "m. nom. sg. ppp. √stu"
+       },
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhḙṣa̱jā",
+      "words": [
+       {
+        "w": "bheṣajā",
+        "gloss": "remedies",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rā̭sya̱sme",
+      "words": [
+       {
+        "w": "rāsi",
+        "gloss": "give",
+        "gram": "2 sg. imv. √rā"
+       },
+       {
+        "w": "asme",
+        "gloss": "to us",
+        "gram": "dat. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे रुद्र, मैं तुम्हारे पास आते हुए की ओर झुका हूँ, जैसे बालक भी अभिवादन किए जाते पिता की ओर झुकता है। प्रचुरता के दाता, सज्जनों के स्वामी की मैं स्तुति करता हूँ; स्तुति पाकर तुम हमें उपचार दो।",
+  "english": "I have bowed towards you, O Rudra, as you approach, as even a boy bows towards his father who is being greeted. I praise you, the giver of abundance, lord of the good; praised, give us remedies.",
+  "text_flags": [],
+  "notes": "Construction of the first line is uncertain: 'kumāraś cit pitaraṃ vandamānam' (a boy bowing to, or greeting, his father) is taken as an implied comparison, and 'prati nānāma ... upayantam' as 'I bowed towards you as you approach'; there is no explicit word for 'as'. 'gṛṇīṣe' person (1 sg. mid. or a 2 sg. passive) and 'rāsi' (a rare imperative form) are uncertain.",
+  "confidence": "low"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "n. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "vo̭",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "your",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "bheṣa̱jā",
+      "words": [
+       {
+        "w": "bheṣajā",
+        "gloss": "remedies",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ma̭ruta̱:",
+      "words": [
+       {
+        "w": "marutaḥ",
+        "gloss": "O Maruts",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śucī̭ni̱",
+      "words": [
+       {
+        "w": "śucīni",
+        "gloss": "pure",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "n. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "śaṃta̭mā",
+      "words": [
+       {
+        "w": "śaṃtamā",
+        "gloss": "most beneficial",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣaṇo̱",
+      "words": [
+       {
+        "w": "vṛṣaṇaḥ",
+        "gloss": "O bulls",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "n. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "ma̭yo̱bhu",
+      "words": [
+       {
+        "w": "mayobhu",
+        "gloss": "comforting",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yāni̱",
+      "words": [
+       {
+        "w": "yāni",
+        "gloss": "which",
+        "gram": "n. acc. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "manu̱ravṛ̭ṇītā",
+      "words": [
+       {
+        "w": "manuḥ",
+        "gloss": "Manu",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "avṛṇīta",
+        "gloss": "chose",
+        "gram": "3 sg. impf. mid. √vṛ"
+       }
+      ]
+     },
+     {
+      "src": "pi̱tā",
+      "words": [
+       {
+        "w": "pitā",
+        "gloss": "father",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na̱stā",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl."
+       },
+       {
+        "w": "tā",
+        "gloss": "those",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śaṃ",
+      "words": [
+       {
+        "w": "śam",
+        "gloss": "blessing",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yośca̭",
+      "words": [
+       {
+        "w": "yoḥ",
+        "gloss": "protection",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ru̱drasya̭",
+      "words": [
+       {
+        "w": "rudrasya",
+        "gloss": "of Rudra",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaśmi",
+      "words": [
+       {
+        "w": "vaśmi",
+        "gloss": "I desire",
+        "gram": "1 sg. pres. √vaś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे मरुतो, तुम्हारे जो शुद्ध उपचार हैं, हे वृषभो, जो अत्यंत सुखकर हैं, जो आरामदायक हैं, जिन्हें हमारे पिता मनु ने चुना, उन्हें, और रुद्र के कल्याण तथा रक्षण को मैं चाहता हूँ।",
+  "english": "Your remedies, O Maruts, that are pure, that are most beneficial, O bulls, that are comforting, those that Manu, our father, chose, those I desire, and the blessing and protection of Rudra.",
+  "text_flags": [],
+  "notes": "'śam ca yoś ca' is a fixed pair, rendered 'blessing and protection'. 'rudrasya' may be read 'from Rudra'. The sentence is elliptical: 'tā' and 'śaṃ ca yoś ca' are both objects of 'vaśmi'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around, aside",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṇo",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "he̱tī",
+      "words": [
+       {
+        "w": "hetiḥ",
+        "gloss": "missile",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ru̱drasya̭",
+      "words": [
+       {
+        "w": "rudrasya",
+        "gloss": "of Rudra",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛjyā̱:",
+      "words": [
+       {
+        "w": "vṛjyāḥ",
+        "gloss": "may it be turned aside",
+        "gram": "3 sg. opt. pass. √vṛj"
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around, past",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tve̱ṣasya̭",
+      "words": [
+       {
+        "w": "tveṣasya",
+        "gloss": "of the fierce one",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "durma̱tirma̱hī",
+      "words": [
+       {
+        "w": "durmatiḥ",
+        "gloss": "ill will",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "mahī",
+        "gloss": "great",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gā̭t",
+      "words": [
+       {
+        "w": "gāt",
+        "gloss": "may it go",
+        "gram": "3 sg. aor. inj. √gam"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ava̭",
+      "words": [
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sthi̱rā",
+      "words": [
+       {
+        "w": "sthirā",
+        "gloss": "firm ones",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ma̱ghava̭dbhyastanuṣva̱",
+      "words": [
+       {
+        "w": "maghavadbhyaḥ",
+        "gloss": "for the generous patrons",
+        "gram": "m. dat. pl."
+       },
+       {
+        "w": "tanuṣva",
+        "gloss": "slacken",
+        "gram": "2 sg. imv. mid. √tan"
+       }
+      ]
+     },
+     {
+      "src": "mīḍhva̭sto̱kāya̱",
+      "words": [
+       {
+        "w": "mīḍhvaḥ",
+        "gloss": "O bountiful one",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "tokāya",
+        "gloss": "for child",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "tana̭yāya",
+      "words": [
+       {
+        "w": "tanayāya",
+        "gloss": "for descendant",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛḻa",
+      "words": [
+       {
+        "w": "mṛḻa",
+        "gloss": "be gracious",
+        "gram": "2 sg. imv. √mṛḍ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रुद्र का शस्त्र हमसे बचकर निकल जाए; उस प्रचंड की महान् दुर्भावना हमारे पास से गुज़र जाए। हे उदार, उदार दाताओं के लिए दृढ़ (वस्तुओं) को ढीला करो; संतान और वंशज पर कृपा करो।",
+  "english": "May the missile of Rudra be turned aside from us; may the great ill will of the fierce one pass us by. Slacken the firm ones for the generous patrons; O bountiful one, be gracious to child and descendant.",
+  "text_flags": [],
+  "notes": "'sthirā' is neuter plural 'firm ones'; the noun is not stated (some take it as the bows). 'hetī' is hetiḥ by sandhi (iḥ r- gives ī r-); the visarga forms 'vṛjyāḥ' and 'durmatiḥ mahī' are read as printed.",
+  "confidence": "medium"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "e̱vā",
+      "words": [
+       {
+        "w": "evā",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ba̭bhro",
+      "words": [
+       {
+        "w": "babhro",
+        "gloss": "O tawny one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣabha",
+      "words": [
+       {
+        "w": "vṛṣabha",
+        "gloss": "O bull",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cekitāna̱",
+      "words": [
+       {
+        "w": "cekitāna",
+        "gloss": "O attentive one",
+        "gram": "m. voc. sg. pres. part."
+       }
+      ]
+     },
+     {
+      "src": "yathā̭",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "deva̱",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "O god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hṛ̭ṇī̱ṣe",
+      "words": [
+       {
+        "w": "hṛṇīṣe",
+        "gloss": "you are angry",
+        "gram": "2 sg. pres. mid. √hṛ"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "haṃsi̭",
+      "words": [
+       {
+        "w": "haṃsi",
+        "gloss": "you strike",
+        "gram": "2 sg. pres. √han"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ha̱va̱na̱śrunno̭",
+      "words": [
+       {
+        "w": "havana-śrut",
+        "gloss": "hearer of invocations",
+        "gram": "m. voc. sg. tat-puruṣa"
+       },
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rudre̱ha",
+      "words": [
+       {
+        "w": "rudra",
+        "gloss": "O Rudra",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bo̭dhi",
+      "words": [
+       {
+        "w": "bodhi",
+        "gloss": "take heed",
+        "gram": "2 sg. imv. √budh"
+       }
+      ]
+     },
+     {
+      "src": "bṛ̱had",
+      "words": [
+       {
+        "w": "bṛhat",
+        "gloss": "greatly",
+        "gram": "n. acc. sg. adv."
+       }
+      ]
+     },
+     {
+      "src": "va̭dema",
+      "words": [
+       {
+        "w": "vadema",
+        "gloss": "may we speak",
+        "gram": "1 pl. opt. √vad"
+       }
+      ]
+     },
+     {
+      "src": "vi̱dathḙ",
+      "words": [
+       {
+        "w": "vidathe",
+        "gloss": "at the rite",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱vīrā̭:",
+      "words": [
+       {
+        "w": "suvīrāḥ",
+        "gloss": "rich in heroes",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इसी प्रकार, हे भूरे वृषभ, हे सजग देव, जिससे तुम न क्रुद्ध हो और न प्रहार करो। हे पुकार सुनने वाले रुद्र, यहाँ हमारी ओर ध्यान दो; हम उत्तम वीरों से युक्त होकर यज्ञ में ऊँचे स्वर से बोलें।",
+  "english": "So, O tawny bull, O attentive god, that you may neither be angry nor strike. Hearer of invocations, O Rudra, take heed of us here; may we speak greatly at the rite, rich in heroes.",
+  "text_flags": [],
+  "notes": "'bṛhad vadema' is the refrain of this hymn group; 'bṛhat' is literally 'great', rendered 'greatly' (often taken as 'loudly'). The first line is a purpose clause that depends on a verb not stated in it.",
+  "confidence": "medium"
+ }
+]

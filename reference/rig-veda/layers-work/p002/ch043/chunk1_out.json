@@ -1,0 +1,650 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pra̱da̱kṣi̱ṇida̱bhi",
+      "words": [
+       {
+        "w": "pradakṣiṇit",
+        "gloss": "keeping to the right",
+        "gram": "ind. (uncertain)"
+       },
+       {
+        "w": "abhi",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛ̭ṇanti",
+      "words": [
+       {
+        "w": "gṛṇanti",
+        "gloss": "they praise",
+        "gram": "3 pl. pres. √gṛ"
+       }
+      ]
+     },
+     {
+      "src": "kā̱ravo̱",
+      "words": [
+       {
+        "w": "kāravaḥ",
+        "gloss": "singers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vayo̱",
+      "words": [
+       {
+        "w": "vayaḥ",
+        "gloss": "birds",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vada̭nta",
+      "words": [
+       {
+        "w": "vadanta",
+        "gloss": "they speak",
+        "gram": "3 pl. pres. mid. √vad"
+       }
+      ]
+     },
+     {
+      "src": "ṛtu̱thā",
+      "words": [
+       {
+        "w": "ṛtuthā",
+        "gloss": "in due season",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śa̱kunta̭yaḥ",
+      "words": [
+       {
+        "w": "śakuntayaḥ",
+        "gloss": "small birds",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "u̱bhe",
+      "words": [
+       {
+        "w": "ubhe",
+        "gloss": "both",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "vācaṷ",
+      "words": [
+       {
+        "w": "vācau",
+        "gloss": "voices",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "vadati",
+      "words": [
+       {
+        "w": "vadati",
+        "gloss": "he speaks",
+        "gram": "3 sg. pres. √vad"
+       }
+      ]
+     },
+     {
+      "src": "sāma̱gā",
+      "words": [
+       {
+        "w": "sāma-gāḥ",
+        "gloss": "Sāman-chanter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "i̭va",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gāya̱traṃ",
+      "words": [
+       {
+        "w": "gāyatram",
+        "gloss": "the gāyatra",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "traiṣṭṷbha̱ṃ",
+      "words": [
+       {
+        "w": "traiṣṭubham",
+        "gloss": "the triṣṭubh",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cānṷ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "anu",
+        "gloss": "after, in accord",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rājati",
+      "words": [
+       {
+        "w": "rājati",
+        "gloss": "shines",
+        "gram": "3 sg. pres. √rāj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गायक दाहिनी ओर रहते हुए स्तुति करते हैं; पक्षी, छोटे पक्षी, ऋतु-ऋतु के अनुसार बोलते हैं। वह दोनों वाणियाँ बोलता है, साम गाने वाले के समान, और गायत्र तथा त्रैष्टुभ के अनुरूप शोभित होता है।",
+  "english": "The singers praise, keeping to the right; the birds, the small birds, speak in due season. He speaks both voices like a Sāman-chanter, and shines in accord with both the gāyatra and the triṣṭubh.",
+  "text_flags": [],
+  "notes": "Uncertain. pradakṣiṇit abhi gṛṇanti: pradakṣiṇit read as \"keeping to the right\" and abhi as adverbial. kāravaḥ may be the birds themselves or human singers; vayaḥ and śakuntayaḥ both mean birds. The IAST vācaṷ corresponds to Devanagari vācau (accent mark in the glyph). sāmagā iva is read sāmagāḥ iva (nominative singular, consistent with vadati). anu rājati (\"shines after / in accord with\") is uncertain. gāyatra and triṣṭubh are metre names, kept as Sanskrit.",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱dgā̱teva̭",
+      "words": [
+       {
+        "w": "udgātā",
+        "gloss": "Udgātṛ priest",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śakune̱",
+      "words": [
+       {
+        "w": "śakune",
+        "gloss": "O bird",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāma̭",
+      "words": [
+       {
+        "w": "sāma",
+        "gloss": "sāman",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gāyasi",
+      "words": [
+       {
+        "w": "gāyasi",
+        "gloss": "you sing",
+        "gram": "2 sg. pres. √gai"
+       }
+      ]
+     },
+     {
+      "src": "brahmapu̱tra",
+      "words": [
+       {
+        "w": "brahma-putraḥ",
+        "gloss": "son of a Brahman",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "i̭va̱",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sava̭neṣu",
+      "words": [
+       {
+        "w": "savaneṣu",
+        "gloss": "at the pressings",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śaṃsasi",
+      "words": [
+       {
+        "w": "śaṃsasi",
+        "gloss": "you recite",
+        "gram": "2 sg. pres. √śaṃs"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vṛṣḙva",
+      "words": [
+       {
+        "w": "vṛṣā",
+        "gloss": "bull",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̱jī",
+      "words": [
+       {
+        "w": "vājī",
+        "gloss": "vigorous",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiśṷmatīra̱pītyā̭",
+      "words": [
+       {
+        "w": "śiśu-matīḥ",
+        "gloss": "those with young",
+        "gram": "f. acc. pl. bahuvrīhi"
+       },
+       {
+        "w": "apītyā",
+        "gloss": "having approached",
+        "gram": "abs. api-√i (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "sa̱rvato̭",
+      "words": [
+       {
+        "w": "sarvataḥ",
+        "gloss": "from all sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "śakune",
+      "words": [
+       {
+        "w": "śakune",
+        "gloss": "O bird",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bha̱dramā",
+      "words": [
+       {
+        "w": "bhadram",
+        "gloss": "good",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭da",
+      "words": [
+       {
+        "w": "vada",
+        "gloss": "speak",
+        "gram": "2 sg. impv. √vad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vi̱śvato̭",
+      "words": [
+       {
+        "w": "viśvataḥ",
+        "gloss": "from every side",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "śakune̱",
+      "words": [
+       {
+        "w": "śakune",
+        "gloss": "O bird",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "puṇya̱mā",
+      "words": [
+       {
+        "w": "puṇyam",
+        "gloss": "auspicious",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭da",
+      "words": [
+       {
+        "w": "vada",
+        "gloss": "speak",
+        "gram": "2 sg. impv. √vad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे पक्षी, उद्गाता के समान तुम साम गाते हो; ब्रह्मा के पुत्र के समान यज्ञ के सवनों में शंसन करते हो। बलवान बैल की तरह, बच्चों वाली मादाओं के पास जाकर, सब ओर से हमारे लिए, हे पक्षी, कल्याणकारी बोलो। हर ओर से हमारे लिए, हे पक्षी, पुण्यकारी बोलो।",
+  "english": "Like an Udgātṛ priest, O bird, you sing a sāman; like a son of a Brahman you recite at the pressings. Like a vigorous bull, having approached those with young, speak out what is good to us from all sides, O bird. From every side, O bird, speak out what is auspicious to us.",
+  "text_flags": [],
+  "notes": "Uncertain in places. brahmaputra: brahman may mean the Brahman priest or a sacred utterance; \"son of a Brahman\" is the literal reading. vājī rendered \"vigorous\"; \"stallion/prize-winner\" are alternatives. śiśumatīr apītyā is unclear (apītyā may be a gerund of api-√i or an instrumental noun): the translation is tentative. The unit has three printed lines; the third is a separate pāda.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā̱vada̱ṃstvaṃ",
+      "words": [
+       {
+        "w": "āvadan",
+        "gloss": "speaking out",
+        "gram": "m. nom. sg. pres. part. ā-√vad"
+       },
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̭kune",
+      "words": [
+       {
+        "w": "śakune",
+        "gloss": "O bird",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bha̱dramā",
+      "words": [
+       {
+        "w": "bhadram",
+        "gloss": "good",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭da",
+      "words": [
+       {
+        "w": "vada",
+        "gloss": "speak",
+        "gram": "2 sg. impv. √vad"
+       }
+      ]
+     },
+     {
+      "src": "tū̱ṣṇīmāsī̭naḥ",
+      "words": [
+       {
+        "w": "tūṣṇīm",
+        "gloss": "silently",
+        "gram": "ind."
+       },
+       {
+        "w": "āsīnaḥ",
+        "gloss": "sitting",
+        "gram": "m. nom. sg. pres. part. mid. √ās"
+       }
+      ]
+     },
+     {
+      "src": "suma̱tiṃ",
+      "words": [
+       {
+        "w": "sumatim",
+        "gloss": "good will",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ci̭kiddhi",
+      "words": [
+       {
+        "w": "cikiddhi",
+        "gloss": "take notice of",
+        "gram": "2 sg. impv. √cit (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yadu̱tpata̱n",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "utpatan",
+        "gloss": "flying up",
+        "gram": "m. nom. sg. pres. part. ud-√pat"
+       }
+      ]
+     },
+     {
+      "src": "vada̭si",
+      "words": [
+       {
+        "w": "vadasi",
+        "gloss": "you speak",
+        "gram": "2 sg. pres. √vad"
+       }
+      ]
+     },
+     {
+      "src": "karka̱rirya̭thā",
+      "words": [
+       {
+        "w": "karkariḥ",
+        "gloss": "a karkari",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "yathā",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bṛ̱had",
+      "words": [
+       {
+        "w": "bṛhat",
+        "gloss": "greatly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭dema",
+      "words": [
+       {
+        "w": "vadema",
+        "gloss": "may we speak",
+        "gram": "1 pl. opt. √vad"
+       }
+      ]
+     },
+     {
+      "src": "vi̱dathḙ",
+      "words": [
+       {
+        "w": "vidathe",
+        "gloss": "in the rite",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱vīrā̭:",
+      "words": [
+       {
+        "w": "su-vīrāḥ",
+        "gloss": "rich in heroes",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे पक्षी, तुम बोलते हुए कल्याणकारी बोलो; चुप बैठे हुए हमारी सुमति का ध्यान रखो। जब उड़ते हुए तुम बोलते हो, कर्करि के समान, तब हम उत्तम वीरों से युक्त होकर यज्ञ में महान् वचन बोलें।",
+  "english": "Speaking out, O bird, speak what is good; sitting silent, take notice of our good will. When, flying up, you speak like a karkari, may we, rich in heroes, speak greatly in the rite.",
+  "text_flags": [],
+  "notes": "cikiddhi and the object sumatim (whose good will: ours or the bird's) are uncertain. karkari is kept as a name of an instrument; it is not identified here. The construction of the last two pādas (yad ... vadema) is loose.",
+  "confidence": "low"
+ }
+]

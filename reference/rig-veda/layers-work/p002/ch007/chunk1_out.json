@@ -1,0 +1,686 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śreṣṭha̭ṃ",
+      "words": [
+       {
+        "w": "śreṣṭham",
+        "gloss": "best",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaviṣṭha",
+      "words": [
+       {
+        "w": "yaviṣṭha",
+        "gloss": "O youngest",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhāra̱tā'gnḙ",
+      "words": [
+       {
+        "w": "bhārata",
+        "gloss": "O Bhārata",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dyu̱manta̱mā",
+      "words": [
+       {
+        "w": "dyumantam",
+        "gloss": "brilliant",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bha̭ra",
+      "words": [
+       {
+        "w": "bhara",
+        "gloss": "bring",
+        "gram": "2 sg. impv. √bhṛ"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "vaso̭",
+      "words": [
+       {
+        "w": "vaso",
+        "gloss": "O good one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "puru̱spṛha̭ṃ",
+      "words": [
+       {
+        "w": "puru-spṛham",
+        "gloss": "much desired",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ra̱yim",
+      "words": [
+       {
+        "w": "rayim",
+        "gloss": "wealth",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे सबसे युवा भारत अग्नि, श्रेष्ठ, तेजस्वी धन यहाँ लाओ, हे वसु, जो बहुतों का चाहा हुआ है।",
+  "english": "Bring hither, O youngest, O Bhārata, O Agni, the best brilliant wealth, O good one, much desired.",
+  "text_flags": [],
+  "notes": "bhārata is rendered as the address 'O Bhārata' (a title of Agni here; the text does not explain it). vaso is taken as a vocative of vasu 'good one' (it may also mean 'possessor of goods'). The adjectives śreṣṭham, dyumantam and puruspṛham all agree with rayim.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "let not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "over us",
+        "gram": "gen. pl. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "arā̭tirīśata",
+      "words": [
+       {
+        "w": "arātiḥ",
+        "gloss": "ill-will",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "īśata",
+        "gloss": "may he rule",
+        "gram": "3 sg. subj. mid √īś"
+       }
+      ]
+     },
+     {
+      "src": "de̱vasya̱",
+      "words": [
+       {
+        "w": "devasya",
+        "gloss": "of a god",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "martya̭sya",
+      "words": [
+       {
+        "w": "martyasya",
+        "gloss": "of a mortal",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "parṣi̱",
+      "words": [
+       {
+        "w": "parṣi",
+        "gloss": "rescue",
+        "gram": "2 sg. impv. √pṛ"
+       }
+      ]
+     },
+     {
+      "src": "tasyā̭",
+      "words": [
+       {
+        "w": "tasyāḥ",
+        "gloss": "from that",
+        "gram": "f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dvi̱ṣaḥ",
+      "words": [
+       {
+        "w": "dviṣaḥ",
+        "gloss": "from hatred",
+        "gram": "f. abl. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देव या मनुष्य की शत्रुता हम पर शासन न करे; उससे और द्वेष से हमें पार लगाओ।",
+  "english": "Let not the ill-will of a god or of a mortal rule over us; rescue us from that and from hatred.",
+  "text_flags": [],
+  "notes": "arāti is rendered 'ill-will' (alternatively 'niggardliness, lack of generosity'). 'us' as the object of parṣi is not stated in the text. dviṣaḥ could also be read as accusative plural 'those who hate'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viśvā̭",
+      "words": [
+       {
+        "w": "viśvāḥ",
+        "gloss": "all",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvayā̭",
+      "words": [
+       {
+        "w": "tvayā",
+        "gloss": "through you",
+        "gram": "inst. sg. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "va̱yaṃ",
+      "words": [
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "nom. pl. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "dhārā̭",
+      "words": [
+       {
+        "w": "dhārāḥ",
+        "gloss": "streams",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "uda̱nyā̭",
+      "words": [
+       {
+        "w": "udanyāḥ",
+        "gloss": "of water",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "iva",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ati̭",
+      "words": [
+       {
+        "w": "ati",
+        "gloss": "across",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gāhemahi̱",
+      "words": [
+       {
+        "w": "gāhemahi",
+        "gloss": "may we wade",
+        "gram": "1 pl. opt. mid √gāh"
+       }
+      ]
+     },
+     {
+      "src": "dviṣa̭:",
+      "words": [
+       {
+        "w": "dviṣaḥ",
+        "gloss": "hatreds",
+        "gram": "f. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और तुम्हारे द्वारा हम सब द्वेषों को पार करें, जैसे जल की धाराओं को पार किया जाता है।",
+  "english": "And through you may we wade across all hatreds, as one crosses streams of water.",
+  "text_flags": [],
+  "notes": "The comparison dhārā udanyā iva is rendered 'as one crosses streams of water' and its verb is shared with ati gāhemahi. dviṣaḥ is taken as 'hatreds' (alternatively 'enemies').",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śuci̭:",
+      "words": [
+       {
+        "w": "śuciḥ",
+        "gloss": "bright",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāvaka̱",
+      "words": [
+       {
+        "w": "pāvaka",
+        "gloss": "O purifier",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vandyo",
+      "words": [
+       {
+        "w": "vandyaḥ",
+        "gloss": "to be praised",
+        "gram": "m. nom. sg. gerundive"
+       }
+      ]
+     },
+     {
+      "src": "'gnḙ",
+      "words": [
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛ̱had",
+      "words": [
+       {
+        "w": "bṛhat",
+        "gloss": "greatly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ro̭case",
+      "words": [
+       {
+        "w": "rocase",
+        "gloss": "you shine",
+        "gram": "2 sg. pres. mid √ruc"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "ghṛ̱tebhi̱rāhṷtaḥ",
+      "words": [
+       {
+        "w": "ghṛtebhiḥ",
+        "gloss": "with ghee",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "āhutaḥ",
+        "gloss": "offered to",
+        "gram": "m. nom. sg. ppp. ā-√hu"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे पावक, उज्ज्वल, वन्दनीय अग्नि, तुम घी की आहुतियों से अर्पित होकर बहुत चमकते हो।",
+  "english": "Bright, O purifier, to be praised, O Agni, you shine forth greatly, you offered to with ghee.",
+  "text_flags": [],
+  "notes": "bṛhat is taken as an adverb 'greatly' (it may be the adjective 'great' with a noun understood). āhutaḥ is rendered 'offered to'. The printed 'gne is agne after vandyo (avagraha).",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "nom. sg. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "ours",
+        "gram": "gen. pl. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "asi",
+      "words": [
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "bhāra̱tā'gnḙ",
+      "words": [
+       {
+        "w": "bhārata",
+        "gloss": "O Bhārata",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̱śābhi̭ru̱kṣabhi̭:",
+      "words": [
+       {
+        "w": "vaśābhiḥ",
+        "gloss": "with vaśā cows",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "ukṣabhiḥ",
+        "gloss": "with bulls",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "a̱ṣṭāpa̭dībhi̱rāhṷtaḥ",
+      "words": [
+       {
+        "w": "aṣṭāpadībhiḥ",
+        "gloss": "with eight-footed ones",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "āhutaḥ",
+        "gloss": "offered to",
+        "gram": "m. nom. sg. ppp. ā-√hu"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे भारत अग्नि, तुम हमारे हो; वशा गायों, बैलों और अष्टपदियों से अर्पित होकर।",
+  "english": "You are ours, O Bhārata, O Agni, offered to with vaśā cows, with bulls, with eight-footed ones.",
+  "text_flags": [],
+  "notes": "vaśā is a kind of cow (taken here as 'vaśā cow' without specifying) and aṣṭāpadī is literally 'eight-footed' (what is meant is not stated in the verse). The relation of tvaṃ no asi to the rest is rendered as it stands.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "drva̭nnaḥ",
+      "words": [
+       {
+        "w": "dru-annaḥ",
+        "gloss": "having wood as food",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "sa̱rpirā̭sutiḥ",
+      "words": [
+       {
+        "w": "sarpiḥ-āsutiḥ",
+        "gloss": "having ghee as libation",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "pra̱tno",
+      "words": [
+       {
+        "w": "pratnaḥ",
+        "gloss": "ancient",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hotā̱",
+      "words": [
+       {
+        "w": "hotā",
+        "gloss": "Hotṛ priest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "varḙṇyaḥ",
+      "words": [
+       {
+        "w": "vareṇyaḥ",
+        "gloss": "choice",
+        "gram": "m. nom. sg. gerundive"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "saha̭saspu̱tro",
+      "words": [
+       {
+        "w": "sahasaḥ",
+        "gloss": "of strength",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "putraḥ",
+        "gloss": "son",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adbhṷtaḥ",
+      "words": [
+       {
+        "w": "adbhutaḥ",
+        "gloss": "wonderful",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "लकड़ी को अन्न बनाने वाला, घी की आहुति वाला, प्राचीन होता, वरणीय, बल का पुत्र, अद्भुत।",
+  "english": "Having wood as food, having ghee as libation, the ancient Hotṛ priest, the choice one, the son of strength, wonderful.",
+  "text_flags": [],
+  "notes": "drvannaḥ is read as dru-annaḥ (dru 'wood', anna 'food'); sarpirāsutiḥ as sarpiḥ-āsutiḥ. The verse is a list of epithets and has no verb; Agni is understood as the subject from the hymn. sahasaḥ putraḥ is a standing epithet.",
+  "confidence": "medium"
+ }
+]

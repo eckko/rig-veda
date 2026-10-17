@@ -1,0 +1,709 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vā̱ja̱yanni̭va̱",
+      "words": [
+       {
+        "w": "vājayan",
+        "gloss": "seeking the prize",
+        "gram": "m. nom. sg. pres. part. √vāj"
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nū",
+      "words": [
+       {
+        "w": "nū",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rathā̱n",
+      "words": [
+       {
+        "w": "rathān",
+        "gloss": "chariots",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yogā̭~",
+      "words": [
+       {
+        "w": "yogān",
+        "gloss": "teams, yokings",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱gnerupa̭",
+      "words": [
+       {
+        "w": "agneḥ",
+        "gloss": "Agni",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "upa",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "stuhi",
+      "words": [
+       {
+        "w": "stuhi",
+        "gloss": "praise",
+        "gram": "2 sg. impv. √stu"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-half break",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ya̱śasta̭masya",
+      "words": [
+       {
+        "w": "yaśastamasya",
+        "gloss": "most glorious",
+        "gram": "m. gen. sg. superl."
+       }
+      ]
+     },
+     {
+      "src": "mī̱ḻahuṣa̭:",
+      "words": [
+       {
+        "w": "mīḻhuṣaḥ",
+        "gloss": "bounteous",
+        "gram": "m. gen. sg. pf. part. √mih"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पुरस्कार की कामना करने वाले के समान अब अग्नि के रथों की, योगों (जुती हुई टोलियों) की स्तुति करो, जो अत्यन्त यशस्वी और उदार हैं।",
+  "english": "Now, like one seeking the prize, praise the chariots, the teams, of Agni, the most glorious, the bounteous.",
+  "text_flags": [
+   {
+    "src": "mī̱ḻahuṣa̭:",
+    "suggest": "mīḻhuṣaḥ",
+    "why": "possible: the printed form has an extra syllable (mīḻa-huṣaḥ, 9 syllables against 8 in the line); the word is read as the perfect participle mīḻhuṣ- of √mih"
+   }
+  ],
+  "notes": "yogān: taken as 'teams, yokings' (the yoked horses/chariot-teams); the exact sense of yoga here is not certain. vājayan iva taken as 'like one seeking the prize'. The two genitives in pāda b agree with agneḥ in pāda a. mīḻhuṣaḥ in the print has an extra syllable (see text_flags).",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sṷnī̱tho",
+      "words": [
+       {
+        "w": "sunīthaḥ",
+        "gloss": "good leader",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "da̭dā̱śuṣḙ",
+      "words": [
+       {
+        "w": "dadāśuṣe",
+        "gloss": "to the giver",
+        "gram": "m. dat. sg. pf. part. √dāś"
+       }
+      ]
+     },
+     {
+      "src": "'ju̱ryo",
+      "words": [
+       {
+        "w": "ajuryaḥ",
+        "gloss": "unageing",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱raya̭nna̱rim",
+      "words": [
+       {
+        "w": "jarayan",
+        "gloss": "making age",
+        "gram": "m. nom. sg. caus. pres. part. √jṝ"
+       },
+       {
+        "w": "arim",
+        "gloss": "foe",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-half break",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "cārṷpratīka̱",
+      "words": [
+       {
+        "w": "cāru-pratīkaḥ",
+        "gloss": "fair-faced",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "āhṷtaḥ",
+      "words": [
+       {
+        "w": "āhutaḥ",
+        "gloss": "offered to",
+        "gram": "m. nom. sg. ppp. ā-√hu"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो देने वाले के लिए उत्तम नेता है, जो अजर है, शत्रु को जीर्ण करता हुआ, सुन्दर मुख वाला और जिसे आहुति दी गई है।",
+  "english": "He who is a good leader to the giver, unageing, making the foe grow old, fair-faced, offered to.",
+  "text_flags": [],
+  "notes": "āhutaḥ could also be rendered 'invoked'. arim: 'foe' (ari, also 'stranger'); jarayan is the causative of √jṝ, 'making decay'. The relative yaḥ continues the sentence of verse 1 (Agni).",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ya",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṷ",
+      "words": [
+       {
+        "w": "u",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śri̱yā",
+      "words": [
+       {
+        "w": "śriyā",
+        "gloss": "with splendour",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "dame̱ṣvā",
+      "words": [
+       {
+        "w": "dameṣu",
+        "gloss": "in the houses",
+        "gram": "n. loc. pl."
+       },
+       {
+        "w": "ā",
+        "gloss": "at",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "do̱ṣoṣasi̭",
+      "words": [
+       {
+        "w": "doṣā",
+        "gloss": "in the evening",
+        "gram": "ind. (inst.)"
+       },
+       {
+        "w": "uṣasi",
+        "gloss": "at dawn",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "praśa̱syatḙ",
+      "words": [
+       {
+        "w": "praśasyate",
+        "gloss": "is praised",
+        "gram": "3 sg. pass. pra-√śaṃs"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-half break",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "yasya̭",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vra̱taṃ",
+      "words": [
+       {
+        "w": "vratam",
+        "gloss": "ordinance",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mīya̭te",
+      "words": [
+       {
+        "w": "mīyate",
+        "gloss": "is violated",
+        "gram": "3 sg. pass. √mī"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसकी घरों में सायंकाल और प्रभात में शोभा के साथ प्रशंसा की जाती है, जिसका व्रत भंग नहीं किया जाता।",
+  "english": "He who is praised with splendour in the houses at evening and at dawn, whose ordinance is not violated.",
+  "text_flags": [],
+  "notes": "ya u = yaḥ u. doṣā is taken as an adverb 'in the evening'. mīyate: 'is violated, is infringed' (√mī 'diminish, damage'); the sense is that his ordinance is not transgressed. dameṣu ā: ā read as a particle with the locative.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva1rṇa",
+      "words": [
+       {
+        "w": "svaḥ",
+        "gloss": "sun",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhā̱nunā̭",
+      "words": [
+       {
+        "w": "bhānunā",
+        "gloss": "with light",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ci̱tro",
+      "words": [
+       {
+        "w": "citraḥ",
+        "gloss": "bright",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱bhātya̱rciṣā̭",
+      "words": [
+       {
+        "w": "vibhāti",
+        "gloss": "shines",
+        "gram": "3 sg. pres. vi-√bhā"
+       },
+       {
+        "w": "arciṣā",
+        "gloss": "with flame",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-half break",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "a̱ñjā̱no",
+      "words": [
+       {
+        "w": "añjānaḥ",
+        "gloss": "adorning",
+        "gram": "m. nom. sg. pres. part. mid. √añj"
+       }
+      ]
+     },
+     {
+      "src": "a̱jarai̭ra̱bhi",
+      "words": [
+       {
+        "w": "ajaraiḥ",
+        "gloss": "with the unageing ones",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "abhi",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो सूर्य के समान अपनी किरण से प्रकट होकर चमकता है, विचित्र (तेजस्वी), ज्वाला से, अजर (शिखाओं) को सजाता हुआ।",
+  "english": "Who shines forth like the sun with his light, bright, with his flame, adorning with the unageing ones.",
+  "text_flags": [
+   {
+    "src": "sva1rṇa",
+    "suggest": "svarṇa",
+    "why": "the digit 1 is a stray accent mark (independent svarita); read svar na, 'like the sun'"
+   }
+  ],
+  "notes": "ajaraiḥ abhi: no noun is stated for 'the unageing ones'; the construction of abhi and of añjānaḥ is unclear, so the rendering is tentative. svar na read as 'like the sun/heaven's light'. ā ... vibhāti: tmesis, 'shines forth'.",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atri̱manṷ",
+      "words": [
+       {
+        "w": "atri-vat",
+        "gloss": "like Atri",
+        "gram": "ind. (uncertain)"
+       },
+       {
+        "w": "nu",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sva̱rājya̭ma̱gnimu̱kthāni̭",
+      "words": [
+       {
+        "w": "svarājyam",
+        "gloss": "sovereignty",
+        "gram": "n. acc. sg. (uncertain)"
+       },
+       {
+        "w": "agnim",
+        "gloss": "Agni",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ukthāni",
+        "gloss": "hymns",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vāvṛdhuḥ",
+      "words": [
+       {
+        "w": "vāvṛdhuḥ",
+        "gloss": "have strengthened",
+        "gram": "3 pl. pf. √vṛdh"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-half break",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "viśvā̱",
+      "words": [
+       {
+        "w": "viśvāḥ",
+        "gloss": "all",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "adhi̱",
+      "words": [
+       {
+        "w": "adhi",
+        "gloss": "upon",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śriyo̭",
+      "words": [
+       {
+        "w": "śriyaḥ",
+        "gloss": "splendours",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dadhe",
+      "words": [
+       {
+        "w": "dadhe",
+        "gloss": "has placed",
+        "gram": "3 sg. pf. mid. √dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अत्रि के समान अब स्वराज्य, अग्नि को स्तोत्रों ने बढ़ाया है। उसने सब शोभाएँ धारण की हैं।",
+  "english": "Like Atri, now, the hymns have strengthened Agni, the sovereign rule. He has taken on all splendours.",
+  "text_flags": [
+   {
+    "src": "atri̱manṷ",
+    "suggest": "atrivan nu",
+    "why": "possible: the printed form atrimanu is not a recognisable word; atrivat nu ('like Atri, now') is a likely reading but unverified"
+   }
+  ],
+  "notes": "The first token is doubtful and the reading 'like Atri, now' is tentative. svarājyam: taken as a noun 'sovereignty, self-rule' in apposition to agnim; the construction is uncertain. viśvāḥ adhi śriyaḥ dadhe: 'he has set (taken) all splendours upon himself'; the subject is Agni, not stated.",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱gnerindra̭sya̱",
+      "words": [
+       {
+        "w": "agneḥ",
+        "gloss": "of Agni",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "indrasya",
+        "gloss": "of Indra",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "soma̭sya",
+      "words": [
+       {
+        "w": "somasya",
+        "gloss": "of Soma",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vānā̭mū̱tibhi̭rva̱yam",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "ūtibhiḥ",
+        "gloss": "with the aids",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "verse-half break",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ari̭ṣyantaḥ",
+      "words": [
+       {
+        "w": "ariṣyantaḥ",
+        "gloss": "unharmed",
+        "gram": "m. nom. pl. pres. part. √riṣ"
+       }
+      ]
+     },
+     {
+      "src": "sacemahya̱bhi",
+      "words": [
+       {
+        "w": "sacemahi",
+        "gloss": "may we be accompanied",
+        "gram": "1 pl. opt. mid. √sac"
+       },
+       {
+        "w": "abhi",
+        "gloss": "over",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣyā̭ma",
+      "words": [
+       {
+        "w": "syāma",
+        "gloss": "may we be",
+        "gram": "1 pl. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "pṛtanya̱taḥ",
+      "words": [
+       {
+        "w": "pṛtanyataḥ",
+        "gloss": "those who fight",
+        "gram": "m. acc. pl. pres. part. √pṛtanya"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अग्नि, इन्द्र, सोम और देवों की सहायताओं से हम, अहिंसित रहते हुए, साथ पाएँ; हम युद्ध करने वालों पर विजयी हों।",
+  "english": "With the aids of Agni, Indra, Soma and the gods, may we, unharmed, be accompanied; may we overcome those who fight.",
+  "text_flags": [],
+  "notes": "abhi ṣyāma = abhi syāma ('may we get the better of'); ṣ is the correct sandhi after abhi. sacemahi (√sac, middle) is rendered 'may we be accompanied'; 'may we follow' is possible. pṛtanyataḥ: 'those who attack, hostile fighters' (denominative participle from pṛtanā).",
+  "confidence": "medium"
+ }
+]

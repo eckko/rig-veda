@@ -1,0 +1,1177 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hotā̭janiṣṭa̱",
+      "words": [
+       {
+        "w": "hotā",
+        "gloss": "Hotṛ priest",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ajaniṣṭa",
+        "gloss": "has been born",
+        "gram": "3 sg. aor. mid √jan"
+       }
+      ]
+     },
+     {
+      "src": "ceta̭naḥ",
+      "words": [
+       {
+        "w": "cetanaḥ",
+        "gloss": "attentive",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tā",
+      "words": [
+       {
+        "w": "pitā",
+        "gloss": "father",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tṛbhya̭",
+      "words": [
+       {
+        "w": "pitṛbhyaḥ",
+        "gloss": "for the fathers",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "ū̱tayḙ",
+      "words": [
+       {
+        "w": "ūtaye",
+        "gloss": "for help",
+        "gram": "f. dat. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pra̱yakṣa̱ñjenya̱ṃ",
+      "words": [
+       {
+        "w": "pra-yakṣan",
+        "gloss": "sacrificing",
+        "gram": "m. nom. sg. pres. part. √yaj"
+       },
+       {
+        "w": "jenyam",
+        "gloss": "noble",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vasṷ",
+      "words": [
+       {
+        "w": "vasu",
+        "gloss": "good thing",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱kema̭",
+      "words": [
+       {
+        "w": "śakema",
+        "gloss": "may we be able",
+        "gram": "1 pl. opt. √śak"
+       }
+      ]
+     },
+     {
+      "src": "vā̱jino̱",
+      "words": [
+       {
+        "w": "vājinaḥ",
+        "gloss": "of the prize-winners",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yama̭m",
+      "words": [
+       {
+        "w": "yamam",
+        "gloss": "restraint",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "होता, चेतन पिता, पितरों की सहायता के लिए उत्पन्न हुआ है। यज्ञ करते हुए हम उत्तम धन को, पुरस्कार जीतने वालों के संयम को, सँभालने में समर्थ हों।",
+  "english": "The Hotṛ priest, the attentive one, the father, has been born for the help of the fathers. Sacrificing, may we be able to hold the noble good, the restraint of the prize-winners.",
+  "text_flags": [],
+  "notes": "The second line is very unclear. prayakṣañ is taken as a present participle 'sacrificing' (it may be a different form of √yaj); jenya as 'noble'; vājinaḥ as genitive plural 'of the prize-winners'; yamam as the noun 'restraint'. The construction of śakema with the accusatives is a guess.",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "preverb",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yasmi̭n",
+      "words": [
+       {
+        "w": "yasmin",
+        "gloss": "in whom",
+        "gram": "m. loc. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "tsa̱pta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "ra̱śmaya̭sta̱tā",
+      "words": [
+       {
+        "w": "raśmayaḥ",
+        "gloss": "reins",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "tatāḥ",
+        "gloss": "stretched",
+        "gram": "m. nom. pl. ppp. √tan"
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñasya̭",
+      "words": [
+       {
+        "w": "yajñasya",
+        "gloss": "of the sacrifice",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ne̱tari̭",
+      "words": [
+       {
+        "w": "netari",
+        "gloss": "in the leader",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ma̱nu̱ṣvad",
+      "words": [
+       {
+        "w": "manuṣvat",
+        "gloss": "like Manu",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "daivya̭maṣṭa̱maṃ",
+      "words": [
+       {
+        "w": "daivyam",
+        "gloss": "divine",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "aṣṭamam",
+        "gloss": "eighth",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "potā̱",
+      "words": [
+       {
+        "w": "potā",
+        "gloss": "Potṛ priest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśva̱ṃ",
+      "words": [
+       {
+        "w": "viśvam",
+        "gloss": "all",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadi̭nvati",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "invati",
+        "gloss": "sets in motion",
+        "gram": "3 sg. pres. √inv"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसमें, यज्ञ के नेता में, सात रश्मियाँ फैली हुई हैं। मनु के समान दिव्य आठवाँ पोता उस सब को प्रेरित करता है।",
+  "english": "In whom, the leader of the sacrifice, seven reins are stretched. Like Manu, the Potṛ priest sets all that in motion, the divine eighth.",
+  "text_flags": [
+   {
+    "src": "tsapta",
+    "suggest": "sapta",
+    "why": "the t is a Vedic sandhi insertion after n before s (yasmin tsapta); not an error"
+   }
+  ],
+  "notes": "raśmi is taken as 'rein' (alternatively 'ray'). The accusatives daivyam aṣṭamam stand beside the nominative potā; the construction is unclear and is rendered as a loose apposition. manuṣvat could also be 'as in the time of Manu'. The antecedent of yasmin is not named in the verse.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "da̱dha̱nve",
+      "words": [
+       {
+        "w": "dadhanve",
+        "gloss": "has run",
+        "gram": "3 sg. pf. mid √dhanv"
+       }
+      ]
+     },
+     {
+      "src": "vā̱",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yadī̱manu̱",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "īm",
+        "gloss": "him",
+        "gram": "acc. sg. (pron.)"
+       },
+       {
+        "w": "anu",
+        "gloss": "after",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "voca̱d",
+      "words": [
+       {
+        "w": "vocat",
+        "gloss": "he spoke",
+        "gram": "3 sg. aor. √vac"
+       }
+      ]
+     },
+     {
+      "src": "brahmā̭ṇi̱",
+      "words": [
+       {
+        "w": "brahmāṇi",
+        "gloss": "prayers",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "veru̱",
+      "words": [
+       {
+        "w": "veḥ",
+        "gloss": "of the bird",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pari̱",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśvā̭ni̱",
+      "words": [
+       {
+        "w": "viśvāni",
+        "gloss": "all",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kāvyā̭",
+      "words": [
+       {
+        "w": "kāvyā",
+        "gloss": "wisdoms",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ne̱miśca̱krami̭vābhavat",
+      "words": [
+       {
+        "w": "nemiḥ",
+        "gloss": "felly",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "cakram",
+        "gloss": "wheel",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "abhavat",
+        "gloss": "he was",
+        "gram": "3 sg. impf. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "या उसने दौड़ लगाई है, या जब उसने उसके पीछे प्रार्थनाएँ कहीं; वह पक्षी का ही है। जैसे नेमि चक्र को, वैसे वह सब ज्ञानों को घेरने वाला हुआ।",
+  "english": "Either he has run, or when he spoke the prayers after him, that is indeed the bird's. Like a felly the wheel, he was around all the wisdoms.",
+  "text_flags": [],
+  "notes": "Very unclear verse. dadhanve (taken as perfect of √dhanv 'run') and veru (read as veḥ u 'of the bird, indeed') are tentative; the whole first line may be construed otherwise. brahmāṇi is rendered 'prayers'. In the second line the comparison nemiś cakram iva is taken literally: as the felly surrounds the wheel, he surrounds all wisdoms.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sā̱kaṃ",
+      "words": [
+       {
+        "w": "sākam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śuci̭nā̱",
+      "words": [
+       {
+        "w": "śucinā",
+        "gloss": "with the bright one",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuci̭:",
+      "words": [
+       {
+        "w": "śuciḥ",
+        "gloss": "bright",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "praśā̱stā",
+      "words": [
+       {
+        "w": "praśāstā",
+        "gloss": "director",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kratu̱nāja̭ni",
+      "words": [
+       {
+        "w": "kratunā",
+        "gloss": "by power",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "ajani",
+        "gloss": "has been born",
+        "gram": "3 sg. aor. pass. √jan"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vi̱dvā~",
+      "words": [
+       {
+        "w": "vidvān",
+        "gloss": "knowing",
+        "gram": "m. nom. sg. pf. part. √vid"
+       }
+      ]
+     },
+     {
+      "src": "a̭sya",
+      "words": [
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vra̱tā",
+      "words": [
+       {
+        "w": "vratā",
+        "gloss": "ordinances",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhru̱vā",
+      "words": [
+       {
+        "w": "dhruvā",
+        "gloss": "firm",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "va̱yā",
+      "words": [
+       {
+        "w": "vayā",
+        "gloss": "branch",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "i̱vānṷ",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rohate",
+      "words": [
+       {
+        "w": "rohate",
+        "gloss": "climbs",
+        "gram": "3 sg. pres. mid √ruh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि उज्ज्वल के साथ उज्ज्वल निर्देशक सामर्थ्य से उत्पन्न हुआ है। जानने वाला उसके दृढ़ व्रतों के साथ-साथ शाखा की भाँति ऊपर चढ़ता है।",
+  "english": "For together with the bright one the bright director has been born, by power. Knowing his firm ordinances, he climbs along them like a branch.",
+  "text_flags": [],
+  "notes": "praśāstṛ is rendered 'director' (it may name the Praśāstṛ priest). kratu is rendered 'power' (alternatively 'resolve, skill'). In the second line vayā is taken as a nominative singular 'branch'; the subject of rohate is vidvān; asya is Agni, understood from the hymn.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭sya̱",
+      "words": [
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṇa̭mā̱yuvo̱",
+      "words": [
+       {
+        "w": "varṇam",
+        "gloss": "colour",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āyuvaḥ",
+        "gloss": "mingling",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "neṣṭṷ:",
+      "words": [
+       {
+        "w": "neṣṭuḥ",
+        "gloss": "of the Neṣṭṛ priest",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sacanta",
+      "words": [
+       {
+        "w": "sacanta",
+        "gloss": "they followed",
+        "gram": "3 pl. impf. mid √sac"
+       }
+      ]
+     },
+     {
+      "src": "dhe̱nava̭:",
+      "words": [
+       {
+        "w": "dhenavaḥ",
+        "gloss": "milch cows",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ku̱vit",
+      "words": [
+       {
+        "w": "kuvit",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ti̱sṛbhya̱",
+      "words": [
+       {
+        "w": "tisṛbhyaḥ",
+        "gloss": "from the three",
+        "gram": "f. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vara̱ṃ",
+      "words": [
+       {
+        "w": "varam",
+        "gloss": "the better",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "svasā̭ro̱",
+      "words": [
+       {
+        "w": "svasāraḥ",
+        "gloss": "sisters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "who",
+        "gram": "f. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "i̱daṃ",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱yuḥ",
+      "words": [
+       {
+        "w": "yayuḥ",
+        "gloss": "they went",
+        "gram": "3 pl. pf. √yā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे दूध देने वाली गायें, मिलती हुई, उसके रंग के पीछे चलीं, जो नेष्टा का है। क्या वे बहनें, जो इस के पास गईं, तीन से श्रेष्ठ की ओर गईं?",
+  "english": "Those milch cows, mingling, followed his colour, that of the Neṣṭṛ priest. Indeed, the sisters who went to this one, from the three to the better.",
+  "text_flags": [],
+  "notes": "Unclear verse. āyuvaḥ is taken as 'mingling' (it may mean 'lively' or 'coming'); neṣṭuḥ is taken as the genitive of Neṣṭṛ, and its relation to varṇam is uncertain. In the second line the sense of kuvit, tisṛbhyaḥ ā varam and the 'sisters' is uncertain; the Hindi renders it as a question, the English keeps it as an incomplete statement. The 'three' are not named.",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yadī̭",
+      "words": [
+       {
+        "w": "yadī",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mā̱turupa̱",
+      "words": [
+       {
+        "w": "mātuḥ",
+        "gloss": "of the mother",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "upa",
+        "gloss": "near",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svasā̭",
+      "words": [
+       {
+        "w": "svasā",
+        "gloss": "sister",
+        "gram": "f. nom."
+       }
+      ]
+     },
+     {
+      "src": "ghṛ̱taṃ",
+      "words": [
+       {
+        "w": "ghṛtam",
+        "gloss": "ghee",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhara̱ntyasthi̭ta",
+      "words": [
+       {
+        "w": "bharanti",
+        "gloss": "they bring",
+        "gram": "3 pl. pres. √bhṛ"
+       },
+       {
+        "w": "asthita",
+        "gloss": "he stood",
+        "gram": "3 sg. aor. mid √sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tāsā̭madhva̱ryurāga̭tau̱",
+      "words": [
+       {
+        "w": "tāsām",
+        "gloss": "of them",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "adhvaryuḥ",
+        "gloss": "Adhvaryu priest",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āgatau",
+        "gloss": "at the coming",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yavo̭",
+      "words": [
+       {
+        "w": "yavaḥ",
+        "gloss": "barley",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱ṣṭīva̭",
+      "words": [
+       {
+        "w": "vṛṣṭi",
+        "gloss": "rain",
+        "gram": "f. loc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "modate",
+      "words": [
+       {
+        "w": "modate",
+        "gloss": "rejoices",
+        "gram": "3 sg. pres. mid √mud"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब माता के पास बहनें घी लाती हैं, वह खड़ा हुआ। उनके आने पर अध्वर्यु प्रसन्न होता है, जैसे जौ वर्षा में।",
+  "english": "When the sisters bring ghee to the mother, he stood. At their coming the Adhvaryu rejoices, like barley in the rain.",
+  "text_flags": [],
+  "notes": "svasā is a singular-looking form beside the plural verb bharanti; it is taken as 'sisters' (form unclear). The subject of asthita is not stated. vṛṣṭi iva is taken as a locative-like 'in the rain', a guess; the simile yavo vṛṣṭīva modate is rendered as barley rejoicing in rain.",
+  "confidence": "low"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svaḥ",
+      "words": [
+       {
+        "w": "svaḥ",
+        "gloss": "own",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svāya̱",
+      "words": [
+       {
+        "w": "svāya",
+        "gloss": "for his own",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhāya̭se",
+      "words": [
+       {
+        "w": "dhāyase",
+        "gloss": "for support",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇu̱tāmṛ̱tvigṛ̱tvija̭m",
+      "words": [
+       {
+        "w": "kṛṇutām",
+        "gloss": "let him make",
+        "gram": "3 sg. impv. mid √kṛ"
+       },
+       {
+        "w": "ṛtvik",
+        "gloss": "priest",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ṛtvijam",
+        "gloss": "priest",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "stoma̭ṃ",
+      "words": [
+       {
+        "w": "stomam",
+        "gloss": "praise",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñaṃ",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "cādara̭ṃ",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "ādaram",
+        "gloss": "reverence",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̱nemā̭",
+      "words": [
+       {
+        "w": "vanema",
+        "gloss": "may we win",
+        "gram": "1 pl. opt. √van"
+       }
+      ]
+     },
+     {
+      "src": "rari̱mā",
+      "words": [
+       {
+        "w": "rarima",
+        "gloss": "we have given",
+        "gram": "1 pl. pf. √rā"
+       }
+      ]
+     },
+     {
+      "src": "va̱yam",
+      "words": [
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "nom. pl. (pron.)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अपना ही ऋत्विक् अपने पोषण के लिए ऋत्विक् बनाए। स्तोम, यज्ञ और आदर को हम प्राप्त करें; हमने दिया है।",
+  "english": "Let one's own priest make a priest for his own support. May we win praise, sacrifice and reverence; we have given.",
+  "text_flags": [],
+  "notes": "Unclear. svaḥ svāya is taken as 'one's own, for his own'. The printed vanemā and rarimā show Vedic lengthening of the final vowel (vanema, rarima). rarima has no stated object. ādara is taken as 'reverence'.",
+  "confidence": "low"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yathā̭",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̱dvā~",
+      "words": [
+       {
+        "w": "vidvān",
+        "gloss": "knowing",
+        "gram": "m. nom. sg. pf. part. √vid"
+       }
+      ]
+     },
+     {
+      "src": "ara̱ṃ",
+      "words": [
+       {
+        "w": "aram",
+        "gloss": "fitly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kara̱d",
+      "words": [
+       {
+        "w": "karat",
+        "gloss": "he may make",
+        "gram": "3 sg. subj. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "viśvḙbhyo",
+      "words": [
+       {
+        "w": "viśvebhyaḥ",
+        "gloss": "for all",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "yaja̱tebhya̭:",
+      "words": [
+       {
+        "w": "yajatebhyaḥ",
+        "gloss": "for the adorable",
+        "gram": "m. dat. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱yama̭gne̱",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tve",
+      "words": [
+       {
+        "w": "tve",
+        "gloss": "in you",
+        "gram": "loc. sg. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "api̱",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "which",
+        "gram": "m. acc. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñaṃ",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̭kṛ̱mā",
+      "words": [
+       {
+        "w": "cakṛma",
+        "gloss": "we have made",
+        "gram": "1 pl. pf. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "va̱yam",
+      "words": [
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "nom. pl. (pron.)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिससे जानने वाला सब पूजनीय देवों के लिए उचित व्यवस्था करे। हे अग्नि, यह भी तुझमें है, वह यज्ञ जो हमने किया है।",
+  "english": "So that, knowing, he may make things fit for all the adorable ones. This, O Agni, is also in you, the sacrifice that we have made.",
+  "text_flags": [],
+  "notes": "The object of karat is not expressed; 'things' in the translation is not in the text, and the sense of aram karat is 'make fit, make ready'. The printed cakṛmā shows Vedic lengthening (cakṛma). ayam ... yaṃ yajñam is taken as 'this ... the sacrifice which'.",
+  "confidence": "medium"
+ }
+]

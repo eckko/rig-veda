@@ -1,0 +1,990 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱māṃ",
+      "words": [
+       {
+        "w": "imām",
+        "gloss": "this",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mḙ",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "gen. sg. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "agne",
+      "words": [
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱midha̭mi̱māmṷpa̱sada̭ṃ",
+      "words": [
+       {
+        "w": "samidham",
+        "gloss": "fuel",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "imām",
+        "gloss": "this",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "upasadam",
+        "gloss": "homage",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaneḥ",
+      "words": [
+       {
+        "w": "vaneḥ",
+        "gloss": "accept",
+        "gram": "2 sg. aor. inj. √van"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "i̱mā",
+      "words": [
+       {
+        "w": "imāḥ",
+        "gloss": "these",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱",
+      "words": [
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣu",
+      "words": [
+       {
+        "w": "su",
+        "gloss": "well",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śrṷdhī̱",
+      "words": [
+       {
+        "w": "śrudhi",
+        "gloss": "hear",
+        "gram": "2 sg. impv. √śru"
+       }
+      ]
+     },
+     {
+      "src": "gira̭:",
+      "words": [
+       {
+        "w": "giraḥ",
+        "gloss": "hymns",
+        "gram": "f. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे अग्नि, मेरी इस समिधा को और इस सेवा को स्वीकार करो; इन स्तुतियों को भली-भाँति सुनो।",
+  "english": "O Agni, accept this fuel of mine, this homage; hear well these hymns.",
+  "text_flags": [],
+  "notes": "samidh is taken as 'fuel' (kindling) and upasad as 'homage' (literally approach, service); vaneḥ is read as a 2 sg. injunctive of √van used with the force of an imperative ('accept'). The printed ṣu is su with Vedic retroflexion after u.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱yā",
+      "words": [
+       {
+        "w": "ayā",
+        "gloss": "with this",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "dat. sg. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "agne",
+      "words": [
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vidhe̱morjo̭",
+      "words": [
+       {
+        "w": "vidhema",
+        "gloss": "may we worship",
+        "gram": "1 pl. opt. √vidh"
+       },
+       {
+        "w": "ūrjaḥ",
+        "gloss": "of strength",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "napā̱daśva̭miṣṭe",
+      "words": [
+       {
+        "w": "napāt",
+        "gloss": "son",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "aśvam",
+        "gloss": "horse",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "iṣṭe",
+        "gloss": "he seeks",
+        "gram": "3 sg. pres. mid √iṣ"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "e̱nā",
+      "words": [
+       {
+        "w": "enā",
+        "gloss": "with this",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sū̱ktena̭",
+      "words": [
+       {
+        "w": "sūktena",
+        "gloss": "with the good hymn",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sujāta",
+      "words": [
+       {
+        "w": "su-jāta",
+        "gloss": "O well-born",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे अग्नि, इस स्तुति से हम तुम्हारी सेवा करें, हे बल के पुत्र; घोड़े को चाहता है; इस सुन्दर सूक्त से, हे सुजात।",
+  "english": "With this, O Agni, may we worship you, O son of strength, he seeks the horse; with this good hymn, O well-born one.",
+  "text_flags": [],
+  "notes": "Unclear: the words napād aśvam iṣṭe are uncertain. iṣṭe is taken as 3 sg. of √iṣ (seek) and aśvam as 'horse', but the form and its subject are unclear and it may be construed otherwise (as an address, or as part of a compound). ayā (with this) has no stated noun; 'hymn' is likely but is not stated. ūrjo napāt is a standing address to Agni.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvā̭",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "gī̱rbhirgirva̭ṇasaṃ",
+      "words": [
+       {
+        "w": "gīrbhiḥ",
+        "gloss": "with hymns",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "girvaṇasam",
+        "gloss": "delighting in hymns",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "draviṇa̱syuṃ",
+      "words": [
+       {
+        "w": "draviṇasyum",
+        "gloss": "wealth-seeking",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dra̭viṇodaḥ",
+      "words": [
+       {
+        "w": "draviṇodaḥ",
+        "gloss": "O giver of wealth",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "sa̱pa̱ryema̭",
+      "words": [
+       {
+        "w": "saparyema",
+        "gloss": "may we serve",
+        "gram": "1 pl. opt. √sapar"
+       }
+      ]
+     },
+     {
+      "src": "sapa̱ryava̭:",
+      "words": [
+       {
+        "w": "saparyavaḥ",
+        "gloss": "serving",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे धन देने वाले, स्तुतियों से प्रसन्न होने वाले, धन चाहने वाले उस तुमको हम सेवा करते हुए स्तुतियों से पूजें।",
+  "english": "Him, you, delighting in hymns, wealth-seeking, O giver of wealth, may we serve with hymns, we who serve.",
+  "text_flags": [],
+  "notes": "girvaṇas is taken as 'delighting in hymns' and draviṇasyu as 'wealth-seeking' (an adjective formed from draviṇa); its exact sense (seeking wealth for oneself or for the worshipper) is uncertain. saparyavaḥ 'serving, eager to serve' is taken with saparyema.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bo̭dhi",
+      "words": [
+       {
+        "w": "bodhi",
+        "gloss": "be mindful",
+        "gram": "2 sg. impv. √budh"
+       }
+      ]
+     },
+     {
+      "src": "sū̱rirma̱ghavā̱",
+      "words": [
+       {
+        "w": "sūriḥ",
+        "gloss": "patron",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "maghavā",
+        "gloss": "bountiful",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vasṷpate̱",
+      "words": [
+       {
+        "w": "vasu-pate",
+        "gloss": "O lord of wealth",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vasṷdāvan",
+      "words": [
+       {
+        "w": "vasu-dāvan",
+        "gloss": "O giver of wealth",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "yu̱yo̱dhya1smad",
+      "words": [
+       {
+        "w": "yuyodhi",
+        "gloss": "keep away",
+        "gram": "2 sg. impv. √yu"
+       },
+       {
+        "w": "asmat",
+        "gloss": "from us",
+        "gram": "abl. pl. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "dveṣā̭ṃsi",
+      "words": [
+       {
+        "w": "dveṣāṃsi",
+        "gloss": "hatreds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह तुम, उदार संरक्षक, हे धन के स्वामी, हे धन देने वाले, ध्यान दो; हमसे द्वेषों को दूर रखो।",
+  "english": "Be mindful, you patron, the bountiful one, O lord of wealth, O giver of wealth; keep hatreds away from us.",
+  "text_flags": [
+   {
+    "src": "yuyodhya1smad",
+    "suggest": "yuyodhi asmat",
+    "why": "the digit 1 inside the word looks like a footnote or note marker; the word is yuyodhy asmat by sandhi"
+   }
+  ],
+  "notes": "The printed yuyodhya1smad contains a digit 1 in the middle of the word, which looks like a footnote marker; it is read as yuyodhi asmat (yuyodhy asmat). sūri is rendered 'patron'; maghavan is taken as an epithet 'bountiful' (it is also a name-like epithet of Indra, not used here as a name).",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "dat. pl. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱ṣṭiṃ",
+      "words": [
+       {
+        "w": "vṛṣṭim",
+        "gloss": "rain",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "di̱vaspari̱",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "from heaven",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "pari",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "no̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "dat. pl. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "vāja̭mana̱rvāṇa̭m",
+      "words": [
+       {
+        "w": "vājam",
+        "gloss": "prize",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anarvāṇam",
+        "gloss": "unassailable",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na̭:",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "dat. pl. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "saha̱sriṇī̱riṣa̭:",
+      "words": [
+       {
+        "w": "sahasriṇīḥ",
+        "gloss": "thousandfold",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "iṣaḥ",
+        "gloss": "refreshments",
+        "gram": "f. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह हमारे लिए आकाश से वर्षा, वह हमारे लिए अजेय पुरस्कार, वह हमारे लिए सहस्रगुणा अन्न।",
+  "english": "He for us: rain from heaven; he for us: an unassailable prize; he for us: thousandfold refreshments.",
+  "text_flags": [],
+  "notes": "The verse has no verb; an imperative such as 'send' or 'give' is understood from the context, and nothing is added in the translation. anarvan is taken as 'unassailable'; vāja is the glossary's 'prize'; iṣ is rendered 'refreshments'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "īḻā̭nāyāva̱syave̱",
+      "words": [
+       {
+        "w": "īḻānāya",
+        "gloss": "for the praising one",
+        "gram": "m. dat. sg. pres. part. mid √īḍ"
+       },
+       {
+        "w": "avasyave",
+        "gloss": "for the one seeking help",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "yavi̭ṣṭha",
+      "words": [
+       {
+        "w": "yaviṣṭha",
+        "gloss": "O youngest",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dūta",
+      "words": [
+       {
+        "w": "dūta",
+        "gloss": "O messenger",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "no",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "gi̱rā",
+      "words": [
+       {
+        "w": "girā",
+        "gloss": "by the hymn",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "yaji̭ṣṭha",
+      "words": [
+       {
+        "w": "yajiṣṭha",
+        "gloss": "O best worshipper",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hota̱rā",
+      "words": [
+       {
+        "w": "hotar",
+        "gloss": "O Hotṛ priest",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ga̭hi",
+      "words": [
+       {
+        "w": "gahi",
+        "gloss": "come",
+        "gram": "2 sg. impv. √gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे सबसे युवा, हे दूत, हमारी स्तुति से, स्तुति करने वाले और सहायता चाहने वाले के पास, हे सर्वश्रेष्ठ यजन करने वाले, हे होता, आओ।",
+  "english": "For the one who praises, seeking help, O youngest, O messenger, by our hymn, O best worshipper, O Hotṛ priest, come here.",
+  "text_flags": [],
+  "notes": "The datives īḻānāya avasyave are taken to refer to the worshipper(s) speaking (naḥ). yaviṣṭha 'youngest' and yajiṣṭha 'best worshipper' (best sacrificer) are standard superlatives. gahi is the root-aorist imperative of √gam.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱ntarhya̭gna̱",
+      "words": [
+       {
+        "w": "antar",
+        "gloss": "between",
+        "gram": "ind."
+       },
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "īya̭se",
+      "words": [
+       {
+        "w": "īyase",
+        "gloss": "you go",
+        "gram": "2 sg. pres. mid √i"
+       }
+      ]
+     },
+     {
+      "src": "vi̱dvān",
+      "words": [
+       {
+        "w": "vidvān",
+        "gloss": "knowing",
+        "gram": "m. nom. sg. pf. part. √vid"
+       }
+      ]
+     },
+     {
+      "src": "janmo̱bhayā̭",
+      "words": [
+       {
+        "w": "janma",
+        "gloss": "births",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "ubhayā",
+        "gloss": "both",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kave",
+      "words": [
+       {
+        "w": "kave",
+        "gloss": "O seer",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "dū̱to",
+      "words": [
+       {
+        "w": "dūtaḥ",
+        "gloss": "messenger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "janyḙva̱",
+      "words": [
+       {
+        "w": "janyā",
+        "gloss": "kinsfolk",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mitrya̭:",
+      "words": [
+       {
+        "w": "mitryaḥ",
+        "gloss": "friendly",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे अग्नि, तुम दोनों जन्मों को जानने वाले होकर, हे कवि, दूत की भाँति बीच में जाते हो, बन्धुओं के समान मित्रवत्।",
+  "english": "For you go between, O Agni, knowing both births, O seer, as a messenger, friendly, like kinsfolk.",
+  "text_flags": [],
+  "notes": "The words janma ubhayā 'both births' are rendered literally; the text does not say which two. antar is read as 'between' and left without an explicit object. janyā iva is unclear: janya is taken as 'kin, belonging to the people' and the form is a guess, so the simile is tentative.",
+  "confidence": "low"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱dvā~",
+      "words": [
+       {
+        "w": "vidvān",
+        "gloss": "knowing",
+        "gram": "m. nom. sg. pf. part. √vid"
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "preverb",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̭",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "piprayo̱",
+      "words": [
+       {
+        "w": "piprayaḥ",
+        "gloss": "you gladden",
+        "gram": "2 sg. inj. caus. √prī"
+       }
+      ]
+     },
+     {
+      "src": "yakṣi̭",
+      "words": [
+       {
+        "w": "yakṣi",
+        "gloss": "worship",
+        "gram": "2 sg. impv. √yaj"
+       }
+      ]
+     },
+     {
+      "src": "cikitva",
+      "words": [
+       {
+        "w": "cikitvaḥ",
+        "gloss": "O discerning one",
+        "gram": "m. voc. sg. pf. part. √cit"
+       }
+      ]
+     },
+     {
+      "src": "ānu̱ṣak",
+      "words": [
+       {
+        "w": "ānuṣak",
+        "gloss": "in due order",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "preverb",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cā̱smin",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asmin",
+        "gloss": "on this",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tsa̭tsi",
+      "words": [
+       {
+        "w": "satsi",
+        "gloss": "sit",
+        "gram": "2 sg. aor. subj. √sad"
+       }
+      ]
+     },
+     {
+      "src": "ba̱rhiṣi̭",
+      "words": [
+       {
+        "w": "barhiṣi",
+        "gloss": "on the sacred grass",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह तुम जानने वाले होकर प्रसन्न करते हो और क्रम से यजन करो, हे विवेकी; और इस बर्हि पर बैठो।",
+  "english": "You, the knowing one, gladden and worship in due order, O discerning one; and sit on this sacred grass.",
+  "text_flags": [],
+  "notes": "The printed tsatsi is satsi: the t is a Vedic sandhi insertion after n before s (asmin tsatsi), not an error. The objects of piprayaḥ and yakṣi (presumably the gods) are not stated. piprayaḥ is read as an injunctive, yakṣi as an imperative and satsi as a subjunctive used as an imperative; the translation follows the surface mood. saḥ is rendered 'you' as it is in apposition with the 2nd-person verbs.",
+  "confidence": "medium"
+ }
+]

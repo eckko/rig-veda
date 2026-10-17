@@ -1,0 +1,2947 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jā̱ta",
+      "words": [
+       {
+        "w": "jātaḥ",
+        "gloss": "born",
+        "gram": "m. nom. sg. ppp. √jan"
+       }
+      ]
+     },
+     {
+      "src": "e̱va",
+      "words": [
+       {
+        "w": "eva",
+        "gloss": "just, as soon as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pra̭tha̱mo",
+      "words": [
+       {
+        "w": "prathamaḥ",
+        "gloss": "first",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mana̭svān",
+      "words": [
+       {
+        "w": "manasvān",
+        "gloss": "wise",
+        "gram": "m. nom. sg. (manas-vant)"
+       }
+      ]
+     },
+     {
+      "src": "de̱vo",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vān",
+      "words": [
+       {
+        "w": "devān",
+        "gloss": "the gods",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kratṷnā",
+      "words": [
+       {
+        "w": "kratunā",
+        "gloss": "by resolve",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱ryabhṷ̄ṣat",
+      "words": [
+       {
+        "w": "pari-abhūṣat",
+        "gloss": "surpassed",
+        "gram": "3 sg. impf. pari-√bhūṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yasya̱",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "rel. pron. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuṣmā̱d",
+      "words": [
+       {
+        "w": "śuṣmāt",
+        "gloss": "from the vigour",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "roda̭sī̱",
+      "words": [
+       {
+        "w": "rodasī",
+        "gloss": "the two worlds",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "abhya̭setāṃ",
+      "words": [
+       {
+        "w": "abhi-asetām",
+        "gloss": "trembled",
+        "gram": "3 du. impf. mid. (root uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "nṛ̱mṇasya̭",
+      "words": [
+       {
+        "w": "nṛmṇasya",
+        "gloss": "of manly strength",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱hnā",
+      "words": [
+       {
+        "w": "mahnā",
+        "gloss": "by the greatness",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāsa̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो उत्पन्न होते ही प्रथम बुद्धिमान् देव होकर अपने संकल्प से देवों से आगे बढ़ गया; जिसके बल से, उसके पौरुष की महिमा से, दोनों लोक काँप उठे — हे जनो, वही इन्द्र है।",
+  "english": "He who, just born, the first, a wise god, surpassed the gods in resolve; at whose vigour the two worlds trembled, through the greatness of his manly strength — he, O people, is Indra.",
+  "text_flags": [],
+  "notes": "paryabhūṣat: pari-√bhūṣ, 'surround, adorn, excel'; 'surpassed' chosen, alternatives 'encompassed', 'adorned'. abhyasetām: root and sense not certain; 'trembled' follows the common rendering. rodasī: 'the two worlds' (Heaven and Earth). kratu rendered 'resolve' (alternatives: will, power of mind).",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛ̭thi̱vīṃ",
+      "words": [
+       {
+        "w": "pṛthivīm",
+        "gloss": "the earth",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyatha̭mānā̱madṛ̭ṃha̱d",
+      "words": [
+       {
+        "w": "vyathamānām",
+        "gloss": "trembling",
+        "gram": "f. acc. sg. pres. part. mid. vi-√vyath"
+       },
+       {
+        "w": "adṛṃhat",
+        "gloss": "made firm",
+        "gram": "3 sg. impf. √dṛṃh"
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "parva̭tā̱n",
+      "words": [
+       {
+        "w": "parvatān",
+        "gloss": "mountains",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prakṷpitā̱~",
+      "words": [
+       {
+        "w": "prakupitān",
+        "gloss": "agitated",
+        "gram": "m. acc. pl. ppp. pra-√kup"
+       }
+      ]
+     },
+     {
+      "src": "ara̭mṇāt",
+      "words": [
+       {
+        "w": "aramṇāt",
+        "gloss": "stilled",
+        "gram": "3 sg. impf. √ram"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱ntari̭kṣaṃ",
+      "words": [
+       {
+        "w": "antarikṣam",
+        "gloss": "the atmosphere",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vima̱me",
+      "words": [
+       {
+        "w": "vimame",
+        "gloss": "measured out",
+        "gram": "3 sg. pf. mid. vi-√mā"
+       }
+      ]
+     },
+     {
+      "src": "varī̭yo̱",
+      "words": [
+       {
+        "w": "varīyaḥ",
+        "gloss": "wider",
+        "gram": "n. acc. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dyāmasta̭bhnā̱t",
+      "words": [
+       {
+        "w": "dyām",
+        "gloss": "heaven",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "astabhnāt",
+        "gloss": "propped up",
+        "gram": "3 sg. impf. √stambh"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāsa̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसने काँपती हुई पृथिवी को दृढ़ किया, जिसने क्षुब्ध पर्वतों को शान्त किया; जिसने अत्यन्त विस्तृत अन्तरिक्ष को नापा और जिसने द्युलोक को थामा — हे जनो, वही इन्द्र है।",
+  "english": "He who made firm the trembling earth, who stilled the agitated mountains; who measured out the wider atmosphere and propped up heaven — he, O people, is Indra.",
+  "text_flags": [],
+  "notes": "The text has 'yaḥ' (printed yo/yaḥ) before each clause; fine. The tokens 'vyathamānām' and 'prakupitān' are read as adjectives in agreement with 'earth' and 'mountains'. varīyaḥ taken as neuter accusative agreeing with antarikṣam.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ha̱tvāhi̱mari̭ṇāt",
+      "words": [
+       {
+        "w": "hatvā",
+        "gloss": "having slain",
+        "gram": "abs. √han"
+       },
+       {
+        "w": "ahim",
+        "gloss": "the serpent",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ariṇāt",
+        "gloss": "released",
+        "gram": "3 sg. impf. √ri"
+       }
+      ]
+     },
+     {
+      "src": "sa̱pta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "numeral"
+       }
+      ]
+     },
+     {
+      "src": "sindhū̱n",
+      "words": [
+       {
+        "w": "sindhūn",
+        "gloss": "rivers",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gā",
+      "words": [
+       {
+        "w": "gāḥ",
+        "gloss": "cows",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱dāja̭dapa̱dhā",
+      "words": [
+       {
+        "w": "ud-ājat",
+        "gloss": "drove out",
+        "gram": "3 sg. impf. ud-√aj"
+       },
+       {
+        "w": "apadhā",
+        "gloss": "from the enclosure",
+        "gram": "f. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "va̱lasya̭",
+      "words": [
+       {
+        "w": "valasya",
+        "gloss": "of Vala",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "aśma̭nora̱ntara̱gniṃ",
+      "words": [
+       {
+        "w": "aśmanoḥ",
+        "gloss": "of the two stones",
+        "gram": "m. gen. du."
+       },
+       {
+        "w": "antaḥ",
+        "gloss": "between",
+        "gram": "ind."
+       },
+       {
+        "w": "agnim",
+        "gloss": "Agni",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱jāna̭",
+      "words": [
+       {
+        "w": "jajāna",
+        "gloss": "begot",
+        "gram": "3 sg. pf. √jan"
+       }
+      ]
+     },
+     {
+      "src": "sa̱ṃvṛk",
+      "words": [
+       {
+        "w": "saṃvṛk",
+        "gloss": "crushing",
+        "gram": "m. nom. sg. root noun sam-√vṛj (sense uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "sa̱matsu̱",
+      "words": [
+       {
+        "w": "samatsu",
+        "gloss": "in battles",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāsa̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसने सर्प को मारकर सात नदियों को छोड़ा; जिसने वल के बाड़े से गायों को बाहर निकाला; जिसने दो पत्थरों के बीच अग्नि को उत्पन्न किया और जो युद्धों में चूर करने वाला है — हे जनो, वही इन्द्र है।",
+  "english": "He who, having slain the serpent, released the seven rivers; who drove the cows out from the enclosure of Vala; who begot Agni between the two stones, crushing in battles — he, O people, is Indra.",
+  "text_flags": [],
+  "notes": "apadhā: form and case not certain (taken as 'from the enclosure, hiding place'). saṃvṛk: sense of the root noun uncertain ('crusher', 'gatherer'); 'crushing' chosen. 'agnim' could be read as fire rather than the god Agni; Agni chosen per glossary.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yene̱mā",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by whom",
+        "gram": "rel. pron. m. inst. sg."
+       },
+       {
+        "w": "imā",
+        "gloss": "these",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "viśvā̱",
+      "words": [
+       {
+        "w": "viśvā",
+        "gloss": "all",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "cyava̭nā",
+      "words": [
+       {
+        "w": "cyavanā",
+        "gloss": "upheavals",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̱tāni̱",
+      "words": [
+       {
+        "w": "kṛtāni",
+        "gloss": "done",
+        "gram": "n. nom. pl. ppp. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dāsa̱ṃ",
+      "words": [
+       {
+        "w": "dāsam",
+        "gloss": "Dāsa",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṇa̱madha̭ra̱ṃ",
+      "words": [
+       {
+        "w": "varṇam",
+        "gloss": "colour",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "adharam",
+        "gloss": "lower",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "guhāka̭:",
+      "words": [
+       {
+        "w": "guhā",
+        "gloss": "in hiding",
+        "gram": "f. inst./loc. sg."
+       },
+       {
+        "w": "akaḥ",
+        "gloss": "made",
+        "gram": "3 sg. aor. √kṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śva̱ghnīva̱",
+      "words": [
+       {
+        "w": "śvaghnī",
+        "gloss": "gambler",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ji̭gī̱vā~",
+      "words": [
+       {
+        "w": "jigīvān",
+        "gloss": "having won",
+        "gram": "m. nom. sg. pf. part. √ji"
+       }
+      ]
+     },
+     {
+      "src": "la̱kṣamāda̭da̱ryaḥ",
+      "words": [
+       {
+        "w": "lakṣam",
+        "gloss": "the stake",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ādat",
+        "gloss": "took",
+        "gram": "3 sg. aor. ā-√dā"
+       },
+       {
+        "w": "aryaḥ",
+        "gloss": "of the stranger",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pu̱ṣṭāni̱",
+      "words": [
+       {
+        "w": "puṣṭāni",
+        "gloss": "possessions",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāsa̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके द्वारा ये सब उथल-पुथल के कार्य किए गए; जिसने दास वर्ण को नीचा करके छिपा दिया; जिसने जीते हुए जुआरी की तरह दाँव को, पराये की सम्पत्तियों को ले लिया — हे जनो, वही इन्द्र है।",
+  "english": "He by whom all these upheavals were done; who made the Dāsa colour lower, hidden away; who, like a gambler who has won, took the stake, the possessions of the stranger — he, O people, is Indra.",
+  "text_flags": [],
+  "notes": "cyavanā: 'upheavals' (shakings, movements) not certain. 'guhā akaḥ': taken as 'made it hidden'. aryaḥ may also be read 'of the master' or 'of the foe'; 'stranger' chosen. puṣṭāni (ppp. 'nourished') taken as a noun 'possessions'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "rel. pron. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "smā̭",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛ̱cchanti̱",
+      "words": [
+       {
+        "w": "pṛcchanti",
+        "gloss": "they ask",
+        "gram": "3 pl. pres. √prach"
+       }
+      ]
+     },
+     {
+      "src": "kuha̱",
+      "words": [
+       {
+        "w": "kuha",
+        "gloss": "where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "seti̭",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gho̱ramu̱temā̭hu̱rnaiṣo",
+      "words": [
+       {
+        "w": "ghoram",
+        "gloss": "terrible",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "īm",
+        "gloss": "him",
+        "gram": "ind. (part.)"
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they say",
+        "gram": "3 pl. pf. √ah"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣaḥ",
+        "gloss": "this one",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱stītyḙnam",
+      "words": [
+       {
+        "w": "asti",
+        "gloss": "is",
+        "gram": "3 sg. pres. √as"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "pron. m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "so",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱ryaḥ",
+      "words": [
+       {
+        "w": "aryaḥ",
+        "gloss": "of the stranger",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pu̱ṣṭīrvija̭",
+      "words": [
+       {
+        "w": "puṣṭīḥ",
+        "gloss": "prosperities",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "vijaḥ",
+        "gloss": "gambler",
+        "gram": "m. nom. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "i̱vā",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mi̭nāti̱",
+      "words": [
+       {
+        "w": "mināti",
+        "gloss": "diminishes",
+        "gram": "3 sg. pres. √mī"
+       }
+      ]
+     },
+     {
+      "src": "śrada̭smai",
+      "words": [
+       {
+        "w": "śrat",
+        "gloss": "faith",
+        "gram": "ind."
+       },
+       {
+        "w": "asmai",
+        "gloss": "in him",
+        "gram": "pron. m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhatta̱",
+      "words": [
+       {
+        "w": "dhatta",
+        "gloss": "place",
+        "gram": "2 pl. impv. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāsa̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस भयंकर के विषय में वे पूछते हैं कि 'वह कहाँ है?' और उसके विषय में कहते हैं कि 'वह नहीं है'; वह जुआरी की तरह पराये की समृद्धियों को घटा देता है। उसमें श्रद्धा रखो; हे जनो, वही इन्द्र है।",
+  "english": "He of whom, the terrible one, they ask 'Where is he?' and of whom they say 'He is not'; he diminishes the prosperities of the stranger like a gambler. Place your faith in him; he, O people, is Indra.",
+  "text_flags": [],
+  "notes": "vijaḥ: form and sense uncertain; 'gambler' follows the common rendering (compare śvaghnī in verse 4). aryaḥ: 'stranger' (alternatives master, foe). 'śrat asmai dhatta': 'place faith in him'. īm taken as an emphatic particle.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ra̱dhrasya̭",
+      "words": [
+       {
+        "w": "radhrasya",
+        "gloss": "of the weak",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "codi̱tā",
+      "words": [
+       {
+        "w": "coditā",
+        "gloss": "impeller",
+        "gram": "m. nom. sg. (agent noun)"
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̱śasya̱",
+      "words": [
+       {
+        "w": "kṛśasya",
+        "gloss": "of the lean",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bra̱hmaṇo̱",
+      "words": [
+       {
+        "w": "brahmaṇaḥ",
+        "gloss": "of the Brahman priest",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nādha̭mānasya",
+      "words": [
+       {
+        "w": "nādhamānasya",
+        "gloss": "of the begging one",
+        "gram": "m. gen. sg. pres. part. mid. √nādh"
+       }
+      ]
+     },
+     {
+      "src": "kī̱reḥ",
+      "words": [
+       {
+        "w": "kīreḥ",
+        "gloss": "of the praiser",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yu̱ktagrā̭vṇo̱",
+      "words": [
+       {
+        "w": "yukta-grāvṇaḥ",
+        "gloss": "of him whose pressing stones are yoked",
+        "gram": "bahuvrīhi m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo'vi̱tā",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       },
+       {
+        "w": "avitā",
+        "gloss": "protector",
+        "gram": "m. nom. sg. (agent noun)"
+       }
+      ]
+     },
+     {
+      "src": "sṷśi̱praḥ",
+      "words": [
+       {
+        "w": "su-śipraḥ",
+        "gloss": "fair-lipped",
+        "gram": "bahuvrīhi m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱taso̭masya̱",
+      "words": [
+       {
+        "w": "suta-somasya",
+        "gloss": "of him who has pressed Soma",
+        "gram": "bahuvrīhi m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāsa̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो दुर्बल का, कृश का, याचना करने वाले ब्रह्मा का और स्तुति करने वाले का प्रेरक है; जो सुन्दर होठों वाला, जुते हुए पाषाणों वाले का और सोम निचोड़ चुके का रक्षक है — हे जनो, वही इन्द्र है।",
+  "english": "He who is the impeller of the weak, of the lean, of the Brahman priest who begs, of the praiser; who, fair-lipped, is the protector of him whose pressing stones are yoked, of him who has pressed Soma — he, O people, is Indra.",
+  "text_flags": [],
+  "notes": "radhra: 'weak' is uncertain (alternatives: compliant, devoted). brahmaṇaḥ taken as a priest (masc.), the Brahman priest; it could also be read as 'of the prayer'. śipra: lips, jaws or helmet; 'fair-lipped' chosen. 'yukta-grāvan': 'pressing stones yoked' taken literally.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasyāśvā̭saḥ",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "rel. pron. m. gen. sg."
+       },
+       {
+        "w": "aśvāsaḥ",
+        "gloss": "horses",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pra̱diśi̱",
+      "words": [
+       {
+        "w": "pra-diśi",
+        "gloss": "under the direction",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yasya̱",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "rel. pron. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "gāvo̱",
+      "words": [
+       {
+        "w": "gāvaḥ",
+        "gloss": "cows",
+        "gram": "m./f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yasya̱",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "rel. pron. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "grāmā̱",
+      "words": [
+       {
+        "w": "grāmāḥ",
+        "gloss": "villages",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yasya̱",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "rel. pron. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśve̱",
+      "words": [
+       {
+        "w": "viśve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rathā̭saḥ",
+      "words": [
+       {
+        "w": "rathāsaḥ",
+        "gloss": "chariots",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūrya̱ṃ",
+      "words": [
+       {
+        "w": "sūryam",
+        "gloss": "the sun",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "u̱ṣasa̭ṃ",
+      "words": [
+       {
+        "w": "uṣasam",
+        "gloss": "the dawn",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱jāna̱",
+      "words": [
+       {
+        "w": "jajāna",
+        "gloss": "begot",
+        "gram": "3 sg. pf. √jan"
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱pāṃ",
+      "words": [
+       {
+        "w": "apām",
+        "gloss": "of the waters",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ne̱tā",
+      "words": [
+       {
+        "w": "netā",
+        "gloss": "leader",
+        "gram": "m. nom. sg. (agent noun)"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāsa̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके निर्देश में अश्व हैं, जिसके निर्देश में गौएँ हैं, जिसके ग्राम हैं, जिसके सब रथ हैं; जिसने सूर्य को और उषा को उत्पन्न किया; जो जलों का नेता है — हे जनो, वही इन्द्र है।",
+  "english": "He under whose direction are the horses and the cows, whose are the villages, whose are all the chariots; who begot the sun and the dawn; who is the leader of the waters — he, O people, is Indra.",
+  "text_flags": [],
+  "notes": "pradiśi stands once, between 'horses' and 'cows'; taken with both. grāma may also mean 'host, company'; 'villages' chosen.",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "rel. pron. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kranda̭sī",
+      "words": [
+       {
+        "w": "krandasī",
+        "gloss": "the two armies",
+        "gram": "n./f. nom. du. (sense uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "saṃya̱tī",
+      "words": [
+       {
+        "w": "saṃyatī",
+        "gloss": "clashing",
+        "gram": "f. nom. du. pres. part. sam-√i"
+       }
+      ]
+     },
+     {
+      "src": "vi̱hvayḙte̱",
+      "words": [
+       {
+        "w": "vihvayete",
+        "gloss": "call upon",
+        "gram": "3 du. pres. mid. vi-√hve"
+       }
+      ]
+     },
+     {
+      "src": "pare'va̭ra",
+      "words": [
+       {
+        "w": "pare",
+        "gloss": "the farther",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "avare",
+        "gloss": "the nearer",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱bhayā̭",
+      "words": [
+       {
+        "w": "ubhayāḥ",
+        "gloss": "both",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱mitrā̭:",
+      "words": [
+       {
+        "w": "amitrāḥ",
+        "gloss": "foes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa̱mā̱naṃ",
+      "words": [
+       {
+        "w": "samānam",
+        "gloss": "same",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ci̱d",
+      "words": [
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ratha̭mātasthi̱vāṃsā̱",
+      "words": [
+       {
+        "w": "ratham",
+        "gloss": "chariot",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ātasthivāṃsā",
+        "gloss": "having mounted",
+        "gram": "m. nom. du. pf. part. ā-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "nānā̭",
+      "words": [
+       {
+        "w": "nānā",
+        "gloss": "separately",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "havete̱",
+      "words": [
+       {
+        "w": "havete",
+        "gloss": "call",
+        "gram": "3 du. pres. mid. √hve"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāsa̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसे दो भिड़ती हुई सेनाएँ पुकारती हैं, दूर के और निकट के, दोनों प्रकार के शत्रु; एक ही रथ पर चढ़े हुए दो भी उसे अलग-अलग पुकारते हैं — हे जनो, वही इन्द्र है।",
+  "english": "He whom the two armies, clashing, call upon, the farther and the nearer, both sets of foes; even two who have mounted the same chariot call upon him separately — he, O people, is Indra.",
+  "text_flags": [],
+  "notes": "krandasī: dual of krandas, 'two armies' (literally the two crying hosts); sense and gender not certain. The construction of 'pare avare ubhayāḥ amitrāḥ' as apposition to krandasī is a reading, not certain.",
+  "confidence": "medium"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yasmā̱nna",
+      "words": [
+       {
+        "w": "yasmāt",
+        "gloss": "than whom",
+        "gram": "rel. pron. m. abl. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṛ̱te",
+      "words": [
+       {
+        "w": "ṛte",
+        "gloss": "without",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̱jaya̭nte̱",
+      "words": [
+       {
+        "w": "vijayante",
+        "gloss": "conquer",
+        "gram": "3 pl. pres. mid. vi-√ji"
+       }
+      ]
+     },
+     {
+      "src": "janā̭so̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "people",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "rel. pron. m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yudhya̭mānā̱",
+      "words": [
+       {
+        "w": "yudhyamānāḥ",
+        "gloss": "fighting",
+        "gram": "m. nom. pl. pres. part. mid. √yudh"
+       }
+      ]
+     },
+     {
+      "src": "ava̭se̱",
+      "words": [
+       {
+        "w": "avase",
+        "gloss": "for help",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "hava̭nte",
+      "words": [
+       {
+        "w": "havante",
+        "gloss": "call",
+        "gram": "3 pl. pres. mid. √hve"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśva̭sya",
+      "words": [
+       {
+        "w": "viśvasya",
+        "gloss": "of everything",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "prati̱māna̭ṃ",
+      "words": [
+       {
+        "w": "pratimānam",
+        "gloss": "counterpart",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ba̱bhūva̱",
+      "words": [
+       {
+        "w": "babhūva",
+        "gloss": "became",
+        "gram": "3 sg. pf. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭cyuta̱cyut",
+      "words": [
+       {
+        "w": "acyuta-cyut",
+        "gloss": "shaker of the unshaken",
+        "gram": "tat-puruṣa m. nom. sg. root noun √cyu"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāsa̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके बिना लोग विजय नहीं पाते, जिसे लड़ने वाले सहायता के लिए पुकारते हैं, जो सबका प्रतिरूप हुआ, जो अचल को भी हिला देता है — हे जनो, वही इन्द्र है।",
+  "english": "He without whom people do not conquer, whom those who fight call upon for help; who has become the counterpart of everything; who shakes the unshaken — he, O people, is Indra.",
+  "text_flags": [],
+  "notes": "'yasmāt na ṛte' = 'without whom' (ṛte with the ablative). pratimāna: counterpart or equal; 'counterpart' chosen.",
+  "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaśva̭to̱",
+      "words": [
+       {
+        "w": "śaśvataḥ",
+        "gloss": "the many",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mahyeno̱",
+      "words": [
+       {
+        "w": "mahi",
+        "gloss": "great",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "enaḥ",
+        "gloss": "offence",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadhā̭nā̱nama̭nyamānā̱ñcharvā̭",
+      "words": [
+       {
+        "w": "dadhānān",
+        "gloss": "committing",
+        "gram": "m. acc. pl. pres. part. mid. √dhā"
+       },
+       {
+        "w": "amanyamānān",
+        "gloss": "showing no regard",
+        "gram": "m. acc. pl. pres. part. mid. a-√man"
+       },
+       {
+        "w": "śarvā",
+        "gloss": "with the arrow",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱ghāna̭",
+      "words": [
+       {
+        "w": "jaghāna",
+        "gloss": "slew",
+        "gram": "3 sg. pf. √han"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śardha̭te̱",
+      "words": [
+       {
+        "w": "śardhate",
+        "gloss": "to the insolent",
+        "gram": "m. dat. sg. pres. part. √śardh"
+       }
+      ]
+     },
+     {
+      "src": "nānu̱dadā̭ti",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "anudadāti",
+        "gloss": "concedes",
+        "gram": "3 sg. pres. anu-√dā"
+       }
+      ]
+     },
+     {
+      "src": "śṛ̱dhyāṃ",
+      "words": [
+       {
+        "w": "śṛdhyām",
+        "gloss": "audacity",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dasyo̭rha̱ntā",
+      "words": [
+       {
+        "w": "dasyoḥ",
+        "gloss": "of the Dasyu",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "hantā",
+        "gloss": "slayer",
+        "gram": "m. nom. sg. (agent noun)"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāsa̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसने बाण से उन बहुतों को मारा जो बड़ा अपराध करते हुए आदर नहीं करते; जो उद्दण्ड को धृष्टता की छूट नहीं देता; जो दस्यु का हन्ता है — हे जनो, वही इन्द्र है।",
+  "english": "He who with the arrow slew the many who commit great offence and show no regard; who does not concede audacity to the insolent; who is the slayer of the Dasyu — he, O people, is Indra.",
+  "text_flags": [],
+  "notes": "The first line is a hard construction: mahi enaḥ dadhānān ('putting great offence') and amanyamānān are taken as two participles of the 'many'; śarvā is taken as the instrumental of śaru 'arrow'. śṛdhyām: 'audacity' uncertain. Verbs and objects of line b: 'na anudadāti śṛdhyām' = 'does not concede audacity'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śamba̭ra̱ṃ",
+      "words": [
+       {
+        "w": "śambaram",
+        "gloss": "Śambara",
+        "gram": "m. acc. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "parva̭teṣu",
+      "words": [
+       {
+        "w": "parvateṣu",
+        "gloss": "in the mountains",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṣi̱yanta̭ṃ",
+      "words": [
+       {
+        "w": "kṣiyantam",
+        "gloss": "dwelling",
+        "gram": "m. acc. sg. pres. part. √kṣi"
+       }
+      ]
+     },
+     {
+      "src": "catvāri̱ṃśyāṃ",
+      "words": [
+       {
+        "w": "catvāriṃśyām",
+        "gloss": "fortieth",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱radya̱nvavi̭ndat",
+      "words": [
+       {
+        "w": "śaradi",
+        "gloss": "in the autumn",
+        "gram": "f. loc. sg."
+       },
+       {
+        "w": "anu-avindat",
+        "gloss": "found",
+        "gram": "3 sg. impf. anu-√vid"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "o̱jā̱yamā̭na̱ṃ",
+      "words": [
+       {
+        "w": "ojāyamānam",
+        "gloss": "displaying might",
+        "gram": "m. acc. sg. pres. part. mid. denom."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ahi̭ṃ",
+      "words": [
+       {
+        "w": "ahim",
+        "gloss": "the serpent",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱ghāna̱",
+      "words": [
+       {
+        "w": "jaghāna",
+        "gloss": "slew",
+        "gram": "3 sg. pf. √han"
+       }
+      ]
+     },
+     {
+      "src": "dānu̱ṃ",
+      "words": [
+       {
+        "w": "dānum",
+        "gloss": "Dānu",
+        "gram": "m. acc. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "śayā̭na̱ṃ",
+      "words": [
+       {
+        "w": "śayānam",
+        "gloss": "lying",
+        "gram": "m. acc. sg. pres. part. mid. √śī"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāsa̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसने पर्वतों में रहते हुए शम्बर को चालीसवें शरद् में पाया; जिसने बल दिखाते हुए सर्प को, लेटे हुए दानु को, मारा — हे जनो, वही इन्द्र है।",
+  "english": "He who found Śambara dwelling in the mountains in the fortieth autumn; who slew the serpent displaying its might, Dānu, as he lay — he, O people, is Indra.",
+  "text_flags": [],
+  "notes": "'fortieth autumn' (śarad = autumn or year). Dānu is taken as a name in apposition to the serpent; it could also be a common noun.",
+  "confidence": "medium"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱ptara̭śmirvṛṣa̱bhastuvi̭ṣmāna̱vāsṛ̭ja̱t",
+      "words": [
+       {
+        "w": "sapta-raśmiḥ",
+        "gloss": "seven-reined",
+        "gram": "bahuvrīhi m. nom. sg."
+       },
+       {
+        "w": "vṛṣabhaḥ",
+        "gloss": "bull",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tuviṣmān",
+        "gloss": "mighty",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ava-asṛjat",
+        "gloss": "released",
+        "gram": "3 sg. impf. ava-√sṛj"
+       }
+      ]
+     },
+     {
+      "src": "sarta̭ve",
+      "words": [
+       {
+        "w": "sartave",
+        "gloss": "to flow",
+        "gram": "dat. inf. √sṛ"
+       }
+      ]
+     },
+     {
+      "src": "sa̱pta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "numeral"
+       }
+      ]
+     },
+     {
+      "src": "sindhṷ̄n",
+      "words": [
+       {
+        "w": "sindhūn",
+        "gloss": "rivers",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "raṷhi̱ṇamasphṷra̱d",
+      "words": [
+       {
+        "w": "rauhiṇam",
+        "gloss": "Rauhiṇa",
+        "gram": "m. acc. sg. (name)"
+       },
+       {
+        "w": "asphurat",
+        "gloss": "struck down",
+        "gram": "3 sg. impf. √sphur"
+       }
+      ]
+     },
+     {
+      "src": "vajra̭bāhu̱rdyāmā̱roha̭nta̱ṃ",
+      "words": [
+       {
+        "w": "vajra-bāhuḥ",
+        "gloss": "with the vajra in his arm",
+        "gram": "bahuvrīhi m. nom. sg."
+       },
+       {
+        "w": "dyām",
+        "gloss": "heaven",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ārohantam",
+        "gloss": "climbing",
+        "gram": "m. acc. sg. pres. part. ā-√ruh"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāsa̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसने सात लगामों वाले, बैल जैसे बलवान् होकर, सात नदियों को बहने के लिए छोड़ा; जिसने बाहु में वज्र धारण करके द्युलोक पर चढ़ते हुए रौहिण को मार गिराया — हे जनो, वही इन्द्र है।",
+  "english": "He who, seven-reined, a bull, mighty, released the seven rivers to flow; who, with the vajra in his arm, struck down Rauhiṇa as he climbed to heaven — he, O people, is Indra.",
+  "text_flags": [],
+  "notes": "saptaraśmi: raśmi can be rein or ray; 'seven-reined' chosen. Rauhiṇa is a name (compare the demon of that name); only the name is kept. asphurat: 'struck down' (√sphur, to strike, hurl).",
+  "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dyāvā̭",
+      "words": [
+       {
+        "w": "dyāvā",
+        "gloss": "Heaven",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "cidasmai",
+      "words": [
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "asmai",
+        "gloss": "to him",
+        "gram": "pron. m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vī",
+      "words": [
+       {
+        "w": "pṛthivī",
+        "gloss": "Earth",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "na̭mete̱",
+      "words": [
+       {
+        "w": "namete",
+        "gloss": "bow",
+        "gram": "3 du. pres. mid. √nam"
+       }
+      ]
+     },
+     {
+      "src": "śuṣmā̭ccidasya̱",
+      "words": [
+       {
+        "w": "śuṣmāt",
+        "gloss": "from the fury",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "pron. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "parva̭tā",
+      "words": [
+       {
+        "w": "parvatāḥ",
+        "gloss": "mountains",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhayante",
+      "words": [
+       {
+        "w": "bhayante",
+        "gloss": "fear",
+        "gram": "3 pl. pres. mid. √bhī"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "so̭ma̱pā",
+      "words": [
+       {
+        "w": "soma-pāḥ",
+        "gloss": "Soma-drinker",
+        "gram": "tat-puruṣa m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni̭ci̱to",
+      "words": [
+       {
+        "w": "nicitaḥ",
+        "gloss": "firmly set",
+        "gram": "m. nom. sg. ppp. ni-√ci (sense uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "vajra̭bāhu̱ryo",
+      "words": [
+       {
+        "w": "vajra-bāhuḥ",
+        "gloss": "with the vajra in his arm",
+        "gram": "bahuvrīhi m. nom. sg."
+       },
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vajra̭hasta̱:",
+      "words": [
+       {
+        "w": "vajra-hastaḥ",
+        "gloss": "with the vajra in his hand",
+        "gram": "bahuvrīhi m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāsa̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "द्यावा और पृथिवी उसके सामने झुकते हैं; पर्वत भी उसके बल से डरते हैं। जो सोमपायी, दृढ़ स्थित, बाहु में वज्र धारण करने वाला है, जो हाथ में वज्र रखने वाला है — हे जनो, वही इन्द्र है।",
+  "english": "Heaven and Earth bow to him; even the mountains fear his fury. He who is the Soma-drinker, firmly set, with the vajra in his arm, who has the vajra in his hand — he, O people, is Indra.",
+  "text_flags": [],
+  "notes": "dyāvā ... pṛthivī are two dual nominatives, rendered 'Heaven and Earth'. nicitaḥ (ni-√ci): sense uncertain ('firmly set', 'attentive'). 'asmai' (dative) rendered 'to him'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱nvanta̱mava̭ti̱",
+      "words": [
+       {
+        "w": "sunvantam",
+        "gloss": "the one pressing",
+        "gram": "m. acc. sg. pres. part. √su"
+       },
+       {
+        "w": "avati",
+        "gloss": "helps",
+        "gram": "3 sg. pres. √av"
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "paca̭nta̱ṃ",
+      "words": [
+       {
+        "w": "pacantam",
+        "gloss": "the one cooking",
+        "gram": "m. acc. sg. pres. part. √pac"
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaṃsa̭nta̱ṃ",
+      "words": [
+       {
+        "w": "śaṃsantam",
+        "gloss": "the one reciting",
+        "gram": "m. acc. sg. pres. part. √śaṃs"
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̭śamā̱namū̱tī",
+      "words": [
+       {
+        "w": "śaśamānam",
+        "gloss": "the one toiling",
+        "gram": "m. acc. sg. pf. part. mid. √śam"
+       },
+       {
+        "w": "ūtī",
+        "gloss": "with aid",
+        "gram": "f. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yasya̱",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "rel. pron. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahma̱",
+      "words": [
+       {
+        "w": "brahma",
+        "gloss": "prayer",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vardha̭na̱ṃ",
+      "words": [
+       {
+        "w": "vardhanam",
+        "gloss": "strengthening",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yasya̱",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "rel. pron. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "somo̱",
+      "words": [
+       {
+        "w": "somaḥ",
+        "gloss": "Soma",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yasye̱daṃ",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "rel. pron. m. gen. sg."
+       },
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rādha̱:",
+      "words": [
+       {
+        "w": "rādhaḥ",
+        "gloss": "bounty",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nāsa̱",
+      "words": [
+       {
+        "w": "janāsaḥ",
+        "gloss": "O people",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो सोम निचोड़ने वाले की, पकाने वाले की, स्तुति करने वाले की और परिश्रम करने वाले की सहायता से रक्षा करता है; जिसकी स्तुति बढ़ाने वाली है, जिसका सोम है, जिसकी यह उदारता है — हे जनो, वही इन्द्र है।",
+  "english": "He who helps with aid the one who presses, the one who cooks, the one who recites, the one who toils; whose is the strengthening prayer, whose is the Soma, whose is this bounty — he, O people, is Indra.",
+  "text_flags": [],
+  "notes": "brahma taken as the neuter 'prayer'. rādhas 'bounty'. śaśamāna: 'toiling' (labouring in the rite).",
+  "confidence": "medium"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "rel. pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sṷnva̱te",
+      "words": [
+       {
+        "w": "sunvate",
+        "gloss": "for the one pressing",
+        "gram": "m. dat. sg. pres. part. mid. √su"
+       }
+      ]
+     },
+     {
+      "src": "paca̭te",
+      "words": [
+       {
+        "w": "pacate",
+        "gloss": "for the one cooking",
+        "gram": "m. dat. sg. pres. part. mid. √pac"
+       }
+      ]
+     },
+     {
+      "src": "du̱dhra",
+      "words": [
+       {
+        "w": "dudhraḥ",
+        "gloss": "unyielding",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "preverb with dardarṣi",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ci̱d",
+      "words": [
+       {
+        "w": "cit",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāja̱ṃ",
+      "words": [
+       {
+        "w": "vājam",
+        "gloss": "the prize",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "darda̭rṣi̱",
+      "words": [
+       {
+        "w": "dardarṣi",
+        "gloss": "you break",
+        "gram": "2 sg. intens. ā-√dṛ"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that one",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kilā̭si",
+      "words": [
+       {
+        "w": "kila",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "sa̱tyaḥ",
+      "words": [
+       {
+        "w": "satyaḥ",
+        "gloss": "true",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "va̱yaṃ",
+      "words": [
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "pron. 1 pl. nom."
+       }
+      ]
+     },
+     {
+      "src": "ta̭",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "pron. 2 sg. gen."
+       }
+      ]
+     },
+     {
+      "src": "indra",
+      "words": [
+       {
+        "w": "indra",
+        "gloss": "Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱śvaha̭",
+      "words": [
+       {
+        "w": "viśvahā",
+        "gloss": "every day",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pri̱yāsa̭:",
+      "words": [
+       {
+        "w": "priyāsaḥ",
+        "gloss": "dear",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "su̱vīrā̭so",
+      "words": [
+       {
+        "w": "su-vīrāsaḥ",
+        "gloss": "rich in heroes",
+        "gram": "bahuvrīhi m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vi̱datha̱mā",
+      "words": [
+       {
+        "w": "vidatham",
+        "gloss": "rite",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "at",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭dema",
+      "words": [
+       {
+        "w": "vadema",
+        "gloss": "may we speak",
+        "gram": "1 pl. opt. √vad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तू जो अजेय रूप से सोम निचोड़ने वाले और पकाने वाले के लिए पुरस्कार को खोल देता है, तू निश्चय ही सत्य है। हे इन्द्र, तेरे प्रिय होकर, उत्तम वीरों से युक्त होकर, हम प्रतिदिन यज्ञ में बोलें।",
+  "english": "You who, unyielding, break open the prize for the one who presses and for the one who cooks, you indeed are true. May we, Indra, always dear to you, rich in heroes, speak at the rite.",
+  "text_flags": [],
+  "notes": "The relative clause begins in the third person and ends in the second ('saḥ kila asi satyaḥ'). 'ā ... dardarṣi' is a split verb ā-√dṛ (intensive/perfect form), 'break open'. 'vidatham ā vadema' taken as 'speak at/to the rite'.",
+  "confidence": "medium"
+ }
+]

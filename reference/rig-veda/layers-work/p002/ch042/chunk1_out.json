@@ -1,0 +1,576 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kani̭kradajja̱nuṣa̭ṃ",
+      "words": [
+       {
+        "w": "kanikradat",
+        "gloss": "crying out",
+        "gram": "m. nom. sg. pres. part. intens. √krand"
+       },
+       {
+        "w": "januṣam",
+        "gloss": "birth, kind",
+        "gram": "n. acc. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "prabruvā̱ṇa",
+      "words": [
+       {
+        "w": "prabruvāṇaḥ",
+        "gloss": "proclaiming",
+        "gram": "m. nom. sg. pres. part. mid. pra-√brū"
+       }
+      ]
+     },
+     {
+      "src": "iya̭rti̱",
+      "words": [
+       {
+        "w": "iyarti",
+        "gloss": "sends forth",
+        "gram": "3 sg. pres. √ṛ"
+       }
+      ]
+     },
+     {
+      "src": "vāca̭mari̱teva̱",
+      "words": [
+       {
+        "w": "vācam",
+        "gloss": "voice",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "aritā",
+        "gloss": "oarsman",
+        "gram": "m. nom. sg. (uncertain)"
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nāva̭m",
+      "words": [
+       {
+        "w": "nāvam",
+        "gloss": "boat",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "su̱ma̱ṅgala̭śca",
+      "words": [
+       {
+        "w": "su-maṅgalaḥ",
+        "gloss": "of good omen",
+        "gram": "m. nom. sg. bahuvrīhi"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śakune̱",
+      "words": [
+       {
+        "w": "śakune",
+        "gloss": "O bird",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhavā̭si̱",
+      "words": [
+       {
+        "w": "bhavāsi",
+        "gloss": "may you be",
+        "gram": "2 sg. opt. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā̱",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kā",
+      "words": [
+       {
+        "w": "kā",
+        "gloss": "any",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ci̭dabhi̱bhā",
+      "words": [
+       {
+        "w": "cit",
+        "gloss": "at all",
+        "gram": "ind."
+       },
+       {
+        "w": "abhibhā",
+        "gloss": "overpowering",
+        "gram": "f. nom. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "viśvyā̭",
+      "words": [
+       {
+        "w": "viśvyā",
+        "gloss": "all-pervading",
+        "gram": "f. nom. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "vidat",
+      "words": [
+       {
+        "w": "vidat",
+        "gloss": "may find",
+        "gram": "3 sg. aor. subj. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पुकारता हुआ, अपनी जाति की घोषणा करता हुआ वह अपनी वाणी को ऐसे छोड़ता है जैसे नाविक नाव को। हे पक्षी, तुम शुभ लक्षण वाले हो जाओ; कोई भी अभिभूत करने वाली, सर्वव्यापी शक्ति तुम्हें न पाए।",
+  "english": "Crying out, proclaiming his kind, he sends forth his voice like an oarsman a boat. And be of good omen, O bird; may no overpowering, all-pervading one at all find you.",
+  "text_flags": [],
+  "notes": "Obscure. januṣam is taken as \"birth, kind\"; aritā iva nāvam is read \"like an oarsman (drives) a boat\" with the verb carried over from iyarti. abhibhā and viśvyā are f. nom. sg. forms agreeing with kā, sense unclear (\"overpowering, all-pervading\"). The verse could also mean \"may no all-pervading overpowering (thing) find you\".",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā̭",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śye̱na",
+      "words": [
+       {
+        "w": "śyenaḥ",
+        "gloss": "hawk",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ud",
+      "words": [
+       {
+        "w": "ud",
+        "gloss": "up",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭dhī̱nmā",
+      "words": [
+       {
+        "w": "vadhīt",
+        "gloss": "strike",
+        "gram": "3 sg. aor. inj. √vadh"
+       },
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sṷpa̱rṇo",
+      "words": [
+       {
+        "w": "suparṇaḥ",
+        "gloss": "fair-winged bird",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā̭",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vida̱diṣṷmān",
+      "words": [
+       {
+        "w": "vidat",
+        "gloss": "may find",
+        "gram": "3 sg. aor. subj. √vid"
+       },
+       {
+        "w": "iṣu-mān",
+        "gloss": "having arrows",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vī̱ro",
+      "words": [
+       {
+        "w": "vīraḥ",
+        "gloss": "hero, man",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "astā̭",
+      "words": [
+       {
+        "w": "astā",
+        "gloss": "archer, thrower",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pitryā̱manṷ",
+      "words": [
+       {
+        "w": "pitryām",
+        "gloss": "of the fathers",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pra̱diśa̱ṃ",
+      "words": [
+       {
+        "w": "pra-diśam",
+        "gloss": "direction",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kani̭kradat",
+      "words": [
+       {
+        "w": "kanikradat",
+        "gloss": "crying out",
+        "gram": "m. nom. sg. pres. part. intens. √krand"
+       }
+      ]
+     },
+     {
+      "src": "suma̱ṅgalo̭",
+      "words": [
+       {
+        "w": "su-maṅgalaḥ",
+        "gloss": "of good omen",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhadravā̱dī",
+      "words": [
+       {
+        "w": "bhadra-vādī",
+        "gloss": "speaking good",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "va̭de̱ha",
+      "words": [
+       {
+        "w": "vada",
+        "gloss": "speak",
+        "gram": "2 sg. impv. √vad"
+       },
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हें न बाज़ मार गिराए, न सुपर्ण, और न बाण वाला वीर धनुर्धर तुम्हें पाए। पितरों की दिशा के साथ-साथ पुकारते हुए, शुभ लक्षण वाले, कल्याणकारी वचन बोलने वाले, यहाँ बोलो।",
+  "english": "Let not the hawk strike you down, nor the fair-winged bird; let not the hero with arrows, the archer, find you. Crying out along the direction of the fathers, of good omen, speaking what is good, speak here.",
+  "text_flags": [],
+  "notes": "ud vadhīt: the exact force of ud with √vadh is uncertain (\"strike up / strike down\"). suparṇa is \"fair-winged\" (a bird) and is not identified further. pitryām pradiśam rendered literally as \"the direction of the fathers\"; no interpretation of which quarter is meant is applied.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ava̭",
+      "words": [
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kranda",
+      "words": [
+       {
+        "w": "kranda",
+        "gloss": "cry",
+        "gram": "2 sg. impv. √krand"
+       }
+      ]
+     },
+     {
+      "src": "dakṣiṇa̱to",
+      "words": [
+       {
+        "w": "dakṣiṇataḥ",
+        "gloss": "from the right, south",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛ̱hāṇā̭ṃ",
+      "words": [
+       {
+        "w": "gṛhāṇām",
+        "gloss": "of the houses",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "suma̱ṅgalo̭",
+      "words": [
+       {
+        "w": "su-maṅgalaḥ",
+        "gloss": "of good omen",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "bhadravā̱dī",
+      "words": [
+       {
+        "w": "bhadra-vādī",
+        "gloss": "speaking good",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "śa̭kunte",
+      "words": [
+       {
+        "w": "śakunte",
+        "gloss": "O bird",
+        "gram": "f. voc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na̭:",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ste̱na",
+      "words": [
+       {
+        "w": "stenaḥ",
+        "gloss": "thief",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ī̭śata̱",
+      "words": [
+       {
+        "w": "īśata",
+        "gloss": "may have power",
+        "gram": "3 sg. subj. mid. √īś"
+       }
+      ]
+     },
+     {
+      "src": "māghaśa̭ṃso",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "nor",
+        "gram": "ind."
+       },
+       {
+        "w": "agha-śaṃsaḥ",
+        "gloss": "speaker of evil",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "bṛ̱had",
+      "words": [
+       {
+        "w": "bṛhat",
+        "gloss": "greatly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭dema",
+      "words": [
+       {
+        "w": "vadema",
+        "gloss": "may we speak",
+        "gram": "1 pl. opt. √vad"
+       }
+      ]
+     },
+     {
+      "src": "vi̱dathḙ",
+      "words": [
+       {
+        "w": "vidathe",
+        "gloss": "in the rite",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱vīrā̭:",
+      "words": [
+       {
+        "w": "su-vīrāḥ",
+        "gloss": "rich in heroes",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "घरों के दक्षिण की ओर से पुकारो, हे शुभ लक्षण वाले, कल्याणकारी वचन बोलने वाले पक्षी। न चोर हम पर अधिकार करे, न बुरी बात कहने वाला; हम उत्तम वीरों से युक्त होकर यज्ञ में महान् वचन बोलें।",
+  "english": "Cry out from the right side of the houses, O bird of good omen, speaking what is good. Let neither a thief nor a speaker of evil have power over us; may we, rich in heroes, speak greatly in the rite.",
+  "text_flags": [],
+  "notes": "dakṣiṇataḥ is \"from the right\" or \"from the south\"; the more literal \"right side\" is used. śakunte is taken as a feminine vocative (śakunti); it could be a masculine form of the same bird. na̭: in line 2 is naḥ (colon = visarga).",
+  "confidence": "medium"
+ }
+]

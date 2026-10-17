@@ -1,0 +1,1053 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trika̭drukeṣu",
+      "words": [
+       {
+        "w": "trikadrukeṣu",
+        "gloss": "in the Trikadrukas",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mahi̱ṣo",
+      "words": [
+       {
+        "w": "mahiṣaḥ",
+        "gloss": "mighty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yavā̭śiraṃ",
+      "words": [
+       {
+        "w": "yavāśiram",
+        "gloss": "mixed with barley",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tuvi̱śuṣma̭stṛ̱pat",
+      "words": [
+       {
+        "w": "tuvi-śuṣmaḥ",
+        "gloss": "very strong",
+        "gram": "m. nom. sg. bahuvrīhi"
+       },
+       {
+        "w": "tṛpat",
+        "gloss": "delighted",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "soma̭mapiba̱d",
+      "words": [
+       {
+        "w": "somam",
+        "gloss": "Soma",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "apibat",
+        "gloss": "he drank",
+        "gram": "3 sg. impf. √pā"
+       }
+      ]
+     },
+     {
+      "src": "viṣṇṷnā",
+      "words": [
+       {
+        "w": "viṣṇunā",
+        "gloss": "with Viṣṇu",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱taṃ",
+      "words": [
+       {
+        "w": "sutam",
+        "gloss": "pressed",
+        "gram": "m. acc. sg. ppp. √su"
+       }
+      ]
+     },
+     {
+      "src": "yathāva̭śat",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "as",
+        "gram": "ind."
+       },
+       {
+        "w": "avaśat",
+        "gloss": "he wished",
+        "gram": "3 sg. impf. √vaś"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ī̭ṃ",
+      "words": [
+       {
+        "w": "īm",
+        "gloss": "it",
+        "gram": "ind. particle"
+       }
+      ]
+     },
+     {
+      "src": "mamāda̱",
+      "words": [
+       {
+        "w": "mamāda",
+        "gloss": "he rejoiced",
+        "gram": "3 sg. pf. √mad"
+       }
+      ]
+     },
+     {
+      "src": "mahi̱",
+      "words": [
+       {
+        "w": "mahi",
+        "gloss": "great",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karma̱",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "action",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "karta̭ve",
+      "words": [
+       {
+        "w": "kartave",
+        "gloss": "to do",
+        "gram": "dat. inf. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "ma̱hāmu̱ruṃ",
+      "words": [
+       {
+        "w": "mahām",
+        "gloss": "great",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "urum",
+        "gloss": "wide",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saina̭ṃ",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saścad",
+      "words": [
+       {
+        "w": "saścat",
+        "gloss": "may he attend",
+        "gram": "3 sg. aor. subj. √sac"
+       }
+      ]
+     },
+     {
+      "src": "de̱vo",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vaṃ",
+      "words": [
+       {
+        "w": "devam",
+        "gloss": "god",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱tyamindra̭ṃ",
+      "words": [
+       {
+        "w": "satyam",
+        "gloss": "true",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "indram",
+        "gloss": "Indra",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱tya",
+      "words": [
+       {
+        "w": "satyaḥ",
+        "gloss": "true",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "indṷ:",
+      "words": [
+       {
+        "w": "induḥ",
+        "gloss": "drop",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "त्रिकद्रुकों में महान् और अत्यन्त बलवान् ने तृप्त होकर जौ से मिला, विष्णु के साथ निचोड़ा हुआ सोम, जैसी इच्छा हुई वैसा पिया। वह उससे बड़ा कर्म करने के लिए हर्षित हुआ। उस महान् और विशाल देव, सत्य इन्द्र का वह देव, सत्य इन्दु अनुसरण करे।",
+  "english": "In the Trikadrukas the mighty one, very strong, delighted, drank the Soma mixed with barley, pressed with Viṣṇu, as he wished. He rejoiced in it to do a great action. May the true drop, a god, attend him, the great and wide, the god, the true Indra.",
+  "text_flags": [],
+  "notes": "The subject of line 1 is not named; Indra is clear from the refrain. trikadruka is left as a plural place or rite name. viṣṇunā sutam: 'pressed with Viṣṇu' (inst.; 'by Viṣṇu' is also possible). īm taken as 'it' (the Soma); 'him' is also possible. mahām urum is taken with enam (him). The refrain 'sa enaṃ saścad ...' recurs in each verse of this hymn; the printed token sainaṃ is saḥ enam. induḥ 'drop' (a name of Soma).",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "adha̱",
+      "words": [
+       {
+        "w": "adha",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tviṣī̭mā~",
+      "words": [
+       {
+        "w": "tviṣīmān",
+        "gloss": "full of splendour",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱bhyoja̭sā̱",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "over",
+        "gram": "ind."
+       },
+       {
+        "w": "ojasā",
+        "gloss": "by might",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "krivi̭ṃ",
+      "words": [
+       {
+        "w": "krivim",
+        "gloss": "Krivi",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yu̱dhābha̭va̱dā",
+      "words": [
+       {
+        "w": "yudhā",
+        "gloss": "in battle",
+        "gram": "f. inst. sg."
+       },
+       {
+        "w": "abhavat",
+        "gloss": "he became, overcame",
+        "gram": "3 sg. impf. √bhū"
+       },
+       {
+        "w": "ā",
+        "gloss": "to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "roda̭sī",
+      "words": [
+       {
+        "w": "rodasī",
+        "gloss": "Heaven and Earth",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "apṛṇadasya",
+      "words": [
+       {
+        "w": "apṛṇat",
+        "gloss": "he filled",
+        "gram": "3 sg. impf. √pṝ"
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱jmanā̱",
+      "words": [
+       {
+        "w": "majmanā",
+        "gloss": "by greatness",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̭vṛdhe",
+      "words": [
+       {
+        "w": "vāvṛdhe",
+        "gloss": "he grew",
+        "gram": "3 sg. pf. mid. √vṛdh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "adha̭ttā̱nyaṃ",
+      "words": [
+       {
+        "w": "adhatta",
+        "gloss": "he placed",
+        "gram": "3 sg. impf. mid. √dhā"
+       },
+       {
+        "w": "anyam",
+        "gloss": "another",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱ṭhare̱",
+      "words": [
+       {
+        "w": "jaṭhare",
+        "gloss": "in the belly",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prema̭ricyata̱",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       },
+       {
+        "w": "īm",
+        "gloss": "him",
+        "gram": "ind. particle"
+       },
+       {
+        "w": "aricyata",
+        "gloss": "he exceeded",
+        "gram": "3 sg. impf. pass. √ric"
+       }
+      ]
+     },
+     {
+      "src": "saina̭ṃ",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saścad",
+      "words": [
+       {
+        "w": "saścat",
+        "gloss": "may he attend",
+        "gram": "3 sg. aor. subj. √sac"
+       }
+      ]
+     },
+     {
+      "src": "de̱vo",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vaṃ",
+      "words": [
+       {
+        "w": "devam",
+        "gloss": "god",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱tyamindra̭ṃ",
+      "words": [
+       {
+        "w": "satyam",
+        "gloss": "true",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "indram",
+        "gloss": "Indra",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱tya",
+      "words": [
+       {
+        "w": "satyaḥ",
+        "gloss": "true",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "indṷ:",
+      "words": [
+       {
+        "w": "induḥ",
+        "gloss": "drop",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब तेजस्वी होकर उसने बल से युद्ध में क्रिवि को पराभूत किया; उसने अपनी महिमा से द्यावापृथिवी को भर दिया और आगे बढ़ा। उसने दूसरे को पेट में रखा और वह आगे निकल गया। उस महान् देव, सत्य इन्द्र का वह देव, सत्य इन्दु अनुसरण करे।",
+  "english": "Then, full of splendour, by might he overcame Krivi in battle; he filled Heaven and Earth with his greatness and grew forth. He placed another in his belly, and he exceeded forth. May the true drop, a god, attend him, the god, the true Indra.",
+  "text_flags": [],
+  "notes": "Obscure. krivim is left as a name (Krivi); its sense is uncertain. abhi ... abhavat is taken as tmesis 'overcame'. adhatta anyam jaṭhare pra īm aricyata is unclear: 'placed another in his belly' and 'exceeded forth' are literal; what 'another' refers to is not stated. tviṣīmān is printed with nasalised ending (tviṣīmā~) before a. Refrain as in unit 1.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sā̱kaṃ",
+      "words": [
+       {
+        "w": "sākam",
+        "gloss": "together with",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jā̱taḥ",
+      "words": [
+       {
+        "w": "jātaḥ",
+        "gloss": "born",
+        "gram": "m. nom. sg. ppp. √jan"
+       }
+      ]
+     },
+     {
+      "src": "kratṷnā",
+      "words": [
+       {
+        "w": "kratunā",
+        "gloss": "with resolve",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sā̱kamoja̭sā",
+      "words": [
+       {
+        "w": "sākam",
+        "gloss": "together with",
+        "gram": "ind."
+       },
+       {
+        "w": "ojasā",
+        "gloss": "might",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vavakṣitha",
+      "words": [
+       {
+        "w": "vavakṣitha",
+        "gloss": "you grew strong",
+        "gram": "2 sg. pf. √vakṣ"
+       }
+      ]
+     },
+     {
+      "src": "sā̱kaṃ",
+      "words": [
+       {
+        "w": "sākam",
+        "gloss": "together with",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱ddho",
+      "words": [
+       {
+        "w": "vṛddhaḥ",
+        "gloss": "grown",
+        "gram": "m. nom. sg. ppp. √vṛdh"
+       }
+      ]
+     },
+     {
+      "src": "vī̱ryai̭:",
+      "words": [
+       {
+        "w": "vīryaiḥ",
+        "gloss": "with heroic deeds",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sāsa̱hirmṛdho̱",
+      "words": [
+       {
+        "w": "sāsahiḥ",
+        "gloss": "overcoming",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "mṛdhaḥ",
+        "gloss": "foes",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vica̭rṣaṇiḥ",
+      "words": [
+       {
+        "w": "vi-carṣaṇiḥ",
+        "gloss": "all-surveying",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dātā̱",
+      "words": [
+       {
+        "w": "dātā",
+        "gloss": "giver",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rādha̭:",
+      "words": [
+       {
+        "w": "rādhaḥ",
+        "gloss": "bounty",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "stuva̱te",
+      "words": [
+       {
+        "w": "stuvate",
+        "gloss": "to the praiser",
+        "gram": "m. dat. sg. pres. part. √stu"
+       }
+      ]
+     },
+     {
+      "src": "kāmya̱ṃ",
+      "words": [
+       {
+        "w": "kāmyam",
+        "gloss": "desirable",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vasu̱",
+      "words": [
+       {
+        "w": "vasu",
+        "gloss": "wealth",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saina̭ṃ",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saścad",
+      "words": [
+       {
+        "w": "saścat",
+        "gloss": "may he attend",
+        "gram": "3 sg. aor. subj. √sac"
+       }
+      ]
+     },
+     {
+      "src": "de̱vo",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vaṃ",
+      "words": [
+       {
+        "w": "devam",
+        "gloss": "god",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱tyamindra̭ṃ",
+      "words": [
+       {
+        "w": "satyam",
+        "gloss": "true",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "indram",
+        "gloss": "Indra",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱tya",
+      "words": [
+       {
+        "w": "satyaḥ",
+        "gloss": "true",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "indṷ:",
+      "words": [
+       {
+        "w": "induḥ",
+        "gloss": "drop",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम संकल्प के साथ उत्पन्न हुए, बल के साथ तुम बढ़े; वीर कर्मों के साथ बढ़ा हुआ तुम शत्रुओं को पराभूत करने वाले और सब ओर देखने वाले हो। तुम स्तुति करने वाले को वाञ्छित धन और दान के देने वाले हो। उस देव, सत्य इन्द्र का वह देव, सत्य इन्दु अनुसरण करे।",
+  "english": "Together with resolve you were born, together with might you grew strong; together with heroic deeds grown great, you are the overcomer of foes, all-surveying. You are the giver of bounty, of desirable wealth, to the praiser. May the true drop, a god, attend him, the god, the true Indra.",
+  "text_flags": [],
+  "notes": "vavakṣitha taken as 2 sg. perfect of √vakṣ 'grow strong'. The sentence has no stated finite verb for the second half, so 'you are' is supplied only to make the clauses read as one statement (the epithets are nominatives). vicarṣaṇi is uncertain ('all-surveying'; also 'surpassing, active'). mṛdhaḥ taken as accusative plural 'foes' (mṛdh 'enemy, hostility'). The person shifts between 'you' and 'him' (refrain). Refrain as in unit 1.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tava̱",
+      "words": [
+       {
+        "w": "tava",
+        "gloss": "your",
+        "gram": "2 sg. gen."
+       }
+      ]
+     },
+     {
+      "src": "tyannarya̭ṃ",
+      "words": [
+       {
+        "w": "tyat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "naryam",
+        "gloss": "manly",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nṛ̱to'pa̭",
+      "words": [
+       {
+        "w": "nṛto",
+        "gloss": "O dancer",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "apaḥ",
+        "gloss": "work",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "indra",
+      "words": [
+       {
+        "w": "indra",
+        "gloss": "Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratha̱maṃ",
+      "words": [
+       {
+        "w": "prathamam",
+        "gloss": "first",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pū̱rvyaṃ",
+      "words": [
+       {
+        "w": "pūrvyam",
+        "gloss": "ancient",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "di̱vi",
+      "words": [
+       {
+        "w": "divi",
+        "gloss": "in heaven",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra̱vācya̭ṃ",
+      "words": [
+       {
+        "w": "pravācyam",
+        "gloss": "to be proclaimed",
+        "gram": "n. nom. sg. gerundive"
+       }
+      ]
+     },
+     {
+      "src": "kṛ̱tam",
+      "words": [
+       {
+        "w": "kṛtam",
+        "gloss": "done",
+        "gram": "n. nom. sg. ppp. √kṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "de̱vasya̱",
+      "words": [
+       {
+        "w": "devasya",
+        "gloss": "of the god",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śava̭sā̱",
+      "words": [
+       {
+        "w": "śavasā",
+        "gloss": "by strength",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāri̭ṇā̱",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       },
+       {
+        "w": "ariṇāḥ",
+        "gloss": "you released",
+        "gram": "2 sg. impf. √ri"
+       }
+      ]
+     },
+     {
+      "src": "asṷṃ",
+      "words": [
+       {
+        "w": "asum",
+        "gloss": "life-breath",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ri̱ṇanna̱paḥ",
+      "words": [
+       {
+        "w": "riṇan",
+        "gloss": "releasing",
+        "gram": "m. nom. sg. pres. part. √ri"
+       },
+       {
+        "w": "apaḥ",
+        "gloss": "waters",
+        "gram": "f. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bhuva̱d",
+      "words": [
+       {
+        "w": "bhuvat",
+        "gloss": "he became",
+        "gram": "3 sg. inj. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "viśva̭ma̱bhyādḙva̱moja̭sā",
+      "words": [
+       {
+        "w": "viśvam",
+        "gloss": "all",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "abhi",
+        "gloss": "over",
+        "gram": "ind."
+       },
+       {
+        "w": "ādevam",
+        "gloss": "without gods",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ojasā",
+        "gloss": "by might",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱dādūrja̭ṃ",
+      "words": [
+       {
+        "w": "vidāt",
+        "gloss": "he found",
+        "gram": "3 sg. aor. inj. √vid"
+       },
+       {
+        "w": "ūrjam",
+        "gloss": "strength",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱takra̭turvi̱dādiṣa̭m",
+      "words": [
+       {
+        "w": "śata-kratuḥ",
+        "gloss": "of a hundred powers",
+        "gram": "m. nom. sg. bahuvrīhi"
+       },
+       {
+        "w": "vidāt",
+        "gloss": "he found",
+        "gram": "3 sg. aor. inj. √vid"
+       },
+       {
+        "w": "iṣam",
+        "gloss": "refreshment",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे नर्तक इन्द्र, तुम्हारा वह पुरुषोचित, प्रथम, प्राचीन कार्य, जो द्युलोक में घोषित करने योग्य किया गया, जब देव की शक्ति से तुमने जलों को बहाते हुए प्राण को मुक्त किया। उसने बल से सबको, देवरहित को भी, पराभूत किया; शतक्रतु ने बल पाया, उसने पोषण पाया।",
+  "english": "That manly work of yours, O dancer, Indra, the first, the ancient, to be proclaimed in heaven, was done, when by the strength of the god you released the life-breath, releasing the waters. By might he overcame all that is without gods; the one of a hundred powers found strength, he found refreshment.",
+  "text_flags": [],
+  "notes": "Unit of three printed lines (a verse of four pādas); no grouping problem. Several points are uncertain: nṛto read as a vocative of nṛtu 'dancer' (O dancer), the alternative being a form of nṛ 'man'; apaḥ in line 1 taken as 'work' (apas), in line 2 as 'waters' (ap). pra ariṇāḥ asum: 'released the life-breath' is literal; the sense is not explained by the text. abhy ādevam is unclear (ādeva printed with long ā): taken as abhi + ādevam 'all that is without gods' with doubt. The person shifts from 'you' to 'he'. śata-kratu 'of a hundred powers' (kratu: power, resolve).",
+  "confidence": "low"
+ }
+]
