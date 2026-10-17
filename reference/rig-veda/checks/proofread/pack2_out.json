@@ -1,0 +1,363 @@
+[
+ {
+  "id": "002.023.8a",
+  "kind": "typo?",
+  "verdict": "unsure",
+  "why": "Letters are right (havāmahe 'vaspartar); only the accent pair म॒हे ऽव॑ is odd for an unaccented verb + mid-pada vocative, possibly the edition's rendering of the elided a; not clearly mistyped."
+ },
+ {
+  "id": "001.030.12b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "somapāḥ is the correct vocative 'soma-drinker'; metre and sense fine."
+ },
+ {
+  "id": "001.139.6a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "indavaḥ 'drops' is the right nominative plural; sense and metre fine."
+ },
+ {
+  "id": "010.106.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "iryeva (iryā iva) is a genuine rare word matching the simile series of the verse."
+ },
+ {
+  "id": "001.043.7",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "śatasya nṛṇām 'of a hundred men' is correct; ṛtasya would not fit."
+ },
+ {
+  "id": "001.164.30b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "jīvo mṛtasya 'the living (moves) of the dead' is the known sense; correct."
+ },
+ {
+  "id": "007.011.4a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "haviṣaḥ kṛtasya 'of the oblation prepared' is correct."
+ },
+ {
+  "id": "007.039.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "dūtasya jagmuṣaḥ 'of the messenger who has gone' is correct."
+ },
+ {
+  "id": "007.056.10a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "stutasya 'of the praise(d)' fits the sentence; correct."
+ },
+ {
+  "id": "008.005.14",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "rātasya 'of the given (mead)' agreeing with madhvaḥ; correct."
+ },
+ {
+  "id": "009.102.2",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "tritasya is the name Trita, confirmed by the next verse; correct."
+ },
+ {
+  "id": "010.018.5a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "ṛtava ṛtubhiḥ 'the seasons with the seasons' is correct sandhi (ṛtavaḥ + ṛ)."
+ },
+ {
+  "id": "010.039.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "rutasya 'of the broken/injured' in the list of patients; correct."
+ },
+ {
+  "id": "010.104.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "dhūtasya 'of the (soma) shaken in the waters' is correct."
+ },
+ {
+  "id": "010.121.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "bhūtasya jātaḥ patiḥ is the well-known reading; correct."
+ },
+ {
+  "id": "002.011.10b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "papivān tsutasya is the edition's n+s → nts sandhi style, as elsewhere in the file."
+ },
+ {
+  "id": "001.104.9a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "ayaṃ sutas tasya pibā: two words sutaḥ + tasya joined by sandhi; correct."
+ },
+ {
+  "id": "008.047.11b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "sutayo va ūtayaḥ 'your aids are easy of passage'; correct rare word."
+ },
+ {
+  "id": "010.085.24b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "sukṛtasya loke 'in the world of good deeds' is correct."
+ },
+ {
+  "id": "009.072.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "tiro ravam 'beyond the roar' is correct; havam would not fit."
+ },
+ {
+  "id": "001.084.18b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "sudevaḥ 'with good gods' is a correct compound; metre fine."
+ },
+ {
+  "id": "004.054.2b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "jīvitā 'life' (anūcīnā jīvitā) is correct."
+ },
+ {
+  "id": "006.012.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "dravitā 'runner' (na dravitā) is a correct agent noun."
+ },
+ {
+  "id": "008.096.20b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "prāvitā 'furtherer' (pra+avitā) is correct."
+ },
+ {
+  "id": "001.074.5",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "sudevaṃ 'very divine' is correct; metre fine."
+ },
+ {
+  "id": "006.049.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "suvrataṃ 'of good vows' is a correct compound."
+ },
+ {
+  "id": "007.051.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "devāś ca in the list with ca after each item; correct."
+ },
+ {
+  "id": "007.056.16b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "sujātaṃ 'well-born' is correct."
+ },
+ {
+  "id": "008.001.32b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "māmahe (perfect of mah-) 'has granted' is correct; metre fine."
+ },
+ {
+  "id": "001.091.23a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "devena manasā 'with divine mind' is correct."
+ },
+ {
+  "id": "004.018.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "nir ayā (ayā, subjunctive of i-) 'I will go out' is correct."
+ },
+ {
+  "id": "006.039.1b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "deveṣo = deva iṣo in sandhi; correct."
+ },
+ {
+  "id": "010.085.46",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "devṛṣu 'among the brothers-in-law' is the correct locative of devṛ."
+ },
+ {
+  "id": "010.099.8a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "vidan no = vidat naḥ in sandhi; correct."
+ },
+ {
+  "id": "002.039.1b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "vidatha ukthaśāsā is the Vedic hiatus sandhi of vidathe + u; correct."
+ },
+ {
+  "id": "001.030.16b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "sanitā 'winner' is correct and the play on sanitā sanaye is intended."
+ },
+ {
+  "id": "001.084.20a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "ūtayo (ūtayaḥ) before a voiced sound; correct."
+ },
+ {
+  "id": "003.054.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "pra bhūtam 'be forward' is correct; metre fine."
+ },
+ {
+  "id": "005.009.7b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "sātaya utaidhi is the Vedic sandhi of sātaye + u; correct."
+ },
+ {
+  "id": "006.024.4a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "srutayaḥ 'streams' is correct."
+ },
+ {
+  "id": "007.089.1",
+  "kind": "typo?",
+  "verdict": "error",
+  "suggest": "मो षु व॑रुण मृ॒न्मयं॑ गृ॒हं रा॑जन्न॒हं ग॑मम् । मृ॒ळा सु॑क्षत्र मृ॒ळय॑ ॥",
+  "why": "First pada has only 6 syllables for gāyatrī and begins with a svarita mark that needs a preceding udatta, so the opening words (mo ṣu) were dropped; check the accents of the restored words."
+ },
+ {
+  "id": "008.043.14",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "sant satā is the edition's n+s → nts sandhi, as in 2.11.10; correct."
+ },
+ {
+  "id": "009.007.9",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "saṃ jitam 'win' is correct."
+ },
+ {
+  "id": "010.040.13b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "apa durmatiṃ hatam 'strike away ill-will' is correct."
+ },
+ {
+  "id": "010.162.6",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "svapnena tamasā 'by sleep, by darkness' is correct."
+ },
+ {
+  "id": "001.105.7a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "ahaṃ so asmi 'I am he' is correct."
+ },
+ {
+  "id": "001.114.10b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "devādhā = deva adhā in sandhi; correct."
+ },
+ {
+  "id": "001.127.1b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "devācyā 'turned toward the gods' is correct."
+ },
+ {
+  "id": "003.001.9a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "vy asya 'poured out' is correct."
+ },
+ {
+  "id": "003.051.9b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "dāśuṣaḥ sve sadhasthe 'in the worshipper's own seat' is correct."
+ },
+ {
+  "id": "003.054.21c",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "aśyāṃ 'may I attain' (optative) is correct."
+ },
+ {
+  "id": "004.040.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "uta smāsya = uta sma asya in sandhi; correct."
+ },
+ {
+  "id": "004.041.10a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "aśvyasya 'of horses' parallel to rathyasya; correct."
+ },
+ {
+  "id": "004.055.4a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "vy aryamā (vi ceti) is correct."
+ },
+ {
+  "id": "005.025.8b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "arta (aorist of ṛ-) 'rose' is correct."
+ },
+ {
+  "id": "005.029.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "try aryamā (trī + aryamā) is correct."
+ },
+ {
+  "id": "005.030.9b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "athopa = atha upa in sandhi; correct."
+ },
+ {
+  "id": "006.041.5b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "prāsmāṁ ava 'help us' is correct."
+ },
+ {
+  "id": "006.075.11a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "mṛgo asyā dantaḥ 'its tooth' (asyāḥ) is correct."
+ },
+ {
+  "id": "007.037.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "why": "maho arbhasya 'of great and small' is correct."
+ }
+]
