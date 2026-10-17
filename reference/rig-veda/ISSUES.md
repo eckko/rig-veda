@@ -39,3 +39,7 @@
 | all | other | S1 mixes spellings ह्ल and ळ्ह (e.g. मीह्लुषे 3x vs मीळ्हुषे 4x); an orthographic inconsistency of the typed file, left as is | S1 | decide on a normal form in a later stage |
 | 2.* | other | Mandala 2 is typed with a space after virama before a following word (e.g. "तान् वो"); consistent edition style | S1 | none |
 | all | other | Metre check not run on Vedic metres (assumes anushtubh line lengths); 9,463 flags set aside | tools | needs a Vedic-metre checker |
+
+## Layer pilot (RV 2.1-2.3), open minor review items not yet settled
+- ch002 units 3, 5, 6, 9: bracketed supplied nouns / "famous" / vṛjana rendering (use "enclosures") / bṛhat-diveṣu split still as drafted; garbled note on nyerire in unit 3.
+- Layers are AI drafts, drafted by fable, reviewed by sonnet (reviewer possibly weaker than drafter). Part 002 layer files are written only when all 43 chapters are done.
