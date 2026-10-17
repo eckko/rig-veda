@@ -1,0 +1,687 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तुम आतुर होकर प्रज्वलित होने वाले जलों से",
+     "problem": "Epithet āśuśukṣaṇiḥ (nominative, agreeing with tvam) is attached to 'waters' in the Hindi; the English attaches it correctly to 'you'.",
+     "fix": "हे अग्नि, तुम दिनों के द्वारा; तुम, शीघ्र प्रज्वलित होने वाले, जलों से; तुम पत्थर से; तुम वनों से; तुम ओषधियों से; हे नृपति, तुम मनुष्यों से शुद्ध जन्म लेते हो।",
+     "severity": "error",
+     "patch": {
+      "n": "1",
+      "op": "set",
+      "field": "hindi",
+      "value": "हे अग्नि, तुम दिनों के द्वारा; तुम, शीघ्र प्रज्वलित होने वाले, जलों से; तुम पत्थर से; तुम वनों से; तुम ओषधियों से; हे नृपति, तुम मनुष्यों से शुद्ध जन्म लेते हो।"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "dyubhiḥ",
+     "problem": "gram says instrumental plural but gloss and both translations say 'from' (ablative sense); 'heavens' is an added interpretation.",
+     "fix": "through the days",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "dyubhiḥ",
+      "field": "gloss",
+      "value": "through the days"
+     }
+    },
+    {
+     "field": "english",
+     "where": "from the days (the heavens)",
+     "problem": "Same: instrumental rendered as ablative.",
+     "fix": "through the days (heavens)",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "from the days (the heavens)",
+      "new": "through the days (heavens)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(यजमान)",
+     "problem": "Added word not in the text (ṛtāyataḥ is only 'of the one who follows ṛta').",
+     "fix": "ऋत का पालन करने वाले के",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ऋत का पालन करने वाले (यजमान) के",
+      "new": "ऋत का पालन करने वाले के"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dame",
+     "problem": "dama is masculine.",
+     "fix": "m. loc. sg. dama",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "dame",
+      "field": "gram",
+      "value": "m. loc. sg. dama"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जिसका (दान) सबके भोग के लिए है",
+     "problem": "'(दान)' (gift) is added; saṃbhuja is only 'common/shared enjoyment' and the draft's own note calls the sense uncertain.",
+     "fix": "जिसका साझा भोग है",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जिसका (दान) सबके भोग के लिए है",
+      "new": "जिसका साझा भोग है"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "यज्ञ-सभा में",
+     "problem": "English and gloss say 'rite' (vidathe); Hindi adds 'सभा' and 'यज्ञ' as one compound. Make consistent.",
+     "fix": "यज्ञ में",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यज्ञ-सभा में",
+      "new": "यज्ञ में"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "su-vīryam",
+     "problem": "'abundance of heroes' is not the meaning of suvīrya (good heroic strength/valour); gram label 'bahuvrīhi/abstract' is muddled.",
+     "fix": "good heroic strength",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "su-vīryam",
+      "field": "gloss",
+      "value": "good heroic strength"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Tvaṣṭṛ (giving) abundance of heroes to the worshipper",
+     "problem": "Added verb '(giving)' and wrong sense of suvīryam.",
+     "fix": "Tvaṣṭṛ for the worshipper, good heroic strength",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "Tvaṣṭṛ (giving) abundance of heroes to the worshipper",
+      "new": "Tvaṣṭṛ for the worshipper, good heroic strength"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(उत्तम वीरता देने वाले)",
+     "problem": "Added 'giving' in brackets, not in the text.",
+     "fix": "तुम उपासक के लिए त्वष्टा हो, उत्तम वीरता-बल",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम उपासक के लिए (उत्तम वीरता देने वाले) त्वष्टा हो",
+      "new": "तुम उपासक के लिए त्वष्टा हो, उत्तम वीरता-बल"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "gnāvaḥ / tava",
+     "problem": "Reading is incoherent: tava (genitive 'yours') is joined with gnāvaḥ taken as a nominative singular 'accompanied by wives' agreeing with 'you', and the stem 'gnāvant' is asserted without support. More likely gnāvaḥ (plural, 'wives') and sajātyam are both 'yours'. 'divine' is also an addition.",
+     "fix": "State as uncertain: 'your wives (?), your kinship'; gloss gnāvaḥ 'women/wives (uncertain form)'; do not give a stem gnāvant as fact; lower confidence to low.",
+     "severity": "error"
+    },
+    {
+     "field": "gloss",
+     "where": "āśu-hemā",
+     "problem": "'(horses)' is not in the word (hemā = impulse/impeller); compound type 'tat-puruṣa' doubtful.",
+     "fix": "swift-impelling",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "āśu-hemā",
+      "field": "gloss",
+      "value": "swift-impelling"
+     }
+    },
+    {
+     "field": "english",
+     "where": "urging on the swift horses",
+     "problem": "Same: 'horses' added.",
+     "fix": "swift-impelling",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "english",
+      "old": "urging on the swift horses",
+      "new": "swift-impelling"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तेज़ (घोड़ों) को प्रेरित करने वाले",
+     "problem": "Same: '(घोड़ों)' added.",
+     "fix": "तेज़ गति से प्रेरित करने वाले",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तेज़ (घोड़ों) को प्रेरित करने वाले",
+      "new": "तेज़ गति से प्रेरित करने वाले"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तुम मनुष्यों का बल हो",
+     "problem": "English and gloss say 'host/troop' (śardhaḥ, as in unit 6 'गण'); Hindi says 'strength'.",
+     "fix": "तुम मनुष्यों के गण हो",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम मनुष्यों का बल हो",
+      "new": "तुम मनुष्यों के गण हो"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "Line a has an unclear construction (gnāvaḥ, missing verb); 'medium' is too firm.",
+     "fix": "low",
+     "severity": "error"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अन्न (पोषण)",
+     "problem": "'अन्न' (grain/food) is added; pṛkṣ is rendered 'nourishment' in English.",
+     "fix": "पोषण",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अन्न (पोषण)",
+      "new": "पोषण"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "the one who serves you duly",
+     "problem": "'you' is not in araṃkṛte.",
+     "fix": "the one who serves duly",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "the one who serves you duly",
+      "new": "the one who serves duly"
+     }
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "patyase",
+     "problem": "Wrong root: patyase is the denominative of pati ('be lord'), not √pat.",
+     "fix": "2 sg. pres. mid. denom. (from pati)",
+     "severity": "error",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "patyase",
+      "field": "gram",
+      "value": "2 sg. pres. mid. denom. (from pati)"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daśa / śatā",
+     "problem": "daśa is 'ten', not 'tens'; 'sahasrāṇi śatā daśa' reads 'thousands, hundreds (and) ten (hundreds)'. The English 'thousands, hundreds, tens' and Hindi '(धनों)' are invented, as is 'a match for'.",
+     "fix": "Gloss daśa 'ten'; English 'you ... thousands, hundreds, ten (hundreds) prati', marked as unclear; remove '(धनों)' and 'a match for'; lower confidence to low.",
+     "severity": "error"
+    },
+    {
+     "field": "english",
+     "where": "the clans honour with their striving",
+     "problem": "'with their striving' is an added gloss of ṛñjate.",
+     "fix": "the clans honour",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "the clans honour with their striving",
+      "new": "the clans honour"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "आदरपूर्वक प्राप्त करती हैं",
+     "problem": "'प्राप्त करती हैं' with added 'आदरपूर्वक' does not match English 'honour'.",
+     "fix": "आदर करती हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आदरपूर्वक प्राप्त करती हैं",
+      "new": "आदर करती हैं"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "Line b is largely guesswork.",
+     "fix": "low",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "यज्ञों द्वारा",
+     "problem": "iṣṭibhiḥ is 'offerings' in gloss and English; Hindi says 'sacrifices' (यज्ञ, which is the glossary word for yajña).",
+     "fix": "अर्पणों द्वारा",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यज्ञों द्वारा",
+      "new": "अर्पणों द्वारा"
+     }
+    }
+   ]
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "viśikṣuḥ",
+     "problem": "Wrong root: viśikṣu is from vi + √śikṣ (desiderative of √śak), not √dā.",
+     "fix": "m. nom. sg. desid. adj., vi-√śikṣ",
+     "severity": "error",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "viśikṣuḥ",
+      "field": "gram",
+      "value": "m. nom. sg. desid. adj., vi-√śikṣ"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kṣumataḥ",
+     "problem": "'rich in cattle' is over-specific (kṣumant = abounding, usually of food).",
+     "fix": "abounding",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "kṣumataḥ",
+      "field": "gloss",
+      "value": "abounding"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the prize rich in cattle",
+     "problem": "Same.",
+     "fix": "the abundant prize",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "english",
+      "old": "the prize rich in cattle",
+      "new": "the abundant prize"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पशुओं से युक्त अन्न (वाज)",
+     "problem": "'cattle' and 'food' are added.",
+     "fix": "प्रचुर वाज (पुरस्कार)",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पशुओं से युक्त अन्न (वाज)",
+      "new": "प्रचुर वाज (पुरस्कार)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(तुरन्त)",
+     "problem": "Added word; English has 'in turn'.",
+     "fix": "दान के लिए जलते हो",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दान के लिए (तुरन्त) जलते हो",
+      "new": "दान के लिए जलते हो"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "through the song",
+     "problem": "Glossary: gir = hymn/praise.",
+     "fix": "through the hymn",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "through the song",
+      "new": "through the hymn"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "girā",
+     "problem": "Same.",
+     "fix": "by the hymn",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "girā",
+      "field": "gloss",
+      "value": "by the hymn"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dakṣase",
+     "problem": "dakṣas is neuter.",
+     "fix": "n. dat. sg. (inf.) dakṣas",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "dakṣase",
+      "field": "gram",
+      "value": "n. dat. sg. (inf.) dakṣas"
+     }
+    }
+   ]
+  },
+  {
+   "n": "12",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वाज (अन्न-बल)",
+     "problem": "Added 'अन्न-बल'; English and gloss say 'prize'.",
+     "fix": "वाज (पुरस्कार)",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वाज (अन्न-बल)",
+      "new": "वाज (पुरस्कार)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "13",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "शुद्ध (देवों) ने",
+     "problem": "'(देवों)' is an added identification.",
+     "fix": "शुद्धों ने",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "शुद्ध (देवों) ने",
+      "new": "शुद्धों ने"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "दान से युक्त (देव)",
+     "problem": "'(देव)' is added; rāti-sāc is 'accompanying the gift', and Hindi/English disagree on direction.",
+     "fix": "दान के साथ चलने वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दान से युक्त (देव) यज्ञों में तुम्हारा साथ करते हैं",
+      "new": "दान के साथ चलने वाले यज्ञों में तुम्हारा साथ देते हैं"
+     }
+    },
+    {
+     "field": "english",
+     "where": "those attended by gifts",
+     "problem": "Direction reversed relative to rātiṣāc ('who accompany the gifts'); notes admit the referent is unknown.",
+     "fix": "those who accompany the gifts",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "those attended by gifts",
+      "new": "those who accompany the gifts"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "rāti-sācaḥ",
+     "problem": "Same.",
+     "fix": "accompanying the gifts",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "rāti-sācaḥ",
+      "field": "gloss",
+      "value": "accompanying the gifts"
+     }
+    },
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "'high' is too firm given the unclear rātiṣāc.",
+     "fix": "medium",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "14",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "(सोम के) रस को स्वादिष्ट पाते हैं",
+     "problem": "'(सोम के)' is an addition (the draft's own note says 'or the like'); 'स्वादिष्ट पाते' is also loose for svadante.",
+     "fix": "आसुति का स्वाद लेते हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "(सोम के) रस को स्वादिष्ट पाते हैं",
+      "new": "आसुति का स्वाद लेते हैं"
+     }
+    },
+    {
+     "field": "english",
+     "where": "as the child of the plants",
+     "problem": "garbha = embryo (gloss says 'embryo, child'; Hindi 'गर्भ').",
+     "fix": "as the embryo of the plants",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "as the child of the plants",
+      "new": "as the embryo of the plants"
+     }
+    }
+   ]
+  },
+  {
+   "n": "15",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "pṛkṣaḥ",
+     "problem": "'f. nom. sg. pṛkṣ' is impossible for a form ending in -aḥ (and unit 6 treats the same word as genitive of pṛkṣ). A nominative singular subject needs a thematic stem pṛkṣa; otherwise the construction is uncertain.",
+     "fix": "Mark stem and case as uncertain (e.g. 'nom. sg., stem pṛkṣa (?), nourishment'); remove 'f.'",
+     "severity": "error"
+    },
+    {
+     "field": "hindi",
+     "where": "उन (देवों) के",
+     "problem": "'(देवों)' added: tān has no stated referent.",
+     "fix": "उन के",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उन (देवों) के",
+      "new": "उन के"
+     }
+    },
+    {
+     "field": "english",
+     "where": "equal them and match them",
+     "problem": "'equal' and 'match' for saṃ ... prati are interpretive; the notes call the idiom elliptical. State as uncertain.",
+     "fix": "Keep but lower confidence to low; note the alternative 'with and against'.",
+     "severity": "minor"
+    },
+    {
+     "field": "confidence",
+     "where": "unit",
+     "problem": "Line a idiom unclear; 'medium' too firm.",
+     "fix": "low",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "16",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "notes",
+     "where": "The final pāda ... is the refrain of this family's hymns",
+     "problem": "Claim goes beyond the text (other hymns, a 'family'); not allowed by the brief.",
+     "fix": "Delete the sentence.",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "notes",
+      "old": " The final pāda 'bṛhad vadema vidathe suvīrāḥ' is the refrain of this family's hymns.",
+      "new": ""
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "यज्ञ-सभा में",
+     "problem": "English says 'at the rite'; same inconsistency as unit 4.",
+     "fix": "यज्ञ में",
+     "severity": "minor",
+     "patch": {
+      "n": "16",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यज्ञ-सभा में",
+      "new": "यज्ञ में"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "14 errors, 32 minor. Units with errors: 5 (gnāvaḥ, suvīryam, added words, बल vs host), 8 (patyase root, daśa, line b guesswork), 10 (viśikṣu root), 15 (pṛkṣaḥ). Recurring problem: bracketed additions in Hindi. No regrouping needed. Glossary proposals: vidatha = rite (यज्ञ, not 'सभा'); brahman priest = Brahman priest (ब्रह्मा); gir = hymn; names Aryaman/Aṃśa/Bhaga/Pūṣan/Savitṛ/Tvaṣṭṛ in plain IAST; Hindi iṣṭi = अर्पण, pṛkṣ = पोषण; kṣumant = abounding; vāja = prize (पुरस्कार)."
+}

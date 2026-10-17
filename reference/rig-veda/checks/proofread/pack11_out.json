@@ -1,0 +1,422 @@
+[
+ {
+  "id": "007.097.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "ब्रह्मणः is the regular genitive of ब्रह्मन्, agreeing with देवकृतस्य."
+ },
+ {
+  "id": "004.032.21",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "राधसि is a valid locative of राधस् after भजस्व."
+ },
+ {
+  "id": "004.043.6a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सिन्धुर्ह is सिन्धुः + ह with regular visarga sandhi."
+ },
+ {
+  "id": "005.037.2b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सिन्धुम् is the regular accusative, object of अव."
+ },
+ {
+  "id": "007.056.7a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "शुचिभ्यः is a regular dative plural of शुचि."
+ },
+ {
+  "id": "008.043.2",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "जनामि is a regular 1st-person present with object सुष्टुतिम्."
+ },
+ {
+  "id": "008.055.1",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "राधस्ते is राधः + ते with regular sandhi; दस्यवे वृक is a name."
+ },
+ {
+  "id": "009.005.3",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "रयिर्वि is रयिः + वि (विराजति) with regular sandhi."
+ },
+ {
+  "id": "009.005.11",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पवमानस्या गत is पवमानस्य + आ गत, regular sandhi."
+ },
+ {
+  "id": "007.087.2b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "रोदसीमे is रोदसी + इमे, regular sandhi."
+ },
+ {
+  "id": "001.033.7a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "रजस is रजसः before vowel-initial इन्द्र, regular visarga drop."
+ },
+ {
+  "id": "001.102.7a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सहस्राद् is a regular ablative before रिरिचे."
+ },
+ {
+  "id": "001.128.6a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "दक्षिणे is a regular locative agreeing with हस्ते."
+ },
+ {
+  "id": "003.062.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "दक्षिणाभिः is a regular instrumental plural."
+ },
+ {
+  "id": "008.097.2",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सुन्वति दक्षिणावति are regular locatives agreeing with यजमाने."
+ },
+ {
+  "id": "008.101.9",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पवित्र is पवित्रे before उपरि with regular sandhi; accent fits the following anudatta."
+ },
+ {
+  "id": "009.088.7b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सहस्राप्साः is a regular compound (सहस्र + अप्सस्), fits the metre."
+ },
+ {
+  "id": "010.071.1b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "गुहाविः is गुहा + आविः, regular sandhi."
+ },
+ {
+  "id": "010.106.6b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मदेरू is one of the rare words of this hymn, matching the surrounding dual forms."
+ },
+ {
+  "id": "010.107.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "दक्षिणां is a regular accusative, object of दुहते."
+ },
+ {
+  "id": "001.091.9",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "ऊतयः with anudatta on the last syllable before udatta सन्ति is correct accent practice."
+ },
+ {
+  "id": "003.033.8b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "नमस्ते is नमः + ते with regular sandhi."
+ },
+ {
+  "id": "005.051.2",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "आ गत is a regular 2nd-person plural imperative; the vocatives are plural."
+ },
+ {
+  "id": "001.008.8",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "गोमती is a regular feminine agreeing with सूनृता and मही."
+ },
+ {
+  "id": "001.027.5",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "परमेष्वा is परमेषु + आ, regular sandhi, parallel to मध्यमेषु."
+ },
+ {
+  "id": "001.034.12b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वामवसे is वाम् + अवसे, regular sandhi."
+ },
+ {
+  "id": "001.167.2b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "परमाः is a regular nominative plural agreeing with नियुतः."
+ },
+ {
+  "id": "001.182.8b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सदसः is a regular ablative agreeing with सोम्यात्."
+ },
+ {
+  "id": "001.186.11a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सदनी is a regular feminine form parallel to अपिप्राणी."
+ },
+ {
+  "id": "003.042.2",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मदमा गहि is मदम् + आ गहि, regular sandhi."
+ },
+ {
+  "id": "003.051.7a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "अपिबः is a regular imperfect 2nd person."
+ },
+ {
+  "id": "004.006.8b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "परशुं is a regular accusative agreeing with तिग्मम्."
+ },
+ {
+  "id": "005.058.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सदश्वः is a regular compound parallel to सुवीरः."
+ },
+ {
+  "id": "005.067.2",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सदथः is a regular 2nd dual present after the dual vocatives."
+ },
+ {
+  "id": "005.087.4a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सदस is सदसः before vowel-initial एवयामरुत्, regular sandhi."
+ },
+ {
+  "id": "006.018.14a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मदन् is a regular 3rd plural injunctive with subject देवाः."
+ },
+ {
+  "id": "006.027.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सदस्य is सत् + अस्य, regular sandhi, repeated in the same line."
+ },
+ {
+  "id": "007.072.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "गोमता is a regular instrumental agreeing with रथेन."
+ },
+ {
+  "id": "007.091.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सदतं is a regular 2nd dual imperative after इन्द्रवायू."
+ },
+ {
+  "id": "008.020.14",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मरुतस्ताँ is मरुतः + तान् with regular sandhi."
+ },
+ {
+  "id": "009.042.6",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "गोमन्नः is गोमत् + नः with regular sandhi."
+ },
+ {
+  "id": "009.077.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "गोमते is a regular dative agreeing with वाजाय."
+ },
+ {
+  "id": "009.105.4",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "गोमन्न is गोमत् + नः before vowel, regular sandhi."
+ },
+ {
+  "id": "010.061.13a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सदन्तः is a regular participle agreeing with परिषद्वानः."
+ },
+ {
+  "id": "010.079.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मर्त्यासु is a regular locative plural agreeing with विक्षु."
+ },
+ {
+  "id": "010.095.14a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "परमां is a regular accusative agreeing with परावतम्."
+ },
+ {
+  "id": "003.052.4",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "बृहन् is the regular nominative masculine agreeing with क्रतुः."
+ },
+ {
+  "id": "008.009.3",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "विप्रासः is a regular Vedic nominative plural."
+ },
+ {
+  "id": "010.100.8b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "बृहदा is बृहत् + आ, regular sandhi."
+ },
+ {
+  "id": "001.100.8a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "शवस is शवसः before vowel-initial उत्सवेषु, regular sandhi."
+ },
+ {
+  "id": "009.065.25",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पवते is a regular 3rd singular present with subject हरिः."
+ },
+ {
+  "id": "003.008.10a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पृथिव्याम् is a regular locative."
+ },
+ {
+  "id": "008.070.14",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "भूरिभिः is a regular instrumental plural agreeing with ऋषिभिः."
+ },
+ {
+  "id": "009.067.8",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पवत is पवते before vowel-initial आयवे, regular sandhi."
+ },
+ {
+  "id": "009.080.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पवस्वा is the edition's lengthened imperative before सहस्रजित्, a known Vedic form."
+ },
+ {
+  "id": "009.086.5b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पवसे is a regular 2nd singular middle present."
+ },
+ {
+  "id": "004.024.10b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वृत्राणि with anudatta on the last syllable before udatta जङ् is correct accent practice."
+ },
+ {
+  "id": "006.061.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सरस्वति is a regular vocative with short final."
+ },
+ {
+  "id": "001.054.8a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "अपसा is a regular instrumental of अपस्."
+ },
+ {
+  "id": "001.134.6a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सोमानां is a regular genitive plural."
+ }
+]

@@ -1,0 +1,422 @@
+[
+ {
+  "id": "006.063.1b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मन्मन् is the regular endingless Vedic locative of मन्मन्; sense 'in his thought' fits."
+ },
+ {
+  "id": "007.041.6b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वहन्तु is 3pl imperative of वह् with plural subject अश्वाः; correct."
+ },
+ {
+  "id": "008.060.15",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वहसि is 2sg present of वह्, agreeing with 2sg राजसि; correct."
+ },
+ {
+  "id": "009.109.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पृथिव्यै is the dative parallel to दिवे and प्रजायै; the trailing ५ is the edition's own number."
+ },
+ {
+  "id": "010.012.8a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मन्मनि is the regular locative of मन्मन्; ३ after अपीच्ये is a svara digit, not an error."
+ },
+ {
+  "id": "010.016.9b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वहतु is 3sg imperative with subject अयम् जातवेदाः; correct."
+ },
+ {
+  "id": "004.042.1b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "राजामि 'I rule' is 1sg present, matching the first-person speech of Varuna (अहं राजा in the next line)."
+ },
+ {
+  "id": "007.040.4a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "राजानः is nominative plural of राजन्, with the plural धुः; correct."
+ },
+ {
+  "id": "001.039.10b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "द्विषम् is accusative of द्विष्, object of सृजत; correct."
+ },
+ {
+  "id": "003.033.5a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वचसे is the dative of वचस्, agreeing with सोम्याय; correct."
+ },
+ {
+  "id": "005.012.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वचसः is the genitive of वचस् governed by गोपाः; correct."
+ },
+ {
+  "id": "007.104.12a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वचसी is the dual nominative of वचस्, matching dual पस्पृधाते; correct."
+ },
+ {
+  "id": "009.096.18b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "महिषः 'buffalo' is a regular nominative epithet of Soma; correct."
+ },
+ {
+  "id": "009.113.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "महिषं is the accusative of महिष, object of अभरत्; correct."
+ },
+ {
+  "id": "001.053.5a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वाजेभिः is the Vedic instrumental plural, parallel to राया and इषा; correct."
+ },
+ {
+  "id": "001.083.2b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "देवयुं is the accusative of देवयु, parallel to ब्रह्मप्रियं; correct."
+ },
+ {
+  "id": "001.113.13a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पुरोषा is the sandhi of पुरा + उषाः; correct."
+ },
+ {
+  "id": "001.134.5c",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "भुवनात् is the ablative after पासि, parallel to विश्वस्मात् and असुर्यात्; correct."
+ },
+ {
+  "id": "001.139.7d",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पुरोत is पुरा + उत in sandhi, mirroring मोत earlier in the line; correct."
+ },
+ {
+  "id": "001.164.15a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "देवजाः 'god-born' is a regular compound nominative plural; correct."
+ },
+ {
+  "id": "003.061.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वाजेन is the instrumental singular of वाज; correct."
+ },
+ {
+  "id": "006.032.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सूर्येणा shows metrical lengthening of the instrumental ending, usual in the Samhita; correct."
+ },
+ {
+  "id": "009.011.2",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "देवयु with dropped final visarga before the pada end is the edition's form; nominative of देवयु; correct."
+ },
+ {
+  "id": "009.013.9",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पवमानाः is nominative plural, agreeing with अपघ्नन्तः and सीदत; correct."
+ },
+ {
+  "id": "010.117.2b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पुरोतो is पुरा + उतो in sandhi; correct."
+ },
+ {
+  "id": "010.153.2",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "ओजसः is the ablative parallel to बलात् and सहसः; correct."
+ },
+ {
+  "id": "001.109.5a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वसुनः is the genitive of वसु governed by विभागे; correct."
+ },
+ {
+  "id": "001.025.5",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "नरमा is नरम् + आ (preverb of करामहे) in sandhi; correct."
+ },
+ {
+  "id": "001.182.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मदता is 2pl imperative of मद्, agreeing with vocative मनीषिणः; correct."
+ },
+ {
+  "id": "001.185.9b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मदन्तः is nominative plural participle agreeing with इषयेम देवाः; correct."
+ },
+ {
+  "id": "003.014.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "उषसा is the dual nominative with dual वाजयन्ती and दुरोणे…तस्थतुः; svarita on सा is right before anudatta वा."
+ },
+ {
+  "id": "003.054.6a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मदन्ती is the dual nominative participle, agreeing with dual विघृते; correct."
+ },
+ {
+  "id": "003.059.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मदन्तः is the nominative plural participle, agreeing with अनमीवासः; correct."
+ },
+ {
+  "id": "004.005.11c",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पृथिव्याम् is the locative, parallel to दिवि; correct."
+ },
+ {
+  "id": "004.018.9b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "उत्तरो is उत्तरः with visarga sandhi before बभूवान्; correct."
+ },
+ {
+  "id": "005.086.3",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वृत्रघ्न is the regular vocative of वृत्रहन्; correct."
+ },
+ {
+  "id": "006.046.1b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "नरस्त्वां is नरः + त्वाम् in sandhi; correct."
+ },
+ {
+  "id": "007.086.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वदे is 1sg middle 'I talk with', matching 1sg भुवानि; the ३ after तन्वा is a svara digit."
+ },
+ {
+  "id": "007.093.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "नरस्ते is नरः + ते in sandhi; correct."
+ },
+ {
+  "id": "008.026.17",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मदथः is 2nd dual present, fitting the Ashvin dual address; correct."
+ },
+ {
+  "id": "008.067.10a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वृत्रघ्नः is the genitive of वृत्रहन्; correct."
+ },
+ {
+  "id": "009.098.10",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वृत्रघ्ने is the dative of वृत्रहन्, parallel to इन्द्राय and नरे; correct."
+ },
+ {
+  "id": "010.063.2b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पृथिव्यास्ते is पृथिव्याः + ते in sandhi; correct."
+ },
+ {
+  "id": "010.082.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "नामधाः 'name-giver' is a regular nominative compound; correct."
+ },
+ {
+  "id": "010.124.8a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मदन्तीः is the feminine nominative plural participle, agreeing with ताः; correct."
+ },
+ {
+  "id": "002.023.8b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "उत्तरं is the accusative agreeing with सुम्नम्; correct."
+ },
+ {
+  "id": "001.180.1b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पिबन्ता is the dual nominative participle, matching dual सचेथे; correct."
+ },
+ {
+  "id": "004.036.7b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "ब्रह्मणा is the instrumental of ब्रह्मन्; correct."
+ },
+ {
+  "id": "005.061.11b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पिबन्तः is the nominative plural participle, agreeing with वहन्ते/दधिरे; correct."
+ },
+ {
+  "id": "006.002.3",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सजोषस्त्वा is सजोषः + त्वा in sandhi; correct."
+ },
+ {
+  "id": "006.023.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "गृणतः is the genitive of the participle गृणत्, governed by हवम्; correct."
+ },
+ {
+  "id": "006.028.7a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पिबन्तीः is the feminine plural participle, agreeing with प्रजावतीः; correct."
+ },
+ {
+  "id": "006.054.10",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पुनर्नो is पुनः + नः in sandhi; correct."
+ },
+ {
+  "id": "008.010.4",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पिबतः is 3rd dual present, matching the dual Ashvins; correct."
+ },
+ {
+  "id": "008.012.32",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "धामनि is the locative of धामन्, agreeing with प्रिये; correct."
+ },
+ {
+  "id": "008.035.4a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "हवस्य is the genitive of हव governed by बोधतं; correct."
+ },
+ {
+  "id": "009.066.2",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "धामनी is the dual nominative of धामन्, matching dual प्रतीची and तस्थतुः; correct."
+ },
+ {
+  "id": "010.019.6",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पुनर्न is पुनः + नः in sandhi; correct."
+ },
+ {
+  "id": "010.161.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पुनर्दुः is पुनः + दुः in sandhi; correct."
+ },
+ {
+  "id": "006.071.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सवितुः is the genitive of सवितृ, parallel to देवस्य; correct."
+ }
+]

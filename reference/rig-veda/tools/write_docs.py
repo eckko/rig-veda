@@ -39,13 +39,12 @@ toc = f'''# Rigveda Samhita (ऋग्वेदसंहिता)
 Layout: mandala 002 is one file (p002.md, under 1000 lines); all other mandalas have one file per sukta.
 Sukta 8.66 is not in S1 (see ISSUES.md).
 
-## Parts
+## Parts (suktas in S1, verses extracted)
 
-| Part | Mandala | Suktas (S1) | Verses (extracted) |
-|---|---|---|---|
 ''' + '\n'.join(
-    f'| {m:03d} | {m} | {sum(1 for k in counts if k[0]==m)} | '
-    f'{sum(n for k, n in counts.items() if k[0]==m)} |'
+    f'- Part {m:03d} (mandala {m}): '
+    f'{sum(1 for k in counts if k[0]==m)} suktas, '
+    f'{sum(n for k, n in counts.items() if k[0]==m)} verses'
     for m in range(1, 11)) + '''
 
 ## Chapters

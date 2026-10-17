@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "002.042.1a",
+   "002.042.1b"
+  ],
+  "lines_deva": [
+   "कनि॑क्रदज्ज॒नुषं॑ प्रब्रुवा॒ण इय॑र्ति॒ वाच॑मरि॒तेव॒ नाव॑म्",
+   "सु॒म॒ङ्गल॑श्च शकुने॒ भवा॑सि॒ मा त्वा॒ का चि॑दभि॒भा विश्व्या॑ विदत्"
+  ],
+  "lines_iast": [
+   "kani̭kradajja̱nuṣa̭ṃ prabruvā̱ṇa iya̭rti̱ vāca̭mari̱teva̱ nāva̭m",
+   "su̱ma̱ṅgala̭śca śakune̱ bhavā̭si̱ mā tvā̱ kā ci̭dabhi̱bhā viśvyā̭ vidat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "002.042.2a",
+   "002.042.2b"
+  ],
+  "lines_deva": [
+   "मा त्वा॑ श्ये॒न उद् व॑धी॒न्मा सु॑प॒र्णो मा त्वा॑ विद॒दिषु॑मान् वी॒रो अस्ता॑",
+   "पित्र्या॒मनु॑ प्र॒दिशं॒ कनि॑क्रदत् सुम॒ङ्गलो॑ भद्रवा॒दी व॑दे॒ह"
+  ],
+  "lines_iast": [
+   "mā tvā̭ śye̱na ud va̭dhī̱nmā sṷpa̱rṇo mā tvā̭ vida̱diṣṷmān vī̱ro astā̭",
+   "pitryā̱manṷ pra̱diśa̱ṃ kani̭kradat suma̱ṅgalo̭ bhadravā̱dī va̭de̱ha"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "002.042.3a",
+   "002.042.3b"
+  ],
+  "lines_deva": [
+   "अव॑ क्रन्द दक्षिण॒तो गृ॒हाणां॑ सुम॒ङ्गलो॑ भद्रवा॒दी श॑कुन्ते",
+   "मा न॑: स्ते॒न ई॑शत॒ माघशं॑सो बृ॒हद् व॑देम वि॒दथे॑ सु॒वीरा॑:"
+  ],
+  "lines_iast": [
+   "ava̭ kranda dakṣiṇa̱to gṛ̱hāṇā̭ṃ suma̱ṅgalo̭ bhadravā̱dī śa̭kunte",
+   "mā na̭: ste̱na ī̭śata̱ māghaśa̭ṃso bṛ̱had va̭dema vi̱dathḙ su̱vīrā̭:"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,18 @@
+id	verdict	status	note
+001.022.21a	error	fixed-by-rebuild	extraction parser bug; text restored from S1 (not from the AI suggestion)
+003.030.12a	error	fixed-by-rebuild	extraction parser bug; text restored from S1 (not from the AI suggestion)
+005.076.1a	error	fixed-by-rebuild	extraction parser bug; text restored from S1 (not from the AI suggestion)
+006.020.1a	error	fixed-by-rebuild	extraction parser bug; text restored from S1 (not from the AI suggestion)
+008.082.1	error	fixed-by-rebuild	extraction parser bug; text restored from S1 (not from the AI suggestion)
+010.172.1a	error	fixed-by-rebuild	extraction parser bug; text restored from S1 (not from the AI suggestion)
+002.023.8a	unsure	open	source-level doubt; check against a printed edition
+007.089.1	error	fixed-by-rebuild	extraction parser bug; text restored from S1 (not from the AI suggestion)
+008.071.1	error	fixed-by-rebuild	extraction parser bug; text restored from S1 (not from the AI suggestion)
+007.067.7b	unsure	open	source-level doubt; check against a printed edition
+001.152.3a	unsure	open	source-level doubt; check against a printed edition
+001.014.10	error	open	source-level doubt; check against a printed edition
+003.006.1a	error	fixed-by-rebuild	extraction parser bug; text restored from S1 (not from the AI suggestion)
+001.120.4	error	open	source-level doubt; check against a printed edition
+009.105.1	error	fixed-by-rebuild	extraction parser bug; text restored from S1 (not from the AI suggestion)
+010.184.3	error	open	source-level doubt; check against a printed edition
+006.013.5a	error	open	source-level doubt; check against a printed edition

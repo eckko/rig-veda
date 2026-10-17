@@ -1,0 +1,146 @@
+{
+ "parts": {
+  "001": {
+   "chapters": 191,
+   "highest_chapter": 191,
+   "chapter_gaps": [],
+   "verses": 1993,
+   "lines": 3533,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [
+    "099"
+   ],
+   "last_chapter": "191",
+   "last_line": "वृश्चि॑कस्यार॒सं वि॒षम॑र॒सं वृ॑श्चिक ते वि॒षम् ॥"
+  },
+  "003": {
+   "chapters": 62,
+   "highest_chapter": 62,
+   "chapter_gaps": [],
+   "verses": 615,
+   "lines": 1119,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "062",
+   "last_line": "गृ॒णा॒ना ज॒मद॑ग्निना॒ योना॑वृ॒तस्य॑ सीदतम् । पा॒तं सोम॑मृतावृधा ॥"
+  },
+  "004": {
+   "chapters": 58,
+   "highest_chapter": 58,
+   "chapter_gaps": [],
+   "verses": 589,
+   "lines": 1052,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "058",
+   "last_line": "अ॒पामनी॑के समि॒थे य आभृ॑त॒स्तम॑श्याम॒ मधु॑मन्तं त ऊ॒र्मिम् ॥"
+  },
+  "005": {
+   "chapters": 87,
+   "highest_chapter": 87,
+   "chapter_gaps": [],
+   "verses": 727,
+   "lines": 1276,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "087",
+   "last_line": "ज्येष्ठा॑सो॒ न पर्व॑तासो॒ व्यो॑मनि यू॒यं तस्य॑ प्रचेतस॒: स्यात॑ दु॒र्धर्त॑वो नि॒"
+  },
+  "006": {
+   "chapters": 75,
+   "highest_chapter": 75,
+   "chapter_gaps": [],
+   "verses": 765,
+   "lines": 1309,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "075",
+   "last_line": "यो न॒: स्वो अर॑णो॒ यश्च॒ निष्ट्यो॒ जिघां॑सति । दे॒वास्तं सर्वे॑ धूर्वन्तु॒ ब्रह्"
+  },
+  "007": {
+   "chapters": 104,
+   "highest_chapter": 104,
+   "chapter_gaps": [],
+   "verses": 833,
+   "lines": 1539,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "104",
+   "last_line": "प्रति॑ चक्ष्व॒ वि च॒क्ष्वेन्द्र॑श्च सोम जागृतम् । रक्षो॑भ्यो व॒धम॑स्यतम॒शनिं॑ या"
+  },
+  "008": {
+   "chapters": 102,
+   "highest_chapter": 103,
+   "chapter_gaps": [
+    66
+   ],
+   "verses": 1690,
+   "lines": 1919,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "103",
+   "last_line": "आग्ने॑ याहि म॒रुत्स॑खा रु॒द्रेभि॒: सोम॑पीतये । सोभ॑र्या॒ उप॑ सुष्टु॒तिं मा॒दय॑स्"
+  },
+  "009": {
+   "chapters": 114,
+   "highest_chapter": 114,
+   "chapter_gaps": [],
+   "verses": 1097,
+   "lines": 1479,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "114",
+   "last_line": "अ॒रा॒ती॒वा मा न॑स्तारी॒न्मो च॑ न॒: किं च॒नाम॑म॒दिन्द्रा॑येन्दो॒ परि॑ स्रव ॥"
+  },
+  "010": {
+   "chapters": 191,
+   "highest_chapter": 191,
+   "chapter_gaps": [],
+   "verses": 1752,
+   "lines": 3067,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "191",
+   "last_line": "स॒मा॒नी व॒ आकू॑तिः समा॒ना हृद॑यानि वः । स॒मा॒नम॑स्तु वो॒ मनो॒ यथा॑ व॒: सुस॒हास॑त"
+  },
+  "002": {
+   "chapters": 43,
+   "highest_chapter": 43,
+   "chapter_gaps": [],
+   "verses": 429,
+   "lines": 822,
+   "number_jumps": [],
+   "odd_starts": [],
+   "truncated_end": false,
+   "short_chapters": [],
+   "last_chapter": "043",
+   "last_line": "यदु॒त्पत॒न् वद॑सि कर्क॒रिर्य॑था बृ॒हद् व॑देम वि॒दथे॑ सु॒वीरा॑: ॥"
+  }
+ },
+ "flags": [
+  "part 001: SHORT chapters ['099']",
+  "part 008: MISSING CHAPTERS [66]"
+ ],
+ "toc_vs_text": {
+  "in_toc_not_in_text": [],
+  "in_text_not_in_toc": []
+ }
+}

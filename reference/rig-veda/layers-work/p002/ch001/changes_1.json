@@ -1,0 +1,278 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम दिनों (द्युलोकों) से, तुम आतुर होकर प्रज्वलित होने वाले जलों से, तुम पत्थर से, तुम वनों से, तुम ओषधियों से, और हे नृपति, तुम मनुष्यों से शुद्ध (रूप में) जन्म लेते हो।",
+  "new": "हे अग्नि, तुम दिनों के द्वारा; तुम, शीघ्र प्रज्वलित होने वाले, जलों से; तुम पत्थर से; तुम वनों से; तुम ओषधियों से; हे नृपति, तुम मनुष्यों से शुद्ध जन्म लेते हो।",
+  "why": "reviewer (error): Epithet āśuśukṣaṇiḥ (nominative, agreeing with tvam) is attached to 'waters' in the Hindi; the English attaches it correctly to 'you'."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "dyubhiḥ",
+  "old": "from the days (heavens)",
+  "new": "through the days",
+  "why": "reviewer (minor): gram says instrumental plural but gloss and both translations say 'from' (ablative sense); 'heavens' is an added interpretation."
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "You, O Agni, are born from the days (the heavens); you, eager to blaze up, from the waters; you from the stone; you from the woods; you from the plants; you, O lord of men, are born pure from men.",
+  "new": "You, O Agni, are born through the days (heavens); you, eager to blaze up, from the waters; you from the stone; you from the woods; you from the plants; you, O lord of men, are born pure from men.",
+  "why": "reviewer (minor): Same: instrumental rendered as ablative."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम्हारा ही होता का कार्य है, तुम्हारा ही ऋतु के अनुसार पोता का कार्य है, तुम्हारा ही नेष्टा का कार्य है, तुम ही ऋत का पालन करने वाले (यजमान) के अग्नीध् हो; तुम्हारा ही प्रशास्ता का कार्य है, तुम ही अध्वर्यु का काम करते हो, तुम ब्रह्मा हो और हमारे घर में गृहपति हो।",
+  "new": "हे अग्नि, तुम्हारा ही होता का कार्य है, तुम्हारा ही ऋतु के अनुसार पोता का कार्य है, तुम्हारा ही नेष्टा का कार्य है, तुम ही ऋत का पालन करने वाले के अग्नीध् हो; तुम्हारा ही प्रशास्ता का कार्य है, तुम ही अध्वर्यु का काम करते हो, तुम ब्रह्मा हो और हमारे घर में गृहपति हो।",
+  "why": "reviewer (minor): Added word not in the text (ṛtāyataḥ is only 'of the one who follows ṛta')."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "dame",
+  "old": "n. loc. sg. dama",
+  "new": "m. loc. sg. dama",
+  "why": "reviewer (minor): dama is masculine."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम दृढ़ व्रत वाले राजा वरुण हो; तुम अद्भुत, स्तुति के योग्य मित्र होते हो; तुम सज्जनों के स्वामी अर्यमा हो, जिसका (दान) सबके भोग के लिए है; हे देव, तुम यज्ञ-सभा में भाग बाँटने वाले अंश हो।",
+  "new": "हे अग्नि, तुम दृढ़ व्रत वाले राजा वरुण हो; तुम अद्भुत, स्तुति के योग्य मित्र होते हो; तुम सज्जनों के स्वामी अर्यमा हो, जिसका साझा भोग है; हे देव, तुम यज्ञ-सभा में भाग बाँटने वाले अंश हो।",
+  "why": "reviewer (minor): '(दान)' (gift) is added; saṃbhuja is only 'common/shared enjoyment' and the draft's own note calls the sense uncertain."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम दृढ़ व्रत वाले राजा वरुण हो; तुम अद्भुत, स्तुति के योग्य मित्र होते हो; तुम सज्जनों के स्वामी अर्यमा हो, जिसका साझा भोग है; हे देव, तुम यज्ञ-सभा में भाग बाँटने वाले अंश हो।",
+  "new": "हे अग्नि, तुम दृढ़ व्रत वाले राजा वरुण हो; तुम अद्भुत, स्तुति के योग्य मित्र होते हो; तुम सज्जनों के स्वामी अर्यमा हो, जिसका साझा भोग है; हे देव, तुम यज्ञ में भाग बाँटने वाले अंश हो।",
+  "why": "reviewer (minor): English and gloss say 'rite' (vidathe); Hindi adds 'सभा' and 'यज्ञ' as one compound. Make consistent."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "su-vīryam",
+  "old": "abundance of heroes",
+  "new": "good heroic strength",
+  "why": "reviewer (error): 'abundance of heroes' is not the meaning of suvīrya (good heroic strength/valour); gram label 'bahuvrīhi/abstract' is muddled."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "You, O Agni, are Tvaṣṭṛ (giving) abundance of heroes to the worshipper; yours, O you great as Mitra, accompanied by the divine wives, is kinship; you, urging on the swift horses, grant wealth in good horses; you, rich in many goods, are the host of men.",
+  "new": "You, O Agni, are Tvaṣṭṛ for the worshipper, good heroic strength; yours, O you great as Mitra, accompanied by the divine wives, is kinship; you, urging on the swift horses, grant wealth in good horses; you, rich in many goods, are the host of men.",
+  "why": "reviewer (error): Added verb '(giving)' and wrong sense of suvīryam."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम उपासक के लिए (उत्तम वीरता देने वाले) त्वष्टा हो; हे मित्र के समान महान, देव-पत्नियों सहित तुम्हारा ही बन्धुत्व है; तुम, तेज़ (घोड़ों) को प्रेरित करने वाले, उत्तम अश्व-धन देते हो; तुम मनुष्यों का बल हो, बहुत धन वाले हो।",
+  "new": "हे अग्नि, तुम उपासक के लिए त्वष्टा हो, उत्तम वीरता-बल; हे मित्र के समान महान, देव-पत्नियों सहित तुम्हारा ही बन्धुत्व है; तुम, तेज़ (घोड़ों) को प्रेरित करने वाले, उत्तम अश्व-धन देते हो; तुम मनुष्यों का बल हो, बहुत धन वाले हो।",
+  "why": "reviewer (error): Added 'giving' in brackets, not in the text."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "āśu-hemā",
+  "old": "urging on the swift (horses)",
+  "new": "swift-impelling",
+  "why": "reviewer (error): '(horses)' is not in the word (hemā = impulse/impeller); compound type 'tat-puruṣa' doubtful."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "You, O Agni, are Tvaṣṭṛ for the worshipper, good heroic strength; yours, O you great as Mitra, accompanied by the divine wives, is kinship; you, urging on the swift horses, grant wealth in good horses; you, rich in many goods, are the host of men.",
+  "new": "You, O Agni, are Tvaṣṭṛ for the worshipper, good heroic strength; yours, O you great as Mitra, accompanied by the divine wives, is kinship; you, swift-impelling, grant wealth in good horses; you, rich in many goods, are the host of men.",
+  "why": "reviewer (error): Same: 'horses' added."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम उपासक के लिए त्वष्टा हो, उत्तम वीरता-बल; हे मित्र के समान महान, देव-पत्नियों सहित तुम्हारा ही बन्धुत्व है; तुम, तेज़ (घोड़ों) को प्रेरित करने वाले, उत्तम अश्व-धन देते हो; तुम मनुष्यों का बल हो, बहुत धन वाले हो।",
+  "new": "हे अग्नि, तुम उपासक के लिए त्वष्टा हो, उत्तम वीरता-बल; हे मित्र के समान महान, देव-पत्नियों सहित तुम्हारा ही बन्धुत्व है; तुम, तेज़ गति से प्रेरित करने वाले, उत्तम अश्व-धन देते हो; तुम मनुष्यों का बल हो, बहुत धन वाले हो।",
+  "why": "reviewer (error): Same: '(घोड़ों)' added."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम उपासक के लिए त्वष्टा हो, उत्तम वीरता-बल; हे मित्र के समान महान, देव-पत्नियों सहित तुम्हारा ही बन्धुत्व है; तुम, तेज़ गति से प्रेरित करने वाले, उत्तम अश्व-धन देते हो; तुम मनुष्यों का बल हो, बहुत धन वाले हो।",
+  "new": "हे अग्नि, तुम उपासक के लिए त्वष्टा हो, उत्तम वीरता-बल; हे मित्र के समान महान, देव-पत्नियों सहित तुम्हारा ही बन्धुत्व है; तुम, तेज़ गति से प्रेरित करने वाले, उत्तम अश्व-धन देते हो; तुम मनुष्यों के गण हो, बहुत धन वाले हो।",
+  "why": "reviewer (error): English and gloss say 'host/troop' (śardhaḥ, as in unit 6 'गण'); Hindi says 'strength'."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम महान द्युलोक के असुर (स्वामी) रुद्र हो; तुम मरुतों का गण हो; तुम अन्न (पोषण) के स्वामी हो; तुम अरुण वायुओं के साथ चलते हो, घर का कल्याण करने वाले हो; तुम पूषा हो, अपने आप से ही उपासकों की रक्षा करते हो।",
+  "new": "हे अग्नि, तुम महान द्युलोक के असुर (स्वामी) रुद्र हो; तुम मरुतों का गण हो; तुम पोषण के स्वामी हो; तुम अरुण वायुओं के साथ चलते हो, घर का कल्याण करने वाले हो; तुम पूषा हो, अपने आप से ही उपासकों की रक्षा करते हो।",
+  "why": "reviewer (minor): 'अन्न' (grain/food) is added; pṛkṣ is rendered 'nourishment' in English."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "You, O Agni, are the giver of wealth to the one who serves you duly; you are the god Savitṛ, bestower of treasure; you, O lord of men, are Bhaga, you have mastery over goods; you are the protector in the house of him who has worshipped you.",
+  "new": "You, O Agni, are the giver of wealth to the one who serves duly; you are the god Savitṛ, bestower of treasure; you, O lord of men, are Bhaga, you have mastery over goods; you are the protector in the house of him who has worshipped you.",
+  "why": "reviewer (minor): 'you' is not in araṃkṛte."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "patyase",
+  "old": "2 sg. pres. mid. √pat",
+  "new": "2 sg. pres. mid. denom. (from pati)",
+  "why": "reviewer (error): Wrong root: patyase is the denominative of pati ('be lord'), not √pat."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "You, O Agni, the lord of the clan in the house, you the gracious king, the clans honour with their striving; you, O fair-faced one, rule over all things; you are a match for thousands, hundreds, tens.",
+  "new": "You, O Agni, the lord of the clan in the house, you the gracious king, the clans honour; you, O fair-faced one, rule over all things; you are a match for thousands, hundreds, tens.",
+  "why": "reviewer (minor): 'with their striving' is an added gloss of ṛñjate."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "हे अग्नि, घर में (रहने वाले) तुम विशों के स्वामी को, प्रजाएँ तुम कृपालु राजा को, आदरपूर्वक प्राप्त करती हैं; हे सुन्दर मुख वाले, तुम सब पर शासन करते हो; तुम हज़ारों, सैकड़ों और दसों (धनों) के बराबर हो।",
+  "new": "हे अग्नि, घर में (रहने वाले) तुम विशों के स्वामी को, प्रजाएँ तुम कृपालु राजा को, आदर करती हैं; हे सुन्दर मुख वाले, तुम सब पर शासन करते हो; तुम हज़ारों, सैकड़ों और दसों (धनों) के बराबर हो।",
+  "why": "reviewer (minor): 'प्राप्त करती हैं' with added 'आदरपूर्वक' does not match English 'honour'."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "हे अग्नि, मनुष्य यज्ञों द्वारा तुम्हें पिता (के रूप में), और श्रम-सेवा द्वारा भ्रातृत्व के लिए देह से दीप्त तुम्हें (प्राप्त करते हैं); जिसने तुम्हारी उपासना की है, उसके तुम पुत्र हो जाते हो; तुम अति कल्याणकारी मित्र हो, आक्रमण से रक्षा करते हो।",
+  "new": "हे अग्नि, मनुष्य अर्पणों द्वारा तुम्हें पिता (के रूप में), और श्रम-सेवा द्वारा भ्रातृत्व के लिए देह से दीप्त तुम्हें (प्राप्त करते हैं); जिसने तुम्हारी उपासना की है, उसके तुम पुत्र हो जाते हो; तुम अति कल्याणकारी मित्र हो, आक्रमण से रक्षा करते हो।",
+  "why": "reviewer (minor): iṣṭibhiḥ is 'offerings' in gloss and English; Hindi says 'sacrifices' (यज्ञ, which is the glossary word for yajña)."
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "viśikṣuḥ",
+  "old": "m. nom. sg. desid. √dā",
+  "new": "m. nom. sg. desid. adj., vi-√śikṣ",
+  "why": "reviewer (error): Wrong root: viśikṣu is from vi + √śikṣ (desiderative of √śak), not √dā."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "kṣumataḥ",
+  "old": "rich in cattle",
+  "new": "abounding",
+  "why": "reviewer (minor): 'rich in cattle' is over-specific (kṣumant = abounding, usually of food)."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "You, O Agni, are Ṛbhu, worthy of homage close at hand; you have mastery over the prize rich in cattle, over wealth; you shine forth, you burn in turn for the giving; you are eager to distribute, the one who extends the sacrifice.",
+  "new": "You, O Agni, are Ṛbhu, worthy of homage close at hand; you have mastery over the abundant prize, over wealth; you shine forth, you burn in turn for the giving; you are eager to distribute, the one who extends the sacrifice.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम निकट रहने वाले, नमन के योग्य ऋभु हो; तुम पशुओं से युक्त अन्न (वाज) और धन के स्वामी हो; तुम चारों ओर प्रकाशते हो, दान के लिए (तुरन्त) जलते हो; तुम बाँटने के इच्छुक हो, यज्ञ को विस्तार देने वाले हो।",
+  "new": "हे अग्नि, तुम निकट रहने वाले, नमन के योग्य ऋभु हो; तुम प्रचुर वाज (पुरस्कार) और धन के स्वामी हो; तुम चारों ओर प्रकाशते हो, दान के लिए (तुरन्त) जलते हो; तुम बाँटने के इच्छुक हो, यज्ञ को विस्तार देने वाले हो।",
+  "why": "reviewer (minor): 'cattle' and 'food' are added."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम निकट रहने वाले, नमन के योग्य ऋभु हो; तुम प्रचुर वाज (पुरस्कार) और धन के स्वामी हो; तुम चारों ओर प्रकाशते हो, दान के लिए (तुरन्त) जलते हो; तुम बाँटने के इच्छुक हो, यज्ञ को विस्तार देने वाले हो।",
+  "new": "हे अग्नि, तुम निकट रहने वाले, नमन के योग्य ऋभु हो; तुम प्रचुर वाज (पुरस्कार) और धन के स्वामी हो; तुम चारों ओर प्रकाशते हो, दान के लिए जलते हो; तुम बाँटने के इच्छुक हो, यज्ञ को विस्तार देने वाले हो।",
+  "why": "reviewer (minor): Added word; English has 'in turn'."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "You, O Agni, O god, are Aditi for the pious offerer; you are Hotrā Bhāratī, you grow strong through the song; you are Iḷā of a hundred winters, for skilful strength; you, O lord of goods, are the Vṛtra-slayer, Sarasvatī.",
+  "new": "You, O Agni, O god, are Aditi for the pious offerer; you are Hotrā Bhāratī, you grow strong through the hymn; you are Iḷā of a hundred winters, for skilful strength; you, O lord of goods, are the Vṛtra-slayer, Sarasvatī.",
+  "why": "reviewer (minor): Glossary: gir = hymn/praise."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "girā",
+  "old": "by the song",
+  "new": "by the hymn",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "dakṣase",
+  "old": "m. dat. sg. (inf.) dakṣas",
+  "new": "n. dat. sg. (inf.) dakṣas",
+  "why": "reviewer (minor): dakṣas is neuter."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "हे अग्नि, भली प्रकार पाले-पोसे गए तुम सर्वोत्तम जीवन-शक्ति हो; तुम्हारे वांछनीय वर्ण में, (तुम्हारे) दर्शन में शोभाएँ हैं; तुम आगे ले जाने वाला, महान वाज (अन्न-बल) हो; तुम प्रचुर, सब ओर से विस्तृत धन हो।",
+  "new": "हे अग्नि, भली प्रकार पाले-पोसे गए तुम सर्वोत्तम जीवन-शक्ति हो; तुम्हारे वांछनीय वर्ण में, (तुम्हारे) दर्शन में शोभाएँ हैं; तुम आगे ले जाने वाला, महान वाज (पुरस्कार) हो; तुम प्रचुर, सब ओर से विस्तृत धन हो।",
+  "why": "reviewer (minor): Added 'अन्न-बल'; English and gloss say 'prize'."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "हे अग्नि, आदित्यों ने तुम्हें (अपना) मुख बनाया, शुद्ध (देवों) ने तुम्हें (अपनी) जिह्वा बनाया, हे कवि; दान से युक्त (देव) यज्ञों में तुम्हारा साथ करते हैं; तुममें देव अर्पित की गई हवि खाते हैं।",
+  "new": "हे अग्नि, आदित्यों ने तुम्हें (अपना) मुख बनाया, शुद्धों ने तुम्हें (अपनी) जिह्वा बनाया, हे कवि; दान से युक्त (देव) यज्ञों में तुम्हारा साथ करते हैं; तुममें देव अर्पित की गई हवि खाते हैं।",
+  "why": "reviewer (minor): '(देवों)' is an added identification."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "हे अग्नि, आदित्यों ने तुम्हें (अपना) मुख बनाया, शुद्धों ने तुम्हें (अपनी) जिह्वा बनाया, हे कवि; दान से युक्त (देव) यज्ञों में तुम्हारा साथ करते हैं; तुममें देव अर्पित की गई हवि खाते हैं।",
+  "new": "हे अग्नि, आदित्यों ने तुम्हें (अपना) मुख बनाया, शुद्धों ने तुम्हें (अपनी) जिह्वा बनाया, हे कवि; दान के साथ चलने वाले यज्ञों में तुम्हारा साथ देते हैं; तुममें देव अर्पित की गई हवि खाते हैं।",
+  "why": "reviewer (minor): '(देव)' is added; rāti-sāc is 'accompanying the gift', and Hindi/English disagree on direction."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "You, O Agni, the Ādityas have made their mouth; you, O poet, the pure ones have made their tongue; those attended by gifts follow you at the rites; in you the gods eat the oblation that is offered.",
+  "new": "You, O Agni, the Ādityas have made their mouth; you, O poet, the pure ones have made their tongue; those who accompany the gifts follow you at the rites; in you the gods eat the oblation that is offered.",
+  "why": "reviewer (minor): Direction reversed relative to rātiṣāc ('who accompany the gifts'); notes admit the referent is unknown."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "rāti-sācaḥ",
+  "old": "attended by gifts",
+  "new": "accompanying the gifts",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "हे अग्नि, तुममें सब अमर, द्रोह-रहित देव (तुम्हारे) मुख से अर्पित की गई हवि खाते हैं; तुम्हारे द्वारा मनुष्य (सोम के) रस को स्वादिष्ट पाते हैं; तुम लताओं-वनस्पतियों के गर्भ के रूप में शुद्ध होकर जन्मे हो।",
+  "new": "हे अग्नि, तुममें सब अमर, द्रोह-रहित देव (तुम्हारे) मुख से अर्पित की गई हवि खाते हैं; तुम्हारे द्वारा मनुष्य आसुति का स्वाद लेते हैं; तुम लताओं-वनस्पतियों के गर्भ के रूप में शुद्ध होकर जन्मे हो।",
+  "why": "reviewer (minor): '(सोम के)' is an addition (the draft's own note says 'or the like'); 'स्वादिष्ट पाते' is also loose for svadante."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "In you, O Agni, all the immortal gods, free from deceit, eat with their mouth the oblation that is offered; through you mortals savour the pressed drink; you have been born pure as the child of the plants.",
+  "new": "In you, O Agni, all the immortal gods, free from deceit, eat with their mouth the oblation that is offered; through you mortals savour the pressed drink; you have been born pure as the embryo of the plants.",
+  "why": "reviewer (minor): garbha = embryo (gloss says 'embryo, child'; Hindi 'गर्भ')."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "हे सुजात अग्नि, तुम उन (देवों) के समान भी हो और उनके बराबर भी हो, और हे देव, महिमा में तुम (उनसे) आगे बढ़ जाते हो, जब यहाँ तुम्हारी पोषण-शक्ति (अपनी) महिमा से द्यावापृथिवी, दोनों लोकों में फैल गई।",
+  "new": "हे सुजात अग्नि, तुम उन के समान भी हो और उनके बराबर भी हो, और हे देव, महिमा में तुम (उनसे) आगे बढ़ जाते हो, जब यहाँ तुम्हारी पोषण-शक्ति (अपनी) महिमा से द्यावापृथिवी, दोनों लोकों में फैल गई।",
+  "why": "reviewer (minor): '(देवों)' added: tān has no stated referent."
+ },
+ {
+  "n": "16",
+  "field": "notes",
+  "old": "neṣi: 2 sg. (si-imperative/aorist) of √nī 'lead', rendered as a request. vasyaḥ: acc. of the comparative vasyas 'better (fortune)'. The final pāda 'bṛhad vadema vidathe suvīrāḥ' is the refrain of this family's hymns.",
+  "new": "neṣi: 2 sg. (si-imperative/aorist) of √nī 'lead', rendered as a request. vasyaḥ: acc. of the comparative vasyas 'better (fortune)'.",
+  "why": "reviewer (minor): Claim goes beyond the text (other hymns, a 'family'); not allowed by the brief."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "हे अग्नि, जो दानी यजमान स्तोताओं को गायों से अग्रगण्य और घोड़ों से सुशोभित दान देते हैं, हमें और उन्हें, तुम ही श्रेष्ठ समृद्धि की ओर आगे ले चलो; हम उत्तम वीरों से युक्त होकर यज्ञ-सभा में ऊँचे स्वर से बोलें।",
+  "new": "हे अग्नि, जो दानी यजमान स्तोताओं को गायों से अग्रगण्य और घोड़ों से सुशोभित दान देते हैं, हमें और उन्हें, तुम ही श्रेष्ठ समृद्धि की ओर आगे ले चलो; हम उत्तम वीरों से युक्त होकर यज्ञ में ऊँचे स्वर से बोलें।",
+  "why": "reviewer (minor): English says 'at the rite'; same inconsistency as unit 4."
+ }
+]

@@ -1032,6 +1032,11 @@ Updated: 2026-10-17 on branch docs/2026-10-17/version-1. Base source: S1. Sanskr
 | 010 | 190 | 3 | S1 | -- | -- | pass |  |
 | 010 | 191 | 4 | S1 | -- | -- | pass |  |
 
+## Verify stage (2026-10-17)
+- Checked: structure (1027 of 1028 suktas, 8.66 missing), stray characters (0), 712 typo candidates + 110 random lines read by AI. 17 proposals: 10 were parser bugs (fixed by re-extraction), 7 open (checks/proposals_status.tsv).
+- Not checked: a second edition (none available), Vedic metre, lines outside the 822 AI-read items.
+- Layers (word split, Hindi, English): not started. Plan: about 3.5 million draft output tokens for all 10 mandalas, plus the same for review; pilot on one mandala first.
+
 ## Next
 - Check S1 against a second source (GRETIL Aufrecht, blocked from the shell; needs a user download) to find dropped or merged verses.
 - Translations (Hindi, English): not looked for yet.

@@ -1,0 +1,189 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "प्रज्वलित अग्नि, पृथिवी पर स्थापित, सब भुवनों की ओर मुख किए खड़ा हुआ है। होता, पावक, पुरातन काल से, अत्यन्त बुद्धिमान् देव — वह योग्य अग्नि देवों का यजन करे।",
+  "new": "प्रज्वलित अग्नि, पृथिवी पर स्थापित, सब भुवनों की ओर मुख किए खड़ा हुआ है। होता, पावक, पुरातन काल से, अत्यन्त बुद्धिमान् देव — योग्य अग्नि देवों का यजन करे।",
+  "why": "reviewer (minor): 'वह' (that) is not in the Sanskrit (agniḥ arhan); small addition."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "नराशंस, धामों को अभ्यंजित करता हुआ, अपनी महिमा से तीनों द्युलोकों की ओर, उज्ज्वल ज्वाला वाला; घृत छिड़कने वाले मन से हव्य को भिगोता हुआ, यज्ञ के शीर्ष पर देवों को भली प्रकार अभ्यंजित करे।",
+  "new": "नराशंस, धामों को अभ्यंजित करता हुआ, अपनी महिमा से तीनों द्युलोकों की ओर (पहुँचता हुआ), उज्ज्वल ज्वाला वाला; घृत छिड़कने वाले मन से हव्य को भिगोता हुआ, यज्ञ के शीर्ष पर देवों को भली प्रकार अभ्यंजित करे।",
+  "why": "reviewer (minor): English supplies '(reaching)' for the verbless 'prati tisro divaḥ ... mahnā' and the notes say so, but the Hindi leaves 'towards the three heavens' hanging with no supplied verb."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हे अग्नि, हमारे मन से स्तुत, योग्य, आज मानुष होता से पहले देवों का यजन करो। वह तुम मरुतों के अविचल गण को यहाँ लाओ; हे नरो, बर्हि पर बैठे इन्द्र का यजन करो।",
+  "new": "हे अग्नि, हमारे मन से स्तुत, योग्य, आज मानुष से पहले देवों का यजन करो। वह तुम मरुतों के अविचल गण को यहाँ लाओ; हे नरो, बर्हि पर बैठे इन्द्र का यजन करो।",
+  "why": "reviewer (error): 'होता' is an unbracketed addition: the text has only mānuṣāt (the human); the notes themselves say the comparison is not stated. The English '(priest)' and the gloss '(hotṛ)' are also guesses and disagree with each other."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Invoked with our mind, O Agni, worthy one, worship the gods today, before the human (priest). Bring hither the unshaken host of the Maruts; O men, worship Indra seated on the barhis (sacred grass).",
+  "new": "Invoked with our mind, O Agni, worthy one, worship the gods today, before the human (one). Bring hither the unshaken host of the Maruts; O men, worship Indra seated on the barhis (sacred grass).",
+  "why": "reviewer (minor): Bracketed '(priest)' is an interpretation not in the line; keep literal."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "mānuṣāt",
+  "old": "than the human (hotṛ)",
+  "new": "than the human one",
+  "why": "reviewer (minor): '(hotṛ)' not in the text; also the gloss must match the English."
+ },
+ {
+  "n": "3",
+  "field": "confidence",
+  "old": "high",
+  "new": "medium",
+  "why": "reviewer (minor): 'high' is too firm: the standard of comparison of 'mānuṣāt pūrvaḥ' is unstated and 'arhan' is loosely attached; medium is honest."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "हे दिव्य बर्हि — बढ़ते हुए, सुवीर, धन के लिए बिछाए हुए, इस वेदी पर सुन्दर भार वाले, घृत से अभ्यंजित इस (बर्हि) पर, हे वसुओ, हे विश्वेदेवो, हे यज्ञ के योग्य आदित्यो, बैठो।",
+  "new": "हे दिव्य बर्हि — बढ़ते हुए, सुवीर, धन के लिए बिछाए हुए, इस वेदी पर सुन्दर भार वाले, घृत से अभ्यंजित इस (बर्हि) पर, हे वसुओ, हे सब देवो, हे यज्ञ के योग्य आदित्यो, बैठो।",
+  "why": "reviewer (minor): viśve devāḥ is 'all gods'; 'विश्वेदेव' names the later Viśvedeva group and the English says 'all you gods'."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "होमों से आहूत, सुगम प्रवेश वाले दिव्य द्वार नमस्कारों के साथ विस्तृत रूप से खुल जाएँ; विशाल, अजर द्वार फैल जाएँ, यशस्वी, सुवीर वर्ण को पवित्र करते हुए।",
+  "new": "आहूत किए जाते हुए, सुगम प्रवेश वाले दिव्य द्वार नमस्कारों के साथ विस्तृत रूप से खुल जाएँ; विशाल, अजर द्वार फैल जाएँ, यशस्वी, सुवीर वर्ण को पवित्र करते हुए।",
+  "why": "reviewer (error): 'होमों से' (with oblations) is invented; the line has hūyamānāḥ (being invoked) and only namobhiḥ (with homages). English is right, Hindi adds an instrument."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "उषा और रात्रि, पुरातन काल से बढ़ी हुई, रमणीय, बुनने वाली स्त्री की भाँति हमारे कर्मों को भली प्रकार (बुनती हैं); फैले हुए तन्तु को, यज्ञ के अलंकार को, साथ मिलकर बुनती हुई, परस्पर मिली हुई, सुदोह्य, दूध से भरी हुई दोनों।",
+  "new": "उषा और रात्रि, पुरातन काल से बढ़ी हुई, रमणीय, बुनने वाली स्त्री की भाँति हमारे कर्मों को भली प्रकार (बुनती हैं); फैले हुए तन्तु को, यज्ञ के अलंकार को, साथ मिलकर बुनती हुई, परस्पर मिली हुई, भली प्रकार दूध देने वाली, दूध से भरी हुई दोनों।",
+  "why": "reviewer (error): sudughe = good milk-giving (active); 'सुदोह्य' means easy to be milked (passive) and does not match the English 'good-milking'."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "हमारी धी को सिद्ध करती हुई सरस्वती, देवी इळा, सर्वत्र आगे बढ़ने वाली भारती — ये तीन देवियाँ अपनी स्वधा से इस बर्हि पर बैठकर (हमारे) अच्छिद्र शरण की रक्षा करें।",
+  "new": "हमारी धी को सिद्ध करती हुई सरस्वती, देवी इळा, सबको पार करने वाली भारती — ये तीन देवियाँ अपनी स्वधा से इस बर्हि पर बैठकर (हमारे) अच्छिद्र शरण की रक्षा करें।",
+  "why": "reviewer (minor): Hindi and English disagree on viśvatūrtiḥ: English 'all-surpassing', Hindi 'advancing everywhere'. Align them (tūrti is from tṝ 'cross over, overcome')."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "पिशंग (पीत-लाल) रूप वाला, सुभर, बल देने वाला, देवों को चाहने वाला वीर शीघ्र उत्पन्न होता है। त्वष्टा हमारे लिए सन्तान को, नाभि को, खोल दे; फिर वह देवों के आश्रय में जाए।",
+  "new": "भूरे-पीले रूप वाला, सुभर, बल देने वाला, देवों को चाहने वाला वीर शीघ्र उत्पन्न होता है। त्वष्टा हमारे लिए सन्तान को, नाभि को, खोल दे; फिर वह देवों के आश्रय में जाए।",
+  "why": "reviewer (minor): Bracketed '(पीत-लाल)' is an added gloss; English says only 'tawny-coloured'. Use a plain Hindi rendering."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Tawny-coloured, easy to bear, bestowing vigour, a hero loving the gods is born promptly. Let Tvaṣṭṛ loosen offspring, the navel (cord), for us; then let him go into the protection of the gods.",
+  "new": "Tawny-coloured, easy to bear, bestowing vigour, a hero loving the gods is born promptly. Let Tvaṣṭṛ loosen offspring, the navel, for us; then let him go into the protection of the gods.",
+  "why": "reviewer (minor): '(cord)' is not in the text (nābhim only); Hindi has no 'cord'. Also the gloss carries it."
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "asme",
+  "old": "dat. pl. encl.",
+  "new": "dat. pl. pron. (Vedic)",
+  "why": "reviewer (minor): asme is the full (accented) Vedic dat. of asmad, not an enclitic."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "वनस्पति (यूप) छोड़ता हुआ समीप खड़ा हो; अग्नि धी (स्तुतियों) के साथ हवि को भली प्रकार तैयार करे। तीन प्रकार से अभ्यंजित हव्य को जानता हुआ दिव्य शमिता देवों के पास ले जाए।",
+  "new": "वनस्पति छोड़ता हुआ समीप खड़ा हो; अग्नि धी (स्तुतियों) के साथ हवि को भली प्रकार तैयार करे। तीन प्रकार से अभ्यंजित हव्य को जानता हुआ दिव्य शमिता देवों के पास ले जाए।",
+  "why": "reviewer (minor): '(यूप)' / 'the sacrificial post' is tradition, not in the line; the instruction is not to import later identification. Keep literal in translations (the notes may say 'perhaps the post')."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Let the Lord of the Forest (the sacrificial post), releasing, stand near; let Agni make the oblation ready with (our) thoughts. Let the divine Śamitṛ, knowing well, bring the thrice-anointed offering to the gods.",
+  "new": "Let the Lord of the Forest, releasing, stand near; let Agni make the oblation ready with (our) thoughts. Let the divine Śamitṛ, knowing well, bring the thrice-anointed offering to the gods.",
+  "why": "reviewer (minor): Same unsupported identification in English and in the gloss of vanaspatiḥ."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "vanaspatiḥ",
+  "old": "Lord of the Forest (the post)",
+  "new": "Lord of the Forest",
+  "why": "reviewer (minor): '(the post)' not in the text."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "वनस्पति छोड़ता हुआ समीप खड़ा हो; अग्नि धी (स्तुतियों) के साथ हवि को भली प्रकार तैयार करे। तीन प्रकार से अभ्यंजित हव्य को जानता हुआ दिव्य शमिता देवों के पास ले जाए।",
+  "new": "वनस्पति छोड़ता हुआ समीप खड़ा हो; अग्नि धियों के साथ हवि को भली प्रकार तैयार करे। तीन प्रकार से अभ्यंजित हव्य को जानता हुआ दिव्य शमिता देवों के पास ले जाए।",
+  "why": "reviewer (minor): '(स्तुतियों)' is an added gloss; English says 'with (our) thoughts' with an unsupported '(our)'. dhībhiḥ is just 'with thoughts'."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Let the Lord of the Forest, releasing, stand near; let Agni make the oblation ready with (our) thoughts. Let the divine Śamitṛ, knowing well, bring the thrice-anointed offering to the gods.",
+  "new": "Let the Lord of the Forest, releasing, stand near; let Agni make the oblation ready with thoughts. Let the divine Śamitṛ, knowing well, bring the thrice-anointed offering to the gods.",
+  "why": "reviewer (minor): '(our)' not in the text."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "वनस्पति छोड़ता हुआ समीप खड़ा हो; अग्नि धियों के साथ हवि को भली प्रकार तैयार करे। तीन प्रकार से अभ्यंजित हव्य को जानता हुआ दिव्य शमिता देवों के पास ले जाए।",
+  "new": "वनस्पति छोड़ता हुआ समीप खड़ा हो; अग्नि धियों के साथ हवि को भली प्रकार तैयार करे। दिव्य शमिता भली प्रकार जानता हुआ तीन प्रकार से अभ्यंजित हव्य को देवों के पास ले जाए।",
+  "why": "reviewer (minor): Word order makes prajānan look transitive ('knowing the offering'); the English has 'knowing well' as an adverbial participle. Also English 'thrice-anointed' narrows tridhā samaktam ('anointed in three ways', as the gloss and Hindi say)."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Let the Lord of the Forest, releasing, stand near; let Agni make the oblation ready with thoughts. Let the divine Śamitṛ, knowing well, bring the thrice-anointed offering to the gods.",
+  "new": "Let the Lord of the Forest, releasing, stand near; let Agni make the oblation ready with thoughts. Let the divine Śamitṛ, knowing well, bring the offering anointed in three ways to the gods.",
+  "why": "reviewer (minor): See previous: align with the gloss."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Ghee is mixed (in him), ghee is his womb, he rests in ghee, ghee indeed is his abode. According to your own nature bring (the gods) hither, rejoice; O bull, convey the oblation hallowed with svāhā.",
+  "new": "Ghee is mixed (in him), ghee is his womb, he rests in ghee, ghee indeed is his abode. According to your own power bring (the gods) hither, rejoice; O bull, convey the oblation hallowed with svāhā.",
+  "why": "reviewer (minor): anuṣvadham is built on svadhā, rendered 'own power' in unit 8; 'nature' is inconsistent and not supported. Same in Hindi and the gloss."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "घृत (उसमें) मिश्रित है, घृत उसकी योनि है, वह घृत में स्थित है, घृत ही उसका धाम है। अपने स्वभाव के अनुसार (देवों को) यहाँ लाओ, आनन्दित होओ; हे वृषभ, स्वाहा-कृत हव्य को पहुँचाओ।",
+  "new": "घृत (उसमें) मिश्रित है, घृत उसकी योनि है, वह घृत में स्थित है, घृत ही उसका धाम है। अपनी शक्ति के अनुसार (देवों को) यहाँ लाओ, आनन्दित होओ; हे वृषभ, स्वाहा-कृत हव्य को पहुँचाओ।",
+  "why": "reviewer (minor): Same as above."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "anuṣvadham",
+  "old": "according to own nature",
+  "new": "according to own power",
+  "why": "reviewer (minor): Same as above."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Ghee is mixed (in him), ghee is his womb, he rests in ghee, ghee indeed is his abode. According to your own power bring (the gods) hither, rejoice; O bull, convey the oblation hallowed with svāhā.",
+  "new": "Ghee is mixed (in him), ghee is his womb, he rests in ghee, ghee indeed is his abode. According to your own power bring (the gods) hither, rejoice; O bull, convey the oblation made with svāhā.",
+  "why": "reviewer (minor): 'hallowed' is an interpretation; kṛta = made/done. The gloss repeats it."
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "vakṣi",
+  "old": "2 sg. √vah (aor./impv.)",
+  "new": "2 sg. aor. impv. √vah",
+  "why": "reviewer (minor): Tense missing, and the note's 'a -si form with imperative force' is misleading; vakṣi is the s-aorist 2 sg. imperative, like yakṣi in unit 3."
+ },
+ {
+  "n": "11",
+  "field": "notes",
+  "old": "ghṛtamvasya = ghṛtam u asya (u + a > va); 'u' is the emphatic particle. mimikṣe: perfect middle with passive sense. Object of ā vaha (the gods) is supplied. vakṣi: 2 sg. -si form of √vah with imperative force.",
+  "new": "ghṛtamvasya = ghṛtam u asya (u + a > va); 'u' is the emphatic particle. mimikṣe: perfect middle with passive sense. Object of ā vaha (the gods) is supplied. vakṣi: 2 sg. -si form of √vah with imperative force. ghṛtam in the first clause is nom. or acc.; it could also be the object of mimikṣe, and '(in him)' is supplied.",
+  "why": "reviewer (minor): ghṛtam is nom. and acc. alike; 'ghee is mixed (in him)' needs a supplied '(in him)' and a passive sense for a middle perfect. The alternative (ghṛtam as object of mimikṣe, he has mixed/taken ghee) should be mentioned, and confidence stays medium."
+ }
+]

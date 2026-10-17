@@ -11,7 +11,7 @@ from pathlib import Path
 DIG = str.maketrans('०१२३४५६७८९', '0123456789')
 ACCENT = re.compile('[\u0951\u0952\u1cd0-\u1cff]')
 # a verse-end marker anywhere in the text: ॥ N ॥  |  ॥N  |  ॥ N ॥ M (M = extra)
-MARK = re.compile(r'॥\s*([०-९]+)\s*(?:॥)?(?:[ \t]+([०-९]+)(?=\s|$))?')
+MARK = re.compile(r'॥\s*([०-९]+)\s*(?:॥){0,2}(?:[ \t]+([०-९]+)(?=\s|$))?')
 
 
 def clean(text):
@@ -35,8 +35,13 @@ def split_sukta(text):
     first = parts[0] if parts else tail
     acc = ACCENT.search(first)
     if acc:
-        cut = max(first.rfind(' ', 0, acc.start()),
-                  first.rfind('\n', 0, acc.start())) + 1
+        # start of the line that holds the first accent; if that line also
+        # holds the end of the header (a danda), cut after the last danda,
+        # so unaccented first words of verse 1 stay with the verse
+        line_start = first.rfind('\n', 0, acc.start()) + 1
+        segment = first[line_start:acc.start()]
+        last_danda = max(segment.rfind('।'), segment.rfind('॥'))
+        cut = line_start + last_danda + 1 if last_danda >= 0 else line_start
     else:
         cut = 0
     header_text, first_body = first[:cut], first[cut:]

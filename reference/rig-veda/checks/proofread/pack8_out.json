@@ -1,0 +1,422 @@
+[
+ {
+  "id": "009.091.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "यथा॒जौ is yathā + ājau (sandhi), a normal form."
+ },
+ {
+  "id": "001.146.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "विश्वान् केताँ is the accusative plural before a vowel-initial word; regular."
+ },
+ {
+  "id": "010.084.5a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "अधि॒पा भ॑वे॒ह is adhipā bhava iha; the 3 is a pluti/svara digit."
+ },
+ {
+  "id": "005.013.6",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "दे॒वाँस्त्वं is devān + tvam with the usual nasalised sandhi."
+ },
+ {
+  "id": "001.130.8a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "विश्वे॑षु is a regular locative plural; the ह्ल/ळ्ह spelling varies within this edition."
+ },
+ {
+  "id": "001.094.6a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "होता॑सि is hotā asi (sandhi), fits the verb forms of the line."
+ },
+ {
+  "id": "009.010.7",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "होता॑रः is the nominative plural matching आसते and स॒प्तजा॑मयः."
+ },
+ {
+  "id": "009.114.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "होता॑र ऋ॒त्विज॑: is hotāraḥ with visarga sandhi before ṛ."
+ },
+ {
+  "id": "001.094.14b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "दा॒शुषे ऽग्ने॑ keeps the edition's spaced avagraha and the accent shift after elision, as in the next line."
+ },
+ {
+  "id": "001.115.5b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "सं भ॑रन्ति is a regular 3rd plural; sense fits."
+ },
+ {
+  "id": "001.136.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "भ॑रता is the 2nd plural imperative; regular."
+ },
+ {
+  "id": "005.011.4a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वि भ॑रन्ते is a regular middle 3rd plural; spaced avagraha is edition style."
+ },
+ {
+  "id": "010.111.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "प्र भ॑रध्वं is the 2nd plural middle imperative; regular."
+ },
+ {
+  "id": "001.054.10b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "अनु॒ष्ठाः is a rare but well-formed word (anu-ṣṭhā); nothing else in the line is off."
+ },
+ {
+  "id": "005.053.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "इ॒मान् पश्य॒न् is the accusative plural before a consonant; regular."
+ },
+ {
+  "id": "010.085.41",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "इ॒माम् is the feminine accusative singular; regular."
+ },
+ {
+  "id": "004.018.6b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "परि॒धिं is a regular accusative; sense fits रु॑जन्ति."
+ },
+ {
+  "id": "003.060.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "प्रति॒मै is a rare form but nothing in the line shows a typing slip."
+ },
+ {
+  "id": "006.044.21a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वृषा॑सि is vṛṣā asi, parallel to वृ॑ष॒भः in the same line."
+ },
+ {
+  "id": "010.010.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मन॑सि is the locative; त॒न्व१मा has a svara digit, not an error."
+ },
+ {
+  "id": "003.059.7",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पृथि॒वीम् is the accusative, object of अ॒भि (ब॒भूव॑)."
+ },
+ {
+  "id": "009.002.7",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "गिर॑स्त is giraḥ + te with visarga sandhi; regular."
+ },
+ {
+  "id": "001.129.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "इन्द्रो॒त is indra + uta (sandhi); regular."
+ },
+ {
+  "id": "005.034.9a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "उप॒मां is a regular accusative agreeing with के॒तुम्."
+ },
+ {
+  "id": "007.104.17b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "उप॒ब्दैः is a well-formed instrumental plural."
+ },
+ {
+  "id": "008.029.5a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "उप॒मा is a dual form matching द्वा; no half-verse mark is the chapter's style."
+ },
+ {
+  "id": "010.008.1b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "उप॒माँ is the accusative plural with nasalised sandhi before उ."
+ },
+ {
+  "id": "010.060.7",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मा॒तायं is mātā + ayam (sandhi), parallel to पि॒ताऽयं."
+ },
+ {
+  "id": "004.016.13b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "स॒हस्रा ऽत्कं is sahasrā + atkam with the edition's spaced avagraha."
+ },
+ {
+  "id": "001.116.16a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "पि॒तान्धं is pitā + andham (sandhi); regular."
+ },
+ {
+  "id": "003.047.1b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "राजा॑सि is rājā asi; regular."
+ },
+ {
+  "id": "010.109.6",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "राजा॑नः is the nominative plural matching कृ॑ण्वा॒नाः."
+ },
+ {
+  "id": "001.171.4a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "इन्द्रा॑द् भि॒या is the ablative before bh; regular."
+ },
+ {
+  "id": "003.023.2b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "रा॒येषां is rāye + eṣām (sandhi); regular."
+ },
+ {
+  "id": "007.099.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "महि॒म्नः is the genitive of mahiman; regular."
+ },
+ {
+  "id": "008.012.8",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "महि॒षाँ is the accusative plural before a vowel; regular."
+ },
+ {
+  "id": "009.062.27",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "महि॒म्ने is the dative of mahiman; regular."
+ },
+ {
+  "id": "001.161.5b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "नाम॑भिः is a regular instrumental plural; the 3 is a pluti digit."
+ },
+ {
+  "id": "010.119.8",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "म॒हीम् is the accusative agreeing with पृथि॒वीं."
+ },
+ {
+  "id": "001.053.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वसु॑न इ॒नस्पति॑: is vasunaḥ with visarga sandhi; regular."
+ },
+ {
+  "id": "001.125.2b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वसु॑ना is a regular instrumental; regular."
+ },
+ {
+  "id": "007.071.4a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वसु॑माँ is vasumān before a vowel; regular."
+ },
+ {
+  "id": "001.164.19a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "परा॑च is parācaḥ with visarga sandhi before आ; regular."
+ },
+ {
+  "id": "004.002.16a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "परा॑सः is a regular nominative plural agreeing with पि॒तरः."
+ },
+ {
+  "id": "004.035.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मधु॑नः is the genitive of madhu; regular."
+ },
+ {
+  "id": "004.045.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "मधु॑ने is the dative of madhu; regular."
+ },
+ {
+  "id": "006.025.3b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "परा॑चः is a regular accusative plural; sense fits."
+ },
+ {
+  "id": "005.002.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "महि॑षी is the queen, subject of जजान; regular."
+ },
+ {
+  "id": "006.069.4b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "हव॑ना is the neuter plural, object of जु॒षेथां."
+ },
+ {
+  "id": "008.052.7",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "हव॑नं is the accusative; regular."
+ },
+ {
+  "id": "008.085.3",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "हव॑ते is a regular 3rd singular middle."
+ },
+ {
+  "id": "004.053.4a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "स॑वि॒ताभि is savitā + abhi (sandhi); regular."
+ },
+ {
+  "id": "006.052.3a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "ब्रह्म॑णः is the genitive; regular."
+ },
+ {
+  "id": "002.023.1b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "ब्रह्म॑णां is the genitive plural; regular."
+ },
+ {
+  "id": "002.030.1a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "स॑वि॒त्र is savitre with the final vowel elided before इन्द्रा॑य; regular."
+ },
+ {
+  "id": "002.038.5b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "स॑वि॒त्रा is the instrumental; regular."
+ },
+ {
+  "id": "001.165.12b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "अच्छा॑न्त is a well-formed aorist; regular."
+ },
+ {
+  "id": "004.041.2a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "वरु॑णा is the vocative dual-type form in इन्द्रा ... वरुणा; regular."
+ },
+ {
+  "id": "001.076.2b",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "अव॑तां is the 3rd dual imperative with रोद॑सी; regular."
+ },
+ {
+  "id": "004.021.5a",
+  "kind": "typo?",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "नम॑सि is the locative; regular."
+ }
+]

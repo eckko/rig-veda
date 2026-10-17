@@ -1,0 +1,258 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "With sacrifice make Jātavedas grow; worship Agni with oblation, with unbroken song — him being kindled, of good refreshment, the lord of light, dwelling in heaven, the Hotṛ priest, who sits at the chariot-pole in the settlements.",
+  "new": "With sacrifice make Jātavedas grow; worship Agni with oblation, with unbroken song — him being kindled, of good refreshment, the lord of light, dwelling in heaven, the Hotṛ priest, who sits at the yoke in the settlements.",
+  "why": "reviewer (minor): dhur is yoke/pole; 'chariot' is not in the line."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "यज्ञ से जातवेदा को बढ़ाओ; हवि से, अविच्छिन्न वाणी से अग्नि का यजन करो — उस प्रज्वलित होते हुए, उत्तम अन्न वाले, प्रकाश के स्वामी, द्युलोकवासी, होता, बस्तियों में रथ-धुरी पर बैठने वाले (अग्नि) का।",
+  "new": "यज्ञ से जातवेदा को बढ़ाओ; हवि से, अविच्छिन्न वाणी से अग्नि का यजन करो — उस प्रज्वलित होते हुए, उत्तम अन्न वाले, प्रकाश के स्वामी, द्युलोकवासी, होता, बस्तियों में जुए पर बैठने वाले का।",
+  "why": "reviewer (minor): 'रथ' not in the line; bracketed (अग्नि) is an added gloss in the Hindi."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "dhūr-sadam",
+  "old": "sitting at the chariot-pole",
+  "new": "sitting at the yoke",
+  "why": "reviewer (minor): gloss repeats the unsupported 'chariot'."
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "tanā taken as adverbial instrumental 'continuously'; some take it 'with offspring'. svarṇara: literal 'sun-man', rendered lord of light. vṛjana: enclosure or settlement/community. dhūrṣad: 'sitting at the pole' i.e. as draught-animal of the sacrifice-chariot.",
+  "new": "tanā taken as adverbial instrumental 'continuously'; some take it 'with offspring'. svarṇara: literal 'sun-man', rendered lord of light. vṛjana: enclosure or settlement/community. dhūrṣad: 'sitting at the yoke/pole'.",
+  "why": "reviewer (minor): 'draught-animal of the sacrifice-chariot' is invented interpretation, not in the line."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "svasareṣu",
+  "old": "in the pastures (stalls)",
+  "new": "in the stalls",
+  "why": "reviewer (minor): gloss 'pastures (stalls)' mixes two senses; Hindi and English both say stalls."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे अग्नि, रातें और उषाएँ तुम्हारी ओर वैसे ही पुकार उठी हैं जैसे गोशालाओं में धेनुएँ बछड़े की ओर रँभाती हैं। मानो द्युलोक के सेवक (की तरह), हे बहुत वरों वाले, तुम मनुष्यों के युगों भर, निरन्तर रातों में चमकते हो।",
+  "new": "हे अग्नि, रातें और उषाएँ तुम्हारी ओर वैसे ही पुकार उठी हैं जैसे गोशालाओं में धेनुएँ बछड़े की ओर रँभाती हैं। मानो द्युलोक के सेवक की तरह, हे बहुत वरों वाले, तुम मनुष्यों के युगों भर, निरन्तर रातों में चमकते हो।",
+  "why": "reviewer (minor): bracketed addition in the Hindi."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "उस अद्भुत कर्मों वाले को देवों ने अन्तरिक्ष के मूल में द्यावा-पृथिवी के सेवक के रूप में स्थापित किया — रथ के समान प्रसिद्ध, उज्ज्वल ज्वाला वाले अग्नि को, जो बस्तियों में मित्र के समान प्रशंसनीय है।",
+  "new": "उस अद्भुत कर्मों वाले को देवों ने अन्तरिक्ष के मूल में द्यावापृथिवी के सेवक के रूप में स्थापित किया — रथ के समान प्रसिद्ध, उज्ज्वल ज्वाला वाले अग्नि को, जो बस्तियों में मित्र के समान प्रशंसनीय है।",
+  "why": "reviewer (minor): glossary form is द्यावापृथिवी, written as one word."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "pāthaḥ",
+  "old": "n. gen. sg.",
+  "new": "n. nom./acc. sg. (s-stem pāthas; construction uncertain)",
+  "why": "reviewer (error): 'n. gen. sg.' is not a possible form: pāthaḥ is nom./acc. sg. of the s-stem pāthas (gen. would be pāthasaḥ). The translation 'of the path' (as genitive with pāyum) therefore has no morphological basis; the construction of 'pāthaḥ na pāyum' is uncertain."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "janasī",
+  "old": "the two races (Heaven and Earth)",
+  "new": "the two races",
+  "why": "reviewer (minor): '(Heaven and Earth)' is an interpretation stated as the meaning; janasī ubhe is literally 'both races/peoples'. Glossary reserves Heaven and Earth for dyāvāpṛthivī."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Him, growing in the airy space, in his own house, well-shining like the moon, they placed in the winding (hiding) place — the flying one of Pṛśni, watching with his eyes, like the guardian of the path, along both the races (Heaven and Earth).",
+  "new": "Him, growing in the airy space, in his own house, well-shining like the moon, they placed in the winding (hiding) place — the flying one of Pṛśni, watching with his eyes, like the guardian of the path, along both the races.",
+  "why": "reviewer (minor): same unsupported identification."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "अन्तरिक्ष में बढ़ते हुए, अपने ही घर में, चन्द्रमा के समान सुन्दर चमक वाले उसे उन्होंने (अग्नि को) छिपे स्थान में स्थापित किया — पृश्नि के उड़ने वाले (पुत्र) को, आँखों से देखते हुए को, मार्ग के रक्षक के समान, दोनों लोकों के साथ-साथ।",
+  "new": "अन्तरिक्ष में बढ़ते हुए, अपने ही घर में, चन्द्रमा के समान सुन्दर चमक वाले उसे उन्होंने (अग्नि को) छिपे स्थान में स्थापित किया — पृश्नि के उड़ने वाले (पुत्र) को, आँखों से देखते हुए को, मार्ग के रक्षक के समान, दोनों जनों के साथ-साथ।",
+  "why": "reviewer (error): 'लोक' (worlds) is not janas (races); Hindi imports the identification."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "अन्तरिक्ष में बढ़ते हुए, अपने ही घर में, चन्द्रमा के समान सुन्दर चमक वाले उसे उन्होंने (अग्नि को) छिपे स्थान में स्थापित किया — पृश्नि के उड़ने वाले (पुत्र) को, आँखों से देखते हुए को, मार्ग के रक्षक के समान, दोनों जनों के साथ-साथ।",
+  "new": "अन्तरिक्ष में बढ़ते हुए, अपने ही घर में, चन्द्रमा के समान सुन्दर चमक वाले उसे उन्होंने (अग्नि को) छिपे स्थान में स्थापित किया — पृश्नि के उड़ने वाले को, आँखों से देखते हुए को, मार्ग के रक्षक के समान, दोनों जनों के साथ-साथ।",
+  "why": "reviewer (minor): 'son' is added; text has only pṛśnyāḥ pataram ('flier of Pṛśni')."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "अन्तरिक्ष में बढ़ते हुए, अपने ही घर में, चन्द्रमा के समान सुन्दर चमक वाले उसे उन्होंने (अग्नि को) छिपे स्थान में स्थापित किया — पृश्नि के उड़ने वाले को, आँखों से देखते हुए को, मार्ग के रक्षक के समान, दोनों जनों के साथ-साथ।",
+  "new": "अन्तरिक्ष में बढ़ते हुए, अपने ही घर में, चन्द्रमा के समान सुन्दर चमक वाले उसे उन्होंने टेढ़े स्थान में स्थापित किया — पृश्नि के उड़ने वाले को, आँखों से देखते हुए को, मार्ग के रक्षक के समान, दोनों जनों के साथ-साथ।",
+  "why": "reviewer (minor): bracketed (अग्नि को) added; 'छिपे' (hidden) is not in hvāra (bend/winding place), the English also adds '(hiding)'."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Him, growing in the airy space, in his own house, well-shining like the moon, they placed in the winding (hiding) place — the flying one of Pṛśni, watching with his eyes, like the guardian of the path, along both the races.",
+  "new": "Him, growing in the airy space, in his own house, well-shining like the moon, they placed in the winding place — the flying one of Pṛśni, watching with his eyes, like the guardian of the path, along both the races.",
+  "why": "reviewer (minor): 'hiding' is an addition; gloss for hvāre has the same."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "अन्तरिक्ष में बढ़ते हुए, अपने ही घर में, चन्द्रमा के समान सुन्दर चमक वाले उसे उन्होंने टेढ़े स्थान में स्थापित किया — पृश्नि के उड़ने वाले को, आँखों से देखते हुए को, मार्ग के रक्षक के समान, दोनों जनों के साथ-साथ।",
+  "new": "अन्तरिक्ष में बढ़ते हुए, अपने घर में, चन्द्रमा के समान सुन्दर चमक वाले उसे उन्होंने टेढ़े स्थान में स्थापित किया — पृश्नि के उड़ने वाले को, आँखों से देखते हुए को, मार्ग के रक्षक के समान, दोनों जनों के साथ-साथ।",
+  "why": "reviewer (minor): 'ही' adds emphasis not in sve dame."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "manuṣaḥ",
+  "old": "men (the descendants of Manu)",
+  "new": "men",
+  "why": "reviewer (minor): '(the descendants of Manu)' is later/outside interpretation, not in the line."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "वह होता सम्पूर्ण यज्ञ को घेर ले; उसी को मनुष्य हवियों से और वाणी से सम्मानित करते हैं। सुनहरे जबड़ों वाला, बढ़ती हुई (वनस्पतियों) में कौंधता हुआ, वह तारों से युक्त आकाश के समान दोनों लोकों के साथ-साथ दिखाई देता है।",
+  "new": "वह होता सम्पूर्ण अध्वर को घेर ले; उसी को मनुष्य हवियों से और वाणी से सम्मानित करते हैं। सुनहरे जबड़ों वाला, बढ़ती हुई (वनस्पतियों) में कौंधता हुआ, वह तारों से युक्त आकाश के समान दोनों लोकों के साथ-साथ दिखाई देता है।",
+  "why": "reviewer (minor): adhvaram is 'rite' (English and gloss say rite), Hindi renders it यज्ञ, which is the fixed rendering of yajña and loses the distinction."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "saṃdadasvān",
+  "old": "bestowing",
+  "new": "having bestowed",
+  "why": "reviewer (minor): perfect participle ('having given'); 'bestowing' is a present sense."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Give us, O Agni, great (riches), give thousandfold ones; open up the prize like doors, with renown. Make Heaven and Earth turned forward (to us) by the prayer; make the dawns flash forth bright like the sun.",
+  "new": "Give us, O Agni, great (riches), give thousandfold ones; open up the prize like doors, with renown. Make Heaven and Earth turned forward by the prayer; make the dawns flash forth bright like the sun.",
+  "why": "reviewer (minor): '(to us)' added; prācī only says forward-turned."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे अग्नि, हमें बड़े (धन) दो, सहस्रों दो; द्वारों के समान बल को यश के साथ खोल दो। प्रार्थना से द्यावा-पृथिवी को हमारी ओर प्रवृत्त करो; सूर्य के समान उज्ज्वल, उषाओं को चमका दो।",
+  "new": "हे अग्नि, हमें बड़े (धन) दो, सहस्रों दो; द्वारों के समान बल को यश के साथ खोल दो। प्रार्थना से द्यावापृथिवी को आगे की ओर मुड़ा हुआ करो; सूर्य के समान उज्ज्वल, उषाओं को चमका दो।",
+  "why": "reviewer (minor): 'हमारी ओर' (towards us) added; hyphenated form against glossary."
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "'dā' first token: form of √dā 2 sg. (dāḥ with final visarga dropped before n-: dā no). śrutyā: instrumental 'with renown', or n. pl. adj. 'renowned' qualifying something lost; uncertain. sva1rṇa: the '1' is the edition's mark for an independent svarita (स्व१र्ण), not a typo; words = svaḥ na (svar ṇa). didyutaḥ taken as 2 sg. injunctive of the reduplicated aorist; alternatively uṣasaḥ nom. pl. with a 3rd-person reading 'the dawns have flashed forth'.",
+  "new": "'dā' first token: form of √dā 2 sg. (dāḥ with final visarga dropped before n-: dā no). śrutyā: instrumental 'with renown', other construals possible; uncertain. sva1rṇa: the '1' is the edition's mark for an independent svarita (स्व१र्ण), not a typo; words = svaḥ na (svar ṇa). didyutaḥ taken as 2 sg. injunctive of the reduplicated aorist; alternatively uṣasaḥ nom. pl. with a 3rd-person reading 'the dawns have flashed forth'.",
+  "why": "reviewer (minor): Unintelligible phrase in notes."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "idhānaḥ",
+  "old": "m. nom. sg. aor. part. mid. √idh",
+  "new": "m. nom. sg. pres. part. mid. √idh",
+  "why": "reviewer (minor): labelled aor. part., while samidhāna in units 1 and 6 is a present participle; idhāna here is the same kind of participle ('being kindled')."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "वह प्रज्वलित होकर उषाओं और रातों के साथ-साथ सूर्य के समान अरुण प्रकाश से चमकता है — मनुष्य की होत्राओं से युक्त अग्नि, उत्तम यज्ञ वाला, प्रजाओं का राजा, आयु (मनुष्य) के लिए प्रिय अतिथि।",
+  "new": "वह प्रज्वलित होकर उषाओं और रातों के साथ-साथ सूर्य के समान अरुण प्रकाश से चमकता है — मनुष्य की होत्राओं से युक्त अग्नि, उत्तम अध्वर वाला, प्रजाओं का राजा, आयु (मनुष्य) के लिए प्रिय अतिथि।",
+  "why": "reviewer (minor): svadhvara is 'of good rites' (adhvara), English says rites; Hindi uses यज्ञ."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "dīdet",
+  "old": "3 sg. pf. subj./inj. √dī",
+  "new": "3 sg. inj. (redupl. present) √dī",
+  "why": "reviewer (minor): 'pf.' is doubtful; dīdet is the reduplicated root-present injunctive/subjunctive of √dī."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "इस प्रकार, हे प्राचीन अग्नि, अमरों में, महान द्युलोक वालों में हमारी मानवी धी (प्रार्थना) पुष्ट हुई है — बस्तियों में गायक के लिए स्वयं दुहती हुई धेनु (के समान), प्रेरणा पर सैकड़ों रूपों वाले, नाना प्रकार के (धन) को।",
+  "new": "इस प्रकार, हे प्राचीन अग्नि, अमरों में, महान द्युलोक वालों में हमारी मानवी धी (प्रार्थना) पुष्ट हुई है — बस्तियों में गायक के लिए स्वयं दुहती हुई धेनु (के समान), प्रेरणा पर सौगुना, बहुरूप को।",
+  "why": "reviewer (error): śatinam is 'hundredfold', not 'having hundreds of forms'; pururūpam is 'many-formed'; the Hindi duplicates 'forms' and adds the noun 'wealth'."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Thus, O Agni, ancient one, among the immortals, among those of lofty heaven, our human insight has swelled — a milch cow milking by herself in the settlements for the singer, at the urging, (a wealth) hundredfold and many-formed.",
+  "new": "Thus, O Agni, ancient one, among the immortals, among those of lofty heaven, our human insight has swelled — a milch cow milking by herself in the settlements for the singer, at the urging, hundredfold and many-formed.",
+  "why": "reviewer (minor): 'wealth' is added; no noun in the line."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "इस प्रकार, हे प्राचीन अग्नि, अमरों में, महान द्युलोक वालों में हमारी मानवी धी (प्रार्थना) पुष्ट हुई है — बस्तियों में गायक के लिए स्वयं दुहती हुई धेनु (के समान), प्रेरणा पर सौगुना, बहुरूप को।",
+  "new": "इस प्रकार, हे प्राचीन अग्नि, अमरों में, महान द्युलोक वालों में हमारी मानवी धी (प्रार्थना) पुष्ट हुई है — बस्तियों में गायक के लिए स्वयं दुहती हुई धेनु, प्रेरणा पर सौगुना, बहुरूप को।",
+  "why": "reviewer (error): No iva/na in the text: dhenuḥ is in apposition; the simile is added in Hindi (English has none)."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "citayema",
+  "old": "may we make shine",
+  "new": "may we make known",
+  "why": "reviewer (error): caus. √cit is 'make perceived/known', not 'make shine'; inconsistent with units 4 and 5 (citayantam, citayat)."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "May we, O Agni, with the steed or with the prayer, make our heroic strength shine out beyond (other) people; may our brilliance, hard to surpass, blaze on high over the five peoples like the sun.",
+  "new": "May we, O Agni, with the steed or with the prayer, make our heroic strength known beyond the people; may our brilliance, hard to surpass, blaze on high over the five peoples like the sun.",
+  "why": "reviewer (error): 'shine' follows the wrong gloss; '(other)' is added."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "हे अग्नि, हम अश्व से अथवा प्रार्थना से अपने वीर्य को (अन्य) लोगों से ऊपर प्रकट करें; हमारा दुर्जेय तेज पाँचों प्रजाओं के ऊपर, ऊँचे, सूर्य के समान चमके।",
+  "new": "हे अग्नि, हम अश्व से अथवा प्रार्थना से अपने वीर्य को लोगों से ऊपर प्रकट करें; हमारा दुर्जेय तेज पाँचों प्रजाओं के ऊपर, ऊँचे, सूर्य के समान चमके।",
+  "why": "reviewer (minor): 'अन्य' added."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "हे अग्नि, हम अश्व से अथवा प्रार्थना से अपने वीर्य को लोगों से ऊपर प्रकट करें; हमारा दुर्जेय तेज पाँचों प्रजाओं के ऊपर, ऊँचे, सूर्य के समान चमके।",
+  "new": "हे अग्नि, हम अश्व से अथवा प्रार्थना से अपने वीर्य को लोगों से ऊपर प्रकट करें; हमारा दुर्जेय तेज पाँच जनों के ऊपर, ऊँचे, सूर्य के समान चमके।",
+  "why": "reviewer (minor): 'पाँचों' (all five) is emphatic; text has pañca kṛṣṭiṣu, 'the five peoples' stated as plain fact is fine but 'प्रजाओं' (subjects) is a poor rendering of kṛṣṭi."
+ },
+ {
+  "n": "12",
+  "field": "word.w",
+  "word": "puru-candrasya",
+  "old": "puru-candrasya",
+  "new": "puruścandrasya",
+  "why": "reviewer (minor): The printed compound is puruścandrasya (with ś), the w drops it; not a dictionary-style form of the printed token."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "ubhayāsaḥ",
+  "old": "both (groups)",
+  "new": "both",
+  "why": "reviewer (minor): '(groups)' is an addition."
+ },
+ {
+  "n": "13",
+  "field": "notes",
+  "old": "goagrām: go-agra written without sandhi (hiatus), normal Vedic. neṣi: present indicative or subjunctive 'you will lead'. The last line is the refrain of this group of hymns.",
+  "new": "goagrām: go-agra written without sandhi (hiatus), normal Vedic. neṣi: present indicative or subjunctive 'you will lead'.",
+  "why": "reviewer (minor): A claim about other hymns, not derivable from this text."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "हे अग्नि, जो दानी स्तोताओं को गायों से अग्रणी, अश्वों से सुशोभित दान देते हैं — हमें और उन्हें, दोनों को, तुम श्रेष्ठ (भाग्य) की ओर आगे ले चलो। हम उत्तम वीरों से युक्त होकर यज्ञ-सभा में ऊँचे स्वर में बोलें।",
+  "new": "हे अग्नि, जो दानी स्तोताओं को गायों से अग्रणी, अश्वों से सुशोभित दान देते हैं — हमें और उन्हें, दोनों को, तुम श्रेष्ठ (भाग्य) की ओर आगे ले चलो। हम उत्तम वीरों से युक्त होकर सभा में ऊँचे स्वर में बोलें।",
+  "why": "reviewer (minor): 'यज्ञ' is added; vidathe is 'at the assembly'. English says only assembly."
+ }
+]
