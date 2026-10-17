@@ -35,3 +35,13 @@ Rigveda hymns. Do not import later commentary (Sayana etc.) or later tradition; 
 - savana = pressing; svar = (heaven's) light; arāti = hostile one / ill-will (context); aṃhas = distress; āgas/enas = offence; ṛṇa = debts; pṛkṣa = nourishment
 - Names stay names: Gṛtsamada, Bhṛgu, Manu, Vṛtra, Śuṣṇa, Kutsa, Divodāsa, Śambara, Trita, Vala, Bhaga, Aryaman, Aṃśa, Mitra, Varuṇa, Brahmaṇaspati, Bṛhaspati, Apāṃ Napāt
 - Bare "|" in the source is a token: w "|", gloss "half-verse divider", gram punct. (reviewers: confirm, do not flag)
+
+## Decisions from the mandala 2 reviews (apply from mandala 4 on; these override earlier lines on conflict)
+- Refrain bṛhad vadema vidathe suvīrāḥ: English "may we, rich in heroes, speak greatly in the rite"; Hindi "उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें". Same wording everywhere.
+- Hindi: harī / harya-aśva = भूरे-पीले (tawny), never हरे; brahman (n.) = ब्रह्म (not प्रार्थना); vanaspati = वन के स्वामी; ṛta = ऋत / "order" (not सत्य/truth); kratu = resolve (संकल्प), not will/skill/powers; tavasya, śuṣma = बल / vigour; vīrya = वीर कार्य (heroic deeds, never कर्म)
+- English: ṛtāvan = keeper of order; maghavan = bountiful (not bounteous); mada = exhilaration (मद); avas, √av = help (सहायता); pur = stronghold (गढ़); sambādha = tight place; iṣ = refreshment (स्फूर्ति); prayas = delicacy; uktha = hymn (स्तोत्र); stoma = praise (स्तोम); gir = hymn (स्तुति); nṛmṇa = manly power (पौरुष); vipra = inspired one (विप्र); vrata = ordinance (व्रत); ūrj = strength; bhuvana = world (भुवन); sudughā = good-milking (active, never "easily milked")
+- Names: Savitṛ = the god Savitṛ (सविता) unless clearly not; Apāṃ Napāt = name (अपां नपात्), never "offspring of the waters"; manu/manave = Manu; Bhaga = the god, except the refrain pāda mā ati dhak bhago naḥ: "do not burn beyond; the share is ours"
+- Do not add: possessives or reflexives ("their", "our", "themselves"), objects, articles of explanation, bracketed words, "and" between unconnected items. Middle participles get no supplied reflexive.
+- Digit marks after syllables (1, 3, १) are svara/pluta accent marks, not typos: never put them in text_flags. The edition's t after final -n before s- (ajanayan tsu) is regular; ṷ, ḙ, ṝ-style marks are notation; do not flag.
+- Every translation must be complete: no "...", no untranslated Sanskrit word inside English or Hindi; where the form is unclear, translate literally and set confidence low.
+- Grammar labels must be possible forms (e.g. -aḥ is never instrumental plural or accusative dual); if the form is unclear, say "form uncertain" and set confidence low.
