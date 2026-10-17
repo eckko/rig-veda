@@ -1,0 +1,311 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "आनन्द के लिए",
+     "problem": "mada is \"exhilaration\" (मद in 2.16); आनन्द is a different word.",
+     "fix": "मद के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आनन्द के लिए पिया गया है",
+      "new": "मद के लिए पिया गया है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "refreshments",
+     "problem": "prayas is \"delicacy\" in unit 1 (and iṣ is \"refreshment\" in unit 8); the same word needs one rendering within the chunk.",
+     "fix": "the delicacies of the rivers",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "the refreshments of the rivers",
+      "new": "the delicacies of the rivers"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "prayāṃsi",
+     "problem": "Same.",
+     "fix": "delicacies",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "prayāṃsi",
+      "field": "gloss",
+      "value": "delicacies"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "prayāṃsi nadīnām",
+     "problem": "Same.",
+     "fix": "'delicacies of the rivers'",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "notes",
+      "old": "'refreshments of the rivers'",
+      "new": "'delicacies of the rivers'"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vayaḥ",
+     "problem": "vayaḥ \"birds\" is the nom. pl. of masculine vi, not a neuter.",
+     "fix": "m. nom. pl. (stem vi)",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "vayaḥ",
+      "field": "gram",
+      "value": "m. nom. pl. (stem vi)"
+     }
+    },
+    {
+     "field": "split",
+     "where": "arṇaḥ-vṛtam",
+     "problem": "The first member of the compound is the stem arṇas (arṇo-vṛtam by sandhi), not the case form arṇaḥ; dictionary-style stem would be arṇas-vṛtam. Left unpatched in case the checker keys on w.",
+     "fix": "arṇas-vṛtam",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "बहा ले गया",
+     "problem": "airayat is \"set in motion\" (English, gloss); \"बहा ले गया\" (swept away) changes the sense, and \"धारा\" differs from arṇas \"flood\" (जल-प्रवाह in unit 2). ch017 uses गतिमान किया for √īr.",
+     "fix": "जलों के प्रवाह को समुद्र की ओर गतिमान किया",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जलों की धारा को समुद्र की ओर बहा ले गया",
+      "new": "जलों के प्रवाह को समुद्र की ओर गतिमान किया"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रतिद्वन्द्वियों से रहित फल",
+     "problem": "\"फल\" (fruit, reward) is an invented noun; English has \"things\" (the noun is not stated), and \"रहित\" with \"बहुत से प्रतिद्वन्द्वियों\" says \"without many rivals\", not \"many unrivalled\".",
+     "fix": "बहुत सी अप्रतिम वस्तुएँ देता है",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "बहुत से प्रतिद्वन्द्वियों से रहित फल देता है",
+      "new": "बहुत सी अप्रतिम वस्तुएँ देता है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सोम निचोड़ने वाले",
+     "problem": "\"सोम\" is not in the line: sunvate/martyāya have no object (English \"who presses\" is right).",
+     "fix": "निचोड़ने वाले मर्त्य को",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सोम निचोड़ने वाले मर्त्य को",
+      "new": "निचोड़ने वाले मर्त्य को"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "guhat",
+     "problem": "\"m. acc. sg.\" is impossible for guhat (the participle would be guhantam, or neuter guhat against masculine rayim). The notes leave open verb vs participle, so gram should too.",
+     "fix": "3 sg. inj. √guh, or n. pres. part. (uncertain)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नगरों",
+     "problem": "pur is a stronghold (English); नगर (city) changes the sense.",
+     "fix": "गढ़ों",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "निन्यानवे नगरों को",
+      "new": "निन्यानवे गढ़ों को"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "nanamaḥ",
+     "problem": "\"3 sg.\" cannot end in -aḥ (3 sg. would end -t/-ti); the form is 2 sg. or a noun. The notes admit the form is unclear, but gram and the translation \"bends\" commit to a 3 sg. verb. Should read as uncertain.",
+     "fix": "verb form unclear (-aḥ is not 3 sg.)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "नई प्रार्थनाएँ",
+     "problem": "navīyaḥ is taken adverbially \"anew\" in English and gloss, but the Hindi makes it an object (\"new prayers\"), the alternative the notes mention.",
+     "fix": "तेरे लिए नए सिरे से प्रार्थना करते हुए",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तेरे लिए नई प्रार्थनाएँ करते हुए वे अन्न, बल",
+      "new": "तेरे लिए नए सिरे से प्रार्थना करते हुए वे ताज़गी, बल"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अन्न",
+     "problem": "iṣ is \"refreshment\" in English and gloss; अन्न (food) is a different word (anna).",
+     "fix": "ताज़गी (applied in the patch above)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "speak mightily",
+     "problem": "Glossary fixes the refrain as \"speak greatly in the rite\".",
+     "fix": "speak greatly in the rite",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "speak mightily in the rite",
+      "new": "speak greatly in the rite"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रबल रूप से",
+     "problem": "Same: bṛhat = greatly.",
+     "fix": "महान् रूप से",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रबल रूप से बोलें",
+      "new": "महान् रूप से बोलें"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bṛhat",
+     "problem": "Same.",
+     "fix": "greatly",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "bṛhat",
+      "field": "gloss",
+      "value": "greatly"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bṛhat",
+     "problem": "Same.",
+     "fix": "greatly",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "notes",
+      "old": "('mightily')",
+      "new": "('greatly')"
+     }
+    },
+    {
+     "field": "english",
+     "where": "do not burn beyond them",
+     "problem": "Glossary fixes mā ati dhak = \"do not burn beyond\"; \"them\" is an unmarked addition.",
+     "fix": "do not burn beyond;",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "do not burn beyond them;",
+      "new": "do not burn beyond;"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उन्हें जलाकर आगे न बढ़ जा",
+     "problem": "Adds \"उन्हें\" and turns \"burn beyond\" into \"burn and go past\".",
+     "fix": "परे तक न जला",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उन्हें जलाकर आगे न बढ़ जा",
+      "new": "परे तक न जला"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 9 units. 2 error, 18 minor. Errors: unit 4 Hindi invents \"फल\" and misstates apratīni; unit 9 refrain \"mightily\" against glossary \"greatly\". Minor: prayas rendered two ways (delicacy / refreshments), vayaḥ gender, गढ़ vs नगर, iṣ as अन्न, navīyaḥ Hindi/English mismatch, unit 5 Hindi adds सोम, guhat and nanamaḥ gram over-committed, आनन्द for mada. Units 1, 5, 7 low confidence is honest. No regrouping suggested."
+}
