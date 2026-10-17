@@ -1,0 +1,872 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratya̱gniru̱ṣaso̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "towards",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "uṣasaḥ",
+        "gloss": "dawns",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "jā̱tavḙdā̱",
+      "words": [
+       {
+        "w": "jātavedāḥ",
+        "gloss": "Jātavedas",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "akhya̭d",
+      "words": [
+       {
+        "w": "akhyat",
+        "gloss": "has looked",
+        "gram": "3 sg. aor. prati-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "de̱vo",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "roca̭mānā̱",
+      "words": [
+       {
+        "w": "rocamānāḥ",
+        "gloss": "shining",
+        "gram": "f. acc. pl. pres. part. mid. √ruc"
+       }
+      ]
+     },
+     {
+      "src": "maho̭bhiḥ",
+      "words": [
+       {
+        "w": "mahobhiḥ",
+        "gloss": "with splendours",
+        "gram": "n. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nā̭satyorugā̱yā",
+      "words": [
+       {
+        "w": "nāsatyā",
+        "gloss": "Nāsatyas",
+        "gram": "m. voc. du."
+       },
+       {
+        "w": "urugāyā",
+        "gloss": "wide-going",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "rathḙne̱maṃ",
+      "words": [
+       {
+        "w": "rathena",
+        "gloss": "with the chariot",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "imam",
+        "gloss": "this",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñamupa̭",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "upa",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "of us",
+        "gram": "pron. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yāta̱maccha̭",
+      "words": [
+       {
+        "w": "yātam",
+        "gloss": "come",
+        "gram": "2 du. impv. √yā"
+       },
+       {
+        "w": "accha",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देव जातवेदा अग्नि ने तेजों से चमकती हुई उषाओं की ओर देखा है। हे नासत्यौ, हे विस्तीर्ण गति वालो, रथ से हमारे इस यज्ञ के पास आओ।",
+  "english": "Jātavedas, the god, Agni, has looked towards the dawns shining with splendours. O Nāsatyas, wide-going, come hither with the chariot, towards this sacrifice of ours.",
+  "text_flags": [],
+  "notes": "pratyagniḥ = prati agniḥ. rocamānāḥ taken as acc. pl. agreeing with uṣasaḥ; nom. pl. is also possible. akhyat 'has looked towards' (prati-√khyā). urugāyā 'wide-going' (also 'widely praised'). naḥ 'of us / to us' (gen. or dat.).",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ū̱rdhvaṃ",
+      "words": [
+       {
+        "w": "ūrdhvam",
+        "gloss": "upward",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ke̱tuṃ",
+      "words": [
+       {
+        "w": "ketum",
+        "gloss": "banner",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭vi̱tā",
+      "words": [
+       {
+        "w": "savitā",
+        "gloss": "Savitṛ",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vo",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭śre̱jjyoti̱rviśva̭smai̱",
+      "words": [
+       {
+        "w": "aśret",
+        "gloss": "has raised",
+        "gram": "3 sg. aor. inj. √śri"
+       },
+       {
+        "w": "jyotiḥ",
+        "gloss": "light",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "viśvasmai",
+        "gloss": "for the whole",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhuva̭nāya",
+      "words": [
+       {
+        "w": "bhuvanāya",
+        "gloss": "for the world",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̱ṇvan",
+      "words": [
+       {
+        "w": "kṛṇvan",
+        "gloss": "making",
+        "gram": "m. nom. sg. pres. part. √kṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "āprā̱",
+      "words": [
+       {
+        "w": "āprāḥ",
+        "gloss": "has filled",
+        "gram": "3 sg. aor. ā-√pṝ"
+       }
+      ]
+     },
+     {
+      "src": "dyāvā̭pṛthi̱vī",
+      "words": [
+       {
+        "w": "dyāvā-pṛthivī",
+        "gloss": "Heaven and Earth",
+        "gram": "f. acc. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "a̱ntari̭kṣa̱ṃ",
+      "words": [
+       {
+        "w": "antarikṣam",
+        "gloss": "atmosphere",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart, distinctly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūryo̭",
+      "words": [
+       {
+        "w": "sūryaḥ",
+        "gloss": "Sūrya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ra̱śmibhi̱śceki̭tānaḥ",
+      "words": [
+       {
+        "w": "raśmibhiḥ",
+        "gloss": "with rays",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "cekitānaḥ",
+        "gloss": "becoming perceptible",
+        "gram": "m. nom. sg. pres. part. mid. √cit"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देव सविता ने सम्पूर्ण भुवन के लिए ज्योति करते हुए ध्वज को ऊपर उठाया है। सूर्य ने किरणों से स्पष्ट प्रतीत होते हुए द्यावापृथिवी और अन्तरिक्ष को भर दिया है।",
+  "english": "The god Savitṛ has raised the banner upward, making light for the whole world. Sūrya has filled Heaven and Earth and the atmosphere, becoming distinctly perceptible with rays.",
+  "text_flags": [],
+  "notes": "ketu 'banner' (also 'beacon, brightness'). vi ... cekitānaḥ 'becoming distinctly perceptible' is the most literal reading; vi may also go with āprāḥ. āprāḥ taken as 3 sg. aor. of ā-√pṝ.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā̱vaha̭ntyaru̱ṇīrjyoti̱ṣāgā̭nma̱hī",
+      "words": [
+       {
+        "w": "āvahantī",
+        "gloss": "bringing",
+        "gram": "f. nom. sg. pres. part. ā-√vah"
+       },
+       {
+        "w": "aruṇīḥ",
+        "gloss": "ruddy ones",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "jyotiṣā",
+        "gloss": "with light",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "āgāt",
+        "gloss": "has come",
+        "gram": "3 sg. aor. ā-√gam"
+       },
+       {
+        "w": "mahī",
+        "gloss": "great",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ci̱trā",
+      "words": [
+       {
+        "w": "citrā",
+        "gloss": "bright",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ra̱śmibhi̱śceki̭tānā",
+      "words": [
+       {
+        "w": "raśmibhiḥ",
+        "gloss": "with rays",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "cekitānā",
+        "gloss": "becoming perceptible",
+        "gram": "f. nom. sg. pres. part. mid. √cit"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pra̱bo̱dhaya̭ntī",
+      "words": [
+       {
+        "w": "prabodhayantī",
+        "gloss": "awakening",
+        "gram": "f. nom. sg. pres. part. caus. pra-√budh"
+       }
+      ]
+     },
+     {
+      "src": "suvi̱tāya̭",
+      "words": [
+       {
+        "w": "suvitāya",
+        "gloss": "for well-being",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vyu1ṣā",
+      "words": [
+       {
+        "w": "devī",
+        "gloss": "goddess",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "uṣāḥ",
+        "gloss": "Uṣas",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ī̭yate",
+      "words": [
+       {
+        "w": "īyate",
+        "gloss": "goes",
+        "gram": "3 sg. pres. mid. √i"
+       }
+      ]
+     },
+     {
+      "src": "su̱yujā̱",
+      "words": [
+       {
+        "w": "su-yujā",
+        "gloss": "well-yoked",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rathḙna",
+      "words": [
+       {
+        "w": "rathena",
+        "gloss": "with the chariot",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ज्योति के साथ लाल रंग वालियों को लाती हुई, महती, विचित्र, किरणों से स्पष्ट प्रतीत होती हुई उषा आ गई है। कल्याण के लिए जगाती हुई देवी उषा उत्तम जुते हुए रथ से चलती है।",
+  "english": "Bringing the ruddy ones with light, the great, bright one has come, becoming perceptible with rays. Awakening for well-being, the goddess Uṣas goes with a well-yoked chariot.",
+  "text_flags": [],
+  "notes": "aruṇīḥ taken as acc. pl. object of āvahantī ('the ruddy ones', not further identified); the subject of āgāt is not named in the first line. citrā 'bright, variegated'. suvita 'well-being, welfare'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̱ṃ",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "you two",
+        "gram": "pron. acc./gen. du."
+       }
+      ]
+     },
+     {
+      "src": "vahi̭ṣṭhā",
+      "words": [
+       {
+        "w": "vahiṣṭhāḥ",
+        "gloss": "best carriers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "i̱ha",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "those",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "va̭hantu̱",
+      "words": [
+       {
+        "w": "vahantu",
+        "gloss": "let them carry",
+        "gram": "3 pl. impv. √vah"
+       }
+      ]
+     },
+     {
+      "src": "rathā̱",
+      "words": [
+       {
+        "w": "rathāḥ",
+        "gloss": "chariots",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "aśvā̭sa",
+      "words": [
+       {
+        "w": "aśvāsaḥ",
+        "gloss": "horses",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱ṣaso̱",
+      "words": [
+       {
+        "w": "uṣasaḥ",
+        "gloss": "of the dawn",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyṷṣṭau",
+      "words": [
+       {
+        "w": "vyuṣṭau",
+        "gloss": "at the dawning",
+        "gram": "f. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "i̱me",
+      "words": [
+       {
+        "w": "ime",
+        "gloss": "these",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̭ṃ",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "for you two",
+        "gram": "pron. dat./gen. du."
+       }
+      ]
+     },
+     {
+      "src": "madhu̱peyā̭ya̱",
+      "words": [
+       {
+        "w": "madhu-peyāya",
+        "gloss": "for the honey-drinking",
+        "gram": "n. dat. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "somā̭",
+      "words": [
+       {
+        "w": "somāḥ",
+        "gloss": "Somas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱smin",
+      "words": [
+       {
+        "w": "asmin",
+        "gloss": "in this",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñe",
+      "words": [
+       {
+        "w": "yajñe",
+        "gloss": "sacrifice",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̭ṣaṇā",
+      "words": [
+       {
+        "w": "vṛṣaṇā",
+        "gloss": "O bulls",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "mādayethām",
+      "words": [
+       {
+        "w": "mādayethām",
+        "gloss": "be exhilarated",
+        "gram": "2 du. impv. mid. √mad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे सर्वोत्तम वाहक घोड़े उषा के प्रकाशित होने पर यहाँ तुम दोनों के रथों को ले आएँ। क्योंकि ये सोम तुम दोनों के मधु-पान के लिए हैं; हे वृषभो, इस यज्ञ में आनन्दित होओ।",
+  "english": "May those best-carrying horses bring your chariots here at the dawning of the dawn. For these Somas are for you two, for the honey-drinking; O bulls, be exhilarated in this sacrifice.",
+  "text_flags": [],
+  "notes": "vām in line 1 taken as gen. du. 'your (two)' with rathāḥ; ā ... vahantu 'bring hither'. uṣasaḥ vyuṣṭau: uṣasaḥ taken as gen. sg.; gen. or acc. pl. forms are also possible. mādayethām: mid. 2 du., rendered 'be exhilarated'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anā̭yato̱",
+      "words": [
+       {
+        "w": "anāyataḥ",
+        "gloss": "not stretched out, unrestrained",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ani̭baddhaḥ",
+      "words": [
+       {
+        "w": "anibaddhaḥ",
+        "gloss": "unbound",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ka̱thāyaṃ",
+      "words": [
+       {
+        "w": "kathā",
+        "gloss": "how",
+        "gram": "ind."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nya̭ṅṅuttā̱no'va̭",
+      "words": [
+       {
+        "w": "nyaṅ",
+        "gloss": "downward",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "uttānaḥ",
+        "gloss": "stretched out upward, lying face up",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "padyate̱",
+      "words": [
+       {
+        "w": "padyate",
+        "gloss": "falls",
+        "gram": "3 sg. pres. mid. √pad"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kayā̭",
+      "words": [
+       {
+        "w": "kayā",
+        "gloss": "by what",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāti",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "sva̱dhayā̱",
+      "words": [
+       {
+        "w": "svadhayā",
+        "gloss": "by own power",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ko",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "da̭darśa",
+      "words": [
+       {
+        "w": "dadarśa",
+        "gloss": "has seen",
+        "gram": "3 sg. pf. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "di̱vaḥ",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of heaven",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ska̱mbhaḥ",
+      "words": [
+       {
+        "w": "skambhaḥ",
+        "gloss": "pillar, prop",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samṛ̭taḥ",
+      "words": [
+       {
+        "w": "samṛtaḥ",
+        "gloss": "joined together",
+        "gram": "m. nom. sg. ppp. sam-√ṛ"
+       }
+      ]
+     },
+     {
+      "src": "pāti̱",
+      "words": [
+       {
+        "w": "pāti",
+        "gloss": "protects",
+        "gram": "3 sg. pres. √pā"
+       }
+      ]
+     },
+     {
+      "src": "nāka̭m",
+      "words": [
+       {
+        "w": "nākam",
+        "gloss": "vault of heaven",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "न खिंचा हुआ, न बँधा हुआ — यह नीचे की ओर, ऊपर फैला हुआ कैसे नीचे नहीं गिरता? किस स्वधा से वह चलता है? किसने देखा है? द्युलोक का स्तम्भ, जुड़ा हुआ, आकाश-लोक की रक्षा करता है।",
+  "english": "Not stretched, not bound — how does this one, downward and stretched upward, not fall down? By what own power does he go? Who has seen it? The pillar of heaven, joined together, protects the vault of heaven.",
+  "text_flags": [],
+  "notes": "Verse repeated in 4.14.5. nyaṅ 'downward' and uttāna 'stretched upward' are taken literally as in the text. samṛtaḥ (ppp. sam-√ṛ) 'joined together' uncertain; skambha 'pillar, prop'. The subject (sun) is not named in the verse; ayam 'this one' and yāti 'he goes' are rendered as given. Metre/sense obscure; riddle verse.",
+  "confidence": "medium"
+ }
+]

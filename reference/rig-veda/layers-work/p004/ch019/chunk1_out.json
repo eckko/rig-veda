@@ -1,0 +1,1880 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "e̱vā",
+      "words": [
+       {
+        "w": "evā",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvāmi̭ndra",
+      "words": [
+       {
+        "w": "tvām",
+        "gloss": "you",
+        "gram": "2 sg. acc."
+       },
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vajri̱nnatra̱",
+      "words": [
+       {
+        "w": "vajrin",
+        "gloss": "wielder of the vajra",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśvḙ",
+      "words": [
+       {
+        "w": "viśve",
+        "gloss": "all",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "de̱vāsa̭:",
+      "words": [
+       {
+        "w": "devāsaḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "su̱havā̭sa̱",
+      "words": [
+       {
+        "w": "suhavāsaḥ",
+        "gloss": "easily invoked",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ūmā̭:",
+      "words": [
+       {
+        "w": "ūmāḥ",
+        "gloss": "helpers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ma̱hāmu̱bhe",
+      "words": [
+       {
+        "w": "mahām",
+        "gloss": "great",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ubhe",
+        "gloss": "both",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "roda̭sī",
+      "words": [
+       {
+        "w": "rodasī",
+        "gloss": "the two worlds",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱ddhamṛ̱ṣvaṃ",
+      "words": [
+       {
+        "w": "vṛddham",
+        "gloss": "grown",
+        "gram": "m. acc. sg. ppp. √vṛdh"
+       },
+       {
+        "w": "ṛṣvam",
+        "gloss": "lofty",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nireka̱mid",
+      "words": [
+       {
+        "w": "niḥ",
+        "gloss": "out",
+        "gram": "ind."
+       },
+       {
+        "w": "ekam",
+        "gloss": "one",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "it",
+        "gloss": "only",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̭ṇate",
+      "words": [
+       {
+        "w": "vṛṇate",
+        "gloss": "choose",
+        "gram": "3 pl. pres. mid. √vṛ"
+       }
+      ]
+     },
+     {
+      "src": "vṛtra̱hatyḙ",
+      "words": [
+       {
+        "w": "vṛtra-hatye",
+        "gloss": "in the slaying of Vṛtra",
+        "gram": "n. loc. sg. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे वज्रधारी इन्द्र, इस प्रकार यहाँ सब देव, जो सरलता से पुकारे जाने योग्य और सहायक हैं, तथा दोनों लोक, तुम्हें—महान्, बढ़े हुए, उन्नत को—वृत्र के वध में अकेले के रूप में चुनते हैं।",
+  "english": "Thus, O Indra, wielder of the vajra, all the gods here, easily invoked and helpful, and both the two worlds, choose you out as the one alone in the slaying of Vṛtra, you the great, grown, lofty one.",
+  "text_flags": [],
+  "notes": "ubhe rodasī could also be accusative dual (object, in apposition with tvām, or going with vṛddham); the nominative reading (the two worlds also choose Indra) is taken here, so the role of ubhe rodasī is uncertain. mahām is read as an old accusative of mahā- 'great'.",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "avā̭sṛjanta̱",
+      "words": [
+       {
+        "w": "avāsṛjanta",
+        "gloss": "they let go",
+        "gram": "3 pl. impf. mid. ava-√sṛj"
+       }
+      ]
+     },
+     {
+      "src": "jivra̭yo̱",
+      "words": [
+       {
+        "w": "jivrayaḥ",
+        "gloss": "aged ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "de̱vā",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhuva̭:",
+      "words": [
+       {
+        "w": "bhuvaḥ",
+        "gloss": "you became",
+        "gram": "2 sg. aor. inj. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "sa̱mrāḻi̭ndra",
+      "words": [
+       {
+        "w": "samrāṭ",
+        "gloss": "sovereign",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱tyayo̭niḥ",
+      "words": [
+       {
+        "w": "satya-yoniḥ",
+        "gloss": "having a true source",
+        "gram": "m. nom. sg. (bahuvrīhi)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "aha̱nnahi̭ṃ",
+      "words": [
+       {
+        "w": "ahan",
+        "gloss": "you struck",
+        "gram": "2 sg. impf. √han"
+       },
+       {
+        "w": "ahim",
+        "gloss": "the serpent",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pari̱śayā̭na̱marṇa̱:",
+      "words": [
+       {
+        "w": "pariśayānam",
+        "gloss": "lying around",
+        "gram": "m. acc. sg. pres. part. pari-√śī"
+       },
+       {
+        "w": "arṇaḥ",
+        "gloss": "flood",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭rta̱nīra̭rado",
+      "words": [
+       {
+        "w": "vartanīḥ",
+        "gloss": "courses",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "aradaḥ",
+        "gloss": "you cut open",
+        "gram": "2 sg. impf. √rad"
+       }
+      ]
+     },
+     {
+      "src": "vi̱śvadhḙnāḥ",
+      "words": [
+       {
+        "w": "viśva-dhenāḥ",
+        "gloss": "all-nourishing",
+        "gram": "f. acc. pl. (bahuvrīhi)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देवों ने वृद्ध जनों की तरह छोड़ दिया; हे इन्द्र, तुम सत्य उद्गम वाले सम्राट् हुए। तुमने बाढ़ के चारों ओर पड़े हुए सर्प को मारा; तुमने सबका पोषण करने वाले मार्गों को खोल दिया।",
+  "english": "The gods let go, like aged ones; you became the sovereign, O Indra, whose source is true. You struck the serpent lying around the flood; you cut open the courses, the all-nourishing ones.",
+  "text_flags": [],
+  "notes": "The sense of jivrayaḥ 'aged ones' and the object of avāsṛjanta are unclear; the first half is translated literally. arṇaḥ is read as acc. sg. of arṇas 'flood'. viśva-dhenāḥ read as 'all-nourishing' (dhenā 'nourishing stream or cow'). Sandhi: ahan + ahim written ahannahiṃ; vartanīḥ + aradaḥ written vartanīrarado.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "atṛ̭pṇuvanta̱ṃ",
+      "words": [
+       {
+        "w": "atṛpṇuvantam",
+        "gloss": "unsatisfied",
+        "gram": "m. acc. sg. pres. part. a-√tṛp"
+       }
+      ]
+     },
+     {
+      "src": "viya̭tamabu̱dhyamabṷdhyamānaṃ",
+      "words": [
+       {
+        "w": "viyatam",
+        "gloss": "stretched out",
+        "gram": "m. acc. sg. ppp. vi-√yam"
+       },
+       {
+        "w": "abudhyam",
+        "gloss": "not awake",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "abudhyamānam",
+        "gloss": "not waking",
+        "gram": "m. acc. sg. pres. pass. part. a-√budh"
+       }
+      ]
+     },
+     {
+      "src": "suṣupā̱ṇami̭ndra",
+      "words": [
+       {
+        "w": "suṣupāṇam",
+        "gloss": "sleeping",
+        "gram": "m. acc. sg. pf. part. √svap"
+       },
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa̱pta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "prati̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pra̱vata̭",
+      "words": [
+       {
+        "w": "pravataḥ",
+        "gloss": "slopes",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ā̱śayā̭na̱mahi̱ṃ",
+      "words": [
+       {
+        "w": "āśayānam",
+        "gloss": "lying",
+        "gram": "m. acc. sg. pres. part. ā-√śī"
+       },
+       {
+        "w": "ahim",
+        "gloss": "the serpent",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vajrḙṇa̱",
+      "words": [
+       {
+        "w": "vajreṇa",
+        "gloss": "with the vajra",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ri̭ṇā",
+      "words": [
+       {
+        "w": "riṇāḥ",
+        "gloss": "you split",
+        "gram": "2 sg. impf. √ri"
+       }
+      ]
+     },
+     {
+      "src": "apa̱rvan",
+      "words": [
+       {
+        "w": "aparvan",
+        "gloss": "joint by joint",
+        "gram": "ind. (form uncertain)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र, तुमने वज्र से उस सर्प को जोड़-जोड़ अलग कर दिया, जो अतृप्त, फैला हुआ, जागा हुआ नहीं, न जागता हुआ, सोया हुआ सात ढलानों के साथ पड़ा था।",
+  "english": "O Indra, with the vajra you split apart, joint by joint, the serpent, unsatisfied, stretched out, not awake, not waking, asleep, lying along the seven slopes.",
+  "text_flags": [],
+  "notes": "aparvan is uncertain in form (possibly 'joint by joint' or an instrumental/locative of a noun); the adverbial sense is taken. abudhyam and abudhyamānam are both given as negated forms of √budh; the first form is uncertain. prati with sapta pravataḥ is rendered 'along'.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "akṣo̭daya̱cchava̭sā̱",
+      "words": [
+       {
+        "w": "akṣodayat",
+        "gloss": "shook",
+        "gram": "3 sg. impf. caus. √kṣud"
+       },
+       {
+        "w": "śavasā",
+        "gloss": "with strength",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣāma̭",
+      "words": [
+       {
+        "w": "kṣāma",
+        "gloss": "earth",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bu̱dhnaṃ",
+      "words": [
+       {
+        "w": "budhnam",
+        "gloss": "bottom",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vārṇa",
+      "words": [
+       {
+        "w": "vāḥ",
+        "gloss": "water",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāta̱stavi̭ṣībhi̱rindra̭:",
+      "words": [
+       {
+        "w": "vātaḥ",
+        "gloss": "wind",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "taviṣībhiḥ",
+        "gloss": "with powers",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dṛ̱ḻahānyaṷbhnādu̱śamā̭na̱",
+      "words": [
+       {
+        "w": "dṛḷhāni",
+        "gloss": "firm",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "aubhnāt",
+        "gloss": "held, bound",
+        "gram": "3 sg. impf. √ubh"
+       },
+       {
+        "w": "uśamānaḥ",
+        "gloss": "desiring",
+        "gram": "m. nom. sg. pres. mid. part. √vaś"
+       }
+      ]
+     },
+     {
+      "src": "ojo'vā̭bhinat",
+      "words": [
+       {
+        "w": "ojaḥ",
+        "gloss": "vigour",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind."
+       },
+       {
+        "w": "abhinat",
+        "gloss": "broke",
+        "gram": "3 sg. impf. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "ka̱kubha̱:",
+      "words": [
+       {
+        "w": "kakubhaḥ",
+        "gloss": "peaks",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "parva̭tānām",
+      "words": [
+       {
+        "w": "parvatānām",
+        "gloss": "of the mountains",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन्द्र ने बल से, शक्तियों से, पृथ्वी के तल को हिला दिया, जैसे वायु जल को; उसने दृढ़ों को बाँधा; ओज की इच्छा करते हुए उसने पर्वतों की चोटियों को तोड़ गिराया।",
+  "english": "Indra with strength, with powers, shook the bottom of the earth, as wind shakes water; he held fast the firm ones; desiring vigour, he broke down the peaks of the mountains.",
+  "text_flags": [],
+  "notes": "vārṇa is read vāḥ na (the retroflex ṇ is regular after r). The verb aubhnāt (√ubh) is rendered 'held fast'; the object 'the firm ones' is unspecified. 'as wind shakes water' supplies the verb from the first clause (ellipsis). ojaḥ is read as the object of uśamānaḥ; the construction is uncertain.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱bhi",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "toward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "da̭dru̱rjana̭yo̱",
+      "words": [
+       {
+        "w": "dadruḥ",
+        "gloss": "they ran",
+        "gram": "3 pl. pf. √dru"
+       },
+       {
+        "w": "janayaḥ",
+        "gloss": "women",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "garbha̱ṃ",
+      "words": [
+       {
+        "w": "garbham",
+        "gloss": "child",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rathā̭",
+      "words": [
+       {
+        "w": "rathāḥ",
+        "gloss": "chariots",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "iva̱",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ya̭yuḥ",
+      "words": [
+       {
+        "w": "yayuḥ",
+        "gloss": "they went",
+        "gram": "3 pl. pf. √yā"
+       }
+      ]
+     },
+     {
+      "src": "sā̱kamadra̭yaḥ",
+      "words": [
+       {
+        "w": "sākam",
+        "gloss": "together",
+        "gram": "ind."
+       },
+       {
+        "w": "adrayaḥ",
+        "gloss": "stones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ata̭rpayo",
+      "words": [
+       {
+        "w": "atarpayaḥ",
+        "gloss": "you satisfied",
+        "gram": "2 sg. impf. caus. √tṛp"
+       }
+      ]
+     },
+     {
+      "src": "vi̱sṛta̭",
+      "words": [
+       {
+        "w": "visṛtaḥ",
+        "gloss": "outflowing ones",
+        "gram": "f. acc. pl. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "u̱bja",
+      "words": [
+       {
+        "w": "ubjaḥ",
+        "gloss": "you pressed down",
+        "gram": "2 sg. impf. √ubj"
+       }
+      ]
+     },
+     {
+      "src": "ū̱rmīn",
+      "words": [
+       {
+        "w": "ūrmīn",
+        "gloss": "waves",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "2 sg. nom."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱tā~",
+      "words": [
+       {
+        "w": "vṛtān",
+        "gloss": "held back",
+        "gram": "m. acc. pl. ppp. √vṛ"
+       }
+      ]
+     },
+     {
+      "src": "a̭riṇā",
+      "words": [
+       {
+        "w": "ariṇāḥ",
+        "gloss": "you released",
+        "gram": "2 sg. impf. √ri"
+       }
+      ]
+     },
+     {
+      "src": "indra̱",
+      "words": [
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sindhṷ̄n",
+      "words": [
+       {
+        "w": "sindhūn",
+        "gloss": "rivers",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे बच्चे की ओर स्त्रियों की तरह दौड़ पड़े; रथों की तरह पत्थर एक साथ आगे बढ़े। तुमने बहकर निकलने वालों को तृप्त किया, लहरों को दबाया; हे इन्द्र, तुमने रोकी गई नदियों को छोड़ दिया।",
+  "english": "They ran forth toward the child like women; like chariots the stones went forth together. You satisfied the outflowing ones, you pressed down the waves; you, O Indra, released the rivers that were held back.",
+  "text_flags": [],
+  "notes": "The subject of dadruḥ is not stated. adrayaḥ may be 'stones' (pressing-stones) or 'mountains'; 'stones' is used. visṛtaḥ is uncertain: acc. pl. 'outflowing ones' (taken) or nom. sg. 'released'. abhi is taken with garbham.",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "2 sg. nom."
+       }
+      ]
+     },
+     {
+      "src": "ma̱hīma̱vani̭ṃ",
+      "words": [
+       {
+        "w": "mahīm",
+        "gloss": "great",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "avanim",
+        "gloss": "stream",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱śvadhḙnāṃ",
+      "words": [
+       {
+        "w": "viśva-dhenām",
+        "gloss": "all-nourishing",
+        "gram": "f. acc. sg. (bahuvrīhi)"
+       }
+      ]
+     },
+     {
+      "src": "tu̱rvīta̭ye",
+      "words": [
+       {
+        "w": "turvītaye",
+        "gloss": "for Turvīti",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̱yyā̭ya̱",
+      "words": [
+       {
+        "w": "vayyāya",
+        "gloss": "for Vayya",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣara̭ntīm",
+      "words": [
+       {
+        "w": "kṣarantīm",
+        "gloss": "flowing",
+        "gram": "f. acc. sg. pres. part. √kṣar"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ara̭mayo̱",
+      "words": [
+       {
+        "w": "aramayaḥ",
+        "gloss": "you made rest",
+        "gram": "2 sg. impf. caus. √ram"
+       }
+      ]
+     },
+     {
+      "src": "nama̱saija̱darṇa̭:",
+      "words": [
+       {
+        "w": "namasā",
+        "gloss": "with homage",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "ejat",
+        "gloss": "trembling",
+        "gram": "n. acc. sg. pres. part. √ej"
+       },
+       {
+        "w": "arṇaḥ",
+        "gloss": "flood",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sutara̱ṇā~",
+      "words": [
+       {
+        "w": "sutaraṇān",
+        "gloss": "easy to cross",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭kṛṇorindra̱",
+      "words": [
+       {
+        "w": "akṛṇoḥ",
+        "gloss": "you made",
+        "gram": "2 sg. impf. √kṛ"
+       },
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sindhṷ̄n",
+      "words": [
+       {
+        "w": "sindhūn",
+        "gloss": "rivers",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुमने सबका पोषण करने वाली, तुर्वीति और वय्य के लिए बहती हुई महान् धारा को विश्राम दिया; आदर के साथ काँपती बाढ़ को विश्राम दिया; हे इन्द्र, तुमने नदियों को सरलता से पार करने योग्य बना दिया।",
+  "english": "You made the great all-nourishing stream, flowing for Turvīti and Vayya, come to rest; with homage you made the trembling flood rest; you made the rivers easy to cross, O Indra.",
+  "text_flags": [],
+  "notes": "namasā 'with homage' may belong to Indra's act or describe the flood's behaviour; kept as written. Turvīti and Vayya are names; nothing is added about them.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prāgruvo̭",
+      "words": [
+       {
+        "w": "prāgruvaḥ",
+        "gloss": "foremost ones",
+        "gram": "f. acc. pl. (sense uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "nabha̱nvo̱3",
+      "words": [
+       {
+        "w": "nabhanvaḥ",
+        "gloss": "clouds",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vakvā̭",
+      "words": [
+       {
+        "w": "vakvāḥ",
+        "gloss": "rolling",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhva̱srā",
+      "words": [
+       {
+        "w": "dhvasrāḥ",
+        "gloss": "sprinkled",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭pinvad",
+      "words": [
+       {
+        "w": "apinvat",
+        "gloss": "he made swell",
+        "gram": "3 sg. impf. √pinv"
+       }
+      ]
+     },
+     {
+      "src": "yuva̱tīrṛ̭ta̱jñāḥ",
+      "words": [
+       {
+        "w": "yuvatīḥ",
+        "gloss": "young women",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "ṛta-jñāḥ",
+        "gloss": "knowing order",
+        "gram": "f. acc. pl. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dhanvā̱nyajrā̭~",
+      "words": [
+       {
+        "w": "dhanvāni",
+        "gloss": "dry lands",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "ajrān",
+        "gloss": "plains",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "apṛṇak",
+      "words": [
+       {
+        "w": "apṛṇak",
+        "gloss": "he filled",
+        "gram": "3 sg. impf. √pṛc"
+       }
+      ]
+     },
+     {
+      "src": "tṛṣā̱ṇā~",
+      "words": [
+       {
+        "w": "tṛṣāṇān",
+        "gloss": "thirsty",
+        "gram": "m. acc. pl. pres. part. √tṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "adho̱gindra̭:",
+      "words": [
+       {
+        "w": "adhok",
+        "gloss": "he milked",
+        "gram": "3 sg. aor. √duh"
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sta̱ryo̱3",
+      "words": [
+       {
+        "w": "staryaḥ",
+        "gloss": "barren cows",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "daṃsṷpatnīḥ",
+      "words": [
+       {
+        "w": "daṃsu-patnīḥ",
+        "gloss": "wives of the wonder-worker",
+        "gram": "f. acc. pl. (tat-puruṣa)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसने अग्रगामियों को, बादलों की तरह, लुढ़कती हुई, सींची हुई, ऋत को जानने वाली युवतियों को फुलाया। इन्द्र ने सूखे स्थलों को, मैदानों को, प्यासों को भर दिया; उसने बाँझ गायों को, अद्भुत कार्य करने वाले की पत्नियों को दुहा।",
+  "english": "He made swell the foremost ones, like clouds, the rolling, sprinkled ones, the young women who know order. Indra filled the dry lands, the plains, the thirsty ones; he milked the barren cows, the wives of the wonder-worker.",
+  "text_flags": [],
+  "notes": "Very uncertain verse. prāgruvaḥ is not understood (possibly pra + agrū 'foremost maidens'); dhvasrāḥ 'sprinkled' and nabhanvaḥ 'clouds' follow the usual lexicon sense; daṃsu-patnīḥ 'wives of the wonder-worker' is one possible analysis of the compound. The subject of apinvat is not stated. Pluta marks 3 are not typos.",
+  "confidence": "low"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pū̱rvīru̱ṣasa̭:",
+      "words": [
+       {
+        "w": "pūrvīḥ",
+        "gloss": "many",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "uṣasaḥ",
+        "gloss": "dawns",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śa̱rada̭śca",
+      "words": [
+       {
+        "w": "śaradaḥ",
+        "gloss": "autumns",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gū̱rtā",
+      "words": [
+       {
+        "w": "gūrtāḥ",
+        "gloss": "welcomed",
+        "gram": "f. acc. pl. ppp. √gur"
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱traṃ",
+      "words": [
+       {
+        "w": "vṛtram",
+        "gloss": "Vṛtra",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭gha̱nvā~",
+      "words": [
+       {
+        "w": "jaghanvān",
+        "gloss": "having slain",
+        "gram": "m. nom. sg. pf. part. √han"
+       }
+      ]
+     },
+     {
+      "src": "a̭sṛja̱d",
+      "words": [
+       {
+        "w": "asṛjat",
+        "gloss": "he released",
+        "gram": "3 sg. impf. √sṛj"
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sindhṷ̄n",
+      "words": [
+       {
+        "w": "sindhūn",
+        "gloss": "rivers",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pari̭ṣṭhitā",
+      "words": [
+       {
+        "w": "pariṣṭhitāḥ",
+        "gloss": "enclosed",
+        "gram": "f. acc. pl. ppp. pari-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "atṛṇad",
+      "words": [
+       {
+        "w": "atṛṇat",
+        "gloss": "he split open",
+        "gram": "3 sg. impf. √tṛd"
+       }
+      ]
+     },
+     {
+      "src": "badbadhā̱nāḥ",
+      "words": [
+       {
+        "w": "badbadhānāḥ",
+        "gloss": "hard-pressed",
+        "gram": "f. acc. pl. pf. mid. part. √bādh"
+       }
+      ]
+     },
+     {
+      "src": "sī̱rā",
+      "words": [
+       {
+        "w": "sīrāḥ",
+        "gloss": "streams",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̱:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sravi̭tave",
+      "words": [
+       {
+        "w": "sravitave",
+        "gloss": "to flow",
+        "gram": "dat. inf. √sru"
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vyā",
+      "words": [
+       {
+        "w": "pṛthivyā",
+        "gloss": "along the earth",
+        "gram": "f. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वृत्र को मारकर उसने बहुत-सी स्वागत की गई उषाओं और शरद् ऋतुओं तक नदियों को छोड़ दिया। इन्द्र ने घिरी हुई, अत्यन्त दबाई गई धाराओं को पृथ्वी पर बहने के लिए खोल दिया।",
+  "english": "Having slain Vṛtra, he released the rivers through the many welcomed dawns and autumns. Indra split open the enclosed, hard-pressed streams, to flow along the earth.",
+  "text_flags": [],
+  "notes": "The accusatives pūrvīḥ uṣasaḥ śaradaḥ gūrtāḥ are taken as time ('through'); their role is uncertain. 'welcomed' for gūrtāḥ is the plain participle sense. The text prints vi sindhūn with vi as a separate preverb of asṛjat. 'Along' for the instrumental pṛthivyā is a choice.",
+  "confidence": "low"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "va̱mrībhi̭:",
+      "words": [
+       {
+        "w": "vamrībhiḥ",
+        "gloss": "by ants",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pu̱trama̱gruvo̭",
+      "words": [
+       {
+        "w": "putram",
+        "gloss": "son",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "agruvaḥ",
+        "gloss": "of the maidens",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "adā̱naṃ",
+      "words": [
+       {
+        "w": "adānam",
+        "gloss": "not giving",
+        "gram": "m. acc. sg. (sense uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "ni̱veśa̭nāddhariva̱",
+      "words": [
+       {
+        "w": "niveśanāt",
+        "gloss": "from the dwelling",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "harivaḥ",
+        "gloss": "O lord of the tawny horses",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ja̭bhartha",
+      "words": [
+       {
+        "w": "jabhartha",
+        "gloss": "you carried",
+        "gram": "2 sg. pf. ā-√bhṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vya1ndho",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "out",
+        "gram": "ind."
+       },
+       {
+        "w": "andhaḥ",
+        "gloss": "blind one",
+        "gram": "m. nom. sg. (alternatively andhas, a nourishing plant)"
+       }
+      ]
+     },
+     {
+      "src": "a̭khya̱dahi̭mādadā̱no",
+      "words": [
+       {
+        "w": "akhyat",
+        "gloss": "saw",
+        "gram": "3 sg. aor. vi-√khyā"
+       },
+       {
+        "w": "ahim",
+        "gloss": "the serpent",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ādadānaḥ",
+        "gloss": "seizing",
+        "gram": "m. nom. sg. pres. mid. part. ā-√dā"
+       }
+      ]
+     },
+     {
+      "src": "nirbhṷ̄dukha̱cchitsama̭ranta̱",
+      "words": [
+       {
+        "w": "niḥ",
+        "gloss": "out",
+        "gram": "ind."
+       },
+       {
+        "w": "bhūt",
+        "gloss": "came to be",
+        "gram": "3 sg. aor. inj. √bhū"
+       },
+       {
+        "w": "ukha-cchit",
+        "gloss": "pot-splitting",
+        "gram": "m. nom. sg. (upapada tat-puruṣa)"
+       },
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       },
+       {
+        "w": "aranta",
+        "gloss": "came",
+        "gram": "3 pl. aor. mid. √ṛ"
+       }
+      ]
+     },
+     {
+      "src": "parva̭",
+      "words": [
+       {
+        "w": "parva",
+        "gloss": "joints",
+        "gram": "n. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे भूरे-पीले घोड़ों के स्वामी, तुमने चींटियों के द्वारा कन्याओं के पुत्र को, जो नहीं दे रहा था, निवास से उठा लिया। अन्धा देख सका; सर्प को पकड़ते हुए वह बाहर निकल आया, घड़ा फोड़ने वाला; जोड़ आपस में मिल गए।",
+  "english": "By means of ants, O lord of the tawny horses, you carried off from the dwelling the son of the maidens, who was not giving. The blind one saw; seizing the serpent, he came out, the pot-splitting one; the joints came together.",
+  "text_flags": [],
+  "notes": "Very uncertain verse, translated literally. putram agruvaḥ adānam and andho akhyat show hiatus (agruvaḥ + a, andhaḥ + a printed without avagraha); not treated as typos. adānam, andhaḥ (blind one, or the nourishing plant andhas), ukha-cchit and the subject of nir bhūt are all unclear. parva is read as nom. pl. 'joints' (could be sg.).",
+  "confidence": "low"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "2 sg. gen."
+       }
+      ]
+     },
+     {
+      "src": "pūrvā̭ṇi̱",
+      "words": [
+       {
+        "w": "pūrvāṇi",
+        "gloss": "earlier",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kara̭ṇāni",
+      "words": [
+       {
+        "w": "karaṇāni",
+        "gloss": "deeds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "viprā''vi̱dvā~",
+      "words": [
+       {
+        "w": "vipraḥ",
+        "gloss": "inspired one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āvidvān",
+        "gloss": "knowing well",
+        "gram": "m. nom. sg. pf. part. ā-√vid"
+       }
+      ]
+     },
+     {
+      "src": "ā̭ha",
+      "words": [
+       {
+        "w": "āha",
+        "gloss": "has said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "vi̱duṣe̱",
+      "words": [
+       {
+        "w": "viduṣe",
+        "gloss": "to the knowing one",
+        "gram": "m. dat. sg. pf. part. √vid"
+       }
+      ]
+     },
+     {
+      "src": "karā̭ṃsi",
+      "words": [
+       {
+        "w": "karāṃsi",
+        "gloss": "acts",
+        "gram": "n. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yathā̭yathā̱",
+      "words": [
+       {
+        "w": "yathā-yathā",
+        "gloss": "in whatever way",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛṣṇyā̭ni̱",
+      "words": [
+       {
+        "w": "vṛṣṇyāni",
+        "gloss": "manly powers",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "svagū̱rtā",
+      "words": [
+       {
+        "w": "svagūrtā",
+        "gloss": "self-welcomed",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "'pā̭ṃsi",
+      "words": [
+       {
+        "w": "apāṃsi",
+        "gloss": "works",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rāja̱n",
+      "words": [
+       {
+        "w": "rājan",
+        "gloss": "O king",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "naryāvi̭veṣīḥ",
+      "words": [
+       {
+        "w": "naryā",
+        "gloss": "manly deeds",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "viveṣīḥ",
+        "gloss": "you have done",
+        "gram": "2 sg. aor. √viṣ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भली-भाँति जानने वाले विप्र ने जानने वाले से तुम्हारे पुराने कृत्य, क्रियाएँ कह दी हैं; हे राजन्, जिस-जिस प्रकार तुमने पुरुषोचित बल, स्वयं स्वागत किए गए कार्य और पुरुषोचित कृत्य किए।",
+  "english": "The inspired one, knowing well, has declared to the one who knows your earlier deeds, the acts; in whatever way, O king, you have done the manly powers, the self-welcomed works, the manly deeds.",
+  "text_flags": [],
+  "notes": "The sandhi in viprā''vidvā~ is unclear (read vipraḥ + āvidvān); the form āvidvān 'knowing well' is a best reading. viveṣīḥ is read as 2 sg. aor. of √viṣ 'be active'; the construction with the neuter plurals is loose. The double apostrophe in viprā'' and the avagraha after svagūrtā are the edition's notation.",
+  "confidence": "low"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nū",
+      "words": [
+       {
+        "w": "nū",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣṭu̱ta",
+      "words": [
+       {
+        "w": "stutaḥ",
+        "gloss": "praised",
+        "gram": "m. nom. sg. ppp. √stu"
+       }
+      ]
+     },
+     {
+      "src": "i̭ndra̱",
+      "words": [
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nū",
+      "words": [
+       {
+        "w": "nū",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛ̭ṇā̱na",
+      "words": [
+       {
+        "w": "gṛṇānaḥ",
+        "gloss": "being hymned",
+        "gram": "m. nom. sg. pres. pass. part. √gṛ"
+       }
+      ]
+     },
+     {
+      "src": "iṣa̭ṃ",
+      "words": [
+       {
+        "w": "iṣam",
+        "gloss": "refreshment",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jari̱tre",
+      "words": [
+       {
+        "w": "jaritre",
+        "gloss": "for the singer",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "na̱dyo̱3",
+      "words": [
+       {
+        "w": "nadyaḥ",
+        "gloss": "rivers",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pī̭peḥ",
+      "words": [
+       {
+        "w": "pīpeḥ",
+        "gloss": "make swell",
+        "gram": "2 sg. inj. √pyā (form uncertain)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "akā̭ri",
+      "words": [
+       {
+        "w": "akāri",
+        "gloss": "has been made",
+        "gram": "3 sg. aor. pass. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "for you",
+        "gram": "2 sg. dat."
+       }
+      ]
+     },
+     {
+      "src": "harivo̱",
+      "words": [
+       {
+        "w": "harivaḥ",
+        "gloss": "O lord of the tawny horses",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahma̱",
+      "words": [
+       {
+        "w": "brahma",
+        "gloss": "prayer",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "navya̭ṃ",
+      "words": [
+       {
+        "w": "navyam",
+        "gloss": "new",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhi̱yā",
+      "words": [
+       {
+        "w": "dhiyā",
+        "gloss": "by thought",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "syā̭ma",
+      "words": [
+       {
+        "w": "syāma",
+        "gloss": "may we be",
+        "gram": "1 pl. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "ra̱thya̭:",
+      "words": [
+       {
+        "w": "rathyaḥ",
+        "gloss": "charioteers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sadā̱sāḥ",
+      "words": [
+       {
+        "w": "sadāsāḥ",
+        "gloss": "always winning",
+        "gram": "m. nom. pl. (form uncertain)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र, अब स्तुत होकर, अब गाए जाते हुए, नदियों की तरह गायक के लिए स्फूर्ति बढ़ाओ। हे भूरे-पीले घोड़ों के स्वामी, तुम्हारे लिए नया ब्रह्म रचा गया है; धी से हम रथी, सदा जीतने वाले हों।",
+  "english": "Now praised, O Indra, now being hymned, make refreshment swell for the singer, like rivers. A new prayer has been made for you, O lord of the tawny horses; by thought may we be charioteers, always winning.",
+  "text_flags": [],
+  "notes": "pīpeḥ is a reduplicated 2 sg. form of √pyā 'swell'; the exact mood is uncertain. sadāsāḥ is read 'always winning' (sadā + a root noun from √san), uncertain. nadyaḥ na has a pluta mark (not a typo).",
+  "confidence": "medium"
+ }
+]

@@ -1,0 +1,1244 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣetra̭sya̱",
+      "words": [
+       {
+        "w": "kṣetrasya",
+        "gloss": "of the field",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pati̭nā",
+      "words": [
+       {
+        "w": "patinā",
+        "gloss": "by the lord",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̱yaṃ",
+      "words": [
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "1 pl. nom."
+       }
+      ]
+     },
+     {
+      "src": "hi̱tenḙva",
+      "words": [
+       {
+        "w": "hitena",
+        "gloss": "like a friend",
+        "gram": "m. inst. sg. ppp. √dhā"
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jayāmasi",
+      "words": [
+       {
+        "w": "jayāmasi",
+        "gloss": "we win",
+        "gram": "1 pl. pres. √ji"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gāmaśva̭ṃ",
+      "words": [
+       {
+        "w": "gām",
+        "gloss": "cow",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "aśvam",
+        "gloss": "horse",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "poṣayi̱tnvā",
+      "words": [
+       {
+        "w": "poṣayitnu",
+        "gloss": "nourishing",
+        "gram": "n. acc. sg. adj., form uncertain"
+       },
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "1 pl. dat."
+       }
+      ]
+     },
+     {
+      "src": "mṛḻātī̱dṛśḙ",
+      "words": [
+       {
+        "w": "mṛḍāti",
+        "gloss": "may be gracious",
+        "gram": "3 sg. subj. √mṛḍ"
+       },
+       {
+        "w": "īdṛśe",
+        "gloss": "in such",
+        "gram": "m./n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्षेत्र के स्वामी के द्वारा, मानो हितैषी के द्वारा, हम जीतते हैं। गाय, घोड़ा, पोषण करने वाला; वह हमारे प्रति ऐसे में अनुकूल हो।",
+  "english": "By the lord of the field, as by a friend, we win. Cow, horse, nourishing; may he be gracious to us in such.",
+  "text_flags": [],
+  "notes": "Unclear syntax. poṣayitnu (nourishing) and ā are taken loosely with gām aśvam; īdṛśe 'in such' has no stated noun. hitena iva: hita (ppp. of √dhā) 'placed, beneficial' taken as 'friend'. jayāmasi has no stated object.",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṣetra̭sya",
+      "words": [
+       {
+        "w": "kṣetrasya",
+        "gloss": "of the field",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pate̱",
+      "words": [
+       {
+        "w": "pate",
+        "gloss": "O lord",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhṷmantamū̱rmiṃ",
+      "words": [
+       {
+        "w": "madhumantam",
+        "gloss": "honeyed",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ūrmim",
+        "gloss": "wave",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhe̱nuri̭va̱",
+      "words": [
+       {
+        "w": "dhenuḥ",
+        "gloss": "milch cow",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "payo̭",
+      "words": [
+       {
+        "w": "payaḥ",
+        "gloss": "milk",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱smāsṷ",
+      "words": [
+       {
+        "w": "asmāsu",
+        "gloss": "in us",
+        "gram": "1 pl. loc."
+       }
+      ]
+     },
+     {
+      "src": "dhukṣva",
+      "words": [
+       {
+        "w": "dhukṣva",
+        "gloss": "milk out, yield",
+        "gram": "2 sg. impv. mid. √duh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ma̱dhu̱ścuta̭ṃ",
+      "words": [
+       {
+        "w": "madhu-ścutam",
+        "gloss": "honey-dripping",
+        "gram": "tat-puruṣa, m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ghṛ̱tami̭va̱",
+      "words": [
+       {
+        "w": "ghṛtam",
+        "gloss": "ghee",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "supṷ̄tamṛ̱tasya̭",
+      "words": [
+       {
+        "w": "su-pūtam",
+        "gloss": "well-purified",
+        "gram": "n. acc. sg. ppp. √pū"
+       },
+       {
+        "w": "ṛtasya",
+        "gloss": "of order",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "na̱:",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "1 pl. acc."
+       }
+      ]
+     },
+     {
+      "src": "pata̭yo",
+      "words": [
+       {
+        "w": "patayaḥ",
+        "gloss": "lords",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mṛḻayantu",
+      "words": [
+       {
+        "w": "mṛḍayantu",
+        "gloss": "may they be gracious",
+        "gram": "3 pl. impv. caus. √mṛḍ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे क्षेत्र के स्वामी, मधुर लहर को हममें दुहो, जैसे दुधारू गाय दूध देती है; मधु टपकाती हुई, भली-भाँति शुद्ध किए घी की तरह; ऋत के स्वामी हमें प्रसन्न करें।",
+  "english": "O lord of the field, milk out for us a honeyed wave, as a milch cow her milk; like honey-dripping, well-purified ghee. May the lords of order be gracious to us.",
+  "text_flags": [],
+  "notes": "madhuścutam ghṛtam iva supūtam is taken as qualifying the wave (ūrmim); the accusative is not repeated in line b. 'ṛtasya patayaḥ' = 'lords of order' (not identified). mṛḍayantu: causative of √mṛḍ, 'let them gladden / make gracious'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhṷmatī̱roṣa̭dhī̱rdyāva̱",
+      "words": [
+       {
+        "w": "madhumatīḥ",
+        "gloss": "honeyed",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "oṣadhīḥ",
+        "gloss": "plants",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "dyāvaḥ",
+        "gloss": "heavens",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "āpo̱",
+      "words": [
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "madhṷmanno",
+      "words": [
+       {
+        "w": "madhumat",
+        "gloss": "honeyed",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "1 pl. dat."
+       }
+      ]
+     },
+     {
+      "src": "bhavatva̱ntari̭kṣam",
+      "words": [
+       {
+        "w": "bhavatu",
+        "gloss": "let be",
+        "gram": "3 sg. impv. √bhū"
+       },
+       {
+        "w": "antarikṣam",
+        "gloss": "atmosphere",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṣetra̭sya̱",
+      "words": [
+       {
+        "w": "kṣetrasya",
+        "gloss": "of the field",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pati̱rmadhṷmān",
+      "words": [
+       {
+        "w": "patiḥ",
+        "gloss": "lord",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "madhumān",
+        "gloss": "honeyed",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "no",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "1 pl. dat."
+       }
+      ]
+     },
+     {
+      "src": "a̱stvari̭ṣyanto̱",
+      "words": [
+       {
+        "w": "astu",
+        "gloss": "let be",
+        "gram": "3 sg. impv. √as"
+       },
+       {
+        "w": "ariṣyantaḥ",
+        "gloss": "unharmed",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "anvḙnaṃ",
+      "words": [
+       {
+        "w": "anu",
+        "gloss": "after",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "carema",
+      "words": [
+       {
+        "w": "carema",
+        "gloss": "may we go",
+        "gram": "1 pl. opt. √car"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मधुर पौधे, द्युलोक, जल; हमारे लिए अन्तरिक्ष मधुर हो। क्षेत्र का स्वामी हमारे लिए मधुर हो; हम अहिंसित रहते हुए उसके पीछे चलें।",
+  "english": "Honeyed plants, heavens, waters; let the atmosphere be honeyed for us. Let the lord of the field be honeyed for us; unharmed may we go after him.",
+  "text_flags": [],
+  "notes": "The first three nouns have no verb of their own; the singular bhavatu is taken with antarikṣam only and none is added. 'honeyed' = madhumant (sweet). anu ... carema read as 'may we go/follow after him'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śu̱naṃ",
+      "words": [
+       {
+        "w": "śunam",
+        "gloss": "prosperously",
+        "gram": "n. acc. sg. as adv."
+       }
+      ]
+     },
+     {
+      "src": "vā̱hāḥ",
+      "words": [
+       {
+        "w": "vāhāḥ",
+        "gloss": "draught-animals",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śu̱naṃ",
+      "words": [
+       {
+        "w": "śunam",
+        "gloss": "prosperously",
+        "gram": "n. acc. sg. as adv."
+       }
+      ]
+     },
+     {
+      "src": "nara̭:",
+      "words": [
+       {
+        "w": "naraḥ",
+        "gloss": "men",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "śu̱naṃ",
+      "words": [
+       {
+        "w": "śunam",
+        "gloss": "prosperously",
+        "gram": "n. acc. sg. as adv."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̭ṣatu̱",
+      "words": [
+       {
+        "w": "kṛṣatu",
+        "gloss": "let furrow",
+        "gram": "3 sg. impv. √kṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "lāṅga̭lam",
+      "words": [
+       {
+        "w": "lāṅgalam",
+        "gloss": "plough",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śu̱naṃ",
+      "words": [
+       {
+        "w": "śunam",
+        "gloss": "prosperously",
+        "gram": "n. acc. sg. as adv."
+       }
+      ]
+     },
+     {
+      "src": "va̭ra̱trā",
+      "words": [
+       {
+        "w": "varatrāḥ",
+        "gloss": "straps",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ba̭dhyantāṃ",
+      "words": [
+       {
+        "w": "badhyantām",
+        "gloss": "let be bound",
+        "gram": "3 pl. impv. pass. √bandh"
+       }
+      ]
+     },
+     {
+      "src": "śu̱namaṣṭrā̱mudi̭ṅgaya",
+      "words": [
+       {
+        "w": "śunam",
+        "gloss": "prosperously",
+        "gram": "n. acc. sg. as adv."
+       },
+       {
+        "w": "aṣṭrām",
+        "gloss": "goad",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ud",
+        "gloss": "up",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "iṅgaya",
+        "gloss": "set in motion",
+        "gram": "2 sg. impv. caus. √iṅg"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सुखपूर्वक बैल, सुखपूर्वक मनुष्य; सुखपूर्वक हल जोते। सुखपूर्वक रस्सियाँ बाँधी जाएँ; सुखपूर्वक आर को ऊपर उठाओ।",
+  "english": "Prosperously the draught-animals, prosperously the men; prosperously let the plough furrow. Prosperously let the straps be bound; prosperously raise the goad.",
+  "text_flags": [],
+  "notes": "śunam is taken as an adverb 'prosperously' (also 'happily'); the first two clauses have no verb. vāha 'draught-animal' (literally 'carrier'). ud iṅgaya 'set in motion' rendered 'raise'. varatrā is varatrāḥ before b-.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śunā̭sīrāvi̱māṃ",
+      "words": [
+       {
+        "w": "śunāsīrau",
+        "gloss": "O Śuna and Sīra",
+        "gram": "dvandva, m. voc. du."
+       },
+       {
+        "w": "imām",
+        "gloss": "this",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāca̭ṃ",
+      "words": [
+       {
+        "w": "vācam",
+        "gloss": "speech",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "juṣethā̱ṃ",
+      "words": [
+       {
+        "w": "juṣethām",
+        "gloss": "take pleasure in",
+        "gram": "2 du. impv. mid. √juṣ"
+       }
+      ]
+     },
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "di̱vi",
+      "words": [
+       {
+        "w": "divi",
+        "gloss": "in heaven",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱krathu̱:",
+      "words": [
+       {
+        "w": "cakrathuḥ",
+        "gloss": "you two have made",
+        "gram": "2 du. pf. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "paya̭:",
+      "words": [
+       {
+        "w": "payaḥ",
+        "gloss": "milk",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "tene̱māmupa̭",
+      "words": [
+       {
+        "w": "tena",
+        "gloss": "with that",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "imām",
+        "gloss": "this",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "upa",
+        "gloss": "to, onto",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "siñcatam",
+      "words": [
+       {
+        "w": "siñcatam",
+        "gloss": "sprinkle",
+        "gram": "2 du. impv. √sic"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे शुन और सीर, इस वाणी को स्वीकार करो; जो दूध तुम दोनों ने द्युलोक में बनाया, उसी से इसे सींचो।",
+  "english": "O Śuna and Sīra, take pleasure in this speech; with the milk that you two have made in heaven, sprinkle this.",
+  "text_flags": [],
+  "notes": "śunāsīrau is a dual of the two names Śuna and Sīra, kept as names; no identification made. imām (second) has no stated noun, rendered 'this'. divi 'in heaven' (also 'in the sky').",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱rvācī̭",
+      "words": [
+       {
+        "w": "arvācī",
+        "gloss": "turned hither",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "subhage",
+      "words": [
+       {
+        "w": "subhage",
+        "gloss": "O fortunate one",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhava̱",
+      "words": [
+       {
+        "w": "bhava",
+        "gloss": "be",
+        "gram": "2 sg. impv. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "sīte̱",
+      "words": [
+       {
+        "w": "sīte",
+        "gloss": "O furrow",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vandā̭mahe",
+      "words": [
+       {
+        "w": "vandāmahe",
+        "gloss": "we praise",
+        "gram": "1 pl. pres. mid. √vand"
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "2 sg. acc."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "yathā̭",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "1 pl. dat."
+       }
+      ]
+     },
+     {
+      "src": "su̱bhagāsa̭si̱",
+      "words": [
+       {
+        "w": "subhagā",
+        "gloss": "fortunate",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "asasi",
+        "gloss": "you may be",
+        "gram": "2 sg. subj. √as"
+       }
+      ]
+     },
+     {
+      "src": "yathā̭",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "1 pl. dat."
+       }
+      ]
+     },
+     {
+      "src": "su̱phalāsa̭si",
+      "words": [
+       {
+        "w": "suphalā",
+        "gloss": "fruitful",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "asasi",
+        "gloss": "you may be",
+        "gram": "2 sg. subj. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे सौभाग्यवती, हे सीता, इधर मुख वाली हो; हम तुम्हारी वन्दना करते हैं, जिससे तुम हमारे लिए सौभाग्यवती हो, जिससे तुम हमारे लिए फलवती हो।",
+  "english": "Turned hither, O fortunate one, be, O furrow; we praise you, so that you may be fortunate for us, so that you may be fruitful for us.",
+  "text_flags": [],
+  "notes": "sīte is the vocative of sītā 'furrow' (literal; the word is not taken as a personal name). arvācī: 'turned towards (us)' rendered 'turned hither'. asasi = 2 sg. subjunctive of √as.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "indra̱:",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sītā̱ṃ",
+      "words": [
+       {
+        "w": "sītām",
+        "gloss": "furrow",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "gṛ̭hṇātu̱",
+      "words": [
+       {
+        "w": "gṛhṇātu",
+        "gloss": "let hold",
+        "gram": "3 sg. impv. √grah"
+       }
+      ]
+     },
+     {
+      "src": "tāṃ",
+      "words": [
+       {
+        "w": "tām",
+        "gloss": "her",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pū̱ṣānṷ",
+      "words": [
+       {
+        "w": "pūṣā",
+        "gloss": "Pūṣan",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "yacchatu",
+      "words": [
+       {
+        "w": "yacchatu",
+        "gloss": "let guide",
+        "gram": "3 sg. impv. anu-√yam"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "sā",
+      "words": [
+       {
+        "w": "sā",
+        "gloss": "she",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na̱:",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "1 pl. dat."
+       }
+      ]
+     },
+     {
+      "src": "paya̭svatī",
+      "words": [
+       {
+        "w": "payasvatī",
+        "gloss": "rich in milk",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "duhā̱mutta̭rāmuttarā̱ṃ",
+      "words": [
+       {
+        "w": "duhām",
+        "gloss": "let her yield",
+        "gram": "3 sg. impv. mid. √duh, form uncertain"
+       },
+       {
+        "w": "uttarām-uttarām",
+        "gloss": "each following",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "samā̭m",
+      "words": [
+       {
+        "w": "samām",
+        "gloss": "year",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन्द्र सीता को पकड़े, पूषन् उसे आगे-आगे चलाए; वह दूध से भरी हुई हमारे लिए हर आने वाले वर्ष में दुहने दे।",
+  "english": "Let Indra hold the furrow, let Pūṣan guide her along; rich in milk, let her yield for us, each following year.",
+  "text_flags": [],
+  "notes": "anu yacchatu: anu-√yam, 'guide along' is a literal guess (also 'uphold'). duhām is a Vedic 3 sg. imperative of duh in the middle (exact form uncertain). uttarām-uttarām samām: accusative of time, 'each following year'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śu̱naṃ",
+      "words": [
+       {
+        "w": "śunam",
+        "gloss": "prosperously",
+        "gram": "n. acc. sg. as adv."
+       }
+      ]
+     },
+     {
+      "src": "na̱:",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "1 pl. dat."
+       }
+      ]
+     },
+     {
+      "src": "phālā̱",
+      "words": [
+       {
+        "w": "phālāḥ",
+        "gloss": "ploughshares",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "kṛ̭ṣantu̱",
+      "words": [
+       {
+        "w": "kṛṣantu",
+        "gloss": "let them furrow",
+        "gram": "3 pl. impv. √kṛṣ"
+       }
+      ]
+     },
+     {
+      "src": "bhūmi̭ṃ",
+      "words": [
+       {
+        "w": "bhūmim",
+        "gloss": "earth",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śu̱naṃ",
+      "words": [
+       {
+        "w": "śunam",
+        "gloss": "prosperously",
+        "gram": "n. acc. sg. as adv."
+       }
+      ]
+     },
+     {
+      "src": "kī̱nāśā̭",
+      "words": [
+       {
+        "w": "kīnāśāḥ",
+        "gloss": "ploughmen",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱bhi",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "toward",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ya̭ntu",
+      "words": [
+       {
+        "w": "yantu",
+        "gloss": "let them go",
+        "gram": "3 pl. impv. √yā"
+       }
+      ]
+     },
+     {
+      "src": "vā̱haiḥ",
+      "words": [
+       {
+        "w": "vāhaiḥ",
+        "gloss": "with draught-animals",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śu̱naṃ",
+      "words": [
+       {
+        "w": "śunam",
+        "gloss": "prosperously",
+        "gram": "n. acc. sg. as adv."
+       }
+      ]
+     },
+     {
+      "src": "pa̱rjanyo̱",
+      "words": [
+       {
+        "w": "parjanyaḥ",
+        "gloss": "Parjanya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhṷnā̱",
+      "words": [
+       {
+        "w": "madhunā",
+        "gloss": "with honey",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "payo̭bhi̱:",
+      "words": [
+       {
+        "w": "payobhiḥ",
+        "gloss": "with milks",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "śunā̭sīrā",
+      "words": [
+       {
+        "w": "śunāsīrā",
+        "gloss": "O Śuna and Sīra",
+        "gram": "dvandva, m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "śu̱nama̱smāsṷ",
+      "words": [
+       {
+        "w": "śunam",
+        "gloss": "prosperity",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "asmāsu",
+        "gloss": "in us",
+        "gram": "1 pl. loc."
+       }
+      ]
+     },
+     {
+      "src": "dhattam",
+      "words": [
+       {
+        "w": "dhattam",
+        "gloss": "bestow",
+        "gram": "2 du. impv. √dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सुखपूर्वक हमारे लिए फाल भूमि को जोतें, सुखपूर्वक हलवाहे बैलों के साथ चलें। सुखपूर्वक पर्जन्य मधु के साथ, दूधों के साथ; हे शुन और सीर, हममें सुख स्थापित करो।",
+  "english": "Prosperously for us let the ploughshares furrow the earth, prosperously let the ploughmen go on with the draught-animals. Prosperously Parjanya with honey, with milks; O Śuna and Sīra, bestow prosperity on us.",
+  "text_flags": [],
+  "notes": "śunam is adverbial 'prosperously' except in the last clause, where it is the object 'prosperity'. The Parjanya clause has no verb. payobhiḥ 'with milks' (payas can also mean 'waters'); kīnāśa 'ploughman' is a literal gloss. śunāsīrā is the Vedic dual vocative of the pair.",
+  "confidence": "medium"
+ }
+]

@@ -1,0 +1,692 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vi̱hi",
+      "words": [
+       {
+        "w": "vihi",
+        "gloss": "enjoy",
+        "gram": "2 sg. impv. vi-√vī"
+       }
+      ]
+     },
+     {
+      "src": "hotrā̱",
+      "words": [
+       {
+        "w": "hotrāḥ",
+        "gloss": "offerings",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "avī̭tā̱",
+      "words": [
+       {
+        "w": "avītāḥ",
+        "gloss": "unenjoyed",
+        "gram": "f. acc. pl. ppp. a-√vī"
+       }
+      ]
+     },
+     {
+      "src": "vipo̱",
+      "words": [
+       {
+        "w": "vipaḥ",
+        "gloss": "inspired ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rāyo̭",
+      "words": [
+       {
+        "w": "rāyaḥ",
+        "gloss": "of wealth",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱ryaḥ",
+      "words": [
+       {
+        "w": "aryaḥ",
+        "gloss": "lord",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vāya̱vā",
+      "words": [
+       {
+        "w": "vāyo",
+        "gloss": "O Vāyu",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̱ndreṇa̱",
+      "words": [
+       {
+        "w": "candreṇa",
+        "gloss": "with shining",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rathḙna",
+      "words": [
+       {
+        "w": "rathena",
+        "gloss": "chariot",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yā̱hi",
+      "words": [
+       {
+        "w": "yāhi",
+        "gloss": "come",
+        "gram": "2 sg. impv. √yā"
+       }
+      ]
+     },
+     {
+      "src": "su̱tasya̭",
+      "words": [
+       {
+        "w": "sutasya",
+        "gloss": "of the pressed",
+        "gram": "m. gen. sg. ppp. √su"
+       }
+      ]
+     },
+     {
+      "src": "pī̱tayḙ",
+      "words": [
+       {
+        "w": "pītaye",
+        "gloss": "for the drinking",
+        "gram": "f. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "न भोगे गए अर्पणों का सेवन करो, विप्रों की तरह, धन के स्वामी। हे वायु, चमकते रथ से आओ, निचोड़े हुए के पान के लिए।",
+  "english": "Enjoy the unenjoyed offerings, like the inspired ones, the lord of wealth. O Vāyu, come with a shining chariot, for the drinking of the pressed.",
+  "text_flags": [],
+  "notes": "Line 1 is unclear: vihi (vi-√vī 'enjoy, partake'), the construction 'vipo na rāyo aryaḥ' (taken as 'like the inspired ones, the lord of wealth'; the comparison and the case of rāyaḥ are uncertain). hotrā 'offerings'. Lines 2 of units 1-4 are the same refrain.",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ni̱ryu̱vā̱ṇo",
+      "words": [
+       {
+        "w": "niryuvāṇaḥ",
+        "gloss": "driving away",
+        "gram": "m. nom. sg. pres. part. mid. nir-√yu"
+       }
+      ]
+     },
+     {
+      "src": "aśa̭stīrni̱yutvā̱~",
+      "words": [
+       {
+        "w": "aśastīḥ",
+        "gloss": "curses",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "niyutvān",
+        "gloss": "possessing the yoked teams",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "indra̭sārathiḥ",
+      "words": [
+       {
+        "w": "indra-sārathiḥ",
+        "gloss": "having Indra as charioteer",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vāya̱vā",
+      "words": [
+       {
+        "w": "vāyo",
+        "gloss": "O Vāyu",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̱ndreṇa̱",
+      "words": [
+       {
+        "w": "candreṇa",
+        "gloss": "with shining",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rathḙna",
+      "words": [
+       {
+        "w": "rathena",
+        "gloss": "chariot",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yā̱hi",
+      "words": [
+       {
+        "w": "yāhi",
+        "gloss": "come",
+        "gram": "2 sg. impv. √yā"
+       }
+      ]
+     },
+     {
+      "src": "su̱tasya̭",
+      "words": [
+       {
+        "w": "sutasya",
+        "gloss": "of the pressed",
+        "gram": "m. gen. sg. ppp. √su"
+       }
+      ]
+     },
+     {
+      "src": "pī̱tayḙ",
+      "words": [
+       {
+        "w": "pītaye",
+        "gloss": "for the drinking",
+        "gram": "f. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "शापों को दूर करता हुआ, जुते हुए दलों का स्वामी, इन्द्र को सारथि वाला। हे वायु, चमकते रथ से आओ, निचोड़े हुए के पान के लिए।",
+  "english": "Driving away curses, possessor of the yoked teams, having Indra as charioteer. O Vāyu, come with a shining chariot, for the drinking of the pressed.",
+  "text_flags": [],
+  "notes": "niryuvāṇaḥ taken as 'driving away' (nir-√yu 'separate, drive off'). aśasti 'curse, evil speech'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anṷ",
+      "words": [
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̱ṣṇe",
+      "words": [
+       {
+        "w": "kṛṣṇe",
+        "gloss": "the two black ones",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vasṷdhitī",
+      "words": [
+       {
+        "w": "vasu-dhitī",
+        "gloss": "holders of treasure",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ye̱mātḙ",
+      "words": [
+       {
+        "w": "yemāte",
+        "gloss": "they two extend",
+        "gram": "3 du. pres. mid. √yam"
+       }
+      ]
+     },
+     {
+      "src": "vi̱śvapḙśasā",
+      "words": [
+       {
+        "w": "viśva-peśasā",
+        "gloss": "of all forms",
+        "gram": "f. nom. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vāya̱vā",
+      "words": [
+       {
+        "w": "vāyo",
+        "gloss": "O Vāyu",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̱ndreṇa̱",
+      "words": [
+       {
+        "w": "candreṇa",
+        "gloss": "with shining",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rathḙna",
+      "words": [
+       {
+        "w": "rathena",
+        "gloss": "chariot",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yā̱hi",
+      "words": [
+       {
+        "w": "yāhi",
+        "gloss": "come",
+        "gram": "2 sg. impv. √yā"
+       }
+      ]
+     },
+     {
+      "src": "su̱tasya̭",
+      "words": [
+       {
+        "w": "sutasya",
+        "gloss": "of the pressed",
+        "gram": "m. gen. sg. ppp. √su"
+       }
+      ]
+     },
+     {
+      "src": "pī̱tayḙ",
+      "words": [
+       {
+        "w": "pītaye",
+        "gloss": "for the drinking",
+        "gram": "f. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों काली, धन को धारण करने वाली, सब रूपों वाली साथ-साथ फैली हुई हैं। हे वायु, चमकते रथ से आओ, निचोड़े हुए के पान के लिए।",
+  "english": "The two black ones, the two holders of treasure, of all forms, extend along. O Vāyu, come with a shining chariot, for the drinking of the pressed.",
+  "text_flags": [],
+  "notes": "Line 1 is unclear. anu yemāte (anu-√yam) is rendered 'extend along'; 'yield, submit' is possible. The referents of kṛṣṇe vasudhitī viśvapeśasā are not stated; genders and case (nom. or acc. du.) are uncertain. vasudhiti 'holder of treasure'.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vaha̭ntu",
+      "words": [
+       {
+        "w": "vahantu",
+        "gloss": "may they carry",
+        "gram": "3 pl. impv. √vah"
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "pron. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mano̱yujo̭",
+      "words": [
+       {
+        "w": "manoyujaḥ",
+        "gloss": "mind-yoked",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yu̱ktāso̭",
+      "words": [
+       {
+        "w": "yuktāsaḥ",
+        "gloss": "yoked",
+        "gram": "m. nom. pl. ppp. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "nava̱tirnava̭",
+      "words": [
+       {
+        "w": "navatiḥ",
+        "gloss": "ninety",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "nava",
+        "gloss": "nine",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vāya̱vā",
+      "words": [
+       {
+        "w": "vāyo",
+        "gloss": "O Vāyu",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̱ndreṇa̱",
+      "words": [
+       {
+        "w": "candreṇa",
+        "gloss": "with shining",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rathḙna",
+      "words": [
+       {
+        "w": "rathena",
+        "gloss": "chariot",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yā̱hi",
+      "words": [
+       {
+        "w": "yāhi",
+        "gloss": "come",
+        "gram": "2 sg. impv. √yā"
+       }
+      ]
+     },
+     {
+      "src": "su̱tasya̭",
+      "words": [
+       {
+        "w": "sutasya",
+        "gloss": "of the pressed",
+        "gram": "m. gen. sg. ppp. √su"
+       }
+      ]
+     },
+     {
+      "src": "pī̱tayḙ",
+      "words": [
+       {
+        "w": "pītaye",
+        "gloss": "for the drinking",
+        "gram": "f. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मन से जुते हुए, जोते गए निन्यानवे तुम्हें वहन करें। हे वायु, चमकते रथ से आओ, निचोड़े हुए के पान के लिए।",
+  "english": "May the mind-yoked, yoked ninety-nine carry you. O Vāyu, come with a shining chariot, for the drinking of the pressed.",
+  "text_flags": [],
+  "notes": "navatir nava read as 'ninety-nine' (ninety and nine); the noun counted (horses) is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vāyo̭",
+      "words": [
+       {
+        "w": "vāyo",
+        "gloss": "O Vāyu",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱taṃ",
+      "words": [
+       {
+        "w": "śatam",
+        "gloss": "hundred",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "harī̭ṇāṃ",
+      "words": [
+       {
+        "w": "harīṇām",
+        "gloss": "of the tawny horses",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yu̱vasva̱",
+      "words": [
+       {
+        "w": "yuvasva",
+        "gloss": "harness",
+        "gram": "2 sg. impv. mid. √yu"
+       }
+      ]
+     },
+     {
+      "src": "poṣyā̭ṇām",
+      "words": [
+       {
+        "w": "poṣyāṇām",
+        "gloss": "of the nurtured",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̭",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "of you",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "saha̱sriṇo̱",
+      "words": [
+       {
+        "w": "sahasriṇaḥ",
+        "gloss": "of the one with a thousand",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ratha̱",
+      "words": [
+       {
+        "w": "rathaḥ",
+        "gloss": "chariot",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yā̭tu̱",
+      "words": [
+       {
+        "w": "yātu",
+        "gloss": "let come",
+        "gram": "3 sg. impv. √yā"
+       }
+      ]
+     },
+     {
+      "src": "pāja̭sā",
+      "words": [
+       {
+        "w": "pājasā",
+        "gloss": "with vigour",
+        "gram": "n. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे वायु, पोषित भूरे-पीले घोड़ों में से सौ को जोतो; या तुम्हारा, हजार वाले का, रथ बल के साथ यहाँ आए।",
+  "english": "O Vāyu, harness a hundred of the nurtured tawny horses; or let the chariot of you, the one with a thousand, come hither with vigour.",
+  "text_flags": [],
+  "notes": "Unclear: poṣyāṇām (taken as 'of the nurtured', gen. pl.; sense uncertain) and sahasriṇaḥ (taken as gen. sg. agreeing with te, 'of the one with a thousand'; it could also be read as nom. pl.). yuvasva from √yu 'join, harness'. uta vā 'or'.",
+  "confidence": "low"
+ }
+]

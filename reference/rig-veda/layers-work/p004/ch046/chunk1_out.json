@@ -1,0 +1,755 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "agra̭ṃ",
+      "words": [
+       {
+        "w": "agram",
+        "gloss": "foremost part",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pibā̱",
+      "words": [
+       {
+        "w": "pibā",
+        "gloss": "drink",
+        "gram": "2 sg. impv. √pā"
+       }
+      ]
+     },
+     {
+      "src": "madhṷ̄nāṃ",
+      "words": [
+       {
+        "w": "madhūnām",
+        "gloss": "of the honeys",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "su̱taṃ",
+      "words": [
+       {
+        "w": "sutam",
+        "gloss": "pressed one",
+        "gram": "m. acc. sg. ppp. √su"
+       }
+      ]
+     },
+     {
+      "src": "vā̭yo̱",
+      "words": [
+       {
+        "w": "vāyo",
+        "gloss": "O Vāyu",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "divi̭ṣṭiṣu",
+      "words": [
+       {
+        "w": "diviṣṭiṣu",
+        "gloss": "at the heavenly offerings",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṷ̄rva̱pā",
+      "words": [
+       {
+        "w": "pūrva-pā",
+        "gloss": "first drinker",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "asi̭",
+      "words": [
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे वायु, स्वर्गीय अर्पणों में मधुओं का अग्रभाग, निचोड़ा हुआ, पियो; क्योंकि तुम पहले पीने वाले हो।",
+  "english": "Drink the foremost of the honeys, the pressed one, O Vāyu, at the heavenly offerings; for you are the first drinker.",
+  "text_flags": [],
+  "notes": "diviṣṭiṣu 'at the heavenly offerings' (diviṣṭi: iṣṭi 'offering' with divi 'in heaven'; exact sense uncertain). The bare '|' is a half-verse divider token. sutam taken in apposition to agram. The printed marks ṷ̄ in madhṷ̄nāṃ and pṷ̄rvapā are edition notation.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śa̱tenā̭",
+      "words": [
+       {
+        "w": "śatena",
+        "gloss": "with a hundred",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "no",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "pron. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱bhiṣṭi̭bhirni̱yutvā̱~",
+      "words": [
+       {
+        "w": "abhiṣṭibhiḥ",
+        "gloss": "with aids",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "niyutvān",
+        "gloss": "possessing the yoked teams",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "indra̭sārathiḥ",
+      "words": [
+       {
+        "w": "indra-sārathiḥ",
+        "gloss": "having Indra as charioteer",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "vāyo̭",
+      "words": [
+       {
+        "w": "vāyo",
+        "gloss": "O Vāyu",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱tasya̭",
+      "words": [
+       {
+        "w": "sutasya",
+        "gloss": "of the pressed",
+        "gram": "m. gen. sg. ppp. √su"
+       }
+      ]
+     },
+     {
+      "src": "tṛmpatam",
+      "words": [
+       {
+        "w": "tṛmpatam",
+        "gloss": "satiate yourselves",
+        "gram": "2 du. impv. √tṛp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सौ के साथ, हमारे लिए सहायताओं के साथ, जुते हुए दलों के स्वामी, इन्द्र को सारथि वाले, हे वायु, निचोड़े हुए से तुम दोनों तृप्त हो जाओ।",
+  "english": "With a hundred, with aids for us, possessor of the yoked teams, having Indra as charioteer — O Vāyu, satiate yourselves with the pressed.",
+  "text_flags": [],
+  "notes": "śatena has no stated noun ('with a hundred'). niyutvān 'possessing the yoked teams' (niyut = team of yoked horses). tṛmpatam is dual, addressed to the two gods (Vāyu with Indra, who is named in the compound indrasārathiḥ).",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̭ṃ",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "you two",
+        "gram": "pron. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "sa̱hasra̱ṃ",
+      "words": [
+       {
+        "w": "sahasram",
+        "gloss": "thousand",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hara̭ya̱",
+      "words": [
+       {
+        "w": "harayaḥ",
+        "gloss": "tawny horses",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̭vāyū",
+      "words": [
+       {
+        "w": "indra-vāyū",
+        "gloss": "O Indra and Vāyu",
+        "gram": "m. voc. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "a̱bhi",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "praya̭:",
+      "words": [
+       {
+        "w": "prayaḥ",
+        "gloss": "delicacy",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "vaha̭ntu̱",
+      "words": [
+       {
+        "w": "vahantu",
+        "gloss": "may they carry",
+        "gram": "3 pl. impv. √vah"
+       }
+      ]
+     },
+     {
+      "src": "soma̭pītaye",
+      "words": [
+       {
+        "w": "soma-pītaye",
+        "gloss": "for the drinking of Soma",
+        "gram": "f. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र और वायु, हजार भूरे-पीले घोड़े तुम दोनों को स्वादिष्ट पदार्थ की ओर, सोम के पान के लिए यहाँ लाएँ।",
+  "english": "May a thousand tawny horses carry you two hither, O Indra and Vāyu, towards the delicacy, for the drinking of Soma.",
+  "text_flags": [],
+  "notes": "harayaḥ 'tawny ones' rendered 'tawny horses' per glossary (harī). prayaḥ 'delicacy'.",
+  "confidence": "high"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ratha̱ṃ",
+      "words": [
+       {
+        "w": "ratham",
+        "gloss": "chariot",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hira̭ṇyavandhura̱mindra̭vāyū",
+      "words": [
+       {
+        "w": "hiraṇya-vandhuram",
+        "gloss": "with a golden seat",
+        "gram": "m. acc. sg. bahuvrīhi"
+       },
+       {
+        "w": "indra-vāyū",
+        "gloss": "O Indra and Vāyu",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "svadhva̱ram",
+      "words": [
+       {
+        "w": "su-adhvaram",
+        "gloss": "of good rite",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sthātho̭",
+      "words": [
+       {
+        "w": "sthāthaḥ",
+        "gloss": "you two mount",
+        "gram": "2 du. pres. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "divi̱spṛśa̭m",
+      "words": [
+       {
+        "w": "divi-spṛśam",
+        "gloss": "touching heaven",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र और वायु, सुनहरे आसन वाले, उत्तम यज्ञ वाले रथ पर, जो द्युलोक को छूता है, तुम दोनों चढ़ते हो।",
+  "english": "For you two, O Indra and Vāyu, mount the chariot with a golden seat, of good rite, touching heaven.",
+  "text_flags": [],
+  "notes": "ā ... sthāthaḥ 'mount' (ā-√sthā with accusative). su-adhvara said of a chariot is unusual; rendered literally 'of good rite' (sense uncertain). vandhura 'chariot seat'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "rathḙna",
+      "words": [
+       {
+        "w": "rathena",
+        "gloss": "with a chariot",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛthu̱pāja̭sā",
+      "words": [
+       {
+        "w": "pṛthu-pājasā",
+        "gloss": "of wide vigour",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "dā̱śvāṃsa̱mupa̭",
+      "words": [
+       {
+        "w": "dāśvāṃsam",
+        "gloss": "the giver",
+        "gram": "m. acc. sg. pf. part. √dāś"
+       },
+       {
+        "w": "upa",
+        "gloss": "to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gacchatam",
+      "words": [
+       {
+        "w": "gacchatam",
+        "gloss": "go",
+        "gram": "2 du. impv. √gam"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "indra̭vāyū",
+      "words": [
+       {
+        "w": "indra-vāyū",
+        "gloss": "O Indra and Vāyu",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "i̱hā",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       },
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ga̭tam",
+      "words": [
+       {
+        "w": "gatam",
+        "gloss": "come",
+        "gram": "2 du. aor. impv. √gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "चौड़े बल वाले रथ से दाता के पास जाओ; हे इन्द्र और वायु, यहाँ आओ।",
+  "english": "With a chariot of wide vigour go to the giver; O Indra and Vāyu, come here.",
+  "text_flags": [],
+  "notes": "pājas 'vigour'. dāśvāṃsam 'the giver' (the one who has offered). iha ā gatam: ihā = iha + ā.",
+  "confidence": "high"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "indra̭vāyū",
+      "words": [
+       {
+        "w": "indra-vāyū",
+        "gloss": "O Indra and Vāyu",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "a̱yaṃ",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱tastaṃ",
+      "words": [
+       {
+        "w": "sutaḥ",
+        "gloss": "pressed one",
+        "gram": "m. nom. sg. ppp. √su"
+       },
+       {
+        "w": "tam",
+        "gloss": "it",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vebhi̭:",
+      "words": [
+       {
+        "w": "devebhiḥ",
+        "gloss": "with the gods",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱joṣa̭sā",
+      "words": [
+       {
+        "w": "sa-joṣasā",
+        "gloss": "of one accord",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "piba̭taṃ",
+      "words": [
+       {
+        "w": "pibatam",
+        "gloss": "drink",
+        "gram": "2 du. impv. √pā"
+       }
+      ]
+     },
+     {
+      "src": "dā̱śuṣo̭",
+      "words": [
+       {
+        "w": "dāśuṣaḥ",
+        "gloss": "of the giver",
+        "gram": "m. gen. sg. pf. part. √dāś"
+       }
+      ]
+     },
+     {
+      "src": "gṛ̱he",
+      "words": [
+       {
+        "w": "gṛhe",
+        "gloss": "in the house",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र और वायु, यह निचोड़ा हुआ है; देवों के साथ एकमत होकर उसे दाता के घर में पियो।",
+  "english": "O Indra and Vāyu, this is the pressed one; drink it, of one accord with the gods, in the house of the giver.",
+  "text_flags": [],
+  "notes": "sajoṣasā 'of one accord' (nominative dual, qualifying the two gods).",
+  "confidence": "high"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱ha",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pra̱yāṇa̭mastu",
+      "words": [
+       {
+        "w": "pra-yāṇam",
+        "gloss": "setting-out",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "astu",
+        "gloss": "let it be",
+        "gram": "3 sg. impv. √as"
+       }
+      ]
+     },
+     {
+      "src": "vā̱mindra̭vāyū",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "for you two",
+        "gram": "dat. du."
+       },
+       {
+        "w": "indra-vāyū",
+        "gloss": "O Indra and Vāyu",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "vi̱moca̭nam",
+      "words": [
+       {
+        "w": "vi-mocanam",
+        "gloss": "unyoking",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "i̱ha",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̱ṃ",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "for you two",
+        "gram": "dat. du."
+       }
+      ]
+     },
+     {
+      "src": "soma̭pītaye",
+      "words": [
+       {
+        "w": "soma-pītaye",
+        "gloss": "for the drinking of Soma",
+        "gram": "f. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ तुम दोनों का प्रस्थान हो, हे इन्द्र और वायु, यहाँ विमोचन हो; यहाँ तुम दोनों के लिए सोम के पान के लिए।",
+  "english": "Here let there be for you two, O Indra and Vāyu, the setting-out, the unyoking; here, for you two, for the drinking of Soma.",
+  "text_flags": [],
+  "notes": "prayāṇa 'setting-out' and vimocana 'unyoking' are both rendered literally. The second 'iha vām somapītaye' has no verb.",
+  "confidence": "medium"
+ }
+]

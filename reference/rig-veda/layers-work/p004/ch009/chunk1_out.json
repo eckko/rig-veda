@@ -1,0 +1,929 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "agnḙ",
+      "words": [
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mṛ̱ḻa",
+      "words": [
+       {
+        "w": "mṛḻa",
+        "gloss": "be gracious",
+        "gram": "2 sg. impv. √mṛḍ"
+       }
+      ]
+     },
+     {
+      "src": "ma̱hā~",
+      "words": [
+       {
+        "w": "mahān",
+        "gloss": "great",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭si̱",
+      "words": [
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "ya",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "ī̱mā",
+      "words": [
+       {
+        "w": "īm",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "ā",
+        "gloss": "to",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "dḙva̱yuṃ",
+      "words": [
+       {
+        "w": "devayum",
+        "gloss": "god-seeking",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jana̭m",
+      "words": [
+       {
+        "w": "janam",
+        "gloss": "people",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "i̱yetha̭",
+      "words": [
+       {
+        "w": "iyetha",
+        "gloss": "you have gone",
+        "gram": "2 sg. pf. √i"
+       }
+      ]
+     },
+     {
+      "src": "ba̱rhirā̱sada̭m",
+      "words": [
+       {
+        "w": "barhiḥ-āsadam",
+        "gloss": "seat of barhis",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे अग्नि, कृपालु हो; तुम महान् हो, जो देवों की कामना करने वाले जन के पास, बर्हि के आसन तक आए हो।",
+  "english": "O Agni, be gracious; you are great, you who have indeed come to the god-seeking people, to the seat of the barhis.",
+  "text_flags": [],
+  "notes": "īm ā iyetha: īm is taken as the emphatic particle \"indeed\"; it could also be the pronoun \"him/them\". The relative yaḥ with a second-person verb is as in the Sanskrit. barhir-āsadam could also be read as \"sitting on the barhis\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mānṷṣīṣu",
+      "words": [
+       {
+        "w": "mānuṣīṣu",
+        "gloss": "human",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dū̱ḻabho̭",
+      "words": [
+       {
+        "w": "dūḻabhaḥ",
+        "gloss": "hard to harm",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱kṣu",
+      "words": [
+       {
+        "w": "vikṣu",
+        "gloss": "among the clans",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prā̱vīrama̭rtyaḥ",
+      "words": [
+       {
+        "w": "prāvīḥ",
+        "gloss": "helper",
+        "gram": "m. nom. sg. (form uncertain)"
+       },
+       {
+        "w": "amartyaḥ",
+        "gloss": "immortal",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "dū̱to",
+      "words": [
+       {
+        "w": "dūtaḥ",
+        "gloss": "messenger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśvḙṣāṃ",
+      "words": [
+       {
+        "w": "viśveṣām",
+        "gloss": "of all",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhuvat",
+      "words": [
+       {
+        "w": "bhuvat",
+        "gloss": "may he be",
+        "gram": "3 sg. aor. subj. √bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह मानवी जनसमुदायों में, जिसे हानि पहुँचाना कठिन है, सहायक, अमर; वह सबका दूत हो।",
+  "english": "He, hard to harm among the human clans, the helper, the immortal; may he be the messenger of all.",
+  "text_flags": [],
+  "notes": "prāvīḥ is taken as a nominative \"helper\" (pra-√av); the form and sense are not entirely certain. mānuṣīṣu vikṣu \"among the human clans\". dūḻabha \"hard to harm/deceive\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sadma̱",
+      "words": [
+       {
+        "w": "sadma",
+        "gloss": "dwelling",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṇīyate̱",
+      "words": [
+       {
+        "w": "ṇīyate",
+        "gloss": "is led",
+        "gram": "3 sg. pres. pass. √nī"
+       }
+      ]
+     },
+     {
+      "src": "hotā̭",
+      "words": [
+       {
+        "w": "hotā",
+        "gloss": "Hotṛ priest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱ndro",
+      "words": [
+       {
+        "w": "mandraḥ",
+        "gloss": "gladdening",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "divi̭ṣṭiṣu",
+      "words": [
+       {
+        "w": "diviṣṭiṣu",
+        "gloss": "in the heaven-quests",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "potā̱",
+      "words": [
+       {
+        "w": "potā",
+        "gloss": "Potṛ priest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ṣī̭dati",
+      "words": [
+       {
+        "w": "ṣīdati",
+        "gloss": "sits",
+        "gram": "3 sg. pres. ni-√sad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह होता, आनन्ददायी, घर के चारों ओर ले जाया जाता है, स्वर्ग की खोजों में; और पोता के रूप में बैठता है।",
+  "english": "He is led around the dwelling, the Hotṛ priest, the gladdening one, in the heaven-quests; and he sits down as the Potṛ priest.",
+  "text_flags": [],
+  "notes": "diviṣṭi (from div and iṣṭi/eṣṭi) is rendered \"heaven-quest\"; the sense is not certain (it may refer to sacrifices or times of the rite). sadma \"dwelling, seat\". Hotṛ and Potṛ are in the nominative and are read as roles of Agni.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gnā",
+      "words": [
+       {
+        "w": "gnāḥ",
+        "gloss": "wives",
+        "gram": "f. nom. pl. (sense uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "a̱gnira̭dhva̱ra",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhvare",
+        "gloss": "in the rite",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "u̱to",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gṛ̱hapa̭ti̱rdamḙ",
+      "words": [
+       {
+        "w": "gṛha-patiḥ",
+        "gloss": "lord of the house",
+        "gram": "m. nom. sg. tat-puruṣa"
+       },
+       {
+        "w": "dame",
+        "gloss": "in the house",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bra̱hmā",
+      "words": [
+       {
+        "w": "brahmā",
+        "gloss": "Brahman priest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ṣī̭dati",
+      "words": [
+       {
+        "w": "ṣīdati",
+        "gloss": "sits",
+        "gram": "3 sg. pres. ni-√sad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और यज्ञ में अग्नि पत्नियाँ हैं; और घर में गृहपति; और ब्रह्मा के रूप में बैठता है।",
+  "english": "And in the rite Agni is the wives; and in the house the lord of the house; and he sits down as the Brahman priest.",
+  "text_flags": [],
+  "notes": "gnā(ḥ) \"wives (of the gods)\" is the usual sense, but the clause \"Agni (is) the wives in the rite\" is obscure to me and is translated only literally; no role (such as Neṣṭṛ) is read into it. The verb \"is\" in the first two clauses is not in the Sanskrit.",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "veṣi̱",
+      "words": [
+       {
+        "w": "veṣi",
+        "gloss": "you go after",
+        "gram": "2 sg. pres. √vī"
+       }
+      ]
+     },
+     {
+      "src": "hya̭dhvarīya̱tāmṷpava̱ktā",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "adhvarīyatām",
+        "gloss": "of those who perform the rite",
+        "gram": "m. gen. pl. pres. part. denom."
+       },
+       {
+        "w": "upavaktā",
+        "gloss": "spokesman",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "janā̭nām",
+      "words": [
+       {
+        "w": "janānām",
+        "gloss": "of the people",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ha̱vyā",
+      "words": [
+       {
+        "w": "havyā",
+        "gloss": "oblations",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mānṷṣāṇām",
+      "words": [
+       {
+        "w": "mānuṣāṇām",
+        "gloss": "of men",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि तुम, यज्ञ करने वाले जनों के प्रवक्ता, मनुष्यों की हवियों का भी अनुसरण करते हो।",
+  "english": "For you, the spokesman of the rite-performing people, go after the oblations of men too.",
+  "text_flags": [],
+  "notes": "The two tokens of line a: \"hyadhvarīyatām-upavaktā\" = hi adhvarīyatām upavaktā; adhvarīyatām is taken with janānām. The sentence is read with havyā ca mānuṣāṇām as the object of veṣi.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "veṣīdva̭sya",
+      "words": [
+       {
+        "w": "veṣi",
+        "gloss": "you go after",
+        "gram": "2 sg. pres. √vī"
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "u",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "of this one",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dū̱tyaṃ1",
+      "words": [
+       {
+        "w": "dūtyam",
+        "gloss": "messenger-task",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yasya̱",
+      "words": [
+       {
+        "w": "yasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "jujo̭ṣo",
+      "words": [
+       {
+        "w": "jujoṣaḥ",
+        "gloss": "you enjoy",
+        "gram": "2 sg. pf. subj. √juṣ"
+       }
+      ]
+     },
+     {
+      "src": "adhva̱ram",
+      "words": [
+       {
+        "w": "adhvaram",
+        "gloss": "rite",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ha̱vyaṃ",
+      "words": [
+       {
+        "w": "havyam",
+        "gloss": "oblation",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "marta̭sya̱",
+      "words": [
+       {
+        "w": "martasya",
+        "gloss": "of the mortal",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "voḻaha̭ve",
+      "words": [
+       {
+        "w": "voḻhave",
+        "gloss": "to carry",
+        "gram": "inf. √vah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम इसके दूत-कार्य का अनुसरण करते ही हो, जिसके यज्ञ का तुम सेवन करते हो, मनुष्य की हवि को वहन करने के लिए।",
+  "english": "You indeed go after the messenger-task of this one, whose rite you enjoy, to carry the oblation of the mortal.",
+  "text_flags": [],
+  "notes": "veṣīdvasya is resolved as veṣi id u asya (u becomes v before a). jujoṣaḥ is read as a 2 sg. perfect subjunctive of √juṣ; the form is not fully certain. The connection of asya with yasya is as in the Sanskrit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱smāka̭ṃ",
+      "words": [
+       {
+        "w": "asmākam",
+        "gloss": "our",
+        "gram": "gen. pl. (pron. 1 pl.)"
+       }
+      ]
+     },
+     {
+      "src": "joṣyadhva̱rama̱smāka̭ṃ",
+      "words": [
+       {
+        "w": "joṣi",
+        "gloss": "enjoy",
+        "gram": "2 sg. aor. subj. √juṣ (imperative sense)"
+       },
+       {
+        "w": "adhvaram",
+        "gloss": "rite",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "asmākam",
+        "gloss": "our",
+        "gram": "gen. pl. (pron. 1 pl.)"
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñama̭ṅgiraḥ",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "aṅgiraḥ",
+        "gloss": "O Aṅgiras",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "a̱smāka̭ṃ",
+      "words": [
+       {
+        "w": "asmākam",
+        "gloss": "our",
+        "gram": "gen. pl. (pron. 1 pl.)"
+       }
+      ]
+     },
+     {
+      "src": "śṛṇudhī̱",
+      "words": [
+       {
+        "w": "śṛṇudhi",
+        "gloss": "hear",
+        "gram": "2 sg. impv. √śru"
+       }
+      ]
+     },
+     {
+      "src": "hava̭m",
+      "words": [
+       {
+        "w": "havam",
+        "gloss": "call",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हमारे यज्ञ का सेवन करो, हमारे यज्ञ का, हे अङ्गिरस्; हमारी पुकार सुनो।",
+  "english": "Enjoy our rite, our sacrifice, O Aṅgiras; hear our call.",
+  "text_flags": [],
+  "notes": "Both adhvaram and yajñam are rendered \"rite\" and \"sacrifice\" respectively (adhvara = rite, yajña = sacrifice, as in the glossary). In the Hindi both are यज्ञ.",
+  "confidence": "high"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. (pron. 2 sg.)"
+       }
+      ]
+     },
+     {
+      "src": "dū̱ḻabho̱",
+      "words": [
+       {
+        "w": "dūḻabhaḥ",
+        "gloss": "hard to harm",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ratho̱'smā~",
+      "words": [
+       {
+        "w": "rathaḥ",
+        "gloss": "chariot",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asmān",
+        "gloss": "us",
+        "gram": "m. acc. pl. (pron. 1 pl.)"
+       }
+      ]
+     },
+     {
+      "src": "a̭śnotu",
+      "words": [
+       {
+        "w": "aśnotu",
+        "gloss": "let it reach",
+        "gram": "3 sg. impv. √aś"
+       }
+      ]
+     },
+     {
+      "src": "vi̱śvata̭:",
+      "words": [
+       {
+        "w": "viśvataḥ",
+        "gloss": "from all sides",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "yena̱",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by which",
+        "gram": "m. inst. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "rakṣa̭si",
+      "words": [
+       {
+        "w": "rakṣasi",
+        "gloss": "you protect",
+        "gram": "2 sg. pres. √rakṣ"
+       }
+      ]
+     },
+     {
+      "src": "dā̱śuṣa̭:",
+      "words": [
+       {
+        "w": "dāśuṣaḥ",
+        "gloss": "worshippers",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसे हानि पहुँचाना कठिन है, ऐसा तुम्हारा रथ हमें चारों ओर से घेर ले, जिससे तुम पूजकों की रक्षा करते हो।",
+  "english": "May your chariot, hard to harm, reach around us from all sides, by which you protect the worshippers.",
+  "text_flags": [],
+  "notes": "pari ... aśnotu \"encompass, reach around\" (pari-√aś). dāśuṣaḥ is taken as accusative plural object of rakṣasi; it could also be a genitive singular \"of the worshipper\".",
+  "confidence": "high"
+ }
+]

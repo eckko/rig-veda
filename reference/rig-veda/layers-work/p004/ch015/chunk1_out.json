@@ -1,0 +1,1112 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱gnirhotā̭",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "hotā",
+        "gloss": "Hotṛ priest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "no",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "pron. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "adhva̱re",
+      "words": [
+       {
+        "w": "adhvare",
+        "gloss": "in the rite",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̱jī",
+      "words": [
+       {
+        "w": "vājī",
+        "gloss": "prize-winner",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "san",
+      "words": [
+       {
+        "w": "san",
+        "gloss": "being",
+        "gram": "m. nom. sg. pres. part. √as"
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṇīyate",
+      "words": [
+       {
+        "w": "nīyate",
+        "gloss": "is led",
+        "gram": "3 sg. pres. pass. √nī"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "de̱vo",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱veṣṷ",
+      "words": [
+       {
+        "w": "deveṣu",
+        "gloss": "among the gods",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñiya̭:",
+      "words": [
+       {
+        "w": "yajñiyaḥ",
+        "gloss": "worthy of sacrifice",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अग्नि, हमारा होता, यज्ञ में पुरस्कार-विजेता होकर चारों ओर ले जाया जाता है; वह देवों में यज्ञ के योग्य देव है।",
+  "english": "Agni, our Hotṛ priest, being a prize-winner, is led around in the rite, the god worthy of sacrifice among the gods.",
+  "text_flags": [],
+  "notes": "vājin 'prize-winner' (also 'swift, stallion'). pari nīyate 'is led around'.",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "trivi̱ṣṭya̭dhva̱raṃ",
+      "words": [
+       {
+        "w": "triviṣṭi",
+        "gloss": "threefold",
+        "gram": "ind. (adv.), form uncertain"
+       },
+       {
+        "w": "adhvaram",
+        "gloss": "rite",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yātya̱gnī",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √yā"
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ra̱thīri̭va",
+      "words": [
+       {
+        "w": "rathīḥ",
+        "gloss": "charioteer",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "among, to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "de̱veṣu̱",
+      "words": [
+       {
+        "w": "deveṣu",
+        "gloss": "among the gods",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prayo̱",
+      "words": [
+       {
+        "w": "prayaḥ",
+        "gloss": "delicacy",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadha̭t",
+      "words": [
+       {
+        "w": "dadhat",
+        "gloss": "placing",
+        "gram": "m. nom. sg. pres. part. √dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अग्नि रथी के समान तीन प्रकार से यज्ञ के चारों ओर जाता है, देवों में स्वादिष्ट भोजन रखता हुआ।",
+  "english": "Agni goes around the rite threefold, like a charioteer, placing delicacies among the gods.",
+  "text_flags": [],
+  "notes": "triviṣṭi: form uncertain; taken as adverb 'threefold'. ā ... dadhat 'placing among'. prayas 'delicacy' (also 'refreshment, oblation-food'), rendered per glossary.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pari̱",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāja̭patiḥ",
+      "words": [
+       {
+        "w": "vāja-patiḥ",
+        "gloss": "lord of prizes",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ka̱vira̱gnirha̱vyānya̭kramīt",
+      "words": [
+       {
+        "w": "kaviḥ",
+        "gloss": "seer",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "havyāni",
+        "gloss": "oblations",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "akramīt",
+        "gloss": "has gone",
+        "gram": "3 sg. aor. √kram"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "dadha̱d",
+      "words": [
+       {
+        "w": "dadhat",
+        "gloss": "bestowing",
+        "gram": "m. nom. sg. pres. part. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "ratnā̭ni",
+      "words": [
+       {
+        "w": "ratnāni",
+        "gloss": "treasures",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dā̱śuṣḙ",
+      "words": [
+       {
+        "w": "dāśuṣe",
+        "gloss": "to the worshipper",
+        "gram": "m. dat. sg. pf. part. √dāś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पुरस्कारों के स्वामी, द्रष्टा अग्नि ने हवियों के चारों ओर परिक्रमा की है, यजमान को रत्न प्रदान करता हुआ।",
+  "english": "The lord of prizes, the seer Agni, has gone around the oblations, bestowing treasures on the worshipper.",
+  "text_flags": [],
+  "notes": "pari akramīt 'has gone around'. dāśvas rendered 'worshipper' (one who offers/honours).",
+  "confidence": "high"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱yaṃ",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sṛñja̭ye",
+      "words": [
+       {
+        "w": "sṛñjaye",
+        "gloss": "for Sṛñjaya",
+        "gram": "m. dat./loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pu̱ro",
+      "words": [
+       {
+        "w": "puraḥ",
+        "gloss": "in front",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dai̭vavā̱te",
+      "words": [
+       {
+        "w": "daivavāte",
+        "gloss": "for Daivavāta",
+        "gram": "m. dat./loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭mi̱dhyatḙ",
+      "words": [
+       {
+        "w": "samidhyate",
+        "gloss": "is kindled",
+        "gram": "3 sg. pres. pass. sam-√idh"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "dyu̱mā~",
+      "words": [
+       {
+        "w": "dyumān",
+        "gloss": "radiant",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭mitra̱dambha̭naḥ",
+      "words": [
+       {
+        "w": "amitra-dambhanaḥ",
+        "gloss": "harmer of foes",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह जो सृंजय दैववात के लिए आगे प्रज्वलित किया जाता है, वह तेजस्वी, शत्रुओं का नाश करने वाला है।",
+  "english": "This one who is kindled in front for Sṛñjaya Daivavāta is radiant, the harmer of foes.",
+  "text_flags": [],
+  "notes": "sṛñjaye daivavāte: dative or locative; taken as one name, Sṛñjaya Daivavāta (Daivavāta formed as a descendant name of Devavāta). puraḥ taken as 'in front'; acc. pl. of pur 'strongholds' is the other possibility. dambhana 'harming, destroying'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "asya̭",
+      "words": [
+       {
+        "w": "asya",
+        "gloss": "of this",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ghā",
+      "words": [
+       {
+        "w": "ghā",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vī̱ra",
+      "words": [
+       {
+        "w": "vīraḥ",
+        "gloss": "hero",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "īva̭to̱'gnerī̭śīta̱",
+      "words": [
+       {
+        "w": "īvataḥ",
+        "gloss": "so great",
+        "gram": "m. gen. sg., form uncertain"
+       },
+       {
+        "w": "agneḥ",
+        "gloss": "of Agni",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "īśīta",
+        "gloss": "may be master",
+        "gram": "3 sg. opt. mid. √īś"
+       }
+      ]
+     },
+     {
+      "src": "martya̭:",
+      "words": [
+       {
+        "w": "martyaḥ",
+        "gloss": "mortal",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ti̱gmaja̭mbhasya",
+      "words": [
+       {
+        "w": "tigma-jambhasya",
+        "gloss": "of the sharp-jawed",
+        "gram": "m. gen. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "mī̱ḻahuṣa̭:",
+      "words": [
+       {
+        "w": "mīḻhuṣaḥ",
+        "gloss": "of the bountiful",
+        "gram": "m. gen. sg. pf. part. √mih"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस ऐसे अग्नि का, तीखे जबड़ों वाले, उदार का, कोई वीर मरणधर्मा निश्चय ही स्वामी हो सके।",
+  "english": "Of this Agni, so great, of the sharp-jawed, the bountiful one, a mortal hero could indeed be master.",
+  "text_flags": [],
+  "notes": "īvataḥ: form and sense uncertain; taken as gen. sg. 'so great, such' agreeing with agneḥ. The verb īśīta (opt. of √īś) governs the genitive: 'be master of'. mīḻhuṣaḥ 'bountiful' (lit. 'having showered'). The sentence may be read as a question; translated as a statement.",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tamarva̭nta̱ṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "arvantam",
+        "gloss": "horse",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sā̭na̱sima̭ru̱ṣaṃ",
+      "words": [
+       {
+        "w": "sānasim",
+        "gloss": "victorious",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "aruṣam",
+        "gloss": "ruddy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "di̱vaḥ",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of heaven",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śiśṷm",
+      "words": [
+       {
+        "w": "śiśum",
+        "gloss": "child",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ma̱rmṛ̱jyantḙ",
+      "words": [
+       {
+        "w": "marmṛjyante",
+        "gloss": "they cleanse",
+        "gram": "3 pl. pres. mid. intens. √mṛj"
+       }
+      ]
+     },
+     {
+      "src": "di̱vedi̭ve",
+      "words": [
+       {
+        "w": "dive-dive",
+        "gloss": "day by day",
+        "gram": "n. loc. sg. (repeated)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसे वे प्रतिदिन शुद्ध करते हैं, विजयी घोड़े के समान, स्वर्ग के लाल शिशु के समान।",
+  "english": "Him they cleanse day by day, like a victorious horse, like the ruddy child of heaven.",
+  "text_flags": [],
+  "notes": "Source order is tam arvantam na sānasim, aruṣam na divaḥ śiśum; the two similes ('victorious horse', 'ruddy child of heaven') are taken as qualifying tam (Agni, not named in the verse). marmṛjyante rendered 'they cleanse' (also 'groom, polish').",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bodha̱dyanmā̱",
+      "words": [
+       {
+        "w": "bodhat",
+        "gloss": "has noticed",
+        "gram": "3 sg. aor. subj. √budh"
+       },
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "mā",
+        "gloss": "me",
+        "gram": "pron. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hari̭bhyāṃ",
+      "words": [
+       {
+        "w": "haribhyām",
+        "gloss": "with two tawny ones",
+        "gram": "m. inst. du."
+       }
+      ]
+     },
+     {
+      "src": "kumā̱raḥ",
+      "words": [
+       {
+        "w": "kumāraḥ",
+        "gloss": "boy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sā̭hade̱vyaḥ",
+      "words": [
+       {
+        "w": "sāhadevyaḥ",
+        "gloss": "son of Sahadeva",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "acchā̱",
+      "words": [
+       {
+        "w": "acchā",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like, not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hū̱ta",
+      "words": [
+       {
+        "w": "hūtaḥ",
+        "gloss": "called",
+        "gram": "m. nom. sg. ppp. √hve"
+       }
+      ]
+     },
+     {
+      "src": "uda̭ram",
+      "words": [
+       {
+        "w": "udaram",
+        "gloss": "belly",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब सहदेव के पुत्र कुमार ने दो भूरे-पीले घोड़ों के साथ मुझे जाना; जैसे बुलाए हुए, पेट की ओर।",
+  "english": "When the boy, the son of Sahadeva, noticed me, with two tawny ones; as if called, towards the belly.",
+  "text_flags": [],
+  "notes": "Unclear. The second line (acchā na hūtaḥ udaram) is translated literally without a firm sense; na may be 'like' or 'not'; construction with haribhyām and udaram uncertain. bodhat taken as aor. subj./injunctive of √budh 'noticed'. sāhadevya 'son of Sahadeva'.",
+  "confidence": "low"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tyā",
+      "words": [
+       {
+        "w": "tyā",
+        "gloss": "those two",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "ya̭ja̱tā",
+      "words": [
+       {
+        "w": "yajatā",
+        "gloss": "worthy of worship",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "harī̭",
+      "words": [
+       {
+        "w": "harī",
+        "gloss": "the two tawny horses",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "kumā̱rāt",
+      "words": [
+       {
+        "w": "kumārāt",
+        "gloss": "from the boy",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "sā̭hade̱vyāt",
+      "words": [
+       {
+        "w": "sāhadevyāt",
+        "gloss": "son of Sahadeva",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "praya̭tā",
+      "words": [
+       {
+        "w": "prayatā",
+        "gloss": "offered",
+        "gram": "m. acc. du. ppp. pra-√yam"
+       }
+      ]
+     },
+     {
+      "src": "sa̱dya",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "to myself",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "da̭de",
+      "words": [
+       {
+        "w": "dade",
+        "gloss": "I took",
+        "gram": "1 sg. pf. mid. √dā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उन दोनों यजन-योग्य भूरे-पीले घोड़ों को, जो अर्पित किए गए थे, मैंने सहदेव के पुत्र कुमार से तुरन्त ले लिया।",
+  "english": "And those two tawny horses, worthy of worship, offered, I took at once from the boy, the son of Sahadeva.",
+  "text_flags": [],
+  "notes": "ā dade 'I took / received' (ā-√dā mid.). Subject 'I' is the poet (not named). prayatā 'offered, presented'.",
+  "confidence": "high"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "e̱ṣa",
+      "words": [
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̭ṃ",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "yours",
+        "gram": "pron. gen. du."
+       }
+      ]
+     },
+     {
+      "src": "devāvaśvinā",
+      "words": [
+       {
+        "w": "devau",
+        "gloss": "gods",
+        "gram": "m. voc. du."
+       },
+       {
+        "w": "aśvinā",
+        "gloss": "Aśvins",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "kumā̱raḥ",
+      "words": [
+       {
+        "w": "kumāraḥ",
+        "gloss": "boy",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sā̭hade̱vyaḥ",
+      "words": [
+       {
+        "w": "sāhadevyaḥ",
+        "gloss": "son of Sahadeva",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "dī̱rghāyṷrastu̱",
+      "words": [
+       {
+        "w": "dīrgha-āyuḥ",
+        "gloss": "long-lived",
+        "gram": "m. nom. sg. bahuvrīhi"
+       },
+       {
+        "w": "astu",
+        "gloss": "let him be",
+        "gram": "3 sg. impv. √as"
+       }
+      ]
+     },
+     {
+      "src": "soma̭kaḥ",
+      "words": [
+       {
+        "w": "somakaḥ",
+        "gloss": "Somaka",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे देव अश्विनौ, यह सहदेव का पुत्र कुमार तुम दोनों का है; सोमक दीर्घायु हो।",
+  "english": "This boy, the son of Sahadeva, is yours, O gods Aśvins; may Somaka be long-lived.",
+  "text_flags": [],
+  "notes": "vām taken as gen. du. 'of you two' (or dat. 'for you two'), with the copula understood. Somaka is a name.",
+  "confidence": "high"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yu̱vaṃ",
+      "words": [
+       {
+        "w": "yuvam",
+        "gloss": "you two",
+        "gram": "pron. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dḙvāvaśvinā",
+      "words": [
+       {
+        "w": "devau",
+        "gloss": "gods",
+        "gram": "m. voc. du."
+       },
+       {
+        "w": "aśvinā",
+        "gloss": "Aśvins",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "kumā̱raṃ",
+      "words": [
+       {
+        "w": "kumāram",
+        "gloss": "boy",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sā̭hade̱vyam",
+      "words": [
+       {
+        "w": "sāhadevyam",
+        "gloss": "son of Sahadeva",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "dī̱rghāyṷṣaṃ",
+      "words": [
+       {
+        "w": "dīrgha-āyuṣam",
+        "gloss": "long-lived",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kṛṇotana",
+      "words": [
+       {
+        "w": "kṛṇotana",
+        "gloss": "make",
+        "gram": "2 pl. impv. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे देव अश्विनौ, तुम दोनों उस सहदेव के पुत्र कुमार को दीर्घायु बनाओ।",
+  "english": "That boy, the son of Sahadeva — make him long-lived, you two, O gods Aśvins.",
+  "text_flags": [],
+  "notes": "kṛṇotana is a 2 pl. imperative addressed to the dual yuvam; noted, not emended.",
+  "confidence": "high"
+ }
+]

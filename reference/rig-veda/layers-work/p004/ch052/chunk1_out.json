@@ -1,0 +1,805 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prati̱",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "facing",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ṣyā",
+      "words": [
+       {
+        "w": "syā",
+        "gloss": "that",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sū̱narī̱",
+      "words": [
+       {
+        "w": "sūnarī",
+        "gloss": "kind",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "janī̭",
+      "words": [
+       {
+        "w": "janī",
+        "gloss": "lady",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyu̱cchantī̱",
+      "words": [
+       {
+        "w": "vyucchantī",
+        "gloss": "dawning",
+        "gram": "f. nom. sg. pres. part. vi-√vas"
+       }
+      ]
+     },
+     {
+      "src": "pari̱",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "from",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svasṷ:",
+      "words": [
+       {
+        "w": "svasuḥ",
+        "gloss": "the sister",
+        "gram": "f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "di̱vo",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of heaven",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭darśi",
+      "words": [
+       {
+        "w": "adarśi",
+        "gloss": "has been seen",
+        "gram": "3 sg. aor. pass. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "duhi̱tā",
+      "words": [
+       {
+        "w": "duhitā",
+        "gloss": "daughter",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह दयालु नारी, बहन से उदय होती हुई, आकाश की पुत्री, सामने दिखाई दी है।",
+  "english": "That kind lady, dawning from the sister, the daughter of heaven, has been seen facing.",
+  "text_flags": [],
+  "notes": "sūnarī is uncertain in sense (\"kind, bountiful\", or \"of good men\"); janī \"lady\" (woman). pari with the ablative svasuḥ: \"from the sister\"; the sister is not named in the verse. prati adarśi is rendered \"has been seen facing\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aśvḙva",
+      "words": [
+       {
+        "w": "aśvā",
+        "gloss": "mare",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ci̱trārṷṣī",
+      "words": [
+       {
+        "w": "citrā",
+        "gloss": "bright",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "aruṣī",
+        "gloss": "ruddy",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā̱tā",
+      "words": [
+       {
+        "w": "mātā",
+        "gloss": "mother",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gavā̭mṛ̱tāva̭rī",
+      "words": [
+       {
+        "w": "gavām",
+        "gloss": "of cows",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "ṛtāvarī",
+        "gloss": "keeper of order",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "sakhā̭bhūda̱śvino̭ru̱ṣāḥ",
+      "words": [
+       {
+        "w": "sakhā",
+        "gloss": "friend",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "abhūt",
+        "gloss": "has been",
+        "gram": "3 sg. aor. √bhū"
+       },
+       {
+        "w": "aśvinoḥ",
+        "gloss": "of the Aśvins",
+        "gram": "m. gen. du."
+       },
+       {
+        "w": "uṣāḥ",
+        "gloss": "the Dawn",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "घोड़ी की तरह उज्ज्वल, अरुण, गायों की माता, ऋत की रक्षिका, अश्विनों की सखी उषा हुई है।",
+  "english": "Like a mare, bright, ruddy, mother of cows, keeper of order, the Dawn has been a friend of the Aśvins.",
+  "text_flags": [],
+  "notes": "sakhā is a feminine nominative here (friend). Aśvins: name of the divine pair.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sakhā̭sya̱śvino̭ru̱ta",
+      "words": [
+       {
+        "w": "sakhā",
+        "gloss": "friend",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       },
+       {
+        "w": "aśvinoḥ",
+        "gloss": "of the Aśvins",
+        "gram": "m. gen. du."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mā̱tā",
+      "words": [
+       {
+        "w": "mātā",
+        "gloss": "mother",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gavā̭masi",
+      "words": [
+       {
+        "w": "gavām",
+        "gloss": "of cows",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "u̱toṣo̱",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "uṣaḥ",
+        "gloss": "O Dawn",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vasva̭",
+      "words": [
+       {
+        "w": "vasvaḥ",
+        "gloss": "of wealth",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "īśiṣe",
+      "words": [
+       {
+        "w": "īśiṣe",
+        "gloss": "you rule",
+        "gram": "2 sg. pres. mid. √īś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और तुम अश्विनों की सखी हो, और तुम गायों की माता हो; और हे उषा, तुम धन पर अधिकार रखती हो।",
+  "english": "And you are a friend of the Aśvins, and you are mother of cows; and, O Dawn, you rule over wealth.",
+  "text_flags": [],
+  "notes": "vasvaḥ is the genitive after īśiṣe (\"rule over\").",
+  "confidence": "high"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yā̱va̱yaddvḙṣasaṃ",
+      "words": [
+       {
+        "w": "yāvayat-dveṣasam",
+        "gloss": "driving away hatred",
+        "gram": "f. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "2 sg. acc."
+       }
+      ]
+     },
+     {
+      "src": "ciki̱tvit",
+      "words": [
+       {
+        "w": "cikitvit",
+        "gloss": "knowing",
+        "gram": "f. nom. sg. pf. part. √cit (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "sṷ̄nṛtāvari",
+      "words": [
+       {
+        "w": "sūnṛtāvari",
+        "gloss": "possessing kind truth",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "prati̱",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "in response",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "stomai̭rabhutsmahi",
+      "words": [
+       {
+        "w": "stomaiḥ",
+        "gloss": "with praises",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "abhutsmahi",
+        "gloss": "we have awakened",
+        "gram": "1 pl. aor. mid. √budh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हें, जो द्वेष को दूर भगाने वाली हो, जानती हुई, हे सत्य और प्रिय वाणी वाली, हम स्तोमों के साथ जागे हैं।",
+  "english": "You, who drive away hatred, knowing, O one who possesses kind truth, we have awakened in response with praises.",
+  "text_flags": [],
+  "notes": "cikitvit is uncertain: it is a perfect participle of √cit (\"knowing, perceiving\"); it may qualify tvā (as translated) or the subject. The form yāvayaddveṣasam is taken as an accusative agreeing with tvā. sūnṛtā means truth or kindness; prati is taken as \"in response\".",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prati̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "facing",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "bha̱drā",
+      "words": [
+       {
+        "w": "bhadrāḥ",
+        "gloss": "auspicious",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭dṛkṣata̱",
+      "words": [
+       {
+        "w": "adṛkṣata",
+        "gloss": "have appeared",
+        "gram": "3 pl. aor. pass. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "gavā̱ṃ",
+      "words": [
+       {
+        "w": "gavām",
+        "gloss": "of cows",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sargā̱",
+      "words": [
+       {
+        "w": "sargāḥ",
+        "gloss": "streams",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ra̱śmaya̭:",
+      "words": [
+       {
+        "w": "raśmayaḥ",
+        "gloss": "rays",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "oṣā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "fully",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "uṣāḥ",
+        "gloss": "Dawn",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭prā",
+      "words": [
+       {
+        "w": "aprāḥ",
+        "gloss": "has filled",
+        "gram": "3 sg. aor. √pṝ"
+       }
+      ]
+     },
+     {
+      "src": "u̱ru",
+      "words": [
+       {
+        "w": "uru",
+        "gloss": "wide",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jraya̭:",
+      "words": [
+       {
+        "w": "jrayaḥ",
+        "gloss": "expanse",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कल्याणकारी किरणें गायों की धाराओं की तरह प्रकट हुई हैं; उषा ने विशाल विस्तार को भर दिया है।",
+  "english": "Auspicious, like streams of cows, the rays have appeared; the Dawn has filled the wide expanse.",
+  "text_flags": [],
+  "notes": "oṣā is read as ā + uṣāḥ, with ā a preverb separated from aprāḥ (tmesis: ā ... aprāḥ). jrayaḥ taken as \"expanse\" (jrayas, n.).",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā̱pa̱pruṣī̭",
+      "words": [
+       {
+        "w": "āpapruṣī",
+        "gloss": "having filled",
+        "gram": "f. nom. sg. pf. part. ā-√pṝ"
+       }
+      ]
+     },
+     {
+      "src": "vibhāvari̱",
+      "words": [
+       {
+        "w": "vibhāvari",
+        "gloss": "radiant one",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyā̭va̱rjyoti̭ṣā̱",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "āvaḥ",
+        "gloss": "you have uncovered",
+        "gram": "2 sg. aor. √vṛ"
+       },
+       {
+        "w": "jyotiṣā",
+        "gloss": "with light",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tama̭:",
+      "words": [
+       {
+        "w": "tamaḥ",
+        "gloss": "darkness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "uṣo̱",
+      "words": [
+       {
+        "w": "uṣaḥ",
+        "gloss": "O Dawn",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anṷ",
+      "words": [
+       {
+        "w": "anu",
+        "gloss": "according to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sva̱dhāma̭va",
+      "words": [
+       {
+        "w": "svadhām",
+        "gloss": "own power",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ava",
+        "gloss": "help",
+        "gram": "2 sg. impv. √av"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "भरकर, हे दीप्तिमती, तुमने ज्योति से अन्धकार को खोल दिया है; हे उषा, स्वधा के अनुसार सहायता करो।",
+  "english": "Having filled, O radiant one, you have uncovered the darkness with light; O Dawn, help according to own power.",
+  "text_flags": [],
+  "notes": "svadhām is the accusative after anu (\"according to own power\"); no possessive is added. vi āvaḥ = \"uncovered\" (2 sg. aorist of √vṛ with vi), the reading is likely but not certain.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "forth",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "dyāṃ",
+      "words": [
+       {
+        "w": "dyām",
+        "gloss": "heaven",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta̭noṣi",
+      "words": [
+       {
+        "w": "tanoṣi",
+        "gloss": "you stretch",
+        "gram": "2 sg. pres. √tan"
+       }
+      ]
+     },
+     {
+      "src": "ra̱śmibhi̱rāntari̭kṣamu̱ru",
+      "words": [
+       {
+        "w": "raśmibhiḥ",
+        "gloss": "with rays",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "ā",
+        "gloss": "forth",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "antarikṣam",
+        "gloss": "mid-space",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "uru",
+        "gloss": "wide",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pri̱yam",
+      "words": [
+       {
+        "w": "priyam",
+        "gloss": "dear",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "uṣa̭:",
+      "words": [
+       {
+        "w": "uṣaḥ",
+        "gloss": "O Dawn",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śu̱kreṇa̭",
+      "words": [
+       {
+        "w": "śukreṇa",
+        "gloss": "with bright",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śo̱ciṣā̭",
+      "words": [
+       {
+        "w": "śociṣā",
+        "gloss": "with flame",
+        "gram": "n. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम किरणों से द्युलोक को फैलाती हो, और विशाल प्रिय अन्तरिक्ष को भी; हे उषा, उज्ज्वल ज्वाला से।",
+  "english": "You stretch forth heaven with rays, and the wide, dear mid-space too; O Dawn, with bright flame.",
+  "text_flags": [],
+  "notes": "ā tanoṣi governs both dyām and antarikṣam (the second ā is repeated); the last pāda is attached to the same verb.",
+  "confidence": "high"
+ }
+]

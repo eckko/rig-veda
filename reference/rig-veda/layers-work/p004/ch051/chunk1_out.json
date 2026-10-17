@@ -1,0 +1,1875 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱damu̱",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tyat",
+      "words": [
+       {
+        "w": "tyat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṷru̱tama̭ṃ",
+      "words": [
+       {
+        "w": "puru-tamam",
+        "gloss": "most abundant",
+        "gram": "n. nom. sg. superlative"
+       }
+      ]
+     },
+     {
+      "src": "pu̱rastā̱jjyoti̱stama̭so",
+      "words": [
+       {
+        "w": "purastāt",
+        "gloss": "in front",
+        "gram": "ind."
+       },
+       {
+        "w": "jyotiḥ",
+        "gloss": "light",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "tamasaḥ",
+        "gloss": "from the darkness",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̱yunā̭vadasthāt",
+      "words": [
+       {
+        "w": "vayunāvat",
+        "gloss": "marked",
+        "gram": "n. nom. sg. (form uncertain)"
+       },
+       {
+        "w": "asthāt",
+        "gloss": "has stood",
+        "gram": "3 sg. aor. √sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nū̱naṃ",
+      "words": [
+       {
+        "w": "nūnam",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "di̱vo",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of heaven",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṷhi̱taro̭",
+      "words": [
+       {
+        "w": "duhitaraḥ",
+        "gloss": "daughters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vibhā̱tīrgā̱tuṃ",
+      "words": [
+       {
+        "w": "vibhātīḥ",
+        "gloss": "shining forth",
+        "gram": "f. nom. pl. pres. part. vi-√bhā"
+       },
+       {
+        "w": "gātum",
+        "gloss": "path",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̭ṇavannu̱ṣaso̱",
+      "words": [
+       {
+        "w": "kṛṇavan",
+        "gloss": "shall make",
+        "gram": "3 pl. subj. √kṛ"
+       },
+       {
+        "w": "uṣasaḥ",
+        "gloss": "Dawns",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "janā̭ya",
+      "words": [
+       {
+        "w": "janāya",
+        "gloss": "for the people",
+        "gram": "m. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह वही अत्यन्त विपुल ज्योति अन्धकार से आगे खड़ी हुई है, चिह्नों से युक्त; अब आकाश की पुत्रियाँ, चमकती हुई उषाएँ, जन के लिए मार्ग बनाएँगी।",
+  "english": "This, that most abundant light, has stood in front, marked, out of the darkness; now the daughters of heaven, shining forth, the Dawns, shall make a path for the people.",
+  "text_flags": [],
+  "notes": "vayunāvat is uncertain (\"marked\", from vayuna, mark or path; possibly adverbial \"distinctly\"). kṛṇavan is a subjunctive/injunctive form, translated with \"shall\". divaḥ = of heaven. uṣasaḥ is plural, \"the Dawns\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "asthṷru",
+      "words": [
+       {
+        "w": "asthuḥ",
+        "gloss": "have stood",
+        "gram": "3 pl. aor. √sthā"
+       },
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ci̱trā",
+      "words": [
+       {
+        "w": "citrāḥ",
+        "gloss": "bright",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱ṣasa̭:",
+      "words": [
+       {
+        "w": "uṣasaḥ",
+        "gloss": "Dawns",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pu̱rastā̭nmi̱tā",
+      "words": [
+       {
+        "w": "purastāt",
+        "gloss": "in front",
+        "gram": "ind."
+       },
+       {
+        "w": "mitāḥ",
+        "gloss": "set up",
+        "gram": "m. nom. pl. ppp. √mā"
+       }
+      ]
+     },
+     {
+      "src": "i̭va̱",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svara̭vo'dhva̱reṣṷ",
+      "words": [
+       {
+        "w": "svaravaḥ",
+        "gloss": "posts",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "adhvareṣu",
+        "gloss": "at the rites",
+        "gram": "m. loc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vyṷ̄",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "ū",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vra̱jasya̱",
+      "words": [
+       {
+        "w": "vrajasya",
+        "gloss": "of the pen",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tama̭so̱",
+      "words": [
+       {
+        "w": "tamasaḥ",
+        "gloss": "of the darkness",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dvāro̱cchantī̭ravra̱ñchuca̭yaḥ",
+      "words": [
+       {
+        "w": "dvāraḥ",
+        "gloss": "doors",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "ucchantīḥ",
+        "gloss": "dawning",
+        "gram": "f. nom. pl. pres. part. √vas"
+       },
+       {
+        "w": "avran",
+        "gloss": "have opened",
+        "gram": "3 pl. aor. √vṛ"
+       },
+       {
+        "w": "śucayaḥ",
+        "gloss": "pure",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pāva̱kāḥ",
+      "words": [
+       {
+        "w": "pāvakāḥ",
+        "gloss": "purifying",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उज्ज्वल उषाएँ आगे खड़ी हुई हैं, यज्ञों में गाड़े गए खम्भों की तरह; उन्होंने उदय होते हुए अन्धकार के बाड़े के द्वार खोल दिए, पवित्र और शुद्ध करने वाली।",
+  "english": "The bright Dawns have stood in front, like posts set up at the rites; dawning, they have opened apart the doors of the pen, of the darkness, the pure, purifying ones.",
+  "text_flags": [],
+  "notes": "svaru is rendered \"post\"; mitāḥ \"set up\" (ppp. of √mā). vrajasya tamasaḥ: the two genitives are rendered side by side (\"of the pen, of the darkness\"); whether \"pen of darkness\" is meant is not certain. adhvara = rite.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱cchantī̭ra̱dya",
+      "words": [
+       {
+        "w": "ucchantīḥ",
+        "gloss": "dawning",
+        "gram": "f. nom. pl. pres. part. √vas"
+       },
+       {
+        "w": "adya",
+        "gloss": "today",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ci̭tayanta",
+      "words": [
+       {
+        "w": "citayanta",
+        "gloss": "have awakened",
+        "gram": "3 pl. aor. caus. mid. √cit"
+       }
+      ]
+     },
+     {
+      "src": "bho̱jān",
+      "words": [
+       {
+        "w": "bhojān",
+        "gloss": "liberal ones",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rā̭dho̱deyā̭yo̱ṣaso̭",
+      "words": [
+       {
+        "w": "rādhaḥ-deyāya",
+        "gloss": "for the giving of bounty",
+        "gram": "n. dat. sg. tat-puruṣa"
+       },
+       {
+        "w": "uṣasaḥ",
+        "gloss": "Dawns",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ma̱ghonī̭:",
+      "words": [
+       {
+        "w": "maghonīḥ",
+        "gloss": "bountiful",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱ci̱tre",
+      "words": [
+       {
+        "w": "acitre",
+        "gloss": "unbright",
+        "gram": "n. loc. sg. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "a̱ntaḥ",
+      "words": [
+       {
+        "w": "antaḥ",
+        "gloss": "within",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pa̱ṇaya̭:",
+      "words": [
+       {
+        "w": "paṇayaḥ",
+        "gloss": "Paṇis",
+        "gram": "m. nom. pl. (name)"
+       }
+      ]
+     },
+     {
+      "src": "sasa̱ntvabṷdhyamānā̱stama̭so̱",
+      "words": [
+       {
+        "w": "sasantu",
+        "gloss": "let sleep",
+        "gram": "3 pl. impv. √sas"
+       },
+       {
+        "w": "abudhyamānāḥ",
+        "gloss": "not awakening",
+        "gram": "m. nom. pl. pres. part. pass. √budh"
+       },
+       {
+        "w": "tamasaḥ",
+        "gloss": "of the darkness",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vima̭dhye",
+      "words": [
+       {
+        "w": "vi-madhye",
+        "gloss": "in the middle",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आज उदय होती हुई, दान देने वाली उषाओं ने उदार जनों को दान देने के लिए जगाया है; बिना चमक के भीतर पणि सोते रहें, न जागते हुए, अन्धकार के बीच में।",
+  "english": "Dawning today, the bountiful Dawns have awakened the liberal ones for the giving of bounty; within the unbright let the Paṇis sleep, not awakening, in the middle of the darkness.",
+  "text_flags": [],
+  "notes": "acitre antaḥ is uncertain (acitra: \"not bright / not perceiving\"); \"the unbright\" is a literal rendering. bhojān: patrons, taken as \"liberal ones\". Paṇis is a name; no later identification is given. citayanta: aorist of the causative of √cit (form somewhat uncertain).",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ku̱vit",
+      "words": [
+       {
+        "w": "kuvit",
+        "gloss": "indeed (whether)",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dḙvīḥ",
+      "words": [
+       {
+        "w": "devīḥ",
+        "gloss": "O goddesses",
+        "gram": "f. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱nayo̱",
+      "words": [
+       {
+        "w": "sanayaḥ",
+        "gloss": "old",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "navo̭",
+      "words": [
+       {
+        "w": "navaḥ",
+        "gloss": "new",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̱",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāmo̭",
+      "words": [
+       {
+        "w": "yāmaḥ",
+        "gloss": "course",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "babhū̱yādṷṣaso",
+      "words": [
+       {
+        "w": "babhūyāt",
+        "gloss": "may be",
+        "gram": "3 sg. precative √bhū"
+       },
+       {
+        "w": "uṣasaḥ",
+        "gloss": "O Dawns",
+        "gram": "f. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vo",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "of you",
+        "gram": "2 pl. gen. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "a̱dya",
+      "words": [
+       {
+        "w": "adya",
+        "gloss": "today",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yenā̱",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by which",
+        "gram": "m. inst. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "nava̭gve̱",
+      "words": [
+       {
+        "w": "navagve",
+        "gloss": "for Navagva",
+        "gram": "m. dat. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "aṅgi̭re̱",
+      "words": [
+       {
+        "w": "aṅgire",
+        "gloss": "for Aṅgiras",
+        "gram": "m. dat. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "daśa̭gve",
+      "words": [
+       {
+        "w": "daśagve",
+        "gloss": "for Daśagva",
+        "gram": "m. dat. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "sa̱ptāsyḙ",
+      "words": [
+       {
+        "w": "saptāsye",
+        "gloss": "for Saptāsya",
+        "gram": "m. dat. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "revatī",
+      "words": [
+       {
+        "w": "revatīḥ",
+        "gloss": "wealthy ones",
+        "gram": "f. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "re̱vadū̱ṣa",
+      "words": [
+       {
+        "w": "revat",
+        "gloss": "richly",
+        "gram": "ind."
+       },
+       {
+        "w": "ūṣa",
+        "gloss": "you dawned",
+        "gram": "2 pl. pf. √vas"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्या वह रीति, पुरानी या नई, हे देवियो, हे उषाओ, आज तुम्हारी हो, जिससे तुम धनवती देवियो ने नवग्व, अङ्गिरस्, दशग्व, सप्तास्य के लिए धन के साथ उदय किया।",
+  "english": "Might that course of yours, old or new, be today, O goddesses, O Dawns, by which you, wealthy ones, dawned richly for Navagva, Aṅgiras, Daśagva, Saptāsya.",
+  "text_flags": [],
+  "notes": "Syntax uncertain. kuvit is rendered \"might ... indeed\" with the precative babhūyāt; vaḥ is taken as genitive \"of you\". yena (src yenā, metrical lengthening) refers to the yāma (\"course\"). The four datives are names (Saptāsya may be an epithet \"seven-mouthed\"); aṅgire is read as a form of Aṅgiras/Aṅgira. ūṣa is read as 2 pl. perfect of √vas; this and the whole relative clause are tentative.",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yū̱yaṃ",
+      "words": [
+       {
+        "w": "yūyam",
+        "gloss": "you",
+        "gram": "2 pl. nom."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dḙvīrṛta̱yugbhi̱raśvai̭:",
+      "words": [
+       {
+        "w": "devīḥ",
+        "gloss": "goddesses",
+        "gram": "f. voc. pl."
+       },
+       {
+        "w": "ṛta-yugbhiḥ",
+        "gloss": "yoked to order",
+        "gram": "m. inst. pl. tat-puruṣa"
+       },
+       {
+        "w": "aśvaiḥ",
+        "gloss": "with horses",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pariprayā̱tha",
+      "words": [
+       {
+        "w": "pari-prayātha",
+        "gloss": "you travel around",
+        "gram": "2 pl. pres. pari-pra-√yā"
+       }
+      ]
+     },
+     {
+      "src": "bhuva̭nāni",
+      "words": [
+       {
+        "w": "bhuvanāni",
+        "gloss": "worlds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱dyaḥ",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pra̱bo̱dhaya̭ntīruṣasaḥ",
+      "words": [
+       {
+        "w": "prabodhayantīḥ",
+        "gloss": "awakening",
+        "gram": "f. voc. pl. pres. part. caus. pra-√budh"
+       },
+       {
+        "w": "uṣasaḥ",
+        "gloss": "O Dawns",
+        "gram": "f. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱santa̭ṃ",
+      "words": [
+       {
+        "w": "sasantam",
+        "gloss": "sleeping",
+        "gram": "m. acc. sg. pres. part. √sas"
+       }
+      ]
+     },
+     {
+      "src": "dvi̱pāccatṷṣpācca̱rathā̭ya",
+      "words": [
+       {
+        "w": "dvi-pāt",
+        "gloss": "two-footed",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "catuṣ-pāt",
+        "gloss": "four-footed",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "carathāya",
+        "gloss": "for moving",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "jī̱vam",
+      "words": [
+       {
+        "w": "jīvam",
+        "gloss": "living being",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे देवियो, तुम ऋत से जुते घोड़ों के साथ भुवनों के चारों ओर तुरन्त चलती हो; हे उषाओ, सोए हुए दो पैर वाले और चार पैर वाले जीव को चलने के लिए जगाती हुई।",
+  "english": "For you, goddesses, travel around the worlds at once with horses yoked to order; awakening, O Dawns, the sleeping living being, two-footed and four-footed, for moving.",
+  "text_flags": [],
+  "notes": "hi is rendered \"for\". The verse's last pāda has jīvam as the object of prabodhayantīḥ, with sasantam, dvipāt and catuṣpāt as its qualifiers; caratha (movement) is a rare word and \"for moving\" is the plain rendering.",
+  "confidence": "high"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kva̭",
+      "words": [
+       {
+        "w": "kva",
+        "gloss": "where",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svidāsāṃ",
+      "words": [
+       {
+        "w": "svit",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "āsām",
+        "gloss": "of these",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "kata̱mā",
+      "words": [
+       {
+        "w": "katamā",
+        "gloss": "which",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṷrā̱ṇī",
+      "words": [
+       {
+        "w": "purāṇī",
+        "gloss": "ancient",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yayā̭",
+      "words": [
+       {
+        "w": "yayā",
+        "gloss": "by which",
+        "gram": "f. inst. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "vi̱dhānā̭",
+      "words": [
+       {
+        "w": "vidhānā",
+        "gloss": "arrangements",
+        "gram": "n. acc. pl. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "vida̱dhurṛ̭bhū̱ṇām",
+      "words": [
+       {
+        "w": "vidadhuḥ",
+        "gloss": "they ordained",
+        "gram": "3 pl. pf. vi-√dhā"
+       },
+       {
+        "w": "ṛbhūṇām",
+        "gloss": "of the Ṛbhus",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śubha̱ṃ",
+      "words": [
+       {
+        "w": "śubham",
+        "gloss": "splendour",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yacchu̱bhrā",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "śubhrāḥ",
+        "gloss": "bright",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱ṣasa̱ścara̭nti̱",
+      "words": [
+       {
+        "w": "uṣasaḥ",
+        "gloss": "Dawns",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "caranti",
+        "gloss": "move",
+        "gram": "3 pl. pres. √car"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "jñā̭yante",
+      "words": [
+       {
+        "w": "jñāyante",
+        "gloss": "are known",
+        "gram": "3 pl. pres. pass. √jñā"
+       }
+      ]
+     },
+     {
+      "src": "sa̱dṛśī̭raju̱ryāḥ",
+      "words": [
+       {
+        "w": "sadṛśīḥ",
+        "gloss": "alike",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "ajuryāḥ",
+        "gloss": "ageless",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इनमें कहाँ है वह कौन-सी पुरानी, जिससे ऋभुओं के विधान उन्होंने स्थापित किए? जब चमकीली उषाएँ शोभा के साथ चलती हैं, तब वे पहचानी नहीं जातीं, समान और अजर।",
+  "english": "Where indeed, which of these is the ancient one, by which they ordained the arrangements of the Ṛbhus? When the bright Dawns move in splendour, they are not distinguished, alike, ageless.",
+  "text_flags": [],
+  "notes": "First half-verse is unclear: vidhānā (n. pl. or instrumental) and the subject of vidadhuḥ are uncertain; the translation is tentative. na vi jñāyante is rendered \"are not distinguished\". yat is taken as \"when\". ajurya = ageless (not decaying).",
+  "confidence": "low"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ghā̱",
+      "words": [
+       {
+        "w": "ghā",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bha̱drā",
+      "words": [
+       {
+        "w": "bhadrāḥ",
+        "gloss": "auspicious",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱ṣasa̭:",
+      "words": [
+       {
+        "w": "uṣasaḥ",
+        "gloss": "Dawns",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pu̱rāsṷrabhi̱ṣṭidyṷmnā",
+      "words": [
+       {
+        "w": "purā",
+        "gloss": "formerly",
+        "gram": "ind."
+       },
+       {
+        "w": "āsuḥ",
+        "gloss": "were",
+        "gram": "3 pl. impf. √as"
+       },
+       {
+        "w": "abhiṣṭi-dyumnāḥ",
+        "gloss": "whose splendour is help",
+        "gram": "f. nom. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ṛ̱tajā̭tasatyāḥ",
+      "words": [
+       {
+        "w": "ṛta-jāta-satyāḥ",
+        "gloss": "true, born of order",
+        "gram": "f. nom. pl. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yāsvī̭jā̱naḥ",
+      "words": [
+       {
+        "w": "yāsu",
+        "gloss": "in whom",
+        "gram": "f. loc. pl. rel."
+       },
+       {
+        "w": "ījānaḥ",
+        "gloss": "one who has sacrificed",
+        "gram": "m. nom. sg. pf. part. mid. √yaj"
+       }
+      ]
+     },
+     {
+      "src": "śa̭śamā̱na",
+      "words": [
+       {
+        "w": "śaśamānaḥ",
+        "gloss": "toiling",
+        "gram": "m. nom. sg. pf. part. mid. √śam"
+       }
+      ]
+     },
+     {
+      "src": "u̱kthaiḥ",
+      "words": [
+       {
+        "w": "ukthaiḥ",
+        "gloss": "with hymns",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "stu̱vañchaṃsa̱n",
+      "words": [
+       {
+        "w": "stuvan",
+        "gloss": "praising",
+        "gram": "m. nom. sg. pres. part. √stu"
+       },
+       {
+        "w": "śaṃsan",
+        "gloss": "reciting",
+        "gram": "m. nom. sg. pres. part. √śaṃs"
+       }
+      ]
+     },
+     {
+      "src": "dravi̭ṇaṃ",
+      "words": [
+       {
+        "w": "draviṇam",
+        "gloss": "wealth",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱dya",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "āpa̭",
+      "words": [
+       {
+        "w": "āpa",
+        "gloss": "has obtained",
+        "gram": "3 sg. pf. √āp"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे ही वे कल्याणकारी उषाएँ पहले थीं, जिनका तेज सहायता है, जो ऋत से उत्पन्न और सत्य हैं; जिनमें यजन करने वाला, स्तोत्रों से श्रम करता हुआ, स्तुति करता हुआ, पाठ करता हुआ, तुरन्त धन पा गया।",
+  "english": "Those, indeed those auspicious Dawns were formerly, whose splendour is help, true, born of order; in whom the one who has sacrificed, toiling with hymns, praising, reciting, at once obtained wealth.",
+  "text_flags": [],
+  "notes": "abhiṣṭi-dyumna is uncertain (abhiṣṭi: help, aid; dyumna: splendour). ṛta-jāta-satyāḥ is read as \"true, born of order\". śaśamāna = toiling (√śam), also \"labouring\". yāsu: \"in whom\" (the Dawns).",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ca̭ranti",
+      "words": [
+       {
+        "w": "caranti",
+        "gloss": "move",
+        "gram": "3 pl. pres. √car"
+       }
+      ]
+     },
+     {
+      "src": "sama̱nā",
+      "words": [
+       {
+        "w": "samanā",
+        "gloss": "alike",
+        "gram": "ind. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "pu̱rastā̭t",
+      "words": [
+       {
+        "w": "purastāt",
+        "gloss": "in front",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "samā̱nata̭:",
+      "words": [
+       {
+        "w": "samānataḥ",
+        "gloss": "from the same side",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sama̱nā",
+      "words": [
+       {
+        "w": "samanā",
+        "gloss": "alike",
+        "gram": "ind. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "pa̭prathā̱nāḥ",
+      "words": [
+       {
+        "w": "paprathānāḥ",
+        "gloss": "spreading out",
+        "gram": "f. nom. pl. pf. part. mid. √prath"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ṛ̱tasya̭",
+      "words": [
+       {
+        "w": "ṛtasya",
+        "gloss": "of order",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vīḥ",
+      "words": [
+       {
+        "w": "devīḥ",
+        "gloss": "goddesses",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sada̭so",
+      "words": [
+       {
+        "w": "sadasaḥ",
+        "gloss": "from the seat",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "budhā̱nā",
+      "words": [
+       {
+        "w": "budhānāḥ",
+        "gloss": "awaking",
+        "gram": "f. nom. pl. pres. part. mid. √budh"
+       }
+      ]
+     },
+     {
+      "src": "gavā̱ṃ",
+      "words": [
+       {
+        "w": "gavām",
+        "gloss": "of cows",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sargā̭",
+      "words": [
+       {
+        "w": "sargāḥ",
+        "gloss": "streams",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱ṣaso̭",
+      "words": [
+       {
+        "w": "uṣasaḥ",
+        "gloss": "Dawns",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jarante",
+      "words": [
+       {
+        "w": "jarante",
+        "gloss": "call out",
+        "gram": "3 pl. pres. mid. √jṝ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे आती हैं, समान रूप से, आगे, समान दिशा से, समान रूप से फैलती हुई; ऋत की देवियाँ, आसन से जागती हुई, गायों की धाराओं की तरह उषाएँ पुकारती हैं।",
+  "english": "They come moving, alike, in front, from the same side, alike spreading out; the goddesses of order, awaking from the seat, the Dawns call out like streams of cows.",
+  "text_flags": [],
+  "notes": "samanā (twice) is uncertain; \"alike\" is a tentative rendering. samānataḥ: from the same side. sadasaḥ is taken as ablative \"from the seat\". jarante: could also be \"are praised\" (passive-like sense of √jṝ); \"call out\" chosen. sarga = stream (rush).",
+  "confidence": "medium"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "those",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "innve̱3va",
+      "words": [
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "nu",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "eva",
+        "gloss": "even so",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̭ma̱nā",
+      "words": [
+       {
+        "w": "samanā",
+        "gloss": "alike",
+        "gram": "ind. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "sa̭mā̱nīramī̭tavarṇā",
+      "words": [
+       {
+        "w": "samānīḥ",
+        "gloss": "equal",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "amīta-varṇāḥ",
+        "gloss": "of unimpaired colour",
+        "gram": "f. nom. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "u̱ṣasa̭ścaranti",
+      "words": [
+       {
+        "w": "uṣasaḥ",
+        "gloss": "Dawns",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "caranti",
+        "gloss": "move",
+        "gram": "3 pl. pres. √car"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "gūha̭ntī̱rabhva̱masi̭ta̱ṃ",
+      "words": [
+       {
+        "w": "gūhantīḥ",
+        "gloss": "hiding",
+        "gram": "f. nom. pl. pres. part. √guh"
+       },
+       {
+        "w": "abhvam",
+        "gloss": "huge",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "asitam",
+        "gloss": "dark",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ruśa̭dbhiḥ",
+      "words": [
+       {
+        "w": "ruśadbhiḥ",
+        "gloss": "with shining",
+        "gram": "f. inst. pl. pres. part. √ruś"
+       }
+      ]
+     },
+     {
+      "src": "śu̱krāsta̱nūbhi̱:",
+      "words": [
+       {
+        "w": "śukrāḥ",
+        "gloss": "bright",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "tanūbhiḥ",
+        "gloss": "with bodies",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "śuca̭yo",
+      "words": [
+       {
+        "w": "śucayaḥ",
+        "gloss": "pure",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rucā̱nāḥ",
+      "words": [
+       {
+        "w": "rucānāḥ",
+        "gloss": "shining",
+        "gram": "f. nom. pl. pres. part. mid. √ruc"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे ही अब इस प्रकार समान रूप से, समान, अक्षीण रंग वाली उषाएँ चलती हैं, चमकते शरीरों से विशाल काले को छिपाती हुई, उजली, शुद्ध, दीप्त होती हुई।",
+  "english": "Those indeed, now even so, alike, equal, of unimpaired colour, the Dawns move, hiding the huge dark one with shining bodies, bright, pure, glowing.",
+  "text_flags": [],
+  "notes": "amīta-varṇāḥ is uncertain (amīta from √mi/√mā: \"unimpaired / unmeasured\"). abhvam asitam is rendered \"the huge dark one\"; the noun is not stated. samanā is uncertain. ruśadbhiḥ agrees with tanūbhiḥ.",
+  "confidence": "medium"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ra̱yiṃ",
+      "words": [
+       {
+        "w": "rayim",
+        "gloss": "wealth",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "di̭vo",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of heaven",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "duhitaro",
+      "words": [
+       {
+        "w": "duhitaraḥ",
+        "gloss": "daughters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vibhā̱tīḥ",
+      "words": [
+       {
+        "w": "vibhātīḥ",
+        "gloss": "shining",
+        "gram": "f. voc. pl. pres. part. vi-√bhā"
+       }
+      ]
+     },
+     {
+      "src": "pra̱jāva̭ntaṃ",
+      "words": [
+       {
+        "w": "prajāvantam",
+        "gloss": "with offspring",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yacchatā̱smāsṷ",
+      "words": [
+       {
+        "w": "yacchata",
+        "gloss": "bestow",
+        "gram": "2 pl. impv. √yam"
+       },
+       {
+        "w": "asmāsu",
+        "gloss": "on us",
+        "gram": "1 pl. loc."
+       }
+      ]
+     },
+     {
+      "src": "devīḥ",
+      "words": [
+       {
+        "w": "devīḥ",
+        "gloss": "goddesses",
+        "gram": "f. voc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "syo̱nādā",
+      "words": [
+       {
+        "w": "syonāt",
+        "gloss": "from comfort",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭:",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "you",
+        "gram": "2 pl. acc. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "prati̱budhya̭mānāḥ",
+      "words": [
+       {
+        "w": "pratibudhyamānāḥ",
+        "gloss": "awaking",
+        "gram": "m. nom. pl. pres. part. mid. prati-√budh"
+       }
+      ]
+     },
+     {
+      "src": "su̱vīrya̭sya̱",
+      "words": [
+       {
+        "w": "su-vīryasya",
+        "gloss": "of good heroism",
+        "gram": "n. gen. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "pata̭yaḥ",
+      "words": [
+       {
+        "w": "patayaḥ",
+        "gloss": "lords",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "syāma",
+      "words": [
+       {
+        "w": "syāma",
+        "gloss": "may we be",
+        "gram": "1 pl. opt. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे आकाश की पुत्रियो, चमकती हुई देवियो, हमें सन्तान से युक्त धन प्रदान करो; सुख से आप तक जागते हुए हम उत्तम वीर कार्य के स्वामी हों।",
+  "english": "O daughters of heaven, shining goddesses, bestow on us wealth with offspring; awaking from comfort to you, may we be lords of good heroism.",
+  "text_flags": [],
+  "notes": "syonādā = syonāt ā (\"from comfort\" ... \"to\"); the reading is tentative. vīrya = heroic deeds; su-vīrya rendered \"good heroism\". Wealth here is masculine (rayi).",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vo̭",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "to you",
+        "gram": "2 pl. acc. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "divo",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of heaven",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "duhitaro",
+      "words": [
+       {
+        "w": "duhitaraḥ",
+        "gloss": "daughters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vibhā̱tīrupa̭",
+      "words": [
+       {
+        "w": "vibhātīḥ",
+        "gloss": "shining",
+        "gram": "f. voc. pl. pres. part. vi-√bhā"
+       },
+       {
+        "w": "upa",
+        "gloss": "to",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "bruva",
+      "words": [
+       {
+        "w": "bruve",
+        "gloss": "I speak",
+        "gram": "1 sg. pres. mid. √brū"
+       }
+      ]
+     },
+     {
+      "src": "uṣaso",
+      "words": [
+       {
+        "w": "uṣasaḥ",
+        "gloss": "O Dawns",
+        "gram": "f. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñakḙtuḥ",
+      "words": [
+       {
+        "w": "yajña-ketuḥ",
+        "gloss": "sign of the sacrifice",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "va̱yaṃ",
+      "words": [
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "1 pl. nom."
+       }
+      ]
+     },
+     {
+      "src": "syā̭ma",
+      "words": [
+       {
+        "w": "syāma",
+        "gloss": "may we be",
+        "gram": "1 pl. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "ya̱śaso̱",
+      "words": [
+       {
+        "w": "yaśasaḥ",
+        "gloss": "glorious",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "janḙṣu̱",
+      "words": [
+       {
+        "w": "janeṣu",
+        "gloss": "among the people",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dyauśca̭",
+      "words": [
+       {
+        "w": "dyauḥ",
+        "gloss": "Heaven",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dha̱ttāṃ",
+      "words": [
+       {
+        "w": "dhattām",
+        "gloss": "let grant",
+        "gram": "3 du. impv. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "pṛ̭thi̱vī",
+      "words": [
+       {
+        "w": "pṛthivī",
+        "gloss": "Earth",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̭",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "de̱vī",
+      "words": [
+       {
+        "w": "devī",
+        "gloss": "goddess",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे आकाश की पुत्रियो, चमकती हुई उषाओ, मैं यज्ञ का चिह्न बनकर तुम से वही कहता हूँ; हम लोगों में यशस्वी हों, उसे द्यौ और देवी पृथिवी प्रदान करें।",
+  "english": "O daughters of heaven, shining Dawns, that I speak to you, the sign of the sacrifice; may we be glorious among the people; may Heaven and the goddess Earth grant that.",
+  "text_flags": [],
+  "notes": "yajñaketuḥ is nominative singular and is taken as the speaker (\"I, the sign of the sacrifice\"); ketu could also be \"banner\" or \"light\", and the identification of the speaker with it is tentative. vaḥ is taken as the object of upa bruve with tat (\"that\"). dhattām is a dual: Heaven and Earth.",
+  "confidence": "medium"
+ }
+]

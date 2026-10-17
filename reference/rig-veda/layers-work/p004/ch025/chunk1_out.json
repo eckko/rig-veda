@@ -1,0 +1,1511 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ko",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. interr."
+       }
+      ]
+     },
+     {
+      "src": "a̱dya",
+      "words": [
+       {
+        "w": "adya",
+        "gloss": "today",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "naryo̭",
+      "words": [
+       {
+        "w": "naryaḥ",
+        "gloss": "manly, of men",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vakā̭ma",
+      "words": [
+       {
+        "w": "deva-kāmaḥ",
+        "gloss": "desiring the gods",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "u̱śannindra̭sya",
+      "words": [
+       {
+        "w": "uśan",
+        "gloss": "wishing",
+        "gram": "m. nom. sg. pres. part. √vaś"
+       },
+       {
+        "w": "indrasya",
+        "gloss": "Indra",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱khyaṃ",
+      "words": [
+       {
+        "w": "sakhyam",
+        "gloss": "friendship",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jṷjoṣa",
+      "words": [
+       {
+        "w": "jujoṣa",
+        "gloss": "has taken delight in",
+        "gram": "3 sg. pf. √juṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ko",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. interr."
+       }
+      ]
+     },
+     {
+      "src": "vā̭",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ma̱he'va̭se̱",
+      "words": [
+       {
+        "w": "mahe",
+        "gloss": "great",
+        "gram": "n. dat. sg."
+       },
+       {
+        "w": "avase",
+        "gloss": "for help",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāryā̭ya̱",
+      "words": [
+       {
+        "w": "pāryāya",
+        "gloss": "for bringing across",
+        "gram": "n. dat. sg. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "sami̭ddhe",
+      "words": [
+       {
+        "w": "samiddhe",
+        "gloss": "kindled",
+        "gram": "m. loc. sg. ppp. sam-√idh"
+       }
+      ]
+     },
+     {
+      "src": "a̱gnau",
+      "words": [
+       {
+        "w": "agnau",
+        "gloss": "in Agni",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱taso̭ma",
+      "words": [
+       {
+        "w": "suta-somaḥ",
+        "gloss": "having pressed Soma",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "īṭṭe",
+      "words": [
+       {
+        "w": "īḍe",
+        "gloss": "praises",
+        "gram": "3 sg. pres. mid. √īḍ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आज कौन पौरुषवान्, देवों को चाहने वाला, कामना करता हुआ, इन्द्र की मित्रता में आनन्दित हुआ है? अथवा सोम निचोड़कर, अग्नि के प्रज्वलित होने पर, कौन महान् सहायता के लिए, पार पहुँचाने के लिए स्तुति करता है?",
+  "english": "Who today, manly, desiring the gods, wishing, has taken delight in Indra's friendship? Or who, having pressed Soma, with Agni kindled, praises for great help, for bringing across?",
+  "text_flags": [],
+  "notes": "Printed īṭṭe is the Vedic spelling of īḍe (ṭṭ for ḍ before the ending); words give īḍe. pāryāya (dat., 'for bringing across / for carrying through') is taken as a dative of purpose; the exact form and sense are not certain. jujoṣa is a perfect with present sense. The object of īḍe is not stated in the verse.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ko",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. interr."
+       }
+      ]
+     },
+     {
+      "src": "nā̭nāma̱",
+      "words": [
+       {
+        "w": "nānāma",
+        "gloss": "has bowed",
+        "gram": "3 sg. pf. √nam"
+       }
+      ]
+     },
+     {
+      "src": "vaca̭sā",
+      "words": [
+       {
+        "w": "vacasā",
+        "gloss": "with speech",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "so̱myāya̭",
+      "words": [
+       {
+        "w": "somyāya",
+        "gloss": "for the one fit for Soma",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "manā̱yurvā̭",
+      "words": [
+       {
+        "w": "manāyuḥ",
+        "gloss": "eager",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavati̱",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "vasta̭",
+      "words": [
+       {
+        "w": "vaste",
+        "gloss": "at dawn",
+        "gram": "form uncertain (perhaps loc. sg. of vasta 'dawn')"
+       }
+      ]
+     },
+     {
+      "src": "u̱srāḥ",
+      "words": [
+       {
+        "w": "usrāḥ",
+        "gloss": "in the mornings",
+        "gram": "f. pl. (case uncertain)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ka",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. interr."
+       }
+      ]
+     },
+     {
+      "src": "indra̭sya̱",
+      "words": [
+       {
+        "w": "indrasya",
+        "gloss": "Indra",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yujya̱ṃ",
+      "words": [
+       {
+        "w": "yujyam",
+        "gloss": "fellowship",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kaḥ",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. interr."
+       }
+      ]
+     },
+     {
+      "src": "sa̭khi̱tvaṃ",
+      "words": [
+       {
+        "w": "sakhitvam",
+        "gloss": "friendship",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ko",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. interr."
+       }
+      ]
+     },
+     {
+      "src": "bhrā̱traṃ",
+      "words": [
+       {
+        "w": "bhrātram",
+        "gloss": "brotherhood",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̭ṣṭi",
+      "words": [
+       {
+        "w": "vaṣṭi",
+        "gloss": "desires",
+        "gram": "3 sg. pres. √vaś"
+       }
+      ]
+     },
+     {
+      "src": "ka̱vaye̱",
+      "words": [
+       {
+        "w": "kavaye",
+        "gloss": "for the seer",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ka",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. interr."
+       }
+      ]
+     },
+     {
+      "src": "ū̱tī",
+      "words": [
+       {
+        "w": "ūtī",
+        "gloss": "for help",
+        "gram": "f. dat. sg. (or inst. sg.)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "कौन सोम के योग्य के लिए वाणी से झुका है, अथवा प्रभात में, उषाकालों में उत्सुक होता है? कौन इन्द्र के साथ को, कौन मित्रता को, कौन भ्रातृत्व को चाहता है, कवि के लिए; कौन सहायता के लिए?",
+  "english": "Who has bowed with speech to the one fit for Soma, or becomes eager at dawn, in the mornings? Who desires Indra's fellowship, who friendship, who brotherhood, for the seer; who, for help?",
+  "text_flags": [],
+  "notes": "The first line is unclear: vasta/usrāḥ are taken as 'at dawn, in the mornings' but the exact forms (vasta, usrāḥ) are uncertain; manāyu 'eager' is a literal guess ('eager, zealous'). In the second line the construction of kavaye and ūtī (which can be dative or instrumental) is not certain; the translation stays literal.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ko",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. interr."
+       }
+      ]
+     },
+     {
+      "src": "de̱vānā̱mavo̭",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "avaḥ",
+        "gloss": "help",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱dyā",
+      "words": [
+       {
+        "w": "adya",
+        "gloss": "today",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̭ṇīte̱",
+      "words": [
+       {
+        "w": "vṛṇīte",
+        "gloss": "chooses",
+        "gram": "3 sg. pres. mid. √vṛ"
+       }
+      ]
+     },
+     {
+      "src": "ka",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. interr."
+       }
+      ]
+     },
+     {
+      "src": "ā̭di̱tyā~",
+      "words": [
+       {
+        "w": "ādityān",
+        "gloss": "the Ādityas",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "adi̭ti̱ṃ",
+      "words": [
+       {
+        "w": "aditim",
+        "gloss": "Aditi",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jyoti̭rīṭṭe",
+      "words": [
+       {
+        "w": "jyotiḥ",
+        "gloss": "light",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "īḍe",
+        "gloss": "praises",
+        "gram": "3 sg. pres. mid. √īḍ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kasyā̱śvinā̱vindro̭",
+      "words": [
+       {
+        "w": "kasya",
+        "gloss": "whose",
+        "gram": "m. gen. sg. interr."
+       },
+       {
+        "w": "aśvinau",
+        "gloss": "the Aśvins",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱gniḥ",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱tasyā̱ṃ'śoḥ",
+      "words": [
+       {
+        "w": "sutasya",
+        "gloss": "pressed",
+        "gram": "m. gen. sg. ppp. √su"
+       },
+       {
+        "w": "aṃśoḥ",
+        "gloss": "of the shoot",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pi̭banti̱",
+      "words": [
+       {
+        "w": "pibanti",
+        "gloss": "drink",
+        "gram": "3 pl. pres. √pā"
+       }
+      ]
+     },
+     {
+      "src": "mana̱sāvi̭venam",
+      "words": [
+       {
+        "w": "manasā",
+        "gloss": "with the mind",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "avivenam",
+        "gloss": "willingly",
+        "gram": "form uncertain"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "आज कौन देवों की सहायता का वरण करता है? कौन आदित्यों की, अदिति की, ज्योति की स्तुति करता है? किसके निचोड़े हुए अंशु का पान अश्विन्, इन्द्र और अग्नि मन से स्वेच्छापूर्वक करते हैं?",
+  "english": "Who today chooses the help of the gods? Who praises the Ādityas, Aditi, light? Of whose pressed shoot do the Aśvins, Indra and Agni drink, willingly with the mind?",
+  "text_flags": [],
+  "notes": "avivenam is unclear (perhaps a-vi-venam, 'without turning aside / without grudging'); rendered 'willingly' as the least committal sense, and the form is not identified. kasya is taken with sutasya aṃśoḥ ('whose pressed shoot'); pibanti governs the genitive partitively.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tasmā̭",
+      "words": [
+       {
+        "w": "tasmai",
+        "gloss": "for him",
+        "gram": "m. dat. sg. (printed tasmā)"
+       }
+      ]
+     },
+     {
+      "src": "a̱gnirbhāra̭ta̱:",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "bhārataḥ",
+        "gloss": "the Bhārata",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarma̭",
+      "words": [
+       {
+        "w": "śarma",
+        "gloss": "shelter",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaṃsa̱jjyok",
+      "words": [
+       {
+        "w": "yaṃsat",
+        "gloss": "may he extend",
+        "gram": "3 sg. aor. subj. √yam"
+       },
+       {
+        "w": "jyok",
+        "gloss": "for long",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pa̭śyā̱t",
+      "words": [
+       {
+        "w": "paśyāt",
+        "gloss": "may he see",
+        "gram": "3 sg. opt. √paś"
+       }
+      ]
+     },
+     {
+      "src": "sūrya̭mu̱ccara̭ntam",
+      "words": [
+       {
+        "w": "sūryam",
+        "gloss": "the sun",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "uccarantam",
+        "gloss": "rising",
+        "gram": "m. acc. sg. pres. part. ud-√car"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ya",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "indrā̭ya",
+      "words": [
+       {
+        "w": "indrāya",
+        "gloss": "for Indra",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱navā̱metyāha̱",
+      "words": [
+       {
+        "w": "sunavāma",
+        "gloss": "let us press",
+        "gram": "1 pl. subj. √su"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "says",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "nare̱",
+      "words": [
+       {
+        "w": "nare",
+        "gloss": "the man",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "naryā̭ya̱",
+      "words": [
+       {
+        "w": "naryāya",
+        "gloss": "the manly one",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "nṛta̭māya",
+      "words": [
+       {
+        "w": "nṛ-tamāya",
+        "gloss": "most manly",
+        "gram": "m. dat. sg. superl."
+       }
+      ]
+     },
+     {
+      "src": "nṛ̱ṇām",
+      "words": [
+       {
+        "w": "nṝṇām",
+        "gloss": "of men",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो कहता है, 'इन्द्र के लिए, उस नर के लिए, पौरुषवान् के लिए, नरों में सर्वाधिक पौरुषवान् के लिए हम सोम निचोड़ें,' उसके लिए भारत अग्नि आश्रय प्रदान करे; वह देर तक उदय होते हुए सूर्य को देखे।",
+  "english": "For him who says, 'Let us press for Indra, the man, the manly one, the most manly of men,' may Agni the Bhārata extend shelter; may he see the sun rising for long.",
+  "text_flags": [],
+  "notes": "The subject of paśyāt is not stated; it is read as the man addressed in tasmai (the one who presses), but Agni is also grammatically possible. nare naryāya nṛtamāya nṝṇām are taken as datives agreeing with indrāya. bhārataḥ is rendered as an epithet of Agni.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ji̭nanti",
+      "words": [
+       {
+        "w": "jinanti",
+        "gloss": "overcome",
+        "gram": "3 pl. pres. √jyā"
+       }
+      ]
+     },
+     {
+      "src": "ba̱havo̱",
+      "words": [
+       {
+        "w": "bahavaḥ",
+        "gloss": "many",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "nor",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "da̱bhrā",
+      "words": [
+       {
+        "w": "dabhrāḥ",
+        "gloss": "few",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱rva̭smā̱",
+      "words": [
+       {
+        "w": "urū",
+        "gloss": "wide",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "asmai",
+        "gloss": "for him",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "adi̭ti̱:",
+      "words": [
+       {
+        "w": "aditiḥ",
+        "gloss": "Aditi",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śarma̭",
+      "words": [
+       {
+        "w": "śarma",
+        "gloss": "shelter",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaṃsat",
+      "words": [
+       {
+        "w": "yaṃsat",
+        "gloss": "shall extend",
+        "gram": "3 sg. aor. subj. √yam"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pri̱yaḥ",
+      "words": [
+       {
+        "w": "priyaḥ",
+        "gloss": "dear",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱kṛt",
+      "words": [
+       {
+        "w": "su-kṛt",
+        "gloss": "good-doer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pri̱ya",
+      "words": [
+       {
+        "w": "priyaḥ",
+        "gloss": "dear",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "indrḙ",
+      "words": [
+       {
+        "w": "indre",
+        "gloss": "to Indra",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "manā̱yuḥ",
+      "words": [
+       {
+        "w": "manāyuḥ",
+        "gloss": "eager one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pri̱yaḥ",
+      "words": [
+       {
+        "w": "priyaḥ",
+        "gloss": "dear",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sṷprā̱vīḥ",
+      "words": [
+       {
+        "w": "su-prāvīḥ",
+        "gloss": "good helper",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pri̱yo",
+      "words": [
+       {
+        "w": "priyaḥ",
+        "gloss": "dear",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭sya",
+      "words": [
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "so̱mī",
+      "words": [
+       {
+        "w": "somī",
+        "gloss": "Soma-presser",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "न उसे बहुत लोग पराभूत करते हैं, न थोड़े; अदिति उसके लिए विस्तृत आश्रय प्रदान करेगी। प्रिय है उत्तम कर्म करने वाला, इन्द्र को प्रिय है उत्सुक जन, प्रिय है उत्तम सहायक, प्रिय है इसका सोम निचोड़ने वाला।",
+  "english": "Neither many nor few overcome him; Aditi shall extend wide shelter to him. Dear is the good-doer, dear to Indra is the eager one, dear the good helper, dear is his Soma-presser.",
+  "text_flags": [],
+  "notes": "indre is a locative, rendered 'to Indra' (dear in/with Indra). somī 'Soma-presser' (one who has Soma) is a literal reading; asya refers to Indra by the context of the hymn but the verse itself does not name him. The edition prints ḙ in indrḙ and ṷ in similar spots as notation.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "su̱prā̱vya̭:",
+      "words": [
+       {
+        "w": "su-prāvyaḥ",
+        "gloss": "easy to help",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "prāśu̱ṣāḻe̱ṣa",
+      "words": [
+       {
+        "w": "prāśuṣāṭ",
+        "gloss": "overpowerer",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vī̱raḥ",
+      "words": [
+       {
+        "w": "vīraḥ",
+        "gloss": "hero",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "suṣvḙ:",
+      "words": [
+       {
+        "w": "suṣveḥ",
+        "gloss": "of the presser",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱ktiṃ",
+      "words": [
+       {
+        "w": "paktim",
+        "gloss": "cooked food",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̭ṇute̱",
+      "words": [
+       {
+        "w": "kṛṇute",
+        "gloss": "makes",
+        "gram": "3 sg. pres. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "keva̱lendra̭:",
+      "words": [
+       {
+        "w": "kevalaḥ",
+        "gloss": "alone",
+        "gram": "m. nom. sg. (sandhi with indraḥ unclear)"
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nāsṷṣverā̱pirna",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "asuṣveḥ",
+        "gloss": "of the non-presser",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "āpiḥ",
+        "gloss": "ally",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sakhā̱",
+      "words": [
+       {
+        "w": "sakhā",
+        "gloss": "friend",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jā̱mirdṷṣprā̱vyo̭'vaha̱ntedavā̭caḥ",
+      "words": [
+       {
+        "w": "jāmiḥ",
+        "gloss": "kinsman",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "duḥ-prāvyaḥ",
+        "gloss": "hard to help",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "avahantā",
+        "gloss": "striker down",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "id",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "avācaḥ",
+        "gloss": "speechless ones",
+        "gram": "m. acc. pl. (form uncertain)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सहायता के लिए सुगम, यह वीर पराभूत करने वाला है; इन्द्र अकेला सोम निचोड़ने वाले का पकाया हुआ भोजन बनाता है। सोम न निचोड़ने वाले का न वह सहयोगी है, न मित्र, न बन्धु; सहायता के लिए कठिन, वह वाणीहीनों का निश्चय ही संहारक है।",
+  "english": "Easy to help is this hero, the overpowerer; Indra alone makes the cooked food of the presser. He is not an ally of the non-presser, not a friend, not a kinsman; hard to help, indeed a striker down of the speechless ones.",
+  "text_flags": [],
+  "notes": "Printed suṣvḙḥ is suṣveḥ (ḙ is notation). kevalendraḥ is printed as one word; the sandhi (kevala + indraḥ?) is irregular and not explained here. In line 2 the subject of the clauses and the sense of avahantā id avācaḥ ('striker down of the speechless') are uncertain; duṣprāvyaḥ may describe the non-presser instead. The translation is literal only.",
+  "confidence": "low"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "re̱vatā̭",
+      "words": [
+       {
+        "w": "revatā",
+        "gloss": "wealthy",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱ṇinā̭",
+      "words": [
+       {
+        "w": "paṇinā",
+        "gloss": "Paṇi",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱khyamindro'sṷnvatā",
+      "words": [
+       {
+        "w": "sakhyam",
+        "gloss": "friendship",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "asunvatā",
+        "gloss": "non-pressing",
+        "gram": "m. inst. sg. pres. part. neg. √su"
+       }
+      ]
+     },
+     {
+      "src": "suta̱pāḥ",
+      "words": [
+       {
+        "w": "suta-pāḥ",
+        "gloss": "drinker of the pressed",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "with",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "gṛ̭ṇīte",
+      "words": [
+       {
+        "w": "gṛṇīte",
+        "gloss": "agrees to",
+        "gram": "3 sg. pres. mid. sam-√gṝ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "āsya̱",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "toward",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "veda̭:",
+      "words": [
+       {
+        "w": "vedaḥ",
+        "gloss": "wealth",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "khi̱dati̱",
+      "words": [
+       {
+        "w": "khidati",
+        "gloss": "drags",
+        "gram": "3 sg. pres. √khid"
+       }
+      ]
+     },
+     {
+      "src": "hanti̭",
+      "words": [
+       {
+        "w": "hanti",
+        "gloss": "strikes",
+        "gram": "3 sg. pres. √han"
+       }
+      ]
+     },
+     {
+      "src": "na̱gnaṃ",
+      "words": [
+       {
+        "w": "nagnam",
+        "gloss": "the naked one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "suṣva̭ye",
+      "words": [
+       {
+        "w": "suṣvaye",
+        "gloss": "for the presser",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱ktaye̱",
+      "words": [
+       {
+        "w": "paktaye",
+        "gloss": "for the cooked food",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "keva̭lo",
+      "words": [
+       {
+        "w": "kevalaḥ",
+        "gloss": "exclusively",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūt",
+      "words": [
+       {
+        "w": "bhūt",
+        "gloss": "has become",
+        "gram": "3 sg. aor. vi-√bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन्द्र, निचोड़े हुए का पान करने वाला, धनी पणि के साथ, सोम न निचोड़ने वाले के साथ मित्रता स्वीकार नहीं करता। वह उसका धन खींच लेता है, नग्न को मारता है; सोम निचोड़ने वाले के लिए, पके हुए भोजन के लिए वह केवल उसी का हो गया है।",
+  "english": "Indra, the drinker of the pressed, does not agree to friendship with the wealthy Paṇi, the non-presser. He drags off his wealth, he strikes the naked one; he has become exclusively for the presser, for the cooked food.",
+  "text_flags": [],
+  "notes": "paṇi is rendered as a name (Paṇi); the verse itself gives no further sense. sam-√gṝ 'agrees to' and vi bhūt 'has become (his)' are literal approximations; the final clause is not fully clear. The subject of khidati/hanti is read as Indra.",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "indra̱ṃ",
+      "words": [
+       {
+        "w": "indram",
+        "gloss": "Indra",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pare'va̭re",
+      "words": [
+       {
+        "w": "pare",
+        "gloss": "the farther ones",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "avare",
+        "gloss": "the nearer ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "madhya̱māsa̱",
+      "words": [
+       {
+        "w": "madhyamāsaḥ",
+        "gloss": "the middle ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "indra̱ṃ",
+      "words": [
+       {
+        "w": "indram",
+        "gloss": "Indra",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yānto'va̭sitāsa̱",
+      "words": [
+       {
+        "w": "yantaḥ",
+        "gloss": "those going",
+        "gram": "m. nom. pl. pres. part. √i"
+       },
+       {
+        "w": "avasitāsaḥ",
+        "gloss": "those who have halted",
+        "gram": "m. nom. pl. ppp. ava-√so"
+       }
+      ]
+     },
+     {
+      "src": "indra̭m",
+      "words": [
+       {
+        "w": "indram",
+        "gloss": "Indra",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "indra̭ṃ",
+      "words": [
+       {
+        "w": "indram",
+        "gloss": "Indra",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣi̱yanta̭",
+      "words": [
+       {
+        "w": "kṣiyantaḥ",
+        "gloss": "those dwelling",
+        "gram": "m. nom. pl. pres. part. √kṣi"
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yudhya̭mānā̱",
+      "words": [
+       {
+        "w": "yudhyamānāḥ",
+        "gloss": "those fighting",
+        "gram": "m. nom. pl. pres. part. mid. √yudh"
+       }
+      ]
+     },
+     {
+      "src": "indra̱ṃ",
+      "words": [
+       {
+        "w": "indram",
+        "gloss": "Indra",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "naro̭",
+      "words": [
+       {
+        "w": "naraḥ",
+        "gloss": "men",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vāja̱yanto̭",
+      "words": [
+       {
+        "w": "vāja-yantaḥ",
+        "gloss": "seeking prizes",
+        "gram": "m. nom. pl. pres. part. denom."
+       }
+      ]
+     },
+     {
+      "src": "havante",
+      "words": [
+       {
+        "w": "havante",
+        "gloss": "call upon",
+        "gram": "3 pl. pres. mid. √hū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन्द्र को दूर वाले, समीप वाले, मध्य वाले, इन्द्र को चलने वाले, ठहरे हुए, इन्द्र को बसे हुए तथा युद्ध करते हुए, इन्द्र को पुरस्कार चाहने वाले नर पुकारते हैं।",
+  "english": "Indra the farther ones, the nearer ones, the middle ones, Indra those going, those halted, Indra those dwelling and those fighting, Indra the men seeking prizes call upon.",
+  "text_flags": [],
+  "notes": "havante stands once at the end and governs every 'indram'. pare/avare/madhyamāsaḥ are read as groups of people (farther, nearer, middle); avasitāsaḥ 'halted' (ava-√so) is literal.",
+  "confidence": "medium"
+ }
+]

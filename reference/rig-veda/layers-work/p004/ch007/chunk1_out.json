@@ -1,0 +1,1745 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱yami̱ha",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pra̭tha̱mo",
+      "words": [
+       {
+        "w": "prathamaḥ",
+        "gloss": "first",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhā̭yi",
+      "words": [
+       {
+        "w": "dhāyi",
+        "gloss": "has been placed",
+        "gram": "3 sg. aor. pass. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "dhā̱tṛbhi̱rhotā̱",
+      "words": [
+       {
+        "w": "dhātṛ-bhiḥ",
+        "gloss": "by the placers",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "hotā",
+        "gloss": "Hotṛ priest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaji̭ṣṭho",
+      "words": [
+       {
+        "w": "yajiṣṭhaḥ",
+        "gloss": "best sacrificer",
+        "gram": "m. nom. sg. superl. √yaj"
+       }
+      ]
+     },
+     {
+      "src": "adhva̱reṣvīḍya̭:",
+      "words": [
+       {
+        "w": "adhvareṣu",
+        "gloss": "in the rites",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "īḍyaḥ",
+        "gloss": "to be praised",
+        "gram": "m. nom. sg. gerundive √īḍ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yamapna̭vāno̱",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg. rel."
+       },
+       {
+        "w": "apnavānaḥ",
+        "gloss": "Apnavāna",
+        "gram": "m. nom. sg. name"
+       }
+      ]
+     },
+     {
+      "src": "bhṛga̭vo",
+      "words": [
+       {
+        "w": "bhṛgavaḥ",
+        "gloss": "Bhṛgus",
+        "gram": "m. nom. pl. name"
+       }
+      ]
+     },
+     {
+      "src": "viruru̱curvanḙṣu",
+      "words": [
+       {
+        "w": "virurucuḥ",
+        "gloss": "made shine",
+        "gram": "3 pl. pf. vi-√ruc"
+       },
+       {
+        "w": "vaneṣu",
+        "gloss": "in the woods",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ci̱traṃ",
+      "words": [
+       {
+        "w": "citram",
+        "gloss": "wondrous",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱bhva̭ṃ",
+      "words": [
+       {
+        "w": "vibhvam",
+        "gloss": "pervasive",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱śevi̭śe",
+      "words": [
+       {
+        "w": "viśe",
+        "gloss": "for the clan",
+        "gram": "f. dat. sg."
+       },
+       {
+        "w": "viśe",
+        "gloss": "for the clan",
+        "gram": "f. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यह पहला यहाँ धारण करने वालों द्वारा स्थापित किया गया है, होता, सर्वश्रेष्ठ यजन करने वाला, यज्ञों में स्तुति के योग्य; जिसे अप्नवान और भृगुओं ने वनों में चमकाया, विचित्र और व्यापक को, प्रत्येक जनसमुदाय के लिए।",
+  "english": "This first one has been placed here by the placers, the Hotṛ priest, the best sacrificer, to be praised in the rites; whom Apnavāna and the Bhṛgus made shine in the woods, the wondrous, the pervasive, for every clan.",
+  "text_flags": [],
+  "notes": "dhātṛ \"placer, establisher\" (agent noun of √dhā). apnavānaḥ is singular and stands before bhṛgavaḥ; taken as a name beside the Bhṛgus (it could also be read as an epithet qualifying them). virurucuḥ is a perfect of √ruc used here with causative sense (\"made shine\"). viśe-viśe is distributive dative \"for each clan\". The relative clause continues in the grammar of 4.7.1 only; no verb is left unexpressed.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "agnḙ",
+      "words": [
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ka̱dā",
+      "words": [
+       {
+        "w": "kadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ta̭",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. (pron. 2 sg.)"
+       }
+      ]
+     },
+     {
+      "src": "ānu̱ṣag",
+      "words": [
+       {
+        "w": "ānuṣak",
+        "gloss": "in succession, continuously",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhuva̭d",
+      "words": [
+       {
+        "w": "bhuvat",
+        "gloss": "will be",
+        "gram": "3 sg. aor. subj. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "de̱vasya̱",
+      "words": [
+       {
+        "w": "devasya",
+        "gloss": "of the god",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ceta̭nam",
+      "words": [
+       {
+        "w": "cetanam",
+        "gloss": "attention, noticing",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "adhā̱",
+      "words": [
+       {
+        "w": "adhā",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā̭",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "acc. sg. (pron. 2 sg.)"
+       }
+      ]
+     },
+     {
+      "src": "jagṛbhri̱re",
+      "words": [
+       {
+        "w": "jagṛbhrire",
+        "gloss": "have seized",
+        "gram": "3 pl. pf. mid. √grah"
+       }
+      ]
+     },
+     {
+      "src": "martā̭so",
+      "words": [
+       {
+        "w": "martāsaḥ",
+        "gloss": "mortals",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vi̱kṣvīḍya̭m",
+      "words": [
+       {
+        "w": "vikṣu",
+        "gloss": "among the clans",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "īḍyam",
+        "gloss": "to be praised",
+        "gram": "m. acc. sg. gerundive √īḍ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे अग्नि, तुम्हारा, देव का, ध्यान कब निरन्तर होगा? तब ही तो मनुष्यों ने जनसमुदायों में तुम्हें, स्तुति के योग्य को, पकड़ लिया है।",
+  "english": "O Agni, when will your attention, that of the god, be continuous? For then mortals have seized you, the one to be praised, among the clans.",
+  "text_flags": [],
+  "notes": "ta = te (gen.), \"your\"; devasya \"of the god\" stands in apposition to te. cetanam (from √cit) is rendered \"attention, noticing\"; the sense of the first line is not fully clear (alternatives: \"the god's appearing\", \"awareness\"). anuṣak is taken as \"in succession, continuously\". adhā hi \"for then/now\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṛ̱tāvā̭na̱ṃ",
+      "words": [
+       {
+        "w": "ṛtāvānam",
+        "gloss": "keeper of order",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vicḙtasa̱ṃ",
+      "words": [
+       {
+        "w": "vicetasam",
+        "gloss": "discerning",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "paśya̭nto̱",
+      "words": [
+       {
+        "w": "paśyantaḥ",
+        "gloss": "seeing",
+        "gram": "m. nom. pl. pres. part. √paś"
+       }
+      ]
+     },
+     {
+      "src": "dyāmi̭va̱",
+      "words": [
+       {
+        "w": "dyām",
+        "gloss": "heaven",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "stṛbhi̭:",
+      "words": [
+       {
+        "w": "stṛbhiḥ",
+        "gloss": "with stars",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viśvḙṣāmadhva̱rāṇā̭ṃ",
+      "words": [
+       {
+        "w": "viśveṣām",
+        "gloss": "of all",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "adhvarāṇām",
+        "gloss": "of the rites",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "haska̱rtāra̱ṃ",
+      "words": [
+       {
+        "w": "haskartāram",
+        "gloss": "agent",
+        "gram": "m. acc. sg. (form of first member unclear)"
+       }
+      ]
+     },
+     {
+      "src": "damḙdame",
+      "words": [
+       {
+        "w": "dame-dame",
+        "gloss": "in every house",
+        "gram": "n. loc. sg. (repeated)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ऋत के रक्षक, विवेकशील को देखते हुए, जैसे तारों से युक्त द्युलोक को; सब यज्ञों के कर्ता को, प्रत्येक घर में।",
+  "english": "Seeing him, the keeper of order, the discerning one, as one sees heaven with the stars; the agent of all the rites, in every house.",
+  "text_flags": [],
+  "notes": "haskartāram: the first member (has-) is not clear to me; I take the word as an agent noun \"doer, agent\" of all the rites and flag the uncertainty. \"as one sees heaven\" supplies only the comparison implied by dyām iva. The participle paśyantaḥ continues into 4.7.4, where the main verb jabhruḥ stands.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā̱śuṃ",
+      "words": [
+       {
+        "w": "āśum",
+        "gloss": "swift",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dū̱taṃ",
+      "words": [
+       {
+        "w": "dūtam",
+        "gloss": "messenger",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱vasva̭to̱",
+      "words": [
+       {
+        "w": "vivasvataḥ",
+        "gloss": "of Vivasvat",
+        "gram": "m. gen. sg. name"
+       }
+      ]
+     },
+     {
+      "src": "viśvā̱",
+      "words": [
+       {
+        "w": "viśvāḥ",
+        "gloss": "all",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yaśca̭rṣa̱ṇīra̱bhi",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       },
+       {
+        "w": "carṣaṇīḥ",
+        "gloss": "peoples",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "abhi",
+        "gloss": "over, towards",
+        "gram": "ind. (prep.)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ja̭bhruḥ",
+      "words": [
+       {
+        "w": "jabhruḥ",
+        "gloss": "they brought",
+        "gram": "3 pl. pf. ā-√bhṛ"
+       }
+      ]
+     },
+     {
+      "src": "ke̱tumā̱yavo̱",
+      "words": [
+       {
+        "w": "ketum",
+        "gloss": "banner",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āyavaḥ",
+        "gloss": "the Āyus, men",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhṛga̭vāṇaṃ",
+      "words": [
+       {
+        "w": "bhṛgavāṇam",
+        "gloss": "Bhṛgu-like",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱śevi̭śe",
+      "words": [
+       {
+        "w": "viśe",
+        "gloss": "for the clan",
+        "gram": "f. dat. sg."
+       },
+       {
+        "w": "viśe",
+        "gloss": "for the clan",
+        "gram": "f. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वैवस्वत के तीव्र दूत को, जो सब जनों के ऊपर है; आयुओं ने पताका को, भृगु जैसे को, प्रत्येक जनसमुदाय के लिए लाया।",
+  "english": "The swift messenger of Vivasvat, who is over all the peoples; the Āyus brought hither the banner, the Bhṛgu-like one, for every clan.",
+  "text_flags": [],
+  "notes": "The sentence continues from 4.7.3 (paśyantaḥ ... jabhruḥ): \"seeing him ... they brought\". abhi with the accusative has no verb of its own; \"over\" is chosen, \"towards\" is possible. āyavaḥ is taken as a plural \"Āyus, men\" (the sense of the word as a tribe or as \"living men\" is not settled). bhṛgavāṇam \"Bhṛgu-like\" (an -āṇa formation); its exact sense and whether it agrees with ketum or with Agni is not certain. Hindi renders viś as जनसमुदाय.",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tamī̱ṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "īm",
+        "gloss": "him",
+        "gram": "m. acc. sg. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "hotā̭ramānu̱ṣak",
+      "words": [
+       {
+        "w": "hotāram",
+        "gloss": "Hotṛ priest",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ānuṣak",
+        "gloss": "in succession",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ci̭ki̱tvāṃsa̱ṃ",
+      "words": [
+       {
+        "w": "cikitvāṃsam",
+        "gloss": "knowing",
+        "gram": "m. acc. sg. pf. part. √cit"
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ṣḙdire",
+      "words": [
+       {
+        "w": "ṣedire",
+        "gloss": "they sat",
+        "gram": "3 pl. pf. mid. ni-√sad"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ra̱ṇvaṃ",
+      "words": [
+       {
+        "w": "raṇvam",
+        "gloss": "delightful",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pā̭va̱kaśo̭ciṣa̱ṃ",
+      "words": [
+       {
+        "w": "pāvaka-śociṣam",
+        "gloss": "of purifying flame",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "yaji̭ṣṭhaṃ",
+      "words": [
+       {
+        "w": "yajiṣṭham",
+        "gloss": "best sacrificer",
+        "gram": "m. acc. sg. superl. √yaj"
+       }
+      ]
+     },
+     {
+      "src": "sa̱pta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "dhāma̭bhiḥ",
+      "words": [
+       {
+        "w": "dhāma-bhiḥ",
+        "gloss": "with abodes",
+        "gram": "n. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसके पास, होता के पास, जानने वाले के पास, क्रमशः वे बैठे; आनन्ददायी, पवित्र करने वाली ज्वाला वाले, सर्वश्रेष्ठ यजन करने वाले के पास, सात धामों के साथ।",
+  "english": "They sat down by him, the Hotṛ priest, in succession, the knowing one, the delightful one, of purifying flame, the best sacrificer, with seven abodes.",
+  "text_flags": [],
+  "notes": "ni-√sad with the accusative is rendered \"sat down by\"; \"by\" is the nearest natural English for the accusative object. dhāmabhiḥ is \"with abodes\"; the construction (whose abodes, who sit) is not stated.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śaśva̭tīṣu",
+      "words": [
+       {
+        "w": "śaśvatīṣu",
+        "gloss": "among the ever-renewed",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mā̱tṛṣu̱",
+      "words": [
+       {
+        "w": "mātṛṣu",
+        "gloss": "among the mothers",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vana̱",
+      "words": [
+       {
+        "w": "vane",
+        "gloss": "in the wood",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vī̱tamaśri̭tam",
+      "words": [
+       {
+        "w": "vītam",
+        "gloss": "pursued, desired",
+        "gram": "m. acc. sg. ppp. √vī"
+       },
+       {
+        "w": "aśritam",
+        "gloss": "not attached",
+        "gram": "m. acc. sg. ppp. a-√śri"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ci̱traṃ",
+      "words": [
+       {
+        "w": "citram",
+        "gloss": "wondrous",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "santa̱ṃ",
+      "words": [
+       {
+        "w": "santam",
+        "gloss": "being",
+        "gram": "m. acc. sg. pres. part. √as"
+       }
+      ]
+     },
+     {
+      "src": "guhā̭",
+      "words": [
+       {
+        "w": "guhā",
+        "gloss": "in the hiding place",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi̱taṃ",
+      "words": [
+       {
+        "w": "hitam",
+        "gloss": "placed",
+        "gram": "m. acc. sg. ppp. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "su̱veda̭ṃ",
+      "words": [
+       {
+        "w": "suvedam",
+        "gloss": "easy to find",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kūcida̱rthina̭m",
+      "words": [
+       {
+        "w": "kūcit-arthinam",
+        "gloss": "a seeker anywhere",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसे, सदा नई माताओं में, वन में, पीछा किया गया, अनासक्त; विचित्र होते हुए, गुफा में रखे हुए, सरलता से पाए जाने वाले, कहीं भी चाहने वाले को।",
+  "english": "Him, among the ever-renewed mothers, in the wood, pursued, not attached; being wondrous, placed in the hiding place, easy to find, a seeker anywhere.",
+  "text_flags": [],
+  "notes": "Line a is unclear to me: \"vana ā\" is read as vane ā; whether ā goes with vītam (ā-√vī) or stands alone is not settled; vītam could also mean \"enjoyed\". aśritam \"not attached/resorted to\". kūcid-arthinam is taken as an adjective agreeing with tam (\"a seeker anywhere\"); the relation of this to suvedam is uncertain. Nothing is supplied beyond the literal words.",
+  "confidence": "low"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa̱sasya̱",
+      "words": [
+       {
+        "w": "sasasya",
+        "gloss": "of the sleeper (form uncertain)",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viyṷtā̱",
+      "words": [
+       {
+        "w": "viyutā",
+        "gloss": "separated",
+        "gram": "n. nom. pl. ppp. vi-√yu"
+       }
+      ]
+     },
+     {
+      "src": "sasmi̱nnūdha̭nnṛ̱tasya̱",
+      "words": [
+       {
+        "w": "sasmin",
+        "gloss": "in sleep (form uncertain)",
+        "gram": "loc. sg."
+       },
+       {
+        "w": "ūdhan",
+        "gloss": "in the udder",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "ṛtasya",
+        "gloss": "of order",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhāma̭n",
+      "words": [
+       {
+        "w": "dhāman",
+        "gloss": "in the seat",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ra̱ṇaya̭nta",
+      "words": [
+       {
+        "w": "raṇayanta",
+        "gloss": "took delight",
+        "gram": "3 pl. impf. mid. √raṇ (caus.)"
+       }
+      ]
+     },
+     {
+      "src": "de̱vāḥ",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "the gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ma̱hā~",
+      "words": [
+       {
+        "w": "mahān",
+        "gloss": "great",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱gnirnama̭sā",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "namasā",
+        "gloss": "with homage",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rā̱taha̭vyo̱",
+      "words": [
+       {
+        "w": "rāta-havyaḥ",
+        "gloss": "to whom the oblation has been given",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vera̭dhva̱rāya̱",
+      "words": [
+       {
+        "w": "veḥ",
+        "gloss": "goes after, is eager",
+        "gram": "3 sg. inj. √vī"
+       },
+       {
+        "w": "adhvarāya",
+        "gloss": "for the rite",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "sada̱midṛ̱tāvā̭",
+      "words": [
+       {
+        "w": "sadam",
+        "gloss": "always",
+        "gram": "ind."
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "ṛtāvā",
+        "gloss": "keeper of order",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब सोने वाले के अलग हुए, सोए हुए में, थन में, ऋत के स्थान में देवों ने आनन्द पाया; महान् अग्नि, नमस्कार से, जिसे हवि दी गई है, यज्ञ के लिए सदा ही उत्सुक है, ऋत का रक्षक।",
+  "english": "When the separated ones of the sleeper, in sleep, in the udder, in the seat of order, the gods took delight; great Agni, with homage, to whom the oblation has been given, is eager indeed always for the rite, the keeper of order.",
+  "text_flags": [],
+  "notes": "Line a is obscure to me (sasasya, sasmin, viyutā); the rendering is literal and the forms are uncertain. raṇayanta: the usual sense \"took delight\" is used. In line b veḥ is read as 3 sg. of √vī (\"goes after, is eager\") with dative adhvarāya; the same form opens 4.7.8. rāta-havya is taken as a bahuvrīhi with a passive participle.",
+  "confidence": "low"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vera̭dhva̱rasya̭",
+      "words": [
+       {
+        "w": "veḥ",
+        "gloss": "pursues",
+        "gram": "3 sg. inj. √vī"
+       },
+       {
+        "w": "adhvarasya",
+        "gloss": "of the rite",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dū̱tyā̭ni",
+      "words": [
+       {
+        "w": "dūtyāni",
+        "gloss": "messenger-tasks",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vi̱dvānu̱bhe",
+      "words": [
+       {
+        "w": "vidvān",
+        "gloss": "knowing",
+        "gram": "m. nom. sg. pf. part. √vid"
+       },
+       {
+        "w": "ubhe",
+        "gloss": "both",
+        "gram": "n. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "a̱ntā",
+      "words": [
+       {
+        "w": "antā",
+        "gloss": "ends",
+        "gram": "n. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "roda̭sī",
+      "words": [
+       {
+        "w": "rodasī",
+        "gloss": "the two worlds",
+        "gram": "n. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "saṃciki̱tvān",
+      "words": [
+       {
+        "w": "saṃcikitvān",
+        "gloss": "perceiving well",
+        "gram": "m. nom. sg. pf. part. sam-√cit"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dū̱ta",
+      "words": [
+       {
+        "w": "dūtaḥ",
+        "gloss": "messenger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ī̭yase",
+      "words": [
+       {
+        "w": "īyase",
+        "gloss": "you go",
+        "gram": "2 sg. pres. mid. √i"
+       }
+      ]
+     },
+     {
+      "src": "pra̱diva̭",
+      "words": [
+       {
+        "w": "pradivaḥ",
+        "gloss": "from of old",
+        "gram": "ind. (abl.)"
+       }
+      ]
+     },
+     {
+      "src": "urā̱ṇo",
+      "words": [
+       {
+        "w": "urāṇaḥ",
+        "gloss": "spreading wide (sense uncertain)",
+        "gram": "m. nom. sg. pres. part."
+       }
+      ]
+     },
+     {
+      "src": "vi̱duṣṭa̭ro",
+      "words": [
+       {
+        "w": "viduṣṭaraḥ",
+        "gloss": "more knowing",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "di̱va",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of heaven",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā̱rodha̭nāni",
+      "words": [
+       {
+        "w": "ārodhanāni",
+        "gloss": "ascents",
+        "gram": "n. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यज्ञ के दूत-कार्यों का अनुसरण करता है, जानते हुए, दोनों छोरों को, दोनों लोकों को भली-भाँति समझते हुए; दूत के रूप में तुम पुरातन काल से, व्यापक रूप से फैलते हुए, अधिक जानने वाले, द्युलोक की चढ़ाइयों की ओर जाते हो।",
+  "english": "He pursues the messenger-tasks of the rite, knowing, perceiving well both ends, the two worlds; as messenger you go from of old, spreading wide, more knowing, to the ascents of heaven.",
+  "text_flags": [],
+  "notes": "veḥ is read as 3 sg. of √vī taking the accusative dūtyāni; the person shifts to the second person in line b (īyase), as often in Vedic address. urāṇaḥ: the participle and its root are not clear to me; \"spreading wide\" is a guess and should be checked. viduṣṭaraḥ = viduḥ-taraḥ (comparative of vidvas). ubhe antā \"both ends\" taken with rodasī in apposition.",
+  "confidence": "low"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kṛ̱ṣṇaṃ",
+      "words": [
+       {
+        "w": "kṛṣṇam",
+        "gloss": "black",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. (pron. 2 sg.)"
+       }
+      ]
+     },
+     {
+      "src": "ema̱",
+      "words": [
+       {
+        "w": "emaḥ",
+        "gloss": "course",
+        "gram": "m. nom. sg. (visarga lost before r)"
+       }
+      ]
+     },
+     {
+      "src": "ruśa̭taḥ",
+      "words": [
+       {
+        "w": "ruśataḥ",
+        "gloss": "bright",
+        "gram": "m. gen. sg. (or nom. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "pu̱ro",
+      "words": [
+       {
+        "w": "puraḥ",
+        "gloss": "in front",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhāśca̭ri̱ṣṇva1rcirvapṷṣā̱mideka̭m",
+      "words": [
+       {
+        "w": "bhāḥ",
+        "gloss": "radiance",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "cariṣṇu",
+        "gloss": "moving",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "arciḥ",
+        "gloss": "flame",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "vapuṣām",
+        "gloss": "of bodies",
+        "gram": "n. gen. pl."
+       },
+       {
+        "w": "it",
+        "gloss": "only",
+        "gram": "ind."
+       },
+       {
+        "w": "ekam",
+        "gloss": "one",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yadapra̭vītā̱",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "apravītāḥ",
+        "gloss": "unurged ones",
+        "gram": "f. nom. pl. ppp. a-pra-√vī"
+       }
+      ]
+     },
+     {
+      "src": "dadha̭te",
+      "words": [
+       {
+        "w": "dadhate",
+        "gloss": "they bear",
+        "gram": "3 pl. pres. mid. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "ha̱",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "garbha̭ṃ",
+      "words": [
+       {
+        "w": "garbham",
+        "gloss": "embryo",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱dyaści̭jjā̱to",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       },
+       {
+        "w": "cit",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "jātaḥ",
+        "gloss": "born",
+        "gram": "m. nom. sg. ppp. √jan"
+       }
+      ]
+     },
+     {
+      "src": "bhava̱sīdṷ",
+      "words": [
+       {
+        "w": "bhavasi",
+        "gloss": "you become",
+        "gram": "2 sg. pres. √bhū"
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dū̱taḥ",
+      "words": [
+       {
+        "w": "dūtaḥ",
+        "gloss": "messenger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "काला तुम्हारा मार्ग है, उज्ज्वल आगे की दीप्ति, चलती हुई ज्वाला, शरीरों में केवल एक; जब अप्रेरित हुई गर्भ को धारण करती हैं, तुरन्त ही उत्पन्न होकर तुम दूत बन जाते हो।",
+  "english": "Black is your course, bright the radiance in front, the moving flame, only one of bodies; when the unurged ones bear the embryo, at once, born, you become the messenger.",
+  "text_flags": [],
+  "notes": "Line a is uncertain: kṛṣṇam (n.) and emaḥ (m.) do not agree, so \"black is your course\" is a loose reading; ruśataḥ could be genitive (of the bright one) or nominative; vapuṣām id ekam \"only one of bodies\" is literal. In line b apravītāḥ is f. pl. \"unurged ones\"; who they are is not stated and nothing is supplied. The Hindi keeps the feminine plural without naming who they are.",
+  "confidence": "low"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa̱dyo",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jā̱tasya̱",
+      "words": [
+       {
+        "w": "jātasya",
+        "gloss": "of the newborn",
+        "gram": "m. gen. sg. ppp. √jan"
+       }
+      ]
+     },
+     {
+      "src": "dadṛ̭śāna̱mojo̱",
+      "words": [
+       {
+        "w": "dadṛśānam",
+        "gloss": "seen",
+        "gram": "n. nom. sg. pf. part. pass. √dṛś"
+       },
+       {
+        "w": "ojaḥ",
+        "gloss": "strength",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yada̭sya̱",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāto̭",
+      "words": [
+       {
+        "w": "vātaḥ",
+        "gloss": "wind",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anu̱vāti̭",
+      "words": [
+       {
+        "w": "anu-vāti",
+        "gloss": "blows after",
+        "gram": "3 sg. pres. anu-√vā"
+       }
+      ]
+     },
+     {
+      "src": "śo̱ciḥ",
+      "words": [
+       {
+        "w": "śociḥ",
+        "gloss": "flame",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vṛ̱ṇakti̭",
+      "words": [
+       {
+        "w": "vṛṇakti",
+        "gloss": "turns",
+        "gram": "3 sg. pres. √vṛj"
+       }
+      ]
+     },
+     {
+      "src": "ti̱gmāma̭ta̱seṣṷ",
+      "words": [
+       {
+        "w": "tigmām",
+        "gloss": "sharp",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ataseṣu",
+        "gloss": "in the brushwood",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ji̱hvāṃ",
+      "words": [
+       {
+        "w": "jihvām",
+        "gloss": "tongue",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthi̱rā",
+      "words": [
+       {
+        "w": "sthirā",
+        "gloss": "firm",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ci̱dannā̭",
+      "words": [
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "annā",
+        "gloss": "foods",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dayate̱",
+      "words": [
+       {
+        "w": "dayate",
+        "gloss": "divides",
+        "gram": "3 sg. pres. mid. √day"
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "jambhai̭:",
+      "words": [
+       {
+        "w": "jambhaiḥ",
+        "gloss": "with jaws",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुरन्त उत्पन्न हुए का बल दिखाई देता है, जब उसकी ज्वाला के पीछे वायु बहती है; वह तीखी जीभ को झाड़ियों में घुमाता है; दृढ़ अन्नों को भी वह जबड़ों से अलग-अलग बाँट देता है।",
+  "english": "At once the strength of the newborn is seen, when the wind blows after his flame; he turns his sharp tongue in the brushwood; even the firm foods he divides apart with his jaws.",
+  "text_flags": [],
+  "notes": "śociḥ is neuter nominative/accusative; taken as the object of anu-vāti (\"blows after the flame\"). atasa \"brushwood\" is the usual rendering. dayate (√day) \"divides, apportions\" is used with vi; \"tears apart\" is possible. dadṛśānam is the perfect participle used with passive sense.",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tṛ̱ṣu",
+      "words": [
+       {
+        "w": "tṛṣu",
+        "gloss": "greedily",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yadannā̭",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "annā",
+        "gloss": "foods",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tṛ̱ṣuṇā̭",
+      "words": [
+       {
+        "w": "tṛṣuṇā",
+        "gloss": "with the greedy one",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̱vakṣa̭",
+      "words": [
+       {
+        "w": "vavakṣa",
+        "gloss": "has grown",
+        "gram": "3 sg. pf. √vakṣ"
+       }
+      ]
+     },
+     {
+      "src": "tṛ̱ṣuṃ",
+      "words": [
+       {
+        "w": "tṛṣum",
+        "gloss": "the greedy one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dū̱taṃ",
+      "words": [
+       {
+        "w": "dūtam",
+        "gloss": "messenger",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̭ṇute",
+      "words": [
+       {
+        "w": "kṛṇute",
+        "gloss": "makes",
+        "gram": "3 sg. pres. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "ya̱hvo",
+      "words": [
+       {
+        "w": "yahvaḥ",
+        "gloss": "youthful",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱gniḥ",
+      "words": [
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vāta̭sya",
+      "words": [
+       {
+        "w": "vātasya",
+        "gloss": "of the wind",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "me̱ḻiṃ",
+      "words": [
+       {
+        "w": "meḻim",
+        "gloss": "rush (sense uncertain)",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭cate",
+      "words": [
+       {
+        "w": "sacate",
+        "gloss": "follows",
+        "gram": "3 sg. pres. mid. √sac"
+       }
+      ]
+     },
+     {
+      "src": "ni̱jūrva̭nnā̱śuṃ",
+      "words": [
+       {
+        "w": "nijūrvan",
+        "gloss": "burning down",
+        "gram": "m. nom. sg. pres. part. ni-√jūrv"
+       },
+       {
+        "w": "āśum",
+        "gloss": "swift one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̭jayate",
+      "words": [
+       {
+        "w": "vājayate",
+        "gloss": "for the prize-seeker",
+        "gram": "m. dat. sg. pres. part. √vāj"
+       }
+      ]
+     },
+     {
+      "src": "hi̱nve",
+      "words": [
+       {
+        "w": "hinve",
+        "gloss": "is urged on",
+        "gram": "3 sg. pres. pass. √hi"
+       }
+      ]
+     },
+     {
+      "src": "arvā̭",
+      "words": [
+       {
+        "w": "arvā",
+        "gloss": "steed",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब लालची के साथ वह अन्नों पर लालसापूर्वक बढ़ा है, तब युवा अग्नि लालची को दूत बनाता है; वह वायु के वेग का अनुसरण करता है, भस्म करता हुआ; तीव्र जैसे को, पुरस्कार चाहने वाले के लिए, घोड़ा प्रेरित किया जाता है।",
+  "english": "When greedily he has grown on foods with the greedy one, the youthful Agni makes the greedy one the messenger. He follows the rush of the wind, burning down; like a swift one, for the prize-seeker the steed is urged on.",
+  "text_flags": [],
+  "notes": "This verse is hard and the rendering is tentative. vavakṣa is read as perfect of √vakṣ \"grow\"; tṛṣu / tṛṣuṇā / tṛṣum are taken as forms of tṛṣu \"greedy\" (adverb, instrumental, accusative) without deciding who the greedy one is. meḻim is unclear (its meaning and even its reading are doubtful). nijūrvan \"burning down, consuming\". Line b's second half (āśuṃ na vājayate hinve arvā) is read as a comparison with an urged steed; the case of āśum and vājayate is uncertain.",
+  "confidence": "low"
+ }
+]

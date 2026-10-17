@@ -1,0 +1,1031 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ma̱hī",
+      "words": [
+       {
+        "w": "mahī",
+        "gloss": "great",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dyāvā̭pṛthi̱vī",
+      "words": [
+       {
+        "w": "dyāvā-pṛthivī",
+        "gloss": "Heaven and Earth",
+        "gram": "dvandva, f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "i̱ha",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jyeṣṭhḙ",
+      "words": [
+       {
+        "w": "jyeṣṭhe",
+        "gloss": "foremost",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ru̱cā",
+      "words": [
+       {
+        "w": "rucā",
+        "gloss": "with brightness",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "bha̭vatāṃ",
+      "words": [
+       {
+        "w": "bhavatām",
+        "gloss": "let them be",
+        "gram": "3 du. impv. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "śu̱caya̭dbhira̱rkaiḥ",
+      "words": [
+       {
+        "w": "śucadbhiḥ",
+        "gloss": "shining",
+        "gram": "m. inst. pl. pres. part. √śuc"
+       },
+       {
+        "w": "arkaiḥ",
+        "gloss": "with hymns",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sī̭ṃ",
+      "words": [
+       {
+        "w": "sīm",
+        "gloss": "them",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "vari̭ṣṭhe",
+      "words": [
+       {
+        "w": "variṣṭhe",
+        "gloss": "widest",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "bṛha̱tī",
+      "words": [
+       {
+        "w": "bṛhatī",
+        "gloss": "lofty",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "vi̭mi̱nvan",
+      "words": [
+       {
+        "w": "viminvan",
+        "gloss": "measuring out",
+        "gram": "m. nom. sg. pres. part. vi-√mi, form uncertain"
+       }
+      ]
+     },
+     {
+      "src": "ru̱vaddho̱kṣā",
+      "words": [
+       {
+        "w": "ruvat",
+        "gloss": "roaring",
+        "gram": "m. nom. sg. pres. part. √ru"
+       },
+       {
+        "w": "ha",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "ukṣā",
+        "gloss": "bull",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̭prathā̱nebhi̱revai̭:",
+      "words": [
+       {
+        "w": "paprathānebhiḥ",
+        "gloss": "spread out",
+        "gram": "pf. part. mid. inst. pl. √prath"
+       },
+       {
+        "w": "evaiḥ",
+        "gloss": "with courses",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "महान् द्यावापृथिवी यहाँ सर्वश्रेष्ठ होकर तेज से और चमकते हुए स्तोत्रों से युक्त हों, जब गरजता हुआ वृषभ उन दोनों को, जो सबसे विस्तृत और ऊँची हैं, मापता हुआ फैलते हुए मार्गों के साथ।",
+  "english": "Let great Heaven and Earth, the foremost here, be with brightness, with shining hymns, when the roaring bull, measuring out the two widest lofty ones, with spreading courses.",
+  "text_flags": [],
+  "notes": "Uncertain. viminvan may be a participle (as taken, qualifying ukṣā) or a 3 pl. past ('they measured out'); the clause has no finite verb as read. ruvad-ho-kṣā read as ruvat + ha + ukṣā. The bull is not identified. evaiḥ 'courses' (eva) is a literal rendering.",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "de̱vī",
+      "words": [
+       {
+        "w": "devī",
+        "gloss": "goddesses",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "de̱vebhi̭ryaja̱te",
+      "words": [
+       {
+        "w": "devebhiḥ",
+        "gloss": "with the gods",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "yajate",
+        "gloss": "worshipful",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "yaja̭trai̱rami̭natī",
+      "words": [
+       {
+        "w": "yajatraiḥ",
+        "gloss": "with the worshipful",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "aminatī",
+        "gloss": "not infringing",
+        "gram": "f. nom. du. pres. part. a-√mī"
+       }
+      ]
+     },
+     {
+      "src": "tasthaturu̱kṣamā̭ṇe",
+      "words": [
+       {
+        "w": "tasthatuḥ",
+        "gloss": "have stood",
+        "gram": "3 du. pf. √sthā"
+       },
+       {
+        "w": "ukṣamāṇe",
+        "gloss": "sprinkling",
+        "gram": "f. nom. du. pres. part. mid. √ukṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ṛ̱tāva̭rī",
+      "words": [
+       {
+        "w": "ṛtāvarī",
+        "gloss": "keepers of order",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "a̱druhā̭",
+      "words": [
+       {
+        "w": "adruhā",
+        "gloss": "free from deceit",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "de̱vapṷtre",
+      "words": [
+       {
+        "w": "deva-putre",
+        "gloss": "having gods as sons",
+        "gram": "bahuvrīhi, f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñasya̭",
+      "words": [
+       {
+        "w": "yajñasya",
+        "gloss": "of the sacrifice",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ne̱trī",
+      "words": [
+       {
+        "w": "netrī",
+        "gloss": "leaders",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "śu̱caya̭dbhira̱rkaiḥ",
+      "words": [
+       {
+        "w": "śucadbhiḥ",
+        "gloss": "shining",
+        "gram": "m. inst. pl. pres. part. √śuc"
+       },
+       {
+        "w": "arkaiḥ",
+        "gloss": "with hymns",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों देवियाँ, पूजनीय, देवों के साथ, पूज्यों के साथ, हानि न पहुँचाती हुई, सींचती हुई खड़ी हैं; ऋत की रक्षक, द्रोहरहित, देवों को पुत्र रखने वाली, यज्ञ की नेत्रियाँ, चमकते हुए स्तोत्रों के साथ।",
+  "english": "The two goddesses, worshipful, with the gods, with the worshipful ones, not infringing, have stood sprinkling; keepers of order, free from deceit, having gods as sons, leaders of the sacrifice, with shining hymns.",
+  "text_flags": [],
+  "notes": "yajate read as f. dual adjective (not a singular verb), agreeing with devī (du.). ukṣamāṇe: √ukṣ 'sprinkle' (moistening/being sprinkled) is uncertain in sense. aminatī 'not infringing' (also 'not diminishing'). The two goddesses are not named in the verse; read as Heaven and Earth only from context of the hymn.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "it",
+      "words": [
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svapā̱",
+      "words": [
+       {
+        "w": "su-apāḥ",
+        "gloss": "doing good works",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhuva̭neṣvāsa̱",
+      "words": [
+       {
+        "w": "bhuvaneṣu",
+        "gloss": "in the worlds",
+        "gram": "n. loc. pl."
+       },
+       {
+        "w": "āsa",
+        "gloss": "has been",
+        "gram": "3 sg. pf. √as"
+       }
+      ]
+     },
+     {
+      "src": "ya",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "i̱me",
+      "words": [
+       {
+        "w": "ime",
+        "gloss": "these",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "dyāvā̭pṛthi̱vī",
+      "words": [
+       {
+        "w": "dyāvā-pṛthivī",
+        "gloss": "Heaven and Earth",
+        "gram": "dvandva, f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "ja̱jāna̭",
+      "words": [
+       {
+        "w": "jajāna",
+        "gloss": "has begotten",
+        "gram": "3 sg. pf. √jan"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "u̱rvī",
+      "words": [
+       {
+        "w": "urvī",
+        "gloss": "wide",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "ga̭bhī̱re",
+      "words": [
+       {
+        "w": "gabhīre",
+        "gloss": "deep",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "raja̭sī",
+      "words": [
+       {
+        "w": "rajasī",
+        "gloss": "the two realms",
+        "gram": "n. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "su̱mekḙ",
+      "words": [
+       {
+        "w": "sumeke",
+        "gloss": "well-fixed",
+        "gram": "f. acc. du., form uncertain"
+       }
+      ]
+     },
+     {
+      "src": "ava̱ṃśe",
+      "words": [
+       {
+        "w": "avaṃśe",
+        "gloss": "unsupported",
+        "gram": "f. acc. du., form uncertain"
+       }
+      ]
+     },
+     {
+      "src": "dhīra̱:",
+      "words": [
+       {
+        "w": "dhīraḥ",
+        "gloss": "wise",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śacyā̱",
+      "words": [
+       {
+        "w": "śacyā",
+        "gloss": "by skill",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "samai̭rat",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "airat",
+        "gloss": "set in motion",
+        "gram": "3 sg. impf. sam-√īr"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वही निश्चय ही लोकों में उत्तम कार्य करने वाला रहा है, जिसने इन द्यावापृथिवी को उत्पन्न किया। विस्तृत, गहरे, भली-भाँति स्थापित, आधाररहित दोनों लोकों को बुद्धिमान् ने कौशल से गति दी।",
+  "english": "He indeed has been the doer of good works in the worlds, who has begotten these Heaven and Earth. The wise one set in motion by skill the two wide, deep realms, well-fixed, unsupported.",
+  "text_flags": [],
+  "notes": "sumeke and avaṃśe are rare words: 'well-fixed' and 'unsupported' are the most literal guesses, forms uncertain. sam airat taken as 'set in motion' (sam-√īr). su-apas = 'doing good works' (apas = works).",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nū",
+      "words": [
+       {
+        "w": "nū",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ro̭dasī",
+      "words": [
+       {
+        "w": "rodasī",
+        "gloss": "O two worlds",
+        "gram": "f. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "bṛ̱hadbhi̭rno̱",
+      "words": [
+       {
+        "w": "bṛhadbhiḥ",
+        "gloss": "with great",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "1 pl. acc."
+       }
+      ]
+     },
+     {
+      "src": "varṷ̄thai̱:",
+      "words": [
+       {
+        "w": "varūthaiḥ",
+        "gloss": "with shelters",
+        "gram": "n. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "patnī̭vadbhiri̱ṣaya̭ntī",
+      "words": [
+       {
+        "w": "patnī-vadbhiḥ",
+        "gloss": "with consorts",
+        "gram": "bahuvrīhi, n. inst. pl."
+       },
+       {
+        "w": "iṣayantī",
+        "gloss": "refreshing",
+        "gram": "f. nom. du. pres. part. caus. √iṣ"
+       }
+      ]
+     },
+     {
+      "src": "sa̱joṣā̭:",
+      "words": [
+       {
+        "w": "sajoṣāḥ",
+        "gloss": "in accord",
+        "gram": "adj. nom., number does not match rodasī, form uncertain"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "u̱rū̱cī",
+      "words": [
+       {
+        "w": "urūcī",
+        "gloss": "wide-reaching",
+        "gram": "f. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "viśvḙ",
+      "words": [
+       {
+        "w": "viśve",
+        "gloss": "all",
+        "gram": "f. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "yaja̱te",
+      "words": [
+       {
+        "w": "yajate",
+        "gloss": "worshipful",
+        "gram": "f. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "protectively",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "pā̭taṃ",
+      "words": [
+       {
+        "w": "pātam",
+        "gloss": "protect",
+        "gram": "2 du. impv. √pā"
+       }
+      ]
+     },
+     {
+      "src": "dhi̱yā",
+      "words": [
+       {
+        "w": "dhiyā",
+        "gloss": "by thought",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "syā̭ma",
+      "words": [
+       {
+        "w": "syāma",
+        "gloss": "may we be",
+        "gram": "1 pl. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "ra̱thya̭:",
+      "words": [
+       {
+        "w": "rathyaḥ",
+        "gloss": "charioteers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sadā̱sāḥ",
+      "words": [
+       {
+        "w": "sadāsāḥ",
+        "gloss": "always gaining",
+        "gram": "m. nom. pl., form uncertain"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब हे दोनों लोक, हमें महान् शरणों से, पत्नियों से युक्त शरणों से स्फूर्ति देते हुए, समान प्रीति वाले, विस्तृत गति वाले, सब, पूजनीय, रक्षा करो; बुद्धि से हम रथी और सदा विजय पाने वाले हों।",
+  "english": "Now, O two worlds, refreshing us with great shelters, with shelters that have consorts, in accord, wide-reaching, all, worshipful ones, protect; by thought may we be charioteers, always gaining.",
+  "text_flags": [],
+  "notes": "The syntax is read as: rodasī (voc.) ... iṣayantī governs naḥ; patnīvadbhiḥ qualifies varūthaiḥ ('having consorts'), meaning unclear. sajoṣāḥ is a nominative that does not match the dual; sadāsāḥ is an uncertain form ('always gaining' is a guess); rathyaḥ 'charioteers' (also 'chariot-owners'). ni pātam has no stated object.",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "vā̱ṃ",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "to you two",
+        "gram": "2 du. dat./acc."
+       }
+      ]
+     },
+     {
+      "src": "mahi̱",
+      "words": [
+       {
+        "w": "mahi",
+        "gloss": "O great",
+        "gram": "f. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "dyavī̭",
+      "words": [
+       {
+        "w": "dyavī",
+        "gloss": "O two heavens",
+        "gram": "f. voc. du., form uncertain"
+       }
+      ]
+     },
+     {
+      "src": "a̱bhyupa̭stutiṃ",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "to",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "upastutim",
+        "gloss": "praise",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bharāmahe",
+      "words": [
+       {
+        "w": "bharāmahe",
+        "gloss": "we bring",
+        "gram": "1 pl. pres. mid. √bhṛ"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "śucī̱",
+      "words": [
+       {
+        "w": "śucī",
+        "gloss": "O shining ones",
+        "gram": "f. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "upa̱",
+      "words": [
+       {
+        "w": "upa",
+        "gloss": "toward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "praśa̭staye",
+      "words": [
+       {
+        "w": "praśastaye",
+        "gloss": "for glorification",
+        "gram": "f. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे महान् दो द्युलोको, हम तुम दोनों के लिए स्तुति लाते हैं; हे चमकने वाली दोनों, महिमा-गान के निमित्त।",
+  "english": "To you two, O great two heavens, we bring praise; O shining ones, toward glorification.",
+  "text_flags": [],
+  "notes": "dyavī is an unusual dual form, taken as the pair addressed in the preceding verses (Heaven and Earth); rendered literally as 'two heavens'. The placing of upa is uncertain (it may go with bharāmahe).",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pu̱nā̱ne",
+      "words": [
+       {
+        "w": "punāne",
+        "gloss": "purifying",
+        "gram": "f. nom. du. pres. part. mid. √pū"
+       }
+      ]
+     },
+     {
+      "src": "ta̱nvā̭",
+      "words": [
+       {
+        "w": "tanvā",
+        "gloss": "with the body",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mi̱thaḥ",
+      "words": [
+       {
+        "w": "mithaḥ",
+        "gloss": "mutually",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svena̱",
+      "words": [
+       {
+        "w": "svena",
+        "gloss": "own",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "dakṣḙṇa",
+      "words": [
+       {
+        "w": "dakṣeṇa",
+        "gloss": "by ability",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "rājathaḥ",
+      "words": [
+       {
+        "w": "rājathaḥ",
+        "gloss": "you two shine",
+        "gram": "2 du. pres. √rāj"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ū̱hyāthḙ",
+      "words": [
+       {
+        "w": "ūhyāthe",
+        "gloss": "you two carry on",
+        "gram": "2 du. pres. mid. √ūh, form uncertain"
+       }
+      ]
+     },
+     {
+      "src": "sa̱nādṛ̱tam",
+      "words": [
+       {
+        "w": "sanāt",
+        "gloss": "from of old",
+        "gram": "ind."
+       },
+       {
+        "w": "ṛtam",
+        "gloss": "order",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "एक-दूसरे को शुद्ध करती हुई, शरीर से, अपनी क्षमता से तुम दोनों शोभित होती हो; तुम दोनों पुरातन काल से ऋत को वहन करती हो।",
+  "english": "Purifying each other with the body, you two shine by own ability; you two carry on the order from of old.",
+  "text_flags": [],
+  "notes": "ūhyāthe is of uncertain root and voice (√ūh 'push, carry' or a passive of √vah); 'carry on' is a literal guess. The pair addressed is not named in the verse. 'mithaḥ' taken as 'mutually, each other'.",
+  "confidence": "low"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ma̱hī",
+      "words": [
+       {
+        "w": "mahī",
+        "gloss": "great",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "mi̱trasya̭",
+      "words": [
+       {
+        "w": "mitrasya",
+        "gloss": "of Mitra",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sādhatha̱stara̭ntī̱",
+      "words": [
+       {
+        "w": "sādhathaḥ",
+        "gloss": "you two accomplish",
+        "gram": "2 du. pres. √sādh"
+       },
+       {
+        "w": "tarantī",
+        "gloss": "crossing",
+        "gram": "f. nom. du. pres. part. √tṝ"
+       }
+      ]
+     },
+     {
+      "src": "pipra̭tī",
+      "words": [
+       {
+        "w": "pipratī",
+        "gloss": "filling",
+        "gram": "f. nom. du. pres. part. √pṝ"
+       }
+      ]
+     },
+     {
+      "src": "ṛ̱tam",
+      "words": [
+       {
+        "w": "ṛtam",
+        "gloss": "order",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñaṃ",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ṣḙdathuḥ",
+      "words": [
+       {
+        "w": "ṣedathuḥ",
+        "gloss": "you two have sat",
+        "gram": "2 du. pf. √sad"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "महान् दोनों, तुम मित्र से सम्बन्धित को सिद्ध करती हो, पार जाती हुई, ऋत को भरती हुई; तुम दोनों ने यज्ञ के चारों ओर आसन ग्रहण किया है।",
+  "english": "Great ones, you two accomplish what is of Mitra, crossing, filling the order; you two have sat down around the sacrifice.",
+  "text_flags": [],
+  "notes": "mitrasya has no noun it governs; 'what is of Mitra' is the minimal literal rendering (mitra could also be 'friend'). tarantī / pipratī: 'crossing' / 'filling' are literal; the object of pipratī is taken as ṛtam. ni ṣedathuḥ: 2 du. perfect of √sad.",
+  "confidence": "low"
+ }
+]

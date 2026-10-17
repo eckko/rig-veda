@@ -1,0 +1,606 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱daṃ",
+      "words": [
+       {
+        "w": "idam",
+        "gloss": "this",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̭mā̱syḙ",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "for you two",
+        "gram": "2 du. dat. (gen.) enclitic"
+       },
+       {
+        "w": "āsye",
+        "gloss": "in the mouth",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ha̱viḥ",
+      "words": [
+       {
+        "w": "haviḥ",
+        "gloss": "oblation",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pri̱yami̭ndrābṛhaspatī",
+      "words": [
+       {
+        "w": "priyam",
+        "gloss": "dear",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "indrā-bṛhaspatī",
+        "gloss": "Indra and Bṛhaspati",
+        "gram": "m. voc. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "u̱kthaṃ",
+      "words": [
+       {
+        "w": "uktham",
+        "gloss": "hymn",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mada̭śca",
+      "words": [
+       {
+        "w": "madaḥ",
+        "gloss": "exhilaration",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śasyate",
+      "words": [
+       {
+        "w": "śasyate",
+        "gloss": "is recited",
+        "gram": "3 sg. pres. pass. √śaṃs"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र और बृहस्पति, यह प्रिय हवि आप दोनों के लिए मुख में है; स्तोत्र और मद का उच्चारण किया जाता है।",
+  "english": "This dear oblation is in the mouth for you two, O Indra and Bṛhaspati; hymn and exhilaration are recited.",
+  "text_flags": [],
+  "notes": "No verb in the first half-verse; \"is\" is the copula. vām may be read as dative (\"for you two\") or genitive (\"your\"), and āsye as \"in the mouth\"; the exact construction of vām āsye is uncertain. mada = exhilaration (mada).",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱yaṃ",
+      "words": [
+       {
+        "w": "ayam",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̱ṃ",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "for you two",
+        "gram": "2 du. dat. (gen.) enclitic"
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣicyate̱",
+      "words": [
+       {
+        "w": "sicyate",
+        "gloss": "is poured",
+        "gram": "3 sg. pres. pass. √sic"
+       }
+      ]
+     },
+     {
+      "src": "soma̭",
+      "words": [
+       {
+        "w": "somaḥ",
+        "gloss": "Soma",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "indrābṛhaspatī",
+      "words": [
+       {
+        "w": "indrā-bṛhaspatī",
+        "gloss": "Indra and Bṛhaspati",
+        "gram": "m. voc. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "cāru̱rmadā̭ya",
+      "words": [
+       {
+        "w": "cāruḥ",
+        "gloss": "pleasing",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "madāya",
+        "gloss": "for exhilaration",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "pī̱tayḙ",
+      "words": [
+       {
+        "w": "pītaye",
+        "gloss": "for drinking",
+        "gram": "f. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र और बृहस्पति, आप दोनों के लिए यह सोम चारों ओर सींचा जाता है; प्रिय सोम मद के लिए, पीने के लिए।",
+  "english": "O Indra and Bṛhaspati, this Soma is poured around for you two; the pleasing one is for exhilaration, for drinking.",
+  "text_flags": [],
+  "notes": "The src \"ṣicyate\" follows pari with internal sandhi (s > ṣ after pari); the word is sicyate. cāruḥ is taken as qualifying Soma.",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "na̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us (our)",
+        "gram": "1 pl. dat./gen. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "indrābṛhaspatī",
+      "words": [
+       {
+        "w": "indrā-bṛhaspatī",
+        "gloss": "Indra and Bṛhaspati",
+        "gram": "m. voc. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "gṛ̱hamindra̭śca",
+      "words": [
+       {
+        "w": "gṛham",
+        "gloss": "house",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gacchatam",
+      "words": [
+       {
+        "w": "gacchatam",
+        "gloss": "go (come)",
+        "gram": "2 du. impv. √gam"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "so̱ma̱pā",
+      "words": [
+       {
+        "w": "soma-pā",
+        "gloss": "Soma-drinkers",
+        "gram": "m. voc. du. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "soma̭pītaye",
+      "words": [
+       {
+        "w": "somapītaye",
+        "gloss": "for the drinking of Soma",
+        "gram": "f. dat. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र और बृहस्पति, हमारे घर आओ, और इन्द्र भी; हे सोमपान करने वालो, सोम के पीने के लिए।",
+  "english": "Come hither to our house, O Indra and Bṛhaspati, and Indra; O Soma-drinkers, for the drinking of Soma.",
+  "text_flags": [],
+  "notes": "indraś ca (nominative Indra with ca) after the dual vocative is awkward; the translation keeps it literally and does not resolve it. na = naḥ, read as \"our\" with gṛham (could be \"to us\"). somapā is a dual vocative (Vedic -ā).",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱sme",
+      "words": [
+       {
+        "w": "asme",
+        "gloss": "to us",
+        "gram": "1 pl. dat. (loc.)"
+       }
+      ]
+     },
+     {
+      "src": "i̭ndrābṛhaspatī",
+      "words": [
+       {
+        "w": "indrā-bṛhaspatī",
+        "gloss": "Indra and Bṛhaspati",
+        "gram": "m. voc. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "ra̱yiṃ",
+      "words": [
+       {
+        "w": "rayim",
+        "gloss": "wealth",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dha̭ttaṃ",
+      "words": [
+       {
+        "w": "dhattam",
+        "gloss": "bestow",
+        "gram": "2 du. impv. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "śata̱gvina̭m",
+      "words": [
+       {
+        "w": "śata-gvinam",
+        "gloss": "hundredfold",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "aśvā̭vantaṃ",
+      "words": [
+       {
+        "w": "aśvāvantam",
+        "gloss": "rich in horses",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saha̱sriṇa̭m",
+      "words": [
+       {
+        "w": "sahasriṇam",
+        "gloss": "thousandfold",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र और बृहस्पति, हमें धन प्रदान करो, सौ गुना, घोड़ों से युक्त, हज़ार गुना।",
+  "english": "O Indra and Bṛhaspati, bestow on us wealth, hundredfold, rich in horses, thousandfold.",
+  "text_flags": [],
+  "notes": "śata-gvin is uncertain in its second member (possibly \"having cows\", from go, i.e. \"with a hundred cows\"); rendered \"hundredfold\" as the plainer reading. sahasriṇa = \"thousandfold\" (or \"with thousands\").",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "indrā̱bṛha̱spatī̭",
+      "words": [
+       {
+        "w": "indrā-bṛhaspatī",
+        "gloss": "Indra and Bṛhaspati",
+        "gram": "m. voc. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "va̱yaṃ",
+      "words": [
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "1 pl. nom."
+       }
+      ]
+     },
+     {
+      "src": "su̱te",
+      "words": [
+       {
+        "w": "sute",
+        "gloss": "at the pressing",
+        "gram": "m. loc. sg. ppp. √su"
+       }
+      ]
+     },
+     {
+      "src": "gī̱rbhirha̭vāmahe",
+      "words": [
+       {
+        "w": "gīrbhiḥ",
+        "gloss": "with hymns",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "havāmahe",
+        "gloss": "we invoke",
+        "gram": "1 pl. pres. mid. √hū"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "a̱sya",
+      "words": [
+       {
+        "w": "asya",
+        "gloss": "of this",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "soma̭sya",
+      "words": [
+       {
+        "w": "somasya",
+        "gloss": "Soma",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pī̱tayḙ",
+      "words": [
+       {
+        "w": "pītaye",
+        "gloss": "for drinking",
+        "gram": "f. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र और बृहस्पति, हम सोम के निचोड़े जाने पर स्तुतियों से आह्वान करते हैं, इस सोम के पीने के लिए।",
+  "english": "O Indra and Bṛhaspati, we invoke with hymns at the pressing, for the drinking of this Soma.",
+  "text_flags": [],
+  "notes": "sute is a locative of the participle (\"when pressed / at the pressing\"); the object of invoking is the addressed pair, not repeated.",
+  "confidence": "high"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "soma̭mindrābṛhaspatī̱",
+      "words": [
+       {
+        "w": "somam",
+        "gloss": "Soma",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "indrā-bṛhaspatī",
+        "gloss": "Indra and Bṛhaspati",
+        "gram": "m. voc. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "piba̭taṃ",
+      "words": [
+       {
+        "w": "pibatam",
+        "gloss": "drink",
+        "gram": "2 du. impv. √pā"
+       }
+      ]
+     },
+     {
+      "src": "dā̱śuṣo̭",
+      "words": [
+       {
+        "w": "dāśuṣaḥ",
+        "gloss": "of the giver",
+        "gram": "m. gen. sg. pf. part. √dāś"
+       }
+      ]
+     },
+     {
+      "src": "gṛ̱he",
+      "words": [
+       {
+        "w": "gṛhe",
+        "gloss": "in the house",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "mā̱dayḙthā̱ṃ",
+      "words": [
+       {
+        "w": "mādayethām",
+        "gloss": "rejoice",
+        "gram": "2 du. mid. impv. caus. √mad"
+       }
+      ]
+     },
+     {
+      "src": "tado̭kasā",
+      "words": [
+       {
+        "w": "tad-okasā",
+        "gloss": "having that as dwelling",
+        "gram": "m. voc. du. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र और बृहस्पति, सोम पीओ दाता के घर में; आनन्दित होओ, उसे निवास बनाने वालो।",
+  "english": "O Indra and Bṛhaspati, drink the Soma in the house of the giver; rejoice, you two who have that as dwelling.",
+  "text_flags": [],
+  "notes": "mādayethām is read as a middle dual imperative/injunctive of the causative of √mad (form somewhat uncertain). tad-okasā: \"that\" is taken to refer to the house of the giver; the compound is understood as a bahuvrīhi.",
+  "confidence": "medium"
+ }
+]

@@ -1,0 +1,1298 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "e̱ṣa",
+      "words": [
+       {
+        "w": "eṣaḥ",
+        "gloss": "this",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sya",
+      "words": [
+       {
+        "w": "syaḥ",
+        "gloss": "that very",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhā̱nurudi̭yarti",
+      "words": [
+       {
+        "w": "bhānuḥ",
+        "gloss": "light",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ud",
+        "gloss": "up",
+        "gram": "ind."
+       },
+       {
+        "w": "iyarti",
+        "gloss": "rises",
+        "gram": "3 sg. pres. √ṛ"
+       }
+      ]
+     },
+     {
+      "src": "yu̱jyate̱",
+      "words": [
+       {
+        "w": "yujyate",
+        "gloss": "is yoked",
+        "gram": "3 sg. pres. pass. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "ratha̱:",
+      "words": [
+       {
+        "w": "rathaḥ",
+        "gloss": "chariot",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pari̭jmā",
+      "words": [
+       {
+        "w": "pari-jmā",
+        "gloss": "going around",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "di̱vo",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of heaven",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱sya",
+      "words": [
+       {
+        "w": "asya",
+        "gloss": "of this",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sāna̭vi",
+      "words": [
+       {
+        "w": "sānavi",
+        "gloss": "on the ridge",
+        "gram": "loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pṛ̱kṣāso̭",
+      "words": [
+       {
+        "w": "pṛkṣāsaḥ",
+        "gloss": "nourishments",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "asmin",
+      "words": [
+       {
+        "w": "asmin",
+        "gloss": "on this",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mithu̱nā",
+      "words": [
+       {
+        "w": "mithunā",
+        "gloss": "in pairs",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "adhi̱",
+      "words": [
+       {
+        "w": "adhi",
+        "gloss": "upon",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "trayo̱",
+      "words": [
+       {
+        "w": "trayaḥ",
+        "gloss": "three",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dṛti̭stu̱rīyo̱",
+      "words": [
+       {
+        "w": "dṛtiḥ",
+        "gloss": "skin-bag",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "turīyaḥ",
+        "gloss": "fourth",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhṷno̱",
+      "words": [
+       {
+        "w": "madhunaḥ",
+        "gloss": "of honey",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ra̭pśate",
+      "words": [
+       {
+        "w": "rapśate",
+        "gloss": "swells",
+        "gram": "3 sg. pres. mid. √rapś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यही वह प्रकाश ऊपर उठता है। चारों ओर जाने वाला रथ इस द्युलोक की चोटी पर जोता जाता है। इस पर पोषण जोड़ों में तीन हैं; चौथा, मधु की मशक, उमड़ता है।",
+  "english": "This very light rises up. The chariot going all around is yoked on the ridge of this heaven. On it are the nourishments, in pairs, three; the fourth, the skin-bag of honey, swells forth.",
+  "text_flags": [],
+  "notes": "Unclear: iyarti with ud is normally transitive ('raises'); here taken as 'rises' with bhānuḥ as subject. rapśate 'swells' (√rapś, sense uncertain). dṛti 'skin-bag'. divo asya sānavi taken as 'on the ridge of this heaven'. mithunā taken as n. nom. pl. 'in pairs' (uncertain).",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ud",
+      "words": [
+       {
+        "w": "ud",
+        "gloss": "up",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̭ṃ",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "for you two",
+        "gram": "dat. du."
+       }
+      ]
+     },
+     {
+      "src": "pṛ̱kṣāso̱",
+      "words": [
+       {
+        "w": "pṛkṣāsaḥ",
+        "gloss": "nourishments",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "madhṷmanta",
+      "words": [
+       {
+        "w": "madhu-mantaḥ",
+        "gloss": "honeyed",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "īrate̱",
+      "words": [
+       {
+        "w": "īrate",
+        "gloss": "rise",
+        "gram": "3 pl. pres. mid. √ṛ"
+       }
+      ]
+     },
+     {
+      "src": "rathā̱",
+      "words": [
+       {
+        "w": "rathāḥ",
+        "gloss": "chariots",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "aśvā̭sa",
+      "words": [
+       {
+        "w": "aśvāsaḥ",
+        "gloss": "horses",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱ṣaso̱",
+      "words": [
+       {
+        "w": "uṣasaḥ",
+        "gloss": "of the dawn",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyṷṣṭiṣu",
+      "words": [
+       {
+        "w": "vyuṣṭiṣu",
+        "gloss": "at the shinings forth",
+        "gram": "f. loc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱po̱rṇu̱vanta̱stama̱",
+      "words": [
+       {
+        "w": "apornuvantaḥ",
+        "gloss": "uncovering",
+        "gram": "m. nom. pl. pres. part. apa-√vṛ"
+       },
+       {
+        "w": "tamaḥ",
+        "gloss": "darkness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "wholly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parī̭vṛta̱ṃ",
+      "words": [
+       {
+        "w": "parīvṛtam",
+        "gloss": "enveloping",
+        "gram": "n. acc. sg. ppp. pari-√vṛ"
+       }
+      ]
+     },
+     {
+      "src": "sva1rṇa",
+      "words": [
+       {
+        "w": "svar",
+        "gloss": "light",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śu̱kraṃ",
+      "words": [
+       {
+        "w": "śukram",
+        "gloss": "bright thing",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta̱nvanta̱",
+      "words": [
+       {
+        "w": "tanvantaḥ",
+        "gloss": "extending",
+        "gram": "m. nom. pl. pres. part. mid. √tan"
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "up to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "raja̭:",
+      "words": [
+       {
+        "w": "rajaḥ",
+        "gloss": "space",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम दोनों के लिए मधुर पोषण उठते हैं, रथ और घोड़े, उषा के उजाले होने पर, पूरी तरह घेरने वाले अन्धकार को खोलते हुए, उज्ज्वल को प्रकाश की तरह अन्तरिक्ष तक फैलाते हुए।",
+  "english": "For you two the honeyed nourishments rise up, the chariots, the horses, at the shinings forth of the dawn, uncovering the darkness that wholly envelops, extending the bright thing, like light, up to the space.",
+  "text_flags": [],
+  "notes": "Unclear in line 2: the two ā are taken as 'wholly' (with parīvṛtam) and 'up to' (with rajaḥ); śukram is taken as a neuter noun 'bright thing'; svar na 'like light'. Subject of the participles is taken to be the chariots and horses. The printed digit 1 in sva1rṇa is an accent mark.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "madhva̭:",
+      "words": [
+       {
+        "w": "madhvaḥ",
+        "gloss": "of honey",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pibataṃ",
+      "words": [
+       {
+        "w": "pibatam",
+        "gloss": "drink",
+        "gram": "2 du. impv. √pā"
+       }
+      ]
+     },
+     {
+      "src": "madhu̱pebhi̭rā̱sabhi̭ru̱ta",
+      "words": [
+       {
+        "w": "madhu-pebhiḥ",
+        "gloss": "honey-drinking",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "āsabhiḥ",
+        "gloss": "with mouths",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pri̱yaṃ",
+      "words": [
+       {
+        "w": "priyam",
+        "gloss": "dear",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhṷne",
+      "words": [
+       {
+        "w": "madhune",
+        "gloss": "for honey",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "yuñjāthā̱ṃ",
+      "words": [
+       {
+        "w": "yuñjāthām",
+        "gloss": "yoke",
+        "gram": "2 du. impv. mid. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "ratha̭m",
+      "words": [
+       {
+        "w": "ratham",
+        "gloss": "chariot",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "fully",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭rta̱niṃ",
+      "words": [
+       {
+        "w": "vartanim",
+        "gloss": "track",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhṷnā",
+      "words": [
+       {
+        "w": "madhunā",
+        "gloss": "with honey",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "jinvathaspa̱tho",
+      "words": [
+       {
+        "w": "jinvathaḥ",
+        "gloss": "you two quicken",
+        "gram": "2 du. pres. √jinv"
+       },
+       {
+        "w": "pathaḥ",
+        "gloss": "paths",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dṛti̭ṃ",
+      "words": [
+       {
+        "w": "dṛtim",
+        "gloss": "skin-bag",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vahethe̱",
+      "words": [
+       {
+        "w": "vahethe",
+        "gloss": "you two carry",
+        "gram": "2 du. pres. mid. √vah"
+       }
+      ]
+     },
+     {
+      "src": "madhṷmantamaśvinā",
+      "words": [
+       {
+        "w": "madhu-mantam",
+        "gloss": "honeyed",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "aśvinā",
+        "gloss": "O Aśvins",
+        "gram": "m. voc. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मधु का पान करो, मधु पीने वाले मुखों से; और प्रिय रथ को मधु के लिए जोड़ो। तुम दोनों मधु से मार्ग को पूरी तरह तेज़ करते हो, पथों को; तुम दोनों मधुयुक्त मशक को वहन करते हो, हे अश्विनो।",
+  "english": "Drink of honey with honey-drinking mouths; and yoke the dear chariot for honey. You two fully quicken the track with honey, the paths; you two carry the honeyed skin-bag, O Aśvins.",
+  "text_flags": [],
+  "notes": "ā jinvathaḥ: ā taken as 'fully' (uncertain). vartani 'track'. pathaḥ is taken as acc. pl. in apposition to vartanim. dṛti 'skin-bag'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ha̱ṃsāso̱",
+      "words": [
+       {
+        "w": "haṃsāsaḥ",
+        "gloss": "swans",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "which",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "vā̱ṃ",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "of you two",
+        "gram": "gen. du."
+       }
+      ]
+     },
+     {
+      "src": "madhṷmanto",
+      "words": [
+       {
+        "w": "madhu-mantaḥ",
+        "gloss": "honeyed",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱sridho̱",
+      "words": [
+       {
+        "w": "asridhaḥ",
+        "gloss": "unfailing",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "hira̭ṇyaparṇā",
+      "words": [
+       {
+        "w": "hiraṇya-parṇāḥ",
+        "gloss": "golden-winged",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "u̱huva̭",
+      "words": [
+       {
+        "w": "uhuvaḥ",
+        "gloss": "bearing",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "uṣa̱rbudha̭:",
+      "words": [
+       {
+        "w": "uṣaḥ-budhaḥ",
+        "gloss": "awake at dawn",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "u̱da̱pruto̭",
+      "words": [
+       {
+        "w": "uda-prutaḥ",
+        "gloss": "moving on water",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ma̱ndino̭",
+      "words": [
+       {
+        "w": "mandinaḥ",
+        "gloss": "exhilarating",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mandini̱spṛśo̱",
+      "words": [
+       {
+        "w": "mandini-spṛśaḥ",
+        "gloss": "touching the exhilarating",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "madhvo̱",
+      "words": [
+       {
+        "w": "madhvaḥ",
+        "gloss": "of honey",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "makṣa̱:",
+      "words": [
+       {
+        "w": "makṣaḥ",
+        "gloss": "flies",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sava̭nāni",
+      "words": [
+       {
+        "w": "savanāni",
+        "gloss": "pressings",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "gacchathaḥ",
+      "words": [
+       {
+        "w": "gacchathaḥ",
+        "gloss": "you two go",
+        "gram": "2 du. pres. √gam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम दोनों के जो हंस हैं — मधुर, अचूक, सुनहरे पंखों वाले, वहन करने वाले, उषा में जागने वाले, जल पर चलने वाले, आनन्ददायक, आनन्ददायकों को छूने वाले — मधु की मक्खियों की तरह तुम दोनों सवनों के पास जाते हो।",
+  "english": "The swans of you two that are honeyed, unfailing, golden-winged, bearing, awake at dawn, moving on water, exhilarating, touching the exhilarating — like flies of honey you two go to the pressings.",
+  "text_flags": [],
+  "notes": "Several words are unclear: uhuvaḥ (taken as 'bearing', form uncertain), udaprutaḥ ('moving on water'), mandinispṛśaḥ, and madhvo na makṣaḥ (makṣaḥ taken as 'flies', madhvaḥ as genitive; 'quickly, like to honey' is another possible reading). The swans are taken as the subject of the descriptions, with gacchathaḥ addressed to the Aśvins.",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sva̱dhva̱rāso̱",
+      "words": [
+       {
+        "w": "su-adhvarāsaḥ",
+        "gloss": "with good rites",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "madhṷmanto",
+      "words": [
+       {
+        "w": "madhu-mantaḥ",
+        "gloss": "honeyed",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱gnaya̭",
+      "words": [
+       {
+        "w": "agnayaḥ",
+        "gloss": "fires",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱srā",
+      "words": [
+       {
+        "w": "usrā",
+        "gloss": "morning light",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭rante̱",
+      "words": [
+       {
+        "w": "jarante",
+        "gloss": "they praise",
+        "gram": "3 pl. pres. mid. √jṛ"
+       }
+      ]
+     },
+     {
+      "src": "prati̱",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vasto̭ra̱śvinā̭",
+      "words": [
+       {
+        "w": "vastoḥ",
+        "gloss": "dawn",
+        "gram": "gen. sg."
+       },
+       {
+        "w": "aśvinā",
+        "gloss": "the Aśvins",
+        "gram": "m. acc. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yanni̱ktaha̭stasta̱raṇi̭rvicakṣa̱ṇaḥ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "nikta-hastaḥ",
+        "gloss": "with washed hands",
+        "gram": "m. nom. sg. bahuvrīhi"
+       },
+       {
+        "w": "taraṇiḥ",
+        "gloss": "swift",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vicakṣaṇaḥ",
+        "gloss": "far-seeing",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "soma̭ṃ",
+      "words": [
+       {
+        "w": "somam",
+        "gloss": "Soma",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱ṣāva̱",
+      "words": [
+       {
+        "w": "suṣāva",
+        "gloss": "has pressed",
+        "gram": "3 sg. pf. √su"
+       }
+      ]
+     },
+     {
+      "src": "madhṷmanta̱madri̭bhiḥ",
+      "words": [
+       {
+        "w": "madhu-mantam",
+        "gloss": "honeyed",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "adribhiḥ",
+        "gloss": "with stones",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उत्तम यज्ञ वाली, मधुर अग्नियाँ प्रभात-प्रकाश में, भोर की ओर, अश्विनो की स्तुति करती हैं, जब धुले हाथों वाले, तेज़, दूरदर्शी ने मधुयुक्त सोम को पत्थरों से निचोड़ा है।",
+  "english": "The honeyed fires with good rites, in the morning light, praise the Aśvins towards the dawn, when the one with washed hands, the swift, the far-seeing, has pressed the honeyed Soma with stones.",
+  "text_flags": [],
+  "notes": "Unclear in line 1: usrā (taken as locative 'in the morning light', form uncertain), vastoḥ ('dawn', form uncertain) and the subject of jarante. The pressing-one in line 2 is not named. adri 'stone' (also 'mountain').",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā̱ke̱ni̱pāso̱",
+      "words": [
+       {
+        "w": "ākenipāsaḥ",
+        "gloss": "guardians",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "aha̭bhi̱rdavi̭dhvata̱:",
+      "words": [
+       {
+        "w": "ahabhiḥ",
+        "gloss": "by days",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "davidhvataḥ",
+        "gloss": "shaking",
+        "gram": "m. nom. pl. pres. part. √dhū"
+       }
+      ]
+     },
+     {
+      "src": "sva1rṇa",
+      "words": [
+       {
+        "w": "svar",
+        "gloss": "light",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śu̱kraṃ",
+      "words": [
+       {
+        "w": "śukram",
+        "gloss": "bright thing",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta̱nvanta̱",
+      "words": [
+       {
+        "w": "tanvantaḥ",
+        "gloss": "extending",
+        "gram": "m. nom. pl. pres. part. mid. √tan"
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "up to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "raja̭:",
+      "words": [
+       {
+        "w": "rajaḥ",
+        "gloss": "space",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sūra̭ści̱daśvā̭n",
+      "words": [
+       {
+        "w": "sūraḥ",
+        "gloss": "sun",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "aśvān",
+        "gloss": "horses",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yuyujā̱na",
+      "words": [
+       {
+        "w": "yuyujānaḥ",
+        "gloss": "having yoked",
+        "gram": "m. nom. sg. pf. part. mid. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "ī̭yate̱",
+      "words": [
+       {
+        "w": "īyate",
+        "gloss": "goes",
+        "gram": "3 sg. pres. mid. √i"
+       }
+      ]
+     },
+     {
+      "src": "viśvā̱~",
+      "words": [
+       {
+        "w": "viśvān",
+        "gloss": "all",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "anṷ",
+      "words": [
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sva̱dhayā̭",
+      "words": [
+       {
+        "w": "svadhayā",
+        "gloss": "with own power",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "cetathaspa̱thaḥ",
+      "words": [
+       {
+        "w": "cetathaḥ",
+        "gloss": "you two perceive",
+        "gram": "2 du. pres. √cit"
+       },
+       {
+        "w": "pathaḥ",
+        "gloss": "paths",
+        "gram": "m. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "रक्षक, दिनों के द्वारा हिलते हुए, उज्ज्वल को प्रकाश की तरह अन्तरिक्ष तक फैलाते हुए। सूर्य भी घोड़ों को जोतकर जाता है; सबके साथ-साथ अपनी शक्ति से तुम दोनों पथों को देखते हो।",
+  "english": "The guardians, shaking through the days, extending the bright thing, like light, up to the space. The sun too, having yoked the horses, goes; along all, with own power, you two perceive the paths.",
+  "text_flags": [],
+  "notes": "ākenipāsaḥ is unclear (rendered 'guardians' as a guess; meaning uncertain). davidhvataḥ 'shaking' (reduplicated pres. part. of √dhū). sūraḥ taken as 'sun'. viśvān anu taken as 'along all' without a stated noun; cetathaḥ 'perceive' is uncertain. The line 1 refrain-like phrase is the same as in 45.2.",
+  "confidence": "low"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̭mavocamaśvinā",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "to you two",
+        "gram": "pron. acc. du."
+       },
+       {
+        "w": "avocam",
+        "gloss": "I have declared",
+        "gram": "1 sg. aor. √vac"
+       },
+       {
+        "w": "aśvinā",
+        "gloss": "O Aśvins",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "dhiya̱ṃdhā",
+      "words": [
+       {
+        "w": "dhiyaṃ-dhā",
+        "gloss": "thought-bearer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ratha̱:",
+      "words": [
+       {
+        "w": "rathaḥ",
+        "gloss": "chariot",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "svaśvo̭",
+      "words": [
+       {
+        "w": "su-aśvaḥ",
+        "gloss": "well-horsed",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱jaro̱",
+      "words": [
+       {
+        "w": "ajaraḥ",
+        "gloss": "ageless",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "which",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "asti̭",
+      "words": [
+       {
+        "w": "asti",
+        "gloss": "is",
+        "gram": "3 sg. pres. √as"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yena̭",
+      "words": [
+       {
+        "w": "yena",
+        "gloss": "by which",
+        "gram": "m. inst. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "sa̱dyaḥ",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pari̱",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rajā̭ṃsi",
+      "words": [
+       {
+        "w": "rajāṃsi",
+        "gloss": "spaces",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yā̱tho",
+      "words": [
+       {
+        "w": "yāthaḥ",
+        "gloss": "you two go",
+        "gram": "2 du. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "ha̱viṣma̭ntaṃ",
+      "words": [
+       {
+        "w": "haviṣmantam",
+        "gloss": "with oblation",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta̱raṇi̭ṃ",
+      "words": [
+       {
+        "w": "taraṇim",
+        "gloss": "swift",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bho̱jamaccha̭",
+      "words": [
+       {
+        "w": "bhojam",
+        "gloss": "giver",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "accha",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मैंने, विचार धारण करने वाले ने, तुम दोनों से कहा है, हे अश्विनो: वह रथ उत्तम घोड़ों वाला, अजर है, जो है; जिससे तुम दोनों तुरन्त अन्तरिक्षों के चारों ओर जाते हो, हवि वाले, तेज़, दाता की ओर।",
+  "english": "I, the thought-bearer, have proclaimed to you two, O Aśvins: the chariot, well-horsed, ageless, which exists; by which you two at once go around the spaces, towards the giver with oblation, the swift one.",
+  "text_flags": [],
+  "notes": "rathaḥ is nominative, so the clause is rendered as a statement about the chariot. dhiyaṃdhā is taken as the speaker's self-description (nom. sg., 'thought-bearer'). bhoja 'giver' (bounteous one); haviṣmantam and taraṇim agree with bhojam.",
+  "confidence": "medium"
+ }
+]

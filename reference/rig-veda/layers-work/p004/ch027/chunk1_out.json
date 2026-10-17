@@ -1,0 +1,1018 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "garbhe̱",
+      "words": [
+       {
+        "w": "garbhe",
+        "gloss": "in the womb",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nu",
+      "words": [
+       {
+        "w": "nu",
+        "gloss": "still",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sannanvḙṣāmavedama̱haṃ",
+      "words": [
+       {
+        "w": "san",
+        "gloss": "being",
+        "gram": "m. nom. sg. pres. part. √as"
+       },
+       {
+        "w": "anu",
+        "gloss": "in order",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "avedam",
+        "gloss": "I knew",
+        "gram": "1 sg. impf. √vid"
+       },
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "pron. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vānā̱ṃ",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "jani̭māni̱",
+      "words": [
+       {
+        "w": "janimāni",
+        "gloss": "births",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "viśvā̭",
+      "words": [
+       {
+        "w": "viśvā",
+        "gloss": "all",
+        "gram": "n. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śa̱taṃ",
+      "words": [
+       {
+        "w": "śatam",
+        "gloss": "a hundred",
+        "gram": "num. n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā̱",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "me",
+        "gram": "pron. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pura̱",
+      "words": [
+       {
+        "w": "puraḥ",
+        "gloss": "strongholds",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "āya̭sīrarakṣa̱nnadha̭",
+      "words": [
+       {
+        "w": "āyasīḥ",
+        "gloss": "of iron",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "arakṣan",
+        "gloss": "guarded",
+        "gram": "3 pl. impf. √rakṣ"
+       },
+       {
+        "w": "adha",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śye̱no",
+      "words": [
+       {
+        "w": "śyenaḥ",
+        "gloss": "hawk",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̱vasā̱",
+      "words": [
+       {
+        "w": "javasā",
+        "gloss": "with speed",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "nira̭dīyam",
+      "words": [
+       {
+        "w": "nis",
+        "gloss": "out",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "adīyam",
+        "gloss": "I flew",
+        "gram": "1 sg. impf. mid. √dī"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "गर्भ में ही रहते हुए मैंने इन देवों के सब जन्मों को क्रम से जाना। सौ लौह गढ़ों ने मेरी रक्षा की; तब श्येन बनकर मैं वेग से बाहर उड़ निकला।",
+  "english": "While still in the womb, I knew in order all these births of the gods. A hundred iron strongholds guarded me; then, a hawk, I flew out with speed.",
+  "text_flags": [],
+  "notes": "anu eṣām is taken as 'in order, of these' (anu with avedam as 'in succession'); other readings of anu are possible. nu san 'while still being'. śyenaḥ is in apposition to the 'I' of adīyam. niradīyam is read as nis + adīyam (√dī 'fly').",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ghā̱",
+      "words": [
+       {
+        "w": "gha",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "māmapa̱",
+      "words": [
+       {
+        "w": "mām",
+        "gloss": "me",
+        "gram": "pron. acc. sg."
+       },
+       {
+        "w": "apa",
+        "gloss": "away",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "joṣa̭ṃ",
+      "words": [
+       {
+        "w": "joṣam",
+        "gloss": "at will",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jabhārā̱'bhīmā̭sa̱",
+      "words": [
+       {
+        "w": "jabhāra",
+        "gloss": "carried",
+        "gram": "3 sg. pf. √bhṛ"
+       },
+       {
+        "w": "abhi",
+        "gloss": "over",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "īm",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āsa",
+        "gloss": "I was, he was",
+        "gram": "1 or 3 sg. pf. √as"
+       }
+      ]
+     },
+     {
+      "src": "tvakṣa̭sā",
+      "words": [
+       {
+        "w": "tvakṣasā",
+        "gloss": "by vigour",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vī̱ryḙṇa",
+      "words": [
+       {
+        "w": "vīryeṇa",
+        "gloss": "by heroic deed",
+        "gram": "n. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ī̱rmā",
+      "words": [
+       {
+        "w": "īrmā",
+        "gloss": "by the arm",
+        "gram": "form and sense uncertain"
+       }
+      ]
+     },
+     {
+      "src": "pura̭ṃdhirajahā̱darā̭tīru̱ta",
+      "words": [
+       {
+        "w": "puram-dhiḥ",
+        "gloss": "Purandhi",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ajahāt",
+        "gloss": "abandoned",
+        "gram": "3 sg. impf. √hā"
+       },
+       {
+        "w": "arātīḥ",
+        "gloss": "ill-wills",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vātā̭~",
+      "words": [
+       {
+        "w": "vātān",
+        "gloss": "the winds",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "atara̱cchūśṷvānaḥ",
+      "words": [
+       {
+        "w": "atarat",
+        "gloss": "overcame",
+        "gram": "3 sg. impf. √tṝ"
+       },
+       {
+        "w": "śūśuvānaḥ",
+        "gloss": "swelling",
+        "gram": "m. nom. sg. pf. part. mid. √śvi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसने मुझे इच्छा से नहीं ले जाया; मैंने बल और वीर कार्य से उसे पराभूत किया। भुजा से पुरन्धि ने वैर-भावों को छोड़ा और बढ़ते हुए ने हवाओं को पार किया।",
+  "english": "He did not carry me away at will; I overcame him by vigour and heroic deed. By the arm Purandhi abandoned the ill-wills, and the one swelling overcame the winds.",
+  "text_flags": [],
+  "notes": "Line 1: āsa can be 1 or 3 sg. (abhi īm āsa); the subject is taken as the speaker ('I overcame him'), but 'he overcame it' is equally possible. Line 2: īrmā is not understood (taken as 'by the arm', from īrma 'forearm/shoulder'); the subject of atarat śūśuvānaḥ is not stated and the two clauses may not share one subject. Purandhi is taken as a name (also 'abundance').",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ava̱",
+      "words": [
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "yacchye̱no",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "śyenaḥ",
+        "gloss": "hawk",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "asva̭nī̱dadha̱",
+      "words": [
+       {
+        "w": "asvanīt",
+        "gloss": "sounded",
+        "gram": "3 sg. aor. √svan"
+       },
+       {
+        "w": "adha",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dyorvi",
+      "words": [
+       {
+        "w": "dyoḥ",
+        "gloss": "from heaven",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yadi̱",
+      "words": [
+       {
+        "w": "yadi",
+        "gloss": "if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāta̭",
+      "words": [
+       {
+        "w": "vātāḥ",
+        "gloss": "the winds",
+        "gram": "m. nom. pl. (corrected, see text_flags)"
+       }
+      ]
+     },
+     {
+      "src": "ū̱huḥ",
+      "words": [
+       {
+        "w": "ūhuḥ",
+        "gloss": "carried",
+        "gram": "3 pl. pf. √vah"
+       }
+      ]
+     },
+     {
+      "src": "pura̭ṃdhim",
+      "words": [
+       {
+        "w": "puram-dhim",
+        "gloss": "Purandhi",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sṛ̱jad",
+      "words": [
+       {
+        "w": "sṛjat",
+        "gloss": "released",
+        "gram": "3 sg. impf. √sṛj (injunctive)"
+       }
+      ]
+     },
+     {
+      "src": "yada̭smā̱",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "asmai",
+        "gloss": "for him",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ava̭",
+      "words": [
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ha",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣi̱pajjyāṃ",
+      "words": [
+       {
+        "w": "kṣipat",
+        "gloss": "cast",
+        "gram": "3 sg. impf. √kṣip"
+       },
+       {
+        "w": "jyām",
+        "gloss": "the bowstring",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̱śānu̱rastā̱",
+      "words": [
+       {
+        "w": "kṛśānuḥ",
+        "gloss": "Kṛśānu",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "astā",
+        "gloss": "archer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mana̭sā",
+      "words": [
+       {
+        "w": "manasā",
+        "gloss": "with the mind",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhura̱ṇyan",
+      "words": [
+       {
+        "w": "bhuraṇyan",
+        "gloss": "hastening",
+        "gram": "m. nom. sg. pres. part. √bhuraṇ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब श्येन ने नीचे ध्वनि की, तब द्युलोक से, जब, यदि वायु पुरन्धि को अलग-अलग ले गए; जब कृशानु धनुर्धर ने मन से शीघ्रता करते हुए उसके लिए छोड़ा और डोरी को नीचे फेंका।",
+  "english": "When the hawk sounded down, then from heaven, when, if the winds carried Purandhi apart; when Kṛśānu the archer, hastening with the mind, released for him and cast down the bowstring.",
+  "text_flags": [
+   {
+    "src": "src",
+    "suggest": "suggest",
+    "why": "why"
+   }
+  ],
+  "notes": "The sentence is a string of subordinate clauses without a main clause in this unit. yat yadi is rendered 'when, if' (alternatively yad ī 'when ... him'). No object is stated for sṛjat (the thing released is not named). Kṛśānu is taken as a name; astā 'archer' (one who shoots). Obscure; translation is literal.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṛ̱ji̱pya",
+      "words": [
+       {
+        "w": "ṛjipyaḥ",
+        "gloss": "straight-flying",
+        "gram": "m. nom. sg. (sense uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "ī̱mindrā̭vato̱",
+      "words": [
+       {
+        "w": "īm",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "indrāvataḥ",
+        "gloss": "accompanied by Indra",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhu̱jyuṃ",
+      "words": [
+       {
+        "w": "bhujyum",
+        "gloss": "Bhujyu",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śye̱no",
+      "words": [
+       {
+        "w": "śyenaḥ",
+        "gloss": "hawk",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭bhāra",
+      "words": [
+       {
+        "w": "jabhāra",
+        "gloss": "carried",
+        "gram": "3 sg. pf. √bhṛ"
+       }
+      ]
+     },
+     {
+      "src": "bṛha̱to",
+      "words": [
+       {
+        "w": "bṛhataḥ",
+        "gloss": "high",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhi̱",
+      "words": [
+       {
+        "w": "adhi",
+        "gloss": "from",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣṇoḥ",
+      "words": [
+       {
+        "w": "snoḥ",
+        "gloss": "ridge",
+        "gram": "m. abl. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱ntaḥ",
+      "words": [
+       {
+        "w": "antaḥ",
+        "gloss": "within",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pa̭tat",
+      "words": [
+       {
+        "w": "patat",
+        "gloss": "fell",
+        "gram": "3 sg. impf. √pat (or pres. part. n. nom. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "pata̱trya̭sya",
+      "words": [
+       {
+        "w": "patatrī",
+        "gloss": "winged",
+        "gram": "n. nom. sg. (or m. nom. sg. patatrin)"
+       },
+       {
+        "w": "asya",
+        "gloss": "of this one",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱rṇamadha̱",
+      "words": [
+       {
+        "w": "parṇam",
+        "gloss": "feather",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "adha",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yāma̭ni̱",
+      "words": [
+       {
+        "w": "yāmani",
+        "gloss": "in the course",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prasi̭tasya̱",
+      "words": [
+       {
+        "w": "prasitasya",
+        "gloss": "sped forth",
+        "gram": "m. gen. sg. ppp. pra-√si (sense uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "veḥ",
+      "words": [
+       {
+        "w": "veḥ",
+        "gloss": "of the bird",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सीधा उड़ने वाला श्येन उसे ले गया, इन्द्र से युक्त के भुज्यु के समान, ऊँचे शिखर से। भीतर गिरा इस उड़ने वाले का पंख; तब पक्षी के वेग से छूटे हुए के मार्ग में वह।",
+  "english": "The straight-flying hawk carried him off, like Bhujyu of the one accompanied by Indra, from the high ridge. Within fell the winged feather of this one; then, in the course of the sped-forth bird, that.",
+  "text_flags": [],
+  "notes": "Obscure verse; translation is literal and incomplete in sense. indrāvato na bhujyum: the simile is unclear (Bhujyu may be a name or a common noun 'enjoyment, nourishment'; indrāvataḥ is a genitive/ablative form of indrāvant 'accompanied by Indra'). patat/patatrī/parṇam and the last clause adha yāmani prasitasya tad veḥ are not resolved; 'that' has no clear referent.",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "adha̭",
+      "words": [
+       {
+        "w": "adha",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śve̱taṃ",
+      "words": [
+       {
+        "w": "śvetam",
+        "gloss": "white",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ka̱laśa̱ṃ",
+      "words": [
+       {
+        "w": "kalaśam",
+        "gloss": "vessel",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gobhi̭ra̱ktamā̭pipyā̱naṃ",
+      "words": [
+       {
+        "w": "gobhiḥ",
+        "gloss": "with milk (lit. with cows)",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "aktam",
+        "gloss": "anointed",
+        "gram": "m. acc. sg. ppp. √añj"
+       },
+       {
+        "w": "āpipyānam",
+        "gloss": "overflowing",
+        "gram": "m. acc. sg. pf. part. mid. ā-√pyāy"
+       }
+      ]
+     },
+     {
+      "src": "ma̱ghavā̭",
+      "words": [
+       {
+        "w": "maghavā",
+        "gloss": "the bountiful one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śu̱kramandha̭:",
+      "words": [
+       {
+        "w": "śukram",
+        "gloss": "bright",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "andhaḥ",
+        "gloss": "juice",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱dhva̱ryubhi̱:",
+      "words": [
+       {
+        "w": "adhvaryubhiḥ",
+        "gloss": "by the Adhvaryu priests",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "praya̭ta̱ṃ",
+      "words": [
+       {
+        "w": "prayatam",
+        "gloss": "offered",
+        "gram": "n. acc. sg. ppp. pra-√yam"
+       }
+      ]
+     },
+     {
+      "src": "madhvo̱",
+      "words": [
+       {
+        "w": "madhvaḥ",
+        "gloss": "of the honey",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "agra̱mindro̱",
+      "words": [
+       {
+        "w": "agram",
+        "gloss": "the first",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madā̭ya̱",
+      "words": [
+       {
+        "w": "madāya",
+        "gloss": "for exhilaration",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "prati̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "toward",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "dha̱t",
+      "words": [
+       {
+        "w": "dhat",
+        "gloss": "took up",
+        "gram": "3 sg. aor. (injunctive) √dhā"
+       }
+      ]
+     },
+     {
+      "src": "piba̭dhyai̱",
+      "words": [
+       {
+        "w": "pibadhyai",
+        "gloss": "to drink",
+        "gram": "inf. √pā"
+       }
+      ]
+     },
+     {
+      "src": "śūro̱",
+      "words": [
+       {
+        "w": "śūraḥ",
+        "gloss": "the hero",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madā̭ya̱",
+      "words": [
+       {
+        "w": "madāya",
+        "gloss": "for exhilaration",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "prati̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "toward",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "dha̱t",
+      "words": [
+       {
+        "w": "dhat",
+        "gloss": "took up",
+        "gram": "3 sg. aor. (injunctive) √dhā"
+       }
+      ]
+     },
+     {
+      "src": "piba̭dhyai",
+      "words": [
+       {
+        "w": "pibadhyai",
+        "gloss": "to drink",
+        "gram": "inf. √pā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तब मघवा ने श्वेत कलश को उठा लिया, जो गायों से अनुलिप्त, लबालब भरा हुआ है, और उज्ज्वल अन्धस् को, अध्वर्युओं द्वारा अर्पित मधु के अग्र भाग को; इन्द्र ने मद के लिए पीने को ग्रहण किया; शूर ने मद के लिए पीने को ग्रहण किया।",
+  "english": "Then the bountiful one took up the white vessel anointed with milk, overflowing, and the bright juice, the first of the honey offered by the Adhvaryu priests; Indra took up, for exhilaration, to drink; the hero took up, for exhilaration, to drink.",
+  "text_flags": [],
+  "notes": "The verb of the first line is not stated: prati dhat of line 2 is carried back (assumption). gobhiḥ aktam: go is 'cow', 'with milk' is the usual sense. andhas is rendered 'juice'; the objects of prati dhat in line 2 are not stated and are those of line 1. Refrain: indro madāya prati dhat pibadhyai, repeated with śūraḥ.",
+  "confidence": "medium"
+ }
+]

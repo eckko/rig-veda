@@ -1,0 +1,1747 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kayā̭",
+      "words": [
+       {
+        "w": "kayā",
+        "gloss": "by what",
+        "gram": "f. inst. sg. interrog."
+       }
+      ]
+     },
+     {
+      "src": "naści̱tra",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "pron. enclitic dat./gen. pl."
+       },
+       {
+        "w": "citraḥ",
+        "gloss": "wonderful",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind. preverb"
+       }
+      ]
+     },
+     {
+      "src": "bhṷvadū̱tī",
+      "words": [
+       {
+        "w": "bhuvat",
+        "gloss": "will come to be",
+        "gram": "3 sg. aor. subj. √bhū"
+       },
+       {
+        "w": "ūtī",
+        "gloss": "by help",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱dāvṛ̭dha̱:",
+      "words": [
+       {
+        "w": "sadā-vṛdhaḥ",
+        "gloss": "ever-increasing",
+        "gram": "m. nom. sg. bahuvrīhi/tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sakhā̭",
+      "words": [
+       {
+        "w": "sakhā",
+        "gloss": "friend",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "kayā̱",
+      "words": [
+       {
+        "w": "kayā",
+        "gloss": "by what",
+        "gram": "f. inst. sg. interrog."
+       }
+      ]
+     },
+     {
+      "src": "śaci̭ṣṭhayā",
+      "words": [
+       {
+        "w": "śaciṣṭhayā",
+        "gloss": "most powerful",
+        "gram": "f. inst. sg. superl."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱tā",
+      "words": [
+       {
+        "w": "vṛtā",
+        "gloss": "course",
+        "gram": "f. inst. sg. form and sense uncertain"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "किस सहायता से वह अद्भुत, सदा बढ़ने वाला मित्र हमारे पास आएगा? किस अत्यन्त शक्तिशाली मार्ग से?",
+  "english": "By what help will the wonderful, ever-increasing friend come to us? By what most powerful course?",
+  "text_flags": [],
+  "notes": "bhuvat is an aorist subjunctive, taken as 'will come to be' with ā. vṛtā (f. inst. sg.) is unclear: possibly from vṛt 'turning, course' or from √vṛ; rendered 'course' only as a literal guess. sadāvṛdhaḥ could also be 'always strengthening (others)'. The unit is two pādas of a three-pāda verse as printed.",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kastvā̭",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who, which",
+        "gram": "m. nom. sg. interrog."
+       },
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "pron. acc. sg. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "sa̱tyo",
+      "words": [
+       {
+        "w": "satyaḥ",
+        "gloss": "true",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madā̭nā̱ṃ",
+      "words": [
+       {
+        "w": "madānām",
+        "gloss": "of exhilarations",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "maṃhi̭ṣṭho",
+      "words": [
+       {
+        "w": "maṃhiṣṭhaḥ",
+        "gloss": "most bountiful",
+        "gram": "m. nom. sg. superl."
+       }
+      ]
+     },
+     {
+      "src": "matsa̱dandha̭saḥ",
+      "words": [
+       {
+        "w": "matsat",
+        "gloss": "will exhilarate",
+        "gram": "3 sg. aor. subj. √mad"
+       },
+       {
+        "w": "andhasaḥ",
+        "gloss": "of the draught",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "dṛ̱ḻahā",
+      "words": [
+       {
+        "w": "dṛḻhā",
+        "gloss": "firm things",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ci̭dā̱ruje̱",
+      "words": [
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "ā-ruje",
+        "gloss": "to break open",
+        "gram": "dat. inf. ā-√ruj"
+       }
+      ]
+     },
+     {
+      "src": "vasṷ",
+      "words": [
+       {
+        "w": "vasu",
+        "gloss": "goods",
+        "gram": "n. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मदों में से कौन सत्य, अत्यन्त दानशील, तुम्हें पेय से मत्त करेगा, दृढ़ वस्तुओं को भी तोड़ने के लिए, धन को?",
+  "english": "Which true one, the most bountiful of the exhilarations, will exhilarate you with the draught, to break open even the firm things, the goods?",
+  "text_flags": [],
+  "notes": "andhasaḥ is genitive (after mad 'exhilarate'), rendered 'with the draught'. vasu may be nominative/accusative neuter plural 'goods'; its syntactic link to āruje is unclear (apposition to dṛḻhā cit assumed). 'madānām' could be read as dependent on the pronoun kaḥ (which of the exhilarations).",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱bhī",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "towards",
+        "gram": "ind. preverb"
+       }
+      ]
+     },
+     {
+      "src": "ṣu",
+      "words": [
+       {
+        "w": "su",
+        "gloss": "well, indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṇa̱:",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "of us",
+        "gram": "pron. enclitic gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "sakhī̭nāmavi̱tā",
+      "words": [
+       {
+        "w": "sakhīnām",
+        "gloss": "of friends",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "avitā",
+        "gloss": "helper",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭ritṝ̱ṇām",
+      "words": [
+       {
+        "w": "jaritṝṇām",
+        "gloss": "of singers",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "śa̱taṃ",
+      "words": [
+       {
+        "w": "śatam",
+        "gloss": "hundred",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bha̭vāsyū̱tibhi̭:",
+      "words": [
+       {
+        "w": "bhavāsi",
+        "gloss": "you will be",
+        "gram": "2 sg. aor. subj. √bhū"
+       },
+       {
+        "w": "ūtibhiḥ",
+        "gloss": "with helps",
+        "gram": "f. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम हमारे मित्रों के और स्तुति करने वालों के सहायक बनो, सौ सहायताओं के साथ।",
+  "english": "Be indeed, with a hundred helps, the helper of us, of the friends, of the singers.",
+  "text_flags": [],
+  "notes": "abhi ... bhavāsi (abhi-√bhū) may mean 'be present/prevail'; abhi su taken as emphatic 'indeed'. śatam is read with ūtibhiḥ ('a hundred helps'). naḥ is read with sakhīnām jaritṝṇām as a series of genitives; 'singers' may also be read as 'praisers'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱bhī",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "towards",
+        "gram": "ind. preverb"
+       }
+      ]
+     },
+     {
+      "src": "na̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "pron. enclitic acc./dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind. preverb"
+       }
+      ]
+     },
+     {
+      "src": "va̭vṛtsva",
+      "words": [
+       {
+        "w": "vavṛtsva",
+        "gloss": "turn",
+        "gram": "2 sg. impv. mid. ā-√vṛt"
+       }
+      ]
+     },
+     {
+      "src": "ca̱kraṃ",
+      "words": [
+       {
+        "w": "cakram",
+        "gloss": "wheel",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱ttamarva̭taḥ",
+      "words": [
+       {
+        "w": "vṛttam",
+        "gloss": "rolled",
+        "gram": "n. nom. sg. ppp. √vṛt"
+       },
+       {
+        "w": "arvataḥ",
+        "gloss": "of a steed",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ni̱yudbhi̭ścarṣaṇī̱nām",
+      "words": [
+       {
+        "w": "ni-yudbhiḥ",
+        "gloss": "with teams",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "carṣaṇīnām",
+        "gloss": "of the peoples",
+        "gram": "f. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हमारी ओर मुड़ो, जैसे घोड़े का घुमाया हुआ पहिया, लोगों के दलों के साथ।",
+  "english": "Turn to us here, like the rolled wheel of a steed, with the teams of the peoples.",
+  "text_flags": [],
+  "notes": "niyut = team of yoked horses (literal: 'yoked team'); rendered 'teams'. The simile cakraṃ na vṛttam arvataḥ is literal; the exact picture is not explained in the text.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pra̱vatā̱",
+      "words": [
+       {
+        "w": "pravatā",
+        "gloss": "by the slope",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kratṷ̄nā̱mā",
+      "words": [
+       {
+        "w": "kratūnām",
+        "gloss": "of resolves",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind. preverb"
+       }
+      ]
+     },
+     {
+      "src": "hā̭",
+      "words": [
+       {
+        "w": "ha",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pa̱deva̱",
+      "words": [
+       {
+        "w": "padā",
+        "gloss": "by a step, on foot",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gaccha̭si",
+      "words": [
+       {
+        "w": "gacchasi",
+        "gloss": "you go",
+        "gram": "2 sg. pres. √gam"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "abha̭kṣi̱",
+      "words": [
+       {
+        "w": "abhakṣi",
+        "gloss": "I have shared",
+        "gram": "1 sg. aor. pass. √bhaj"
+       }
+      ]
+     },
+     {
+      "src": "sūrye̱",
+      "words": [
+       {
+        "w": "sūrye",
+        "gloss": "in the sun",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sacā̭",
+      "words": [
+       {
+        "w": "sacā",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि तुम संकल्पों की ढलान से आते हो, मानो पैर से चलते हुए; मैंने सूर्य में साथ-साथ भाग पाया है।",
+  "english": "For you come by the slope of resolves, as if by a step; I have shared in the sun, together.",
+  "text_flags": [],
+  "notes": "UNCLEAR in the second half: abhakṣi is read as 1 sg. aorist (passive form) of √bhaj, 'I have shared/partaken', but the sense of 'sūrye sacā' (in the sun, together) and who speaks is uncertain. 'ā hā' read as ā ha; the first half is read as 'ā gacchasi'. pravatā could also be read adverbially 'downward'.",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind. preverb"
+       }
+      ]
+     },
+     {
+      "src": "yatta̭",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "pron. enclitic gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "indra",
+      "words": [
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱nyava̱:",
+      "words": [
+       {
+        "w": "manyavaḥ",
+        "gloss": "angers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind. preverb"
+       }
+      ]
+     },
+     {
+      "src": "ca̱krāṇi̭",
+      "words": [
+       {
+        "w": "cakrāṇi",
+        "gloss": "wheels",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dadhanvi̱re",
+      "words": [
+       {
+        "w": "dadhanvire",
+        "gloss": "have rushed",
+        "gram": "3 pl. pf. mid. √dhanv form uncertain"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "adha̱",
+      "words": [
+       {
+        "w": "adha",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tve",
+      "words": [
+       {
+        "w": "tve",
+        "gloss": "in you",
+        "gram": "pron. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "adha̱",
+      "words": [
+       {
+        "w": "adha",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūryḙ",
+      "words": [
+       {
+        "w": "sūrye",
+        "gloss": "in the sun",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र, जब तुम्हारे क्रोध और पहिये एक साथ दौड़ पड़े हैं, तब तुममें, तब सूर्य में।",
+  "english": "When your angers, O Indra, and the wheels have rushed together, then in you, then in the sun.",
+  "text_flags": [],
+  "notes": "UNCLEAR: dadhanvire is taken as 3 pl. perfect middle of √dhanv 'run, rush' (form uncertain). The apodosis 'adha tve adha sūrye' has no verb; translated literally. The 'sam ... sam' construction is read as 'sam ... dadhanvire' for both subjects.",
+  "confidence": "low"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smā̱",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvāmā̱hurinma̱ghavā̭naṃ",
+      "words": [
+       {
+        "w": "tvām",
+        "gloss": "you",
+        "gram": "pron. acc. sg."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they call",
+        "gram": "3 pl. pf. √ah"
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "maghavānam",
+        "gloss": "bountiful",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śacīpate",
+      "words": [
+       {
+        "w": "śacī-pate",
+        "gloss": "O lord of power",
+        "gram": "m. voc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "dātā̭ra̱mavi̭dīdhayum",
+      "words": [
+       {
+        "w": "dātāram",
+        "gloss": "giver",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "a-vidīdhayum",
+        "gloss": "not shining",
+        "gram": "m. acc. sg. form and sense uncertain"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और निश्चय ही वे तुम्हें दानशील कहते हैं, हे शक्ति के स्वामी, दाता, न चमकने वाला।",
+  "english": "And indeed they call you bountiful, O lord of power, the giver, the not-shining one.",
+  "text_flags": [],
+  "notes": "UNCLEAR: avidīdhayum. Read here as a-vidīdhayu- (a- 'not' + dīdhayu 'shining'), a guess; the editions and the word's sense are not established, so the last word is rendered literally and confidence is low. āhuḥ it maghavānam: 'it' read as emphatic particle after āhuḥ. śacī-pati: śacī read as 'power'.",
+  "confidence": "low"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smā̭",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̱dya",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "it",
+      "words": [
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind. preverb"
+       }
+      ]
+     },
+     {
+      "src": "śaśamā̱nāya̭",
+      "words": [
+       {
+        "w": "śaśamānāya",
+        "gloss": "to the toiling one",
+        "gram": "m. dat. sg. pf. part. mid. √śam"
+       }
+      ]
+     },
+     {
+      "src": "sunva̱te",
+      "words": [
+       {
+        "w": "sunvate",
+        "gloss": "to the presser",
+        "gram": "m. dat. sg. pres. part. √su"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "pu̱rū",
+      "words": [
+       {
+        "w": "puru",
+        "gloss": "much",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ci̭nmaṃhase̱",
+      "words": [
+       {
+        "w": "cit",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "maṃhase",
+        "gloss": "you bestow",
+        "gram": "2 sg. pres. mid. √maṃh"
+       }
+      ]
+     },
+     {
+      "src": "vasṷ",
+      "words": [
+       {
+        "w": "vasu",
+        "gloss": "goods",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और निश्चय ही तुम तुरन्त परिश्रम करने वाले निचोड़ने वाले को बहुत धन चारों ओर से देते हो।",
+  "english": "And indeed at once you bestow around much, even goods, on the toiling presser.",
+  "text_flags": [],
+  "notes": "pari ... maṃhase is read as 'bestow around/lavishly' (pari-√maṃh); 'puru cit' read as 'much indeed'.  sunvate 'pressing' has no stated object.",
+  "confidence": "low"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na̱hi",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣmā̭",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "pron. enclitic gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱taṃ",
+      "words": [
+       {
+        "w": "śatam",
+        "gloss": "hundred",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱na",
+      "words": [
+       {
+        "w": "cana",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rādho̱",
+      "words": [
+       {
+        "w": "rādhaḥ",
+        "gloss": "bounty",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vara̭nta",
+      "words": [
+       {
+        "w": "varanta",
+        "gloss": "they hold back",
+        "gram": "3 pl. inj. mid. √vṛ"
+       }
+      ]
+     },
+     {
+      "src": "ā̱mura̭:",
+      "words": [
+       {
+        "w": "āmuraḥ",
+        "gloss": "hostile ones",
+        "gram": "m. nom. pl. form and sense uncertain"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "nor",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cyau̱tnāni̭",
+      "words": [
+       {
+        "w": "cyautnāni",
+        "gloss": "feats of dislodging",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kariṣya̱taḥ",
+      "words": [
+       {
+        "w": "kariṣyataḥ",
+        "gloss": "of one about to do",
+        "gram": "m. gen. sg. fut. part. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि सौ भी विरोधी तुम्हारी उदारता को नहीं रोकते, न ही तुम्हारे हटा देने के कार्यों को, जब तुम उन्हें करने वाले हो।",
+  "english": "For not even a hundred hostile ones hold back your bounty, nor the feats of dislodging of you who are about to do them.",
+  "text_flags": [],
+  "notes": "UNCLEAR: āmuraḥ (taken as nom. pl. 'hostile ones/obstructors', sense uncertain); cyautnāni (n. acc. pl. of cyautna, 'dislodging deeds', taken so); the construction of the second half (kariṣyataḥ gen. sg. 'of one about to do') is read as depending on te. 'varanta' is an injunctive of √vṛ 'hold back'.",
+  "confidence": "low"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱smā~",
+      "words": [
+       {
+        "w": "asmān",
+        "gloss": "us",
+        "gram": "pron. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭vantu",
+      "words": [
+       {
+        "w": "avantu",
+        "gloss": "may they help",
+        "gram": "3 pl. impv. √av"
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "pron. enclitic gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̱tama̱smān",
+      "words": [
+       {
+        "w": "śatam",
+        "gloss": "hundred",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "asmān",
+        "gloss": "us",
+        "gram": "pron. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tsa̱hasra̭mū̱taya̭:",
+      "words": [
+       {
+        "w": "sahasram",
+        "gloss": "thousand",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "ūtayaḥ",
+        "gloss": "helps",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "a̱smān",
+      "words": [
+       {
+        "w": "asmān",
+        "gloss": "us",
+        "gram": "pron. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "viśvā̭",
+      "words": [
+       {
+        "w": "viśvāḥ",
+        "gloss": "all",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱bhiṣṭa̭yaḥ",
+      "words": [
+       {
+        "w": "abhiṣṭayaḥ",
+        "gloss": "aids",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हारी सौ सहायताएँ हमारी रक्षा करें, हज़ार सहायताएँ हमारी रक्षा करें, सब सहायताएँ हमारी रक्षा करें।",
+  "english": "May your hundred helps help us, may the thousand help us, may all the aids help us.",
+  "text_flags": [],
+  "notes": "Source token a̱smā~ combines asmān + avantu (nasalised before a-); 'asmān tsahasram' has the regular t-insertion. abhiṣṭi is rendered 'aid' (sense not fully certain: 'superiority/help'). The verb avantu is carried over to the following clauses.",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱smā~",
+      "words": [
+       {
+        "w": "asmān",
+        "gloss": "us",
+        "gram": "pron. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "i̱hā",
+      "words": [
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̭ṇīṣva",
+      "words": [
+       {
+        "w": "vṛṇīṣva",
+        "gloss": "choose",
+        "gram": "2 sg. impv. mid. √vṛ"
+       }
+      ]
+     },
+     {
+      "src": "sa̱khyāya̭",
+      "words": [
+       {
+        "w": "sakhyāya",
+        "gloss": "for friendship",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva̱stayḙ",
+      "words": [
+       {
+        "w": "svastaye",
+        "gloss": "for well-being",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ma̱ho",
+      "words": [
+       {
+        "w": "mahaḥ",
+        "gloss": "great",
+        "gram": "form uncertain, taken with rāye"
+       }
+      ]
+     },
+     {
+      "src": "rā̱ye",
+      "words": [
+       {
+        "w": "rāye",
+        "gloss": "for wealth",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "di̱vitma̭te",
+      "words": [
+       {
+        "w": "divit-mate",
+        "gloss": "for the brilliant",
+        "gram": "m. dat. sg. matup"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यहाँ हमें चुनो, मित्रता के लिए, कल्याण के लिए, महान् तेजस्वी धन के लिए।",
+  "english": "Choose us here for friendship, for well-being, for great, brilliant wealth.",
+  "text_flags": [],
+  "notes": "Source token a̱smā~ = asmān + iha is a sandhi form. divitmate is taken with rāye ('brilliant/heavenly-lit wealth'); the exact meaning of divitmat is uncertain. 'maho' read as mahe/mahaḥ adjective with rāye (mahe expected); form uncertain.",
+  "confidence": "low"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱smā~",
+      "words": [
+       {
+        "w": "asmān",
+        "gloss": "us",
+        "gram": "pron. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭viḍḍhi",
+      "words": [
+       {
+        "w": "aviḍḍhi",
+        "gloss": "help",
+        "gram": "2 sg. impv. √av"
+       }
+      ]
+     },
+     {
+      "src": "vi̱śvahendra̭",
+      "words": [
+       {
+        "w": "viśvahā",
+        "gloss": "always",
+        "gram": "ind."
+       },
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rā̱yā",
+      "words": [
+       {
+        "w": "rāyā",
+        "gloss": "with wealth",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "parī̭ṇasā",
+      "words": [
+       {
+        "w": "parīṇasā",
+        "gloss": "with abundance",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "a̱smān",
+      "words": [
+       {
+        "w": "asmān",
+        "gloss": "us",
+        "gram": "pron. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "viśvā̭bhirū̱tibhi̭:",
+      "words": [
+       {
+        "w": "viśvābhiḥ",
+        "gloss": "with all",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "ūtibhiḥ",
+        "gloss": "with helps",
+        "gram": "f. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र, सदा हमारी सहायता करो, धन से, प्रचुरता से; हमें सब सहायताओं से।",
+  "english": "Help us always, O Indra, with wealth, with abundance; us with all helps.",
+  "text_flags": [],
+  "notes": "Source a̱smā~ = asmān + aviḍḍhi. aviḍḍhi is the imperative of √av (av-iḍ-dhi). The second line has no verb of its own; the verb is carried over from the first.",
+  "confidence": "medium"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱smabhya̱ṃ",
+      "words": [
+       {
+        "w": "asmabhyam",
+        "gloss": "for us",
+        "gram": "pron. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "tā~",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "those",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "apā̭",
+      "words": [
+       {
+        "w": "apa",
+        "gloss": "away, open",
+        "gram": "ind. preverb"
+       }
+      ]
+     },
+     {
+      "src": "vṛdhi",
+      "words": [
+       {
+        "w": "vṛdhi",
+        "gloss": "open",
+        "gram": "2 sg. impv. √vṛ form uncertain"
+       }
+      ]
+     },
+     {
+      "src": "vra̱jā~",
+      "words": [
+       {
+        "w": "vrajān",
+        "gloss": "pens",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "astḙva̱",
+      "words": [
+       {
+        "w": "astā",
+        "gloss": "thrower",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "goma̭taḥ",
+      "words": [
+       {
+        "w": "go-mataḥ",
+        "gloss": "rich in cows",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "navā̭bhirindro̱tibhi̭:",
+      "words": [
+       {
+        "w": "navābhiḥ",
+        "gloss": "with new",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "ūtibhiḥ",
+        "gloss": "with helps",
+        "gram": "f. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हमारे लिए उन गोशालाओं को खोल दो, जो गायों से भरी हैं, जैसे फेंकने वाला; हे इन्द्र, नई सहायताओं के साथ।",
+  "english": "For us open those pens rich in cows, like a thrower; with new helps, O Indra.",
+  "text_flags": [],
+  "notes": "UNCLEAR: apa vṛdhi is read as apa + vṛdhi, imperative of apa-√vṛ 'uncover, open' (form irregular; could belong to √vṛdh). astā iva ('like a thrower') is rendered literally; the simile is not explained. The source tokens tā~ and vrajā~ are the nasalised forms of tān and vrajān.",
+  "confidence": "low"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱smāka̭ṃ",
+      "words": [
+       {
+        "w": "asmākam",
+        "gloss": "our",
+        "gram": "pron. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhṛṣṇu̱yā",
+      "words": [
+       {
+        "w": "dhṛṣṇu-yā",
+        "gloss": "boldly",
+        "gram": "ind. adv."
+       }
+      ]
+     },
+     {
+      "src": "ratho̭",
+      "words": [
+       {
+        "w": "rathaḥ",
+        "gloss": "chariot",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dyu̱mā~",
+      "words": [
+       {
+        "w": "dyumān",
+        "gloss": "radiant",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "i̱ndrāna̭pacyutaḥ",
+      "words": [
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "an-apacyutaḥ",
+        "gloss": "unshaken",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ga̱vyura̭śva̱yurī̭yate",
+      "words": [
+       {
+        "w": "gavyuḥ",
+        "gloss": "seeking cows",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "aśvayuḥ",
+        "gloss": "seeking horses",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "īyate",
+        "gloss": "goes",
+        "gram": "3 sg. pres. mid. √i"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हमारा रथ, साहसपूर्वक, तेजस्वी, हे इन्द्र, अडिग, गायों की इच्छा करने वाला, घोड़ों की इच्छा करने वाला, चलता है।",
+  "english": "Our chariot, boldly, radiant, O Indra, unshaken, seeking cows, seeking horses, goes.",
+  "text_flags": [],
+  "notes": "dhṛṣṇuyā is read as an adverb 'boldly' (instrumental of dhṛṣṇu-, uncertain); the vocative indra interrupts the adjectives of the chariot. Source dyumā~ indra = dyumān indra.",
+  "confidence": "medium"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱smāka̭mutta̱maṃ",
+      "words": [
+       {
+        "w": "asmākam",
+        "gloss": "our",
+        "gram": "pron. gen. pl."
+       },
+       {
+        "w": "uttamam",
+        "gloss": "highest",
+        "gram": "n. acc. sg. superl."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̭dhi̱",
+      "words": [
+       {
+        "w": "kṛdhi",
+        "gloss": "make",
+        "gram": "2 sg. impv. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "śravo̭",
+      "words": [
+       {
+        "w": "śravaḥ",
+        "gloss": "renown",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱veṣṷ",
+      "words": [
+       {
+        "w": "deveṣu",
+        "gloss": "among the gods",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sūrya",
+      "words": [
+       {
+        "w": "sūrya",
+        "gloss": "O Sun",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "varṣi̭ṣṭha̱ṃ",
+      "words": [
+       {
+        "w": "varṣiṣṭham",
+        "gloss": "loftiest",
+        "gram": "n. acc. sg. superl."
+       }
+      ]
+     },
+     {
+      "src": "dyāmi̭vo̱pari̭",
+      "words": [
+       {
+        "w": "dyām",
+        "gloss": "sky",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "upari",
+        "gloss": "above",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे सूर्य, देवों में हमारा यश सबसे ऊँचा बनाओ, सबसे ऊँचा, ऊपर के आकाश के समान।",
+  "english": "O Sun, make our renown the highest among the gods, the loftiest, like the sky above.",
+  "text_flags": [],
+  "notes": "sūrya is vocative; it is taken as addressing the Sun as the text says (the hymn otherwise addresses Indra; not resolved). The comparison 'dyām iva upari' is read as 'like the sky above'. Source tokens: a̱smāka̭mutta̱maṃ, de̱veṣṷ, dyāmi̭vo̱pari̭ are sandhi forms.",
+  "confidence": "medium"
+ }
+]

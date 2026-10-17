@@ -1,0 +1,882 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pratya̱gniru̱ṣasā̱magra̭makhyad",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "towards",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "uṣasām",
+        "gloss": "of the dawns",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "agram",
+        "gloss": "front, foremost part",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "akhyat",
+        "gloss": "has looked",
+        "gram": "3 sg. aor. prati-√khyā"
+       }
+      ]
+     },
+     {
+      "src": "vibhātī̱nāṃ",
+      "words": [
+       {
+        "w": "vibhātīnām",
+        "gloss": "of the shining forth",
+        "gram": "f. gen. pl. pres. part. vi-√bhā"
+       }
+      ]
+     },
+     {
+      "src": "su̱manā̭",
+      "words": [
+       {
+        "w": "sumanāḥ",
+        "gloss": "kindly-minded",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ratna̱dheya̭m",
+      "words": [
+       {
+        "w": "ratna-dheyam",
+        "gloss": "bestowal of treasure",
+        "gram": "n. acc. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yā̱tama̭śvinā",
+      "words": [
+       {
+        "w": "yātam",
+        "gloss": "come",
+        "gram": "2 du. impv. √yā"
+       },
+       {
+        "w": "aśvinā",
+        "gloss": "Aśvins",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "su̱kṛto̭",
+      "words": [
+       {
+        "w": "sukṛtaḥ",
+        "gloss": "of the well-doer",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "duro̱ṇamutsūryo̱",
+      "words": [
+       {
+        "w": "duroṇam",
+        "gloss": "house",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ut",
+        "gloss": "up",
+        "gram": "ind."
+       },
+       {
+        "w": "sūryaḥ",
+        "gloss": "Sūrya",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jyoti̭ṣā",
+      "words": [
+       {
+        "w": "jyotiṣā",
+        "gloss": "with light",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱va",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ḙti",
+      "words": [
+       {
+        "w": "eti",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √i"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अग्नि ने, प्रसन्न मन वाले होकर, चमकती हुई उषाओं के अग्रभाग की ओर, रत्नों के दान की ओर देखा है। हे अश्विनौ, सुकर्मी के घर आओ; सूर्य देव प्रकाश के साथ ऊपर उठता है।",
+  "english": "Agni, kindly-minded, has looked towards the foremost part of the shining dawns, towards the bestowal of treasure. Come, Aśvins, to the house of the well-doer; the god Sūrya goes up with light.",
+  "text_flags": [],
+  "notes": "pratyagniḥ = prati agniḥ (prati the preverb of akhyat), not pratyaṅ. akhyat 'has looked towards' (prati-√khyā) is the most literal sense; 'has shone upon' is an alternative. sukṛtaḥ taken as gen. sg. 'of the well-doer'; acc. pl. is also possible. ut eti 'goes up'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ū̱rdhvaṃ",
+      "words": [
+       {
+        "w": "ūrdhvam",
+        "gloss": "upward",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhā̱nuṃ",
+      "words": [
+       {
+        "w": "bhānum",
+        "gloss": "radiance",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭vi̱tā",
+      "words": [
+       {
+        "w": "savitā",
+        "gloss": "Savitṛ",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vo",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭śred",
+      "words": [
+       {
+        "w": "aśret",
+        "gloss": "has raised",
+        "gram": "3 sg. aor. inj. √śri"
+       }
+      ]
+     },
+     {
+      "src": "dra̱psaṃ",
+      "words": [
+       {
+        "w": "drapsam",
+        "gloss": "drop",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "davi̭dhvad",
+      "words": [
+       {
+        "w": "davidhvat",
+        "gloss": "shaking",
+        "gram": "m. nom. sg. pres. part. intens. √dhū"
+       }
+      ]
+     },
+     {
+      "src": "gavi̱ṣo",
+      "words": [
+       {
+        "w": "gaviṣaḥ",
+        "gloss": "seeking cattle",
+        "gram": "form uncertain"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "satvā̭",
+      "words": [
+       {
+        "w": "satvā",
+        "gloss": "warrior",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "anṷ",
+      "words": [
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vra̱taṃ",
+      "words": [
+       {
+        "w": "vratam",
+        "gloss": "ordinance",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṷṇo",
+      "words": [
+       {
+        "w": "varuṇaḥ",
+        "gloss": "Varuṇa",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yanti",
+      "words": [
+       {
+        "w": "yanti",
+        "gloss": "go",
+        "gram": "3 pl. pres. √i"
+       }
+      ]
+     },
+     {
+      "src": "mi̱tro",
+      "words": [
+       {
+        "w": "mitraḥ",
+        "gloss": "Mitra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yatsūrya̭ṃ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "sūryam",
+        "gloss": "Sūrya",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "di̱vyā̭ro̱haya̭nti",
+      "words": [
+       {
+        "w": "divi",
+        "gloss": "in the sky",
+        "gram": "m. loc. sg."
+       },
+       {
+        "w": "ārohayanti",
+        "gloss": "they cause to mount",
+        "gram": "3 pl. caus. pres. ā-√ruh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देव सविता ने ऊपर की ओर तेज को उठाया है, बूँद को हिलाते हुए, गौओं की खोज करने वाले योद्धा के समान। जब वे सूर्य को आकाश में चढ़ाते हैं, तब वरुण और मित्र व्रत के अनुसार चलते हैं।",
+  "english": "The god Savitṛ has raised the radiance upward, shaking the drop, like a warrior seeking cattle. Varuṇa and Mitra go along the ordinance when they make the Sun mount in the sky.",
+  "text_flags": [],
+  "notes": "gaviṣaḥ: form uncertain; taken as 'seeking cattle' with satvā 'warrior' (Padapāṭha gaviṣaḥ; gen. sg. of gaviṣ 'quest for cattle' is the other possibility, 'like a warrior of the quest for cattle'). yanti is plural though only Varuṇa and Mitra are named; further subjects may be implied (the plural ārohayanti too). anu ... yanti 'go along/follow'. Source marks ṷ in anṷ, varṷṇo are notation.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sī̱makṛ̭ṇva̱n",
+      "words": [
+       {
+        "w": "sīm",
+        "gloss": "indeed, him",
+        "gram": "ind."
+       },
+       {
+        "w": "akṛṇvan",
+        "gloss": "they made",
+        "gram": "3 pl. impf. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "tama̭se",
+      "words": [
+       {
+        "w": "tamase",
+        "gloss": "for the darkness",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱pṛcḙ",
+      "words": [
+       {
+        "w": "vipṛce",
+        "gloss": "for separation",
+        "gram": "form uncertain (dat. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "dhru̱vakṣḙmā̱",
+      "words": [
+       {
+        "w": "dhruva-kṣemāḥ",
+        "gloss": "of firm abode",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ana̭vasyanto̱",
+      "words": [
+       {
+        "w": "anavasyantaḥ",
+        "gloss": "not resting",
+        "gram": "m. nom. pl. pres. part., sense uncertain"
+       }
+      ]
+     },
+     {
+      "src": "artha̭m",
+      "words": [
+       {
+        "w": "artham",
+        "gloss": "purpose, goal",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūrya̭ṃ",
+      "words": [
+       {
+        "w": "sūryam",
+        "gloss": "Sūrya",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ha̱rita̭:",
+      "words": [
+       {
+        "w": "haritaḥ",
+        "gloss": "tawny ones",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱pta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "ya̱hvīḥ",
+      "words": [
+       {
+        "w": "yahvīḥ",
+        "gloss": "vigorous ones",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "spaśa̱ṃ",
+      "words": [
+       {
+        "w": "spaśam",
+        "gloss": "watcher",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśva̭sya̱",
+      "words": [
+       {
+        "w": "viśvasya",
+        "gloss": "of the whole",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jaga̭to",
+      "words": [
+       {
+        "w": "jagataḥ",
+        "gloss": "of the moving world",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vahanti",
+      "words": [
+       {
+        "w": "vahanti",
+        "gloss": "carry",
+        "gram": "3 pl. pres. √vah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसे उन्होंने अन्धकार के लिए, वियोग के लिए बनाया, दृढ़ आश्रय वाले, बिना रुके, प्रयोजन के लिए — उस सूर्य को, समस्त जगत् के द्रष्टा को, सात भूरे-पीले, बलवान् ढोते हैं।",
+  "english": "Whom they made for the darkness, for separation, those of firm abode, not resting, for the purpose — that Sūrya, the watcher of the whole moving world, the seven tawny, vigorous ones carry.",
+  "text_flags": [],
+  "notes": "Obscure first half. vipṛce (dat. of vipṛc 'separation / to separate'), anavasyantaḥ (pres. part., 'not resting' is a guess) and artham are uncertain; translated literally without supplying a sense. The subject of akṛṇvan is not stated. haritaḥ/yahvīḥ taken as the seven tawny ones (mares) carrying Sūrya.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vahi̭ṣṭhebhirvi̱hara̭nyāsi̱",
+      "words": [
+       {
+        "w": "vahiṣṭhebhiḥ",
+        "gloss": "by the best carriers",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "viharan",
+        "gloss": "moving apart, spreading",
+        "gram": "m. nom. sg. pres. part. vi-√hṛ"
+       },
+       {
+        "w": "yāsi",
+        "gloss": "you go",
+        "gram": "2 sg. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "tantṷmava̱vyaya̱nnasi̭taṃ",
+      "words": [
+       {
+        "w": "tantum",
+        "gloss": "thread",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "avavyayan",
+        "gloss": "unwinding",
+        "gram": "m. nom. sg. pres. part., sense uncertain"
+       },
+       {
+        "w": "asitam",
+        "gloss": "dark",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "deva̱",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "O god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vasma̭",
+      "words": [
+       {
+        "w": "vasma",
+        "gloss": "garment",
+        "gram": "n. acc. sg., sense uncertain"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "davi̭dhvato",
+      "words": [
+       {
+        "w": "davidhvataḥ",
+        "gloss": "of the shaking",
+        "gram": "m. gen. sg. pres. part. intens. √dhū"
+       }
+      ]
+     },
+     {
+      "src": "ra̱śmaya̱:",
+      "words": [
+       {
+        "w": "raśmayaḥ",
+        "gloss": "rays",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sūrya̭sya̱",
+      "words": [
+       {
+        "w": "sūryasya",
+        "gloss": "of Sūrya",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "carme̱vāvā̭dhu̱stamo̭",
+      "words": [
+       {
+        "w": "carma",
+        "gloss": "hide",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind."
+       },
+       {
+        "w": "adhuḥ",
+        "gloss": "they shook",
+        "gram": "3 pl. aor. √dhū"
+       },
+       {
+        "w": "tamaḥ",
+        "gloss": "darkness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱psva1ntaḥ",
+      "words": [
+       {
+        "w": "apsu",
+        "gloss": "in the waters",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "antaḥ",
+        "gloss": "within",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे देव, तू सर्वोत्तम वाहकों के साथ फैलता हुआ चलता है, काले धागे को, वस्त्र को खोलता हुआ। हिलाते हुए सूर्य की किरणों ने अन्धकार को चमड़े के समान जलों के भीतर झाड़ दिया।",
+  "english": "With the best carriers, spreading out, you go, O god, unwinding the dark thread, the garment. The rays of the shaking Sūrya shook the darkness down like a hide, within the waters.",
+  "text_flags": [],
+  "notes": "Uncertain: avavyayan (ava-√vye 'unwinding' is a guess), vasma (garment) and the construction of tantum asitam vasma. davidhvataḥ taken as gen. sg. agreeing with sūryasya. adhuḥ 3 pl. aor. of √dhū. Source digit mark in apsva1ntaḥ is a svara mark.",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "anā̭yato̱",
+      "words": [
+       {
+        "w": "anāyataḥ",
+        "gloss": "not stretched out, unrestrained",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ani̭baddhaḥ",
+      "words": [
+       {
+        "w": "anibaddhaḥ",
+        "gloss": "unbound",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ka̱thāyaṃ",
+      "words": [
+       {
+        "w": "kathā",
+        "gloss": "how",
+        "gram": "ind."
+       },
+       {
+        "w": "ayam",
+        "gloss": "this one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nya̭ṅṅuttā̱no'va̭",
+      "words": [
+       {
+        "w": "nyaṅ",
+        "gloss": "downward",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "uttānaḥ",
+        "gloss": "stretched out upward, lying face up",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "padyate̱",
+      "words": [
+       {
+        "w": "padyate",
+        "gloss": "falls",
+        "gram": "3 sg. pres. mid. √pad"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kayā̭",
+      "words": [
+       {
+        "w": "kayā",
+        "gloss": "by what",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yāti",
+      "words": [
+       {
+        "w": "yāti",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "sva̱dhayā̱",
+      "words": [
+       {
+        "w": "svadhayā",
+        "gloss": "by own power",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ko",
+      "words": [
+       {
+        "w": "kaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "da̭darśa",
+      "words": [
+       {
+        "w": "dadarśa",
+        "gloss": "has seen",
+        "gram": "3 sg. pf. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "di̱vaḥ",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of heaven",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ska̱mbhaḥ",
+      "words": [
+       {
+        "w": "skambhaḥ",
+        "gloss": "pillar, prop",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "samṛ̭taḥ",
+      "words": [
+       {
+        "w": "samṛtaḥ",
+        "gloss": "joined together",
+        "gram": "m. nom. sg. ppp. sam-√ṛ"
+       }
+      ]
+     },
+     {
+      "src": "pāti̱",
+      "words": [
+       {
+        "w": "pāti",
+        "gloss": "protects",
+        "gram": "3 sg. pres. √pā"
+       }
+      ]
+     },
+     {
+      "src": "nāka̭m",
+      "words": [
+       {
+        "w": "nākam",
+        "gloss": "vault of heaven",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "न खिंचा हुआ, न बँधा हुआ — यह नीचे की ओर, ऊपर फैला हुआ कैसे नीचे नहीं गिरता? किस स्वधा से वह चलता है? किसने देखा है? द्युलोक का स्तम्भ, जुड़ा हुआ, आकाश-लोक की रक्षा करता है।",
+  "english": "Not stretched, not bound — how does this one, downward and stretched upward, not fall down? By what own power does he go? Who has seen it? The pillar of heaven, joined together, protects the vault of heaven.",
+  "text_flags": [],
+  "notes": "Verse repeated in 4.14.5. nyaṅ 'downward' and uttāna 'stretched upward' are taken literally as in the text. samṛtaḥ (ppp. sam-√ṛ) 'joined together' uncertain; skambha 'pillar, prop'. The subject (sun) is not named in the verse; ayam 'this one' and yāti 'he goes' are rendered as given. Metre/sense obscure; riddle verse.",
+  "confidence": "medium"
+ }
+]

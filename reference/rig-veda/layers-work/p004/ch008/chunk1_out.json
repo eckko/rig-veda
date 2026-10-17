@@ -1,0 +1,969 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dū̱taṃ",
+      "words": [
+       {
+        "w": "dūtam",
+        "gloss": "messenger",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vo̭",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "your",
+        "gram": "gen. pl. (pron. 2 pl., enclitic)"
+       }
+      ]
+     },
+     {
+      "src": "vi̱śvavḙdasaṃ",
+      "words": [
+       {
+        "w": "viśva-vedasam",
+        "gloss": "all-knowing",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "havya̱vāha̱mama̭rtyam",
+      "words": [
+       {
+        "w": "havya-vāham",
+        "gloss": "oblation-carrier",
+        "gram": "m. acc. sg. tat-puruṣa"
+       },
+       {
+        "w": "a-martyam",
+        "gloss": "immortal",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "yaji̭ṣṭhamṛñjase",
+      "words": [
+       {
+        "w": "yajiṣṭham",
+        "gloss": "best sacrificer",
+        "gram": "m. acc. sg. superl. √yaj"
+       },
+       {
+        "w": "ṛñjase",
+        "gloss": "to adorn",
+        "gram": "inf. √ṛñj (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "gi̱rā",
+      "words": [
+       {
+        "w": "girā",
+        "gloss": "with a hymn",
+        "gram": "f. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हारे दूत को, सर्वज्ञ को, हवि वहन करने वाले को, अमर को, सर्वश्रेष्ठ यजन करने वाले को स्तुति से सजाने के लिए।",
+  "english": "To adorn with a hymn your messenger, the all-knowing one, the oblation-carrier, the immortal, the best sacrificer.",
+  "text_flags": [],
+  "notes": "ṛñjase: read as a dative infinitive of √ṛñj (\"to adorn, to honour\"); it could also be taken as a finite form (\"I adorn\"), so the form is uncertain. viśva-vedas \"all-knowing\" (the second member could also be \"wealth\"). vaḥ is the enclitic 2 pl. pronoun, taken as genitive \"your\".",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vedā̱",
+      "words": [
+       {
+        "w": "vedā",
+        "gloss": "knows",
+        "gram": "3 sg. pf. √vid"
+       }
+      ]
+     },
+     {
+      "src": "vasṷdhitiṃ",
+      "words": [
+       {
+        "w": "vasu-dhitim",
+        "gloss": "store of wealth",
+        "gram": "f. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ma̱hā~",
+      "words": [
+       {
+        "w": "mahān",
+        "gloss": "great one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā̱rodha̭naṃ",
+      "words": [
+       {
+        "w": "ārodhanam",
+        "gloss": "ascent",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "di̱vaḥ",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of heaven",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vā~",
+      "words": [
+       {
+        "w": "devān",
+        "gloss": "the gods",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "eha",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       },
+       {
+        "w": "iha",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭kṣati",
+      "words": [
+       {
+        "w": "vakṣati",
+        "gloss": "will carry",
+        "gram": "3 sg. fut. √vah"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि वह महान् धन के भण्डार को, द्युलोक की चढ़ाई को जानता है; वह देवों को यहाँ लाएगा।",
+  "english": "For he, the great one, knows the store of wealth, the ascent of heaven; he will carry the gods here.",
+  "text_flags": [],
+  "notes": "\"sa hi\" printed as two tokens. mahān is nominative (the subject), not an adjective of ārodhanam. vasu-dhiti \"place where wealth is put, store\". eha = ā iha; the preverb ā with vakṣati gives \"carry here\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vḙda",
+      "words": [
+       {
+        "w": "veda",
+        "gloss": "knows",
+        "gram": "3 sg. pf. √vid"
+       }
+      ]
+     },
+     {
+      "src": "de̱va",
+      "words": [
+       {
+        "w": "devaḥ",
+        "gloss": "god",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā̱nama̭ṃ",
+      "words": [
+       {
+        "w": "ānamam",
+        "gloss": "bowing",
+        "gram": "m. acc. sg. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "de̱vā~",
+      "words": [
+       {
+        "w": "devān",
+        "gloss": "gods",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṛ̭tāya̱te",
+      "words": [
+       {
+        "w": "ṛtāyate",
+        "gloss": "for the one who follows order",
+        "gram": "m. dat. sg. pres. part. denom. √ṛtāy"
+       }
+      ]
+     },
+     {
+      "src": "damḙ",
+      "words": [
+       {
+        "w": "dame",
+        "gloss": "in the house",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "dāti̭",
+      "words": [
+       {
+        "w": "dāti",
+        "gloss": "gives",
+        "gram": "3 sg. aor. subj. √dā"
+       }
+      ]
+     },
+     {
+      "src": "pri̱yāṇi̭",
+      "words": [
+       {
+        "w": "priyāṇi",
+        "gloss": "dear",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ci̱d",
+      "words": [
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vasṷ",
+      "words": [
+       {
+        "w": "vasu",
+        "gloss": "goods",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह देव, घर में ऋत का पालन करने वाले के लिए, देवों की ओर झुकने को जानता है; वह प्रिय धन भी देता है।",
+  "english": "He, the god, knows the bowing to the gods for the one who follows order in the house; he gives even dear goods.",
+  "text_flags": [],
+  "notes": "Line a is unclear to me. ānamam is taken as \"bowing, inclination\" (ā-√nam) and devān as the gods towards whom the bowing is directed; other readings take devān as the object of a verb, or connect ānamam with Agni. ṛtāyate is a dative of the participle \"following order\". dāti is subjunctive/injunctive; translated as present. priyāṇi vasu: \"dear goods\" with number disagreement (n. pl. adjective, n. sg. noun).",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hotā̱",
+      "words": [
+       {
+        "w": "hotā",
+        "gloss": "Hotṛ priest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sedṷ",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "u",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dū̱tya̭ṃ",
+      "words": [
+       {
+        "w": "dūtyam",
+        "gloss": "messenger-task",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ciki̱tvā~",
+      "words": [
+       {
+        "w": "cikitvān",
+        "gloss": "knowing",
+        "gram": "m. nom. sg. pf. part. √cit"
+       }
+      ]
+     },
+     {
+      "src": "a̱ntarī̭yate",
+      "words": [
+       {
+        "w": "antar",
+        "gloss": "between",
+        "gram": "ind."
+       },
+       {
+        "w": "īyate",
+        "gloss": "goes",
+        "gram": "3 sg. pres. mid. √i"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "vi̱dvā~",
+      "words": [
+       {
+        "w": "vidvān",
+        "gloss": "knowing",
+        "gram": "m. nom. sg. pf. part. √vid"
+       }
+      ]
+     },
+     {
+      "src": "ā̱rodha̭naṃ",
+      "words": [
+       {
+        "w": "ārodhanam",
+        "gloss": "ascent",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "di̱vaḥ",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of heaven",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह होता है, वही निश्चय ही दूत-कार्य को जानने वाला बीच में जाता है; द्युलोक की चढ़ाई को जानता हुआ।",
+  "english": "He is the Hotṛ priest, he indeed goes between on the messenger-task, knowing, knowing the ascent of heaven.",
+  "text_flags": [],
+  "notes": "sedu is resolved as sa id u. The tokens \"sa hotā\" are taken together as \"he is the Hotṛ priest\" (verbless clause). antar īyate \"goes between\" has no stated objects; dūtyam is taken as the accusative of the task.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "those",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "syā̭ma̱",
+      "words": [
+       {
+        "w": "syāma",
+        "gloss": "may we be",
+        "gram": "1 pl. opt. √as"
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "a̱gnayḙ",
+      "words": [
+       {
+        "w": "agnaye",
+        "gloss": "to Agni",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadā̱śurha̱vyadā̭tibhiḥ",
+      "words": [
+       {
+        "w": "dadāśuḥ",
+        "gloss": "have given",
+        "gram": "3 pl. pf. √dāś"
+       },
+       {
+        "w": "havya-dātibhiḥ",
+        "gloss": "with gifts of oblation",
+        "gram": "f. inst. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ya",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "ī̱ṃ",
+      "words": [
+       {
+        "w": "īm",
+        "gloss": "him",
+        "gram": "m. acc. sg. (pron.)"
+       }
+      ]
+     },
+     {
+      "src": "puṣya̭nta",
+      "words": [
+       {
+        "w": "puṣyantaḥ",
+        "gloss": "nourishing",
+        "gram": "m. nom. pl. pres. part. √puṣ"
+       }
+      ]
+     },
+     {
+      "src": "indha̱te",
+      "words": [
+       {
+        "w": "indhate",
+        "gloss": "kindle",
+        "gram": "3 pl. pres. mid. √indh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हम उनमें हों जिन्होंने हवि के दानों से अग्नि को दिया है; जो उसे पुष्ट करते हुए प्रज्वलित करते हैं।",
+  "english": "May we be those who have given to Agni with gifts of oblation; who, nourishing him, kindle him.",
+  "text_flags": [],
+  "notes": "ya īm = ye īm (e before a vowel written a in this edition). dadāśuḥ is \"have given/worshipped\". \"kindle him\" repeats īm as the object of indhate; the pronoun is stated once in the Sanskrit.",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "those",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rā̱yā",
+      "words": [
+       {
+        "w": "rāyā",
+        "gloss": "with wealth",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "those",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "su̱vīryai̭:",
+      "words": [
+       {
+        "w": "su-vīryaiḥ",
+        "gloss": "with excellent heroic deeds",
+        "gram": "n. inst. pl. bahuvrīhi/tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sasa̱vāṃso̱",
+      "words": [
+       {
+        "w": "sasavāṃsaḥ",
+        "gloss": "having won",
+        "gram": "m. nom. pl. pf. part. √san"
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "widely",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "śṛ̭ṇvire",
+      "words": [
+       {
+        "w": "śṛṇvire",
+        "gloss": "are heard",
+        "gram": "3 pl. pres. mid. √śru"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "a̱gnā",
+      "words": [
+       {
+        "w": "agnau",
+        "gloss": "in Agni",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "da̭dhi̱re",
+      "words": [
+       {
+        "w": "dadhire",
+        "gloss": "have placed",
+        "gram": "3 pl. pf. mid. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "duva̭:",
+      "words": [
+       {
+        "w": "duvaḥ",
+        "gloss": "homage",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे धन से, वे उत्तम वीर कार्यों से जीतकर दूर-दूर तक सुने जाते हैं; जिन्होंने अग्नि में पूजा को स्थापित किया है।",
+  "english": "Those, with wealth, those with excellent heroic deeds, having won, are heard widely; who have placed homage in Agni.",
+  "text_flags": [],
+  "notes": "agnā is taken as a locative agnau. vi śṛṇvire \"are heard far and wide\" (are renowned). duvas \"homage, worship\"; dadhire duvaḥ is an idiom of rendering homage. The object of sasavāṃsaḥ is not stated, so none is supplied.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱sme",
+      "words": [
+       {
+        "w": "asme",
+        "gloss": "to us",
+        "gram": "pron. 1 pl. dat./loc."
+       }
+      ]
+     },
+     {
+      "src": "rāyo̭",
+      "words": [
+       {
+        "w": "rāyaḥ",
+        "gloss": "wealths",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "di̱vedi̭ve̱",
+      "words": [
+       {
+        "w": "dive-dive",
+        "gloss": "day by day",
+        "gram": "m. loc./dat. sg. (repeated)"
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ca̭rantu",
+      "words": [
+       {
+        "w": "carantu",
+        "gloss": "let them move",
+        "gram": "3 pl. impv. √car"
+       }
+      ]
+     },
+     {
+      "src": "puru̱spṛha̭:",
+      "words": [
+       {
+        "w": "puru-spṛhaḥ",
+        "gloss": "much-desired",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "a̱sme",
+      "words": [
+       {
+        "w": "asme",
+        "gloss": "to us",
+        "gram": "pron. 1 pl. dat./loc."
+       }
+      ]
+     },
+     {
+      "src": "vājā̭sa",
+      "words": [
+       {
+        "w": "vājāsaḥ",
+        "gloss": "prizes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "īratām",
+      "words": [
+       {
+        "w": "īratām",
+        "gloss": "let them rise",
+        "gram": "3 pl. impv. mid. √īr"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हमारे पास प्रतिदिन बहुत चाहे जाने वाले धन आकर इकट्ठे हों; हमारे लिए पुरस्कार उठ खड़े हों।",
+  "english": "Let much-desired wealths come together to us day by day; let prizes rise for us.",
+  "text_flags": [],
+  "notes": "asme can be dative or locative (\"to/for us\"); \"come together to us\" renders saṃ carantu with asme. dive-dive \"day by day\" (repeated for distribution).",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vipra̭ścarṣaṇī̱nāṃ",
+      "words": [
+       {
+        "w": "vipraḥ",
+        "gloss": "inspired one",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "carṣaṇīnām",
+        "gloss": "of the peoples",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "śava̭sā̱",
+      "words": [
+       {
+        "w": "śavasā",
+        "gloss": "with strength",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mānṷṣāṇām",
+      "words": [
+       {
+        "w": "mānuṣāṇām",
+        "gloss": "of men",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "|",
+      "words": [
+       {
+        "w": "|",
+        "gloss": "half-verse divider",
+        "gram": "punct."
+       }
+      ]
+     },
+     {
+      "src": "ati̭",
+      "words": [
+       {
+        "w": "ati",
+        "gloss": "beyond",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "kṣi̱preva̭",
+      "words": [
+       {
+        "w": "kṣiprā",
+        "gloss": "swift one",
+        "gram": "f. nom. sg. (form uncertain)"
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vidhyati",
+      "words": [
+       {
+        "w": "vidhyati",
+        "gloss": "pierces",
+        "gram": "3 sg. pres. √vyadh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह जनों का विप्र, मनुष्यों के, पार वेधता है, तीव्र के समान।",
+  "english": "He, the inspired one of the peoples, with strength, of men, pierces beyond, like a swift one.",
+  "text_flags": [],
+  "notes": "This verse is unclear to me. kṣipreva is resolved as kṣiprā iva (f. \"swift one\"), but what the feminine noun is (an arrow, a sling, a finger) is not settled, and I add nothing. The genitive mānuṣāṇām may go with śavasā (\"with the strength of men\") or with carṣaṇīnām; I keep both genitives literal.",
+  "confidence": "low"
+ }
+]

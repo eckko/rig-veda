@@ -1,0 +1,882 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "with you",
+        "gram": "pron. inst. sg. (tvayā)"
+       }
+      ]
+     },
+     {
+      "src": "yu̱jā",
+      "words": [
+       {
+        "w": "yujā",
+        "gloss": "as yoke-mate",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tava̱",
+      "words": [
+       {
+        "w": "tava",
+        "gloss": "your",
+        "gram": "pron. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "then",
+        "gram": "ind. (acc. n., adverbial)"
+       }
+      ]
+     },
+     {
+      "src": "so̭ma",
+      "words": [
+       {
+        "w": "soma",
+        "gloss": "O Soma",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱khya",
+      "words": [
+       {
+        "w": "sakhye",
+        "gloss": "in friendship",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "indro̭",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱po",
+      "words": [
+       {
+        "w": "apaḥ",
+        "gloss": "the waters",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mana̭ve",
+      "words": [
+       {
+        "w": "manave",
+        "gloss": "for Manu",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱sruta̭skaḥ",
+      "words": [
+       {
+        "w": "sasrutaḥ",
+        "gloss": "flowing",
+        "gram": "f. acc. pl. pf. part. √sru"
+       },
+       {
+        "w": "kaḥ",
+        "gloss": "made",
+        "gram": "3 sg. aor. (injunctive) √kṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "aha̱nnahi̱mari̭ṇāt",
+      "words": [
+       {
+        "w": "ahan",
+        "gloss": "he slew",
+        "gram": "3 sg. impf. √han"
+       },
+       {
+        "w": "ahim",
+        "gloss": "the serpent",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ariṇāt",
+        "gloss": "he released",
+        "gram": "3 sg. impf. √ri"
+       }
+      ]
+     },
+     {
+      "src": "sa̱pta",
+      "words": [
+       {
+        "w": "sapta",
+        "gloss": "seven",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "sindhū̱napā̭vṛṇo̱dapi̭hiteva̱",
+      "words": [
+       {
+        "w": "sindhūn",
+        "gloss": "rivers",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "apāvṛṇot",
+        "gloss": "he uncovered",
+        "gram": "3 sg. impf. apa-√vṛ"
+       },
+       {
+        "w": "apihitā",
+        "gloss": "shut",
+        "gram": "n. acc. pl. ppp. api-√dhā"
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "khāni̭",
+      "words": [
+       {
+        "w": "khāni",
+        "gloss": "openings",
+        "gram": "n. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुझ सहयोगी के साथ, तेरी उस मित्रता में, हे सोम, इन्द्र ने मनु के लिए जलों को प्रवाहित किया। उसने अहि को मारा, सात नदियों को छोड़ा, बन्द-से छिद्रों को खोल दिया।",
+  "english": "With you as yoke-mate, then, in your friendship, O Soma, Indra made the waters flow for Manu. He slew the serpent, released the seven rivers, uncovered the openings, as if shut.",
+  "text_flags": [],
+  "notes": "tvā yujā: tvā is read as an instrumental (tvayā). tat is read adverbially ('then'); it could also refer to the following deed. sasrutaḥ kaḥ is read 'made flowing'. ahi is rendered 'the serpent'; no name or identification is added.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "with you",
+        "gram": "pron. inst. sg. (tvayā)"
+       }
+      ]
+     },
+     {
+      "src": "yu̱jā",
+      "words": [
+       {
+        "w": "yujā",
+        "gloss": "as yoke-mate",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "khi̭da̱t",
+      "words": [
+       {
+        "w": "khidat",
+        "gloss": "pressed",
+        "gram": "3 sg. impf. √khid"
+       }
+      ]
+     },
+     {
+      "src": "sūrya̱syendra̭śca̱kraṃ",
+      "words": [
+       {
+        "w": "sūryasya",
+        "gloss": "of the sun",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cakram",
+        "gloss": "wheel",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saha̭sā",
+      "words": [
+       {
+        "w": "sahasā",
+        "gloss": "by force",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱dya",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "i̭ndo",
+      "words": [
+       {
+        "w": "indo",
+        "gloss": "O drop",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "adhi̱",
+      "words": [
+       {
+        "w": "adhi",
+        "gloss": "over",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣṇunā̭",
+      "words": [
+       {
+        "w": "snunā",
+        "gloss": "ridge",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛha̱tā",
+      "words": [
+       {
+        "w": "bṛhatā",
+        "gloss": "great",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "varta̭mānaṃ",
+      "words": [
+       {
+        "w": "vartamānam",
+        "gloss": "rolling",
+        "gram": "n. acc. sg. pres. part. mid. √vṛt"
+       }
+      ]
+     },
+     {
+      "src": "ma̱ho",
+      "words": [
+       {
+        "w": "mahaḥ",
+        "gloss": "great",
+        "gram": "f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "dru̱ho",
+      "words": [
+       {
+        "w": "druhaḥ",
+        "gloss": "from malice",
+        "gram": "f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "apa̭",
+      "words": [
+       {
+        "w": "apa",
+        "gloss": "away",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "vi̱śvāyṷ",
+      "words": [
+       {
+        "w": "viśvāyu",
+        "gloss": "all-living",
+        "gram": "n. nom. sg. (sense uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "dhāyi",
+      "words": [
+       {
+        "w": "dhāyi",
+        "gloss": "was set",
+        "gram": "3 sg. aor. pass. √dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुझ सहयोगी के साथ इन्द्र ने सूर्य के चक्र को बल से तुरन्त नीचे दबाया, हे बिन्दु। विशाल शिखर पर घूमते हुए को; महान् द्रोह से दूर कर दिया गया सर्वायु।",
+  "english": "With you as yoke-mate Indra pressed down the wheel of the sun by force, at once, O drop, rolling over the great ridge. From great malice the all-living was set away.",
+  "text_flags": [],
+  "notes": "The second line is unclear: viśvāyu is taken as the nominative subject of dhāyi (apa dhāyi, 'was put away'), but what it refers to is not clear; vartamānam is read with cakram. snunā as an instrumental after adhi is unusual and the sense 'over the ridge' is tentative.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "aha̱nnindro̱",
+      "words": [
+       {
+        "w": "ahan",
+        "gloss": "slew",
+        "gram": "3 sg. impf. √han"
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ada̭hada̱gniri̭ndo",
+      "words": [
+       {
+        "w": "adahat",
+        "gloss": "burned",
+        "gram": "3 sg. impf. √dah"
+       },
+       {
+        "w": "agniḥ",
+        "gloss": "Agni",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "indo",
+        "gloss": "O drop",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pu̱rā",
+      "words": [
+       {
+        "w": "purā",
+        "gloss": "before",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dasyṷ̄nma̱dhyaṃdi̭nāda̱bhīkḙ",
+      "words": [
+       {
+        "w": "dasyūn",
+        "gloss": "the Dasyus",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "madhyaṃdināt",
+        "gloss": "midday",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "abhīke",
+        "gloss": "in the encounter",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "du̱rge",
+      "words": [
+       {
+        "w": "durge",
+        "gloss": "in the stronghold",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṷro̱ṇe",
+      "words": [
+       {
+        "w": "duroṇe",
+        "gloss": "in the house",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kratvā̱",
+      "words": [
+       {
+        "w": "kratvā",
+        "gloss": "by resolve",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yā̱tāṃ",
+      "words": [
+       {
+        "w": "yātām",
+        "gloss": "of the goers",
+        "gram": "m. gen. pl. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "pu̱rū",
+      "words": [
+       {
+        "w": "purū",
+        "gloss": "many",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱hasrā̱",
+      "words": [
+       {
+        "w": "sahasrā",
+        "gloss": "thousands",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śarvā̱",
+      "words": [
+       {
+        "w": "śarvā",
+        "gloss": "destroyers",
+        "gram": "n. acc. pl. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ba̭rhīt",
+      "words": [
+       {
+        "w": "barhīt",
+        "gloss": "crushed",
+        "gram": "3 sg. aor. √barh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन्द्र ने मारा, अग्नि ने जलाया, हे बिन्दु, दस्युओं को दोपहर से पहले, मुठभेड़ में। गढ़ में, घर में, संकल्प से, जाने वालों के समान, बहुत हज़ार विनाशकों को उसने नीचे कुचल दिया।",
+  "english": "Indra slew, Agni burned, O drop, the Dasyus before midday, in the encounter. In the stronghold, in the house, by resolve, as of the goers, he crushed down many thousands of destroyers.",
+  "text_flags": [],
+  "notes": "Line 2: kratvā na yātām and śarvā are not understood. na is read 'like', yātām as a genitive plural 'of the goers', and śarvā as 'destroyers' (n. acc. pl.); other readings (e.g. śarvā as an instrumental 'by the weapon') are possible. Translation is literal only. purā with the ablative madhyaṃdināt: 'before midday'.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viśva̭smāt",
+      "words": [
+       {
+        "w": "viśvasmāt",
+        "gloss": "than all",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "sīmadha̱mā~",
+      "words": [
+       {
+        "w": "sīm",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "adhamān",
+        "gloss": "the lowest",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "i̭ndra̱",
+      "words": [
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dasyū̱n",
+      "words": [
+       {
+        "w": "dasyūn",
+        "gloss": "the Dasyus",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "viśo̱",
+      "words": [
+       {
+        "w": "viśaḥ",
+        "gloss": "clans",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dāsī̭rakṛṇorapraśa̱stāḥ",
+      "words": [
+       {
+        "w": "dāsīḥ",
+        "gloss": "Dāsa",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "akṛṇoḥ",
+        "gloss": "you made",
+        "gram": "2 sg. impf. √kṛ"
+       },
+       {
+        "w": "apraśastāḥ",
+        "gloss": "unpraised",
+        "gram": "f. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "abā̭dhethā̱mamṛ̭ṇata̱ṃ",
+      "words": [
+       {
+        "w": "abādhethām",
+        "gloss": "you two drove",
+        "gram": "2 du. impf. mid. √bādh"
+       },
+       {
+        "w": "amṛṇatam",
+        "gloss": "you two crushed",
+        "gram": "2 du. impf. √mṛṇ"
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "śatrū̱navi̭ndethā̱mapa̭citi̱ṃ",
+      "words": [
+       {
+        "w": "śatrūn",
+        "gloss": "enemies",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "avindethām",
+        "gloss": "you two found",
+        "gram": "2 du. impf. mid. √vid"
+       },
+       {
+        "w": "apacitim",
+        "gloss": "requital",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vadha̭traiḥ",
+      "words": [
+       {
+        "w": "vadhatraiḥ",
+        "gloss": "with weapons",
+        "gram": "n. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सबसे बढ़कर, हे इन्द्र, तुमने दस्युओं को निम्नतम किया; दास कुलों को अप्रशंसित किया। तुम दोनों ने हटाया, तुम दोनों ने शत्रुओं को नीचे कुचला; तुम दोनों ने शस्त्रों से प्रतिकार पाया।",
+  "english": "Than all, O Indra, you made the Dasyus the lowest; the Dāsa clans you made unpraised. You two drove, you two crushed down the enemies; you two found requital with weapons.",
+  "text_flags": [],
+  "notes": "viśvasmāt sīm is read as an ablative of comparison ('than all'); sīm is a particle. dāsīḥ is taken as an adjective 'Dāsa'. The two addressees of line 2 (dual) are not named in the verse (the hymn's other verses suggest Indra and Soma). ni is read with amṛṇatam.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "e̱vā",
+      "words": [
+       {
+        "w": "evā",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̱tyaṃ",
+      "words": [
+       {
+        "w": "satyam",
+        "gloss": "truly",
+        "gram": "n. acc. sg. (adverbial)"
+       }
+      ]
+     },
+     {
+      "src": "ma̭ghavānā",
+      "words": [
+       {
+        "w": "maghavānā",
+        "gloss": "O bountiful ones",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "yu̱vaṃ",
+      "words": [
+       {
+        "w": "yuvam",
+        "gloss": "you two",
+        "gram": "pron. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tadindra̭śca",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "somo̱rvamaśvya̱ṃ",
+      "words": [
+       {
+        "w": "somaḥ",
+        "gloss": "Soma",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ūrvam",
+        "gloss": "pen",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "aśvyam",
+        "gloss": "of horses",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "goḥ",
+      "words": [
+       {
+        "w": "goḥ",
+        "gloss": "of the cow",
+        "gram": "m. or f. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "āda̭rdṛta̱mapi̭hitā̱nyaśnā̭",
+      "words": [
+       {
+        "w": "ādardṛtam",
+        "gloss": "you two split open",
+        "gram": "2 du. pf. ā-√dṛ"
+       },
+       {
+        "w": "apihitāni",
+        "gloss": "the shut things",
+        "gram": "n. acc. pl. ppp. api-√dhā"
+       },
+       {
+        "w": "aśnā",
+        "gloss": "by the stone",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "riri̱cathu̱:",
+      "words": [
+       {
+        "w": "ririchathuḥ",
+        "gloss": "you two released",
+        "gram": "2 du. pf. √ric"
+       }
+      ]
+     },
+     {
+      "src": "kṣāści̭t",
+      "words": [
+       {
+        "w": "kṣāḥ",
+        "gloss": "the earths",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tatṛdā̱nā",
+      "words": [
+       {
+        "w": "tatṛdānāḥ",
+        "gloss": "split",
+        "gram": "f. acc. pl. pf. part. mid. √tṛd (sense uncertain)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इस प्रकार सच है, हे दानशील दोनों, तुम दोनों वह — इन्द्र और सोम — अश्वों और गाय का बाड़ा। तुम दोनों ने पत्थर से बन्द किए हुओं को फाड़ा, तुमने छोड़ा; पृथ्वियाँ भी विदीर्ण होती हुई।",
+  "english": "Thus truly, O bountiful ones, you two, that: Indra and Soma, the pen of horses and of the cow. You two split open the shut things by the stone; you two released; even the earths, split.",
+  "text_flags": [],
+  "notes": "Unclear verse: the syntax of line 1 (no verb; yuvam tad ... ūrvam aśvyaṃ goḥ) and the last clause (kṣāś cit tatṛdānā) are not resolved. aśnā is read as an instrumental of aśan 'stone'; ririchathuḥ has no stated object. Translation is literal.",
+  "confidence": "low"
+ }
+]

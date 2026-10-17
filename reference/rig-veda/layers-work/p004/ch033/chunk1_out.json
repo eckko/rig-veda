@@ -1,0 +1,1985 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind. preverb"
+       }
+      ]
+     },
+     {
+      "src": "ṛ̱bhubhyo̭",
+      "words": [
+       {
+        "w": "ṛbhubhyaḥ",
+        "gloss": "to the Ṛbhus",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "dū̱tami̭va̱",
+      "words": [
+       {
+        "w": "dūtam",
+        "gloss": "messenger",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāca̭miṣya",
+      "words": [
+       {
+        "w": "vācam",
+        "gloss": "speech",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "iṣya",
+        "gloss": "I send",
+        "gram": "1 sg. pres. mid. √iṣ form uncertain"
+       }
+      ]
+     },
+     {
+      "src": "upa̱stire̱",
+      "words": [
+       {
+        "w": "upastire",
+        "gloss": "at the spreading",
+        "gram": "form uncertain upa-√stṛ"
+       }
+      ]
+     },
+     {
+      "src": "śvaita̭rīṃ",
+      "words": [
+       {
+        "w": "śvaitarīm",
+        "gloss": "white",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhe̱numī̭ḻe",
+      "words": [
+       {
+        "w": "dhenum",
+        "gloss": "milch cow",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "īḻe",
+        "gloss": "I implore",
+        "gram": "1 sg. pres. mid. √īḍ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "vāta̭jūtāsta̱raṇi̭bhi̱revai̱:",
+      "words": [
+       {
+        "w": "vāta-jūtāḥ",
+        "gloss": "driven by the wind",
+        "gram": "m. nom. pl. tat-puruṣa"
+       },
+       {
+        "w": "taraṇibhiḥ",
+        "gloss": "with swift",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "evaiḥ",
+        "gloss": "with courses",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pari̱",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dyāṃ",
+      "words": [
+       {
+        "w": "dyām",
+        "gloss": "heaven",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱dyo",
+      "words": [
+       {
+        "w": "sadyaḥ",
+        "gloss": "at once",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "a̱paso̭",
+      "words": [
+       {
+        "w": "apasaḥ",
+        "gloss": "doers of work",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "babhū̱vuḥ",
+      "words": [
+       {
+        "w": "babhūvuḥ",
+        "gloss": "they encompassed",
+        "gram": "3 pl. pf. pari-√bhū"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मैं ऋभुओं की ओर दूत के समान वाणी भेजता हूँ; बिछावन पर मैं श्वेत दुधारू गाय का आह्वान करता हूँ। जो वायु से प्रेरित, तेज़ गतियों से तुरन्त आकाश के चारों ओर पहुँच गए, कार्य करने वाले।",
+  "english": "I send forth speech to the Ṛbhus like a messenger; at the spreading I implore the white milch cow. Those who, driven by the wind, with swift courses at once encompassed heaven, the doers of work.",
+  "text_flags": [],
+  "notes": "iṣya (1 sg. pres. of √iṣ 'send') is an irregular form; upastire is unclear (taken as 'at the spreading', perhaps of the sacred grass; the text does not say). pari ... babhūvuḥ taken as 'encompassed'. evaiḥ = 'courses' (eva m.). apasaḥ is the adjective 'doers of work' (apas 'work'). 'Those who' relates to the Ṛbhus of the first line.",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ya̱dāra̱makra̭nnṛ̱bhava̭:",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "aram",
+        "gloss": "fit, ready",
+        "gram": "ind."
+       },
+       {
+        "w": "akran",
+        "gloss": "they made",
+        "gram": "3 pl. aor. √kṛ"
+       },
+       {
+        "w": "ṛbhavaḥ",
+        "gloss": "the Ṛbhus",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tṛbhyā̱ṃ",
+      "words": [
+       {
+        "w": "pitṛbhyām",
+        "gloss": "for the two parents",
+        "gram": "m. dat. du."
+       }
+      ]
+     },
+     {
+      "src": "pari̭viṣṭī",
+      "words": [
+       {
+        "w": "pariviṣṭī",
+        "gloss": "attendance",
+        "gram": "f. acc. du./sg. form uncertain"
+       }
+      ]
+     },
+     {
+      "src": "ve̱ṣaṇā̭",
+      "words": [
+       {
+        "w": "veṣaṇā",
+        "gloss": "service",
+        "gram": "f. acc. du./pl. form uncertain"
+       }
+      ]
+     },
+     {
+      "src": "da̱ṃsanā̭bhiḥ",
+      "words": [
+       {
+        "w": "daṃsanābhiḥ",
+        "gloss": "with wonderful deeds",
+        "gram": "f. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ādid",
+      "words": [
+       {
+        "w": "ādit",
+        "gloss": "then",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "de̱vānā̱mupa̭",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "upa",
+        "gloss": "to",
+        "gram": "ind. preverb"
+       }
+      ]
+     },
+     {
+      "src": "sa̱khyamā̭ya̱n",
+      "words": [
+       {
+        "w": "sakhyam",
+        "gloss": "friendship",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āyan",
+        "gloss": "they came",
+        "gram": "3 pl. impf. ā-√i"
+       }
+      ]
+     },
+     {
+      "src": "dhīrā̭saḥ",
+      "words": [
+       {
+        "w": "dhīrāsaḥ",
+        "gloss": "the wise",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "pu̱ṣṭima̭vahan",
+      "words": [
+       {
+        "w": "puṣṭim",
+        "gloss": "nourishment",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "avahan",
+        "gloss": "they brought",
+        "gram": "3 pl. impf. √vah"
+       }
+      ]
+     },
+     {
+      "src": "ma̱nāyai̭",
+      "words": [
+       {
+        "w": "manāyai",
+        "gloss": "for devotion",
+        "gram": "f. dat. sg. form and sense uncertain"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब ऋभुओं ने दोनों माता-पिता के लिए अद्भुत कार्यों से सेवा और परिचर्या तैयार की, तब वे धीर देवों की मित्रता के निकट आए; उन्होंने भक्ति के लिए पोषण पहुँचाया।",
+  "english": "When the Ṛbhus made ready for the two parents attendance and service with wonderful deeds, then the wise ones came to the friendship of the gods; they brought nourishment for devotion.",
+  "text_flags": [],
+  "notes": "UNCLEAR in the first half: pariviṣṭī and veṣaṇā (their case and number are uncertain; read as accusatives 'attendance, service'); aram akran read as 'made ready'. manāyai (dative of manā) is uncertain, rendered 'for devotion'.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "puna̱rye",
+      "words": [
+       {
+        "w": "punar",
+        "gloss": "again",
+        "gram": "ind."
+       },
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "ca̱kruḥ",
+      "words": [
+       {
+        "w": "cakruḥ",
+        "gloss": "they made",
+        "gram": "3 pl. pf. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "pi̱tarā̱",
+      "words": [
+       {
+        "w": "pitarā",
+        "gloss": "the two parents",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "yuvā̭nā̱",
+      "words": [
+       {
+        "w": "yuvānā",
+        "gloss": "young",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "sanā̱",
+      "words": [
+       {
+        "w": "sanā",
+        "gloss": "ancient",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "yūpḙva",
+      "words": [
+       {
+        "w": "yūpā",
+        "gloss": "posts",
+        "gram": "m. nom./acc. pl."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jara̱ṇā",
+      "words": [
+       {
+        "w": "jaraṇā",
+        "gloss": "aged",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "śayā̭nā",
+      "words": [
+       {
+        "w": "śayānā",
+        "gloss": "lying",
+        "gram": "m. acc. du. pres. part. mid. √śī"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vājo̱",
+      "words": [
+       {
+        "w": "vājaḥ",
+        "gloss": "Vāja",
+        "gram": "m. nom. sg. name"
+       }
+      ]
+     },
+     {
+      "src": "vibhvā̭~",
+      "words": [
+       {
+        "w": "vibhvān",
+        "gloss": "Vibhvan",
+        "gram": "m. nom. sg. name"
+       }
+      ]
+     },
+     {
+      "src": "ṛ̱bhurindra̭vanto̱",
+      "words": [
+       {
+        "w": "ṛbhuḥ",
+        "gloss": "Ṛbhu",
+        "gram": "m. nom. sg. name"
+       },
+       {
+        "w": "indra-vantaḥ",
+        "gloss": "having Indra",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "madhṷpsaraso",
+      "words": [
+       {
+        "w": "madhu-psarasaḥ",
+        "gloss": "honey-eating",
+        "gram": "m. nom. pl. form and sense uncertain"
+       }
+      ]
+     },
+     {
+      "src": "no'vantu",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "pron. enclitic gen. pl."
+       },
+       {
+        "w": "avantu",
+        "gloss": "may they help",
+        "gram": "3 pl. impv. √av"
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñam",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिन्होंने अपने दोनों पुरातन, जीर्ण, खम्भों के समान पड़े हुए माता-पिता को फिर युवा बना दिया; वे वाज, विभ्वा और ऋभु, इन्द्र के साथ, मधु खाने वाले, हमारे यज्ञ की रक्षा करें।",
+  "english": "Who made the two parents young again, ancient, aged, lying like posts. May they, Vāja, Vibhvan and Ṛbhu, with Indra, honey-eating, help our sacrifice.",
+  "text_flags": [],
+  "notes": "yūpā iva is read as 'like posts' (yūpa = post; the text does not say sacrificial). madhupsarasaḥ is uncertain ('honey-eating' is a guess from psaras 'food' or 'form'). Vāja, Vibhvan and Ṛbhu are names of the three. 'Having Indra' rendered 'with Indra'.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̱ṃvatsa̭mṛ̱bhavo̱",
+      "words": [
+       {
+        "w": "saṃvatsam",
+        "gloss": "for a year",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ṛbhavaḥ",
+        "gloss": "the Ṛbhus",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "gāmara̭kṣa̱n",
+      "words": [
+       {
+        "w": "gām",
+        "gloss": "cow",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "arakṣan",
+        "gloss": "they guarded",
+        "gram": "3 pl. impf. √rakṣ"
+       }
+      ]
+     },
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̱ṃvatsa̭mṛ̱bhavo̱",
+      "words": [
+       {
+        "w": "saṃvatsam",
+        "gloss": "for a year",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ṛbhavaḥ",
+        "gloss": "the Ṛbhus",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "mā",
+        "gram": "form and sense uncertain"
+       }
+      ]
+     },
+     {
+      "src": "api̭ṃśan",
+      "words": [
+       {
+        "w": "apiṃśan",
+        "gloss": "they fashioned",
+        "gram": "3 pl. impf. √piś"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yat",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̱ṃvatsa̱mabha̭ra̱n",
+      "words": [
+       {
+        "w": "saṃvatsam",
+        "gloss": "for a year",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "abharan",
+        "gloss": "they brought",
+        "gram": "3 pl. impf. √bhṛ"
+       }
+      ]
+     },
+     {
+      "src": "bhāso̭",
+      "words": [
+       {
+        "w": "bhāsaḥ",
+        "gloss": "splendours",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "asyā̱stābhi̱:",
+      "words": [
+       {
+        "w": "asyāḥ",
+        "gloss": "of her",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "tābhiḥ",
+        "gloss": "with those",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "śamī̭bhiramṛta̱tvamā̭śuḥ",
+      "words": [
+       {
+        "w": "śamībhiḥ",
+        "gloss": "with labours",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "amṛtatvam",
+        "gloss": "immortality",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āśuḥ",
+        "gloss": "they attained",
+        "gram": "3 pl. pf. √aś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब एक वर्ष ऋभुओं ने गाय की रक्षा की, जब एक वर्ष ऋभुओं ने उसे गढ़ा; जब एक वर्ष उन्होंने इसकी दीप्तियाँ धारण कीं, उन परिश्रमों से उन्होंने अमरत्व पाया।",
+  "english": "When for a year the Ṛbhus guarded the cow, when for a year the Ṛbhus fashioned it; when for a year they brought the splendours of her, by those labours they attained immortality.",
+  "text_flags": [],
+  "notes": "UNCLEAR: the word mā in the second pāda (object of apiṃśan) cannot be resolved here; rendered 'it' as a placeholder only. bhāsaḥ read as 'splendours'. śamī = labour/effort.",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "jye̱ṣṭha",
+      "words": [
+       {
+        "w": "jyeṣṭhaḥ",
+        "gloss": "the eldest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā̭ha",
+      "words": [
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "cama̱sā",
+      "words": [
+       {
+        "w": "camasā",
+        "gloss": "two cups",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "dvā",
+      "words": [
+       {
+        "w": "dvā",
+        "gloss": "two",
+        "gram": "num. m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "ka̱reti̱",
+      "words": [
+       {
+        "w": "kara",
+        "gloss": "make",
+        "gram": "2 sg. impv. √kṛ"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kanī̭yā̱n",
+      "words": [
+       {
+        "w": "kanīyān",
+        "gloss": "the younger",
+        "gram": "m. nom. sg. comp."
+       }
+      ]
+     },
+     {
+      "src": "trīn",
+      "words": [
+       {
+        "w": "trīn",
+        "gloss": "three",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̭ṇavā̱metyā̭ha",
+      "words": [
+       {
+        "w": "kṛṇavāma",
+        "gloss": "let us make",
+        "gram": "1 pl. subj. √kṛ"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       },
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ka̱ni̱ṣṭha",
+      "words": [
+       {
+        "w": "kaniṣṭhaḥ",
+        "gloss": "the youngest",
+        "gram": "m. nom. sg. superl."
+       }
+      ]
+     },
+     {
+      "src": "ā̭ha",
+      "words": [
+       {
+        "w": "āha",
+        "gloss": "said",
+        "gram": "3 sg. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "ca̱tura̭ska̱reti̱",
+      "words": [
+       {
+        "w": "caturaḥ",
+        "gloss": "four",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "kara",
+        "gloss": "make",
+        "gram": "2 sg. impv. √kṛ"
+       },
+       {
+        "w": "iti",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvaṣṭa̭",
+      "words": [
+       {
+        "w": "tvaṣṭā",
+        "gloss": "Tvaṣṭṛ",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛbhava̱stat",
+      "words": [
+       {
+        "w": "ṛbhavaḥ",
+        "gloss": "O Ṛbhus",
+        "gram": "m. voc. pl."
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̭naya̱d",
+      "words": [
+       {
+        "w": "panayat",
+        "gloss": "he admired",
+        "gram": "3 sg. impf. √pan"
+       }
+      ]
+     },
+     {
+      "src": "vaco̭",
+      "words": [
+       {
+        "w": "vacaḥ",
+        "gloss": "word",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vaḥ",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "of you",
+        "gram": "pron. enclitic gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सबसे बड़े ने कहा, दो चमस बनाओ; छोटे ने कहा, हम तीन बनाएँ; सबसे छोटे ने कहा, चार बनाओ। हे ऋभुओ, त्वष्टा ने तुम्हारे उस वचन की प्रशंसा की।",
+  "english": "The eldest said, \"Make two cups\"; the younger said, \"Let us make three\"; the youngest said, \"Make four.\" Tvaṣṭṛ, O Ṛbhus, admired that word of yours.",
+  "text_flags": [],
+  "notes": "camasa = cup (drinking vessel). panayat taken as 'admired' (√pan 'admire, praise').",
+  "confidence": "high"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa̱tyamṷ̄cu̱rnara̭",
+      "words": [
+       {
+        "w": "satyam",
+        "gloss": "truth",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ūcuḥ",
+        "gloss": "they spoke",
+        "gram": "3 pl. pf. √vac"
+       },
+       {
+        "w": "narāḥ",
+        "gloss": "O men",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "e̱vā",
+      "words": [
+       {
+        "w": "evā",
+        "gloss": "thus",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̱kruranṷ",
+      "words": [
+       {
+        "w": "cakruḥ",
+        "gloss": "they did",
+        "gram": "3 pl. pf. √kṛ"
+       },
+       {
+        "w": "anu",
+        "gloss": "after",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sva̱dhāmṛ̱bhavo̭",
+      "words": [
+       {
+        "w": "svadhām",
+        "gloss": "own power",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ṛbhavaḥ",
+        "gloss": "the Ṛbhus",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jagmure̱tām",
+      "words": [
+       {
+        "w": "jagmuḥ",
+        "gloss": "they went",
+        "gram": "3 pl. pf. √gam"
+       },
+       {
+        "w": "etām",
+        "gloss": "this",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vi̱bhrāja̭mānā~ścama̱sā~",
+      "words": [
+       {
+        "w": "vibhrājamānān",
+        "gloss": "shining",
+        "gram": "m. acc. pl. pres. part. mid. vi-√bhrāj"
+       },
+       {
+        "w": "camasān",
+        "gloss": "cups",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ahe̱vā'vḙna̱t",
+      "words": [
+       {
+        "w": "ahā",
+        "gloss": "days",
+        "gram": "n. nom./acc. pl."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "avenat",
+        "gloss": "he yearned",
+        "gram": "3 sg. impf. √ven"
+       }
+      ]
+     },
+     {
+      "src": "tvaṣṭā̭",
+      "words": [
+       {
+        "w": "tvaṣṭā",
+        "gloss": "Tvaṣṭṛ",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱turo̭",
+      "words": [
+       {
+        "w": "caturaḥ",
+        "gloss": "four",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dadṛ̱śvān",
+      "words": [
+       {
+        "w": "dadṛśvān",
+        "gloss": "having seen",
+        "gram": "m. nom. sg. pf. part. √dṛś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे पुरुषो, उन्होंने सत्य कहा; क्योंकि उन्होंने वैसा ही किया; ऋभु इस स्वधा के पीछे गए। त्वष्टा ने चारों को देखकर चमकते हुए चमसों की दिनों के समान कामना की।",
+  "english": "They spoke the truth, O men, for thus they did; the Ṛbhus went after this own power. Tvaṣṭṛ, having seen the four, yearned for the shining cups like days.",
+  "text_flags": [],
+  "notes": "'ahā iva' (like days) is rendered literally; the comparison is not explained. nara is read as a vocative plural.",
+  "confidence": "medium"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dvāda̭śa̱",
+      "words": [
+       {
+        "w": "dvādaśa",
+        "gloss": "twelve",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "dyūn",
+      "words": [
+       {
+        "w": "dyūn",
+        "gloss": "days",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yadago̭hyasyā''ti̱thye",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "agohyasya",
+        "gloss": "of the unhidden one",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "ātithye",
+        "gloss": "in the hospitality",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "raṇa̭nnṛ̱bhava̭:",
+      "words": [
+       {
+        "w": "raṇan",
+        "gloss": "they took pleasure",
+        "gram": "3 pl. impf./inj. √ran"
+       },
+       {
+        "w": "ṛbhavaḥ",
+        "gloss": "the Ṛbhus",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱santa̭:",
+      "words": [
+       {
+        "w": "sasantaḥ",
+        "gloss": "sleeping",
+        "gram": "m. nom. pl. pres. part. √sas"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "su̱kṣetrā̭kṛṇva̱nnana̭yanta̱",
+      "words": [
+       {
+        "w": "sukṣetrā",
+        "gloss": "good fields",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "akṛṇvan",
+        "gloss": "they made",
+        "gram": "3 pl. impf. √kṛ"
+       },
+       {
+        "w": "anayanta",
+        "gloss": "they led",
+        "gram": "3 pl. impf. mid. √nī"
+       }
+      ]
+     },
+     {
+      "src": "sindhū̱n",
+      "words": [
+       {
+        "w": "sindhūn",
+        "gloss": "rivers",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhanvāti̭ṣṭha̱nnoṣa̭dhīrni̱mnamāpa̭:",
+      "words": [
+       {
+        "w": "dhanvā",
+        "gloss": "on dry land",
+        "gram": "n. loc. sg."
+       },
+       {
+        "w": "atiṣṭhan",
+        "gloss": "they stood",
+        "gram": "3 pl. impf. √sthā"
+       },
+       {
+        "w": "oṣadhīḥ",
+        "gloss": "plants",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "nimnam",
+        "gloss": "in the low place",
+        "gram": "n. loc./acc. sg."
+       },
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब बारह दिन तक ऋभु अगोह्य के आतिथ्य में सोते हुए आनन्दित रहे, तब उन्होंने अच्छे खेत बनाए, नदियों को चलाया; सूखी भूमि पर ओषधियाँ खड़ी हुईं, नीचे स्थान में जल।",
+  "english": "When for twelve days the Ṛbhus took pleasure in the hospitality of the unhidden one, sleeping, they made good fields, they led the rivers; on dry land the plants stood, the waters in the low place.",
+  "text_flags": [],
+  "notes": "agohya ('not to be hidden') may be a name (Agohya); taken as the adjective 'unhidden one'. The last pāda is read as 'the plants stood on dry land, the waters in the low place' (atiṣṭhan carried over to āpaḥ). sasantaḥ = 'sleeping'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ratha̱ṃ",
+      "words": [
+       {
+        "w": "ratham",
+        "gloss": "chariot",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "ca̱kruḥ",
+      "words": [
+       {
+        "w": "cakruḥ",
+        "gloss": "they made",
+        "gram": "3 pl. pf. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "su̱vṛta̭ṃ",
+      "words": [
+       {
+        "w": "su-vṛtam",
+        "gloss": "well-rolling",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nare̱ṣṭhāṃ",
+      "words": [
+       {
+        "w": "nareṣṭhām",
+        "gloss": "standing among men",
+        "gram": "m. acc. sg. form uncertain"
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "dhe̱nuṃ",
+      "words": [
+       {
+        "w": "dhenum",
+        "gloss": "milch cow",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̭śva̱juva̭ṃ",
+      "words": [
+       {
+        "w": "viśva-juvam",
+        "gloss": "all-impelling",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱śvarṷ̄pām",
+      "words": [
+       {
+        "w": "viśva-rūpām",
+        "gloss": "of all forms",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ta",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "to",
+        "gram": "ind. preverb"
+       }
+      ]
+     },
+     {
+      "src": "ta̭kṣantvṛ̱bhavo̭",
+      "words": [
+       {
+        "w": "takṣantu",
+        "gloss": "may they fashion",
+        "gram": "3 pl. impv. ā-√takṣ"
+       },
+       {
+        "w": "ṛbhavaḥ",
+        "gloss": "the Ṛbhus",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ra̱yiṃ",
+      "words": [
+       {
+        "w": "rayim",
+        "gloss": "wealth",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na̱:",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "pron. enclitic dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "svava̭sa̱:",
+      "words": [
+       {
+        "w": "su-avasaḥ",
+        "gloss": "of good help",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "svapa̭saḥ",
+      "words": [
+       {
+        "w": "su-apasaḥ",
+        "gloss": "of good work",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "su̱hastā̭:",
+      "words": [
+       {
+        "w": "su-hastāḥ",
+        "gloss": "of good hands",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिन्होंने भली-भाँति चलने वाला, पुरुषों में स्थित रथ बनाया, और जिन्होंने सबको प्रेरित करने वाली, सब रूपों वाली दुधारू गाय बनाई, वे ऋभु हमारे लिए धन गढ़ें, उत्तम सहायता वाले, उत्तम कार्य वाले, उत्तम हाथों वाले।",
+  "english": "Those who made the well-rolling chariot standing among men, and who made the all-impelling milch cow of all forms — may those Ṛbhus fashion wealth for us, of good help, of good work, of good hands.",
+  "text_flags": [],
+  "notes": "nareṣṭhām is uncertain ('standing among men'); the adjectives of the last pāda describe the Ṛbhus. viśvajū 'all-impelling'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "apo̱",
+      "words": [
+       {
+        "w": "apaḥ",
+        "gloss": "works",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "hyḙṣā̱majṷṣanta",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of them",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "ajuṣanta",
+        "gloss": "they took pleasure in",
+        "gram": "3 pl. impf. mid. √juṣ"
+       }
+      ]
+     },
+     {
+      "src": "de̱vā",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "the gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱bhi",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "upon",
+        "gram": "ind. preverb"
+       }
+      ]
+     },
+     {
+      "src": "kratvā̱",
+      "words": [
+       {
+        "w": "kratvā",
+        "gloss": "with resolve",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mana̭sā̱",
+      "words": [
+       {
+        "w": "manasā",
+        "gloss": "with mind",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "dīdhyā̭nāḥ",
+      "words": [
+       {
+        "w": "dīdhyānāḥ",
+        "gloss": "thinking intently",
+        "gram": "m. nom. pl. pres. part. mid. √dī"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vājo̭",
+      "words": [
+       {
+        "w": "vājaḥ",
+        "gloss": "Vāja",
+        "gram": "m. nom. sg. name"
+       }
+      ]
+     },
+     {
+      "src": "de̱vānā̭mabhavat",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "abhavat",
+        "gloss": "became",
+        "gram": "3 sg. impf. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "su̱karmendra̭sya",
+      "words": [
+       {
+        "w": "sukarmā",
+        "gloss": "good worker",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "indrasya",
+        "gloss": "of Indra",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛbhu̱kṣā",
+      "words": [
+       {
+        "w": "ṛbhukṣāḥ",
+        "gloss": "Ṛbhukṣan",
+        "gram": "m. nom. sg. name"
+       }
+      ]
+     },
+     {
+      "src": "varṷṇasya̱",
+      "words": [
+       {
+        "w": "varuṇasya",
+        "gloss": "of Varuṇa",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vibhvā̭",
+      "words": [
+       {
+        "w": "vibhvā",
+        "gloss": "Vibhvan",
+        "gram": "m. nom. sg. name"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देवों ने उनके कार्यों को चाहा, संकल्प और मन से गहन चिन्तन करते हुए। वाज देवों का उत्तम कार्य करने वाला हुआ; ऋभुक्षा इन्द्र का, विभ्वा वरुण का।",
+  "english": "For the gods took pleasure in their works, thinking intently with resolve and mind. Vāja became the gods' good worker; Ṛbhukṣan, Indra's; Vibhvan, Varuṇa's.",
+  "text_flags": [],
+  "notes": "abhavat is carried over to Ṛbhukṣan and Vibhvan. 'abhi dīdhyānāḥ' read as 'thinking intently' (abhi-√dī).",
+  "confidence": "medium"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "harī̭",
+      "words": [
+       {
+        "w": "harī",
+        "gloss": "the two tawny horses",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "me̱dhayo̱kthā",
+      "words": [
+       {
+        "w": "medhayā",
+        "gloss": "with wisdom",
+        "gram": "f. inst. sg."
+       },
+       {
+        "w": "ukthā",
+        "gloss": "with hymns",
+        "gram": "n. inst. pl. form uncertain"
+       }
+      ]
+     },
+     {
+      "src": "mada̭nta̱",
+      "words": [
+       {
+        "w": "madantaḥ",
+        "gloss": "exhilarated",
+        "gram": "m. nom. pl. pres. part. √mad"
+       }
+      ]
+     },
+     {
+      "src": "indrā̭ya",
+      "words": [
+       {
+        "w": "indrāya",
+        "gloss": "for Indra",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱kruḥ",
+      "words": [
+       {
+        "w": "cakruḥ",
+        "gloss": "they made",
+        "gram": "3 pl. pf. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "su̱yujā̱",
+      "words": [
+       {
+        "w": "su-yujā",
+        "gloss": "well-yoked",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "aśvā̭",
+      "words": [
+       {
+        "w": "aśvā",
+        "gloss": "horses",
+        "gram": "m. acc. pl. form uncertain"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "you",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "rā̱yaspoṣa̱ṃ",
+      "words": [
+       {
+        "w": "rāyaḥ-poṣam",
+        "gloss": "growth of wealth",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dravi̭ṇānya̱sme",
+      "words": [
+       {
+        "w": "draviṇāni",
+        "gloss": "goods",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "asme",
+        "gloss": "to us",
+        "gram": "pron. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "dha̱tta",
+      "words": [
+       {
+        "w": "dhatta",
+        "gloss": "bestow",
+        "gram": "2 pl. impv. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "ṛ̭bhavaḥ",
+      "words": [
+       {
+        "w": "ṛbhavaḥ",
+        "gloss": "O Ṛbhus",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṣema̱yanto̱",
+      "words": [
+       {
+        "w": "kṣemayantaḥ",
+        "gloss": "seeking security",
+        "gram": "m. nom. pl. pres. part. denom."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mi̱tram",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "friend",
+        "gram": "m./n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिन्होंने मत्त होकर बुद्धि और स्तोत्रों से इन्द्र के लिए दोनों भूरे-पीले घोड़े और उत्तम रीति से जुते घोड़े बनाए, वे तुम, हे ऋभुओ, हमें धन की वृद्धि और वैभव दो, सुरक्षा चाहने वालों के मित्र के समान।",
+  "english": "Those who, exhilarated, with wisdom and hymns made for Indra the two tawny horses and the well-yoked horses — you, O Ṛbhus, bestow on us growth of wealth and goods, like those seeking security, a friend.",
+  "text_flags": [],
+  "notes": "te ... dhatta: 'te' read as 'you' (2 pl.) as the verb is 2nd person. The simile 'kṣemayanto na mitram' is incomplete; read literally. mitram could also be the god Mitra. 'suyujā ye aśvā' form of aśvā uncertain.",
+  "confidence": "low"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱dāhna̭:",
+      "words": [
+       {
+        "w": "idā-ahnaḥ",
+        "gloss": "of this day",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "pī̱timu̱ta",
+      "words": [
+       {
+        "w": "pītim",
+        "gloss": "drinking",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vo̱",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "for you",
+        "gram": "pron. enclitic dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "mada̭ṃ",
+      "words": [
+       {
+        "w": "madam",
+        "gloss": "exhilaration",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhu̱rna",
+      "words": [
+       {
+        "w": "dhuḥ",
+        "gloss": "they set",
+        "gram": "3 pl. aor. √dhā"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṛ̱te",
+      "words": [
+       {
+        "w": "ṛte",
+        "gloss": "without",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śrā̱ntasya̭",
+      "words": [
+       {
+        "w": "śrāntasya",
+        "gloss": "of the weary",
+        "gram": "m. gen. sg. ppp. √śram"
+       }
+      ]
+     },
+     {
+      "src": "sa̱khyāya̭",
+      "words": [
+       {
+        "w": "sakhyāya",
+        "gloss": "for friendship",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vāḥ",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "the gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "you",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "nū̱nama̱sme",
+      "words": [
+       {
+        "w": "nūnam",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "asme",
+        "gloss": "to us",
+        "gram": "pron. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṛ̭bhavo̱",
+      "words": [
+       {
+        "w": "ṛbhavaḥ",
+        "gloss": "O Ṛbhus",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vasṷ̄ni",
+      "words": [
+       {
+        "w": "vasūni",
+        "gloss": "goods",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tṛ̱tīyḙ",
+      "words": [
+       {
+        "w": "tṛtīye",
+        "gloss": "at the third",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱smin",
+      "words": [
+       {
+        "w": "asmin",
+        "gloss": "this",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tsava̭ne",
+      "words": [
+       {
+        "w": "savane",
+        "gloss": "pressing",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadhāta",
+      "words": [
+       {
+        "w": "dadhāta",
+        "gloss": "bestow",
+        "gram": "2 pl. impv. √dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देवों ने तुम्हारे लिए इस दिन का पान और मद स्थापित किया; देव मित्रता के लिए थके हुए के बिना नहीं हैं। हे ऋभुओ, तुम अब हमें इस तीसरे सवन में धन दो।",
+  "english": "The gods set for you the drinking of this day and the exhilaration; the gods are not for friendship without the weary one. You, O Ṛbhus, now bestow goods on us at this third pressing.",
+  "text_flags": [],
+  "notes": "UNCLEAR: 'na ṛte śrāntasya sakhyāya devāḥ' is rendered literally ('the gods are not for friendship without the weary one'); the usual sense (the gods do not befriend one who has not toiled) is an interpretation. idāhnaḥ read as idā-ahnaḥ 'of this day'. te read as 'you'.",
+  "confidence": "low"
+ }
+]

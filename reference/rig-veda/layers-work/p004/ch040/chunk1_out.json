@@ -1,0 +1,842 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "da̱dhi̱krāvṇa̱",
+      "words": [
+       {
+        "w": "dadhikrāvṇaḥ",
+        "gloss": "of Dadhikrāvan",
+        "gram": "m. gen. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "idu̱",
+      "words": [
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "u",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nu",
+      "words": [
+       {
+        "w": "nu",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̭rkirāma̱",
+      "words": [
+       {
+        "w": "carkirāma",
+        "gloss": "we shall celebrate",
+        "gram": "1 pl. subj. intens. √kṝ"
+       }
+      ]
+     },
+     {
+      "src": "viśvā̱",
+      "words": [
+       {
+        "w": "viśvāḥ",
+        "gloss": "all",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "inmāmu̱ṣasa̭:",
+      "words": [
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "mām",
+        "gloss": "me",
+        "gram": "1 sg. acc."
+       },
+       {
+        "w": "uṣasaḥ",
+        "gloss": "Dawns",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sūdayantu",
+      "words": [
+       {
+        "w": "sūdayantu",
+        "gloss": "let them set right",
+        "gram": "3 pl. impv. caus. √sūd"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱pāma̱gneru̱ṣasa̱:",
+      "words": [
+       {
+        "w": "apām",
+        "gloss": "of the waters",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "agneḥ",
+        "gloss": "of Agni",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "uṣasaḥ",
+        "gloss": "of the Dawn",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūrya̭sya̱",
+      "words": [
+       {
+        "w": "sūryasya",
+        "gloss": "of the Sun",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛha̱spatḙrāṅgira̱sasya̭",
+      "words": [
+       {
+        "w": "bṛhaspateḥ",
+        "gloss": "of Bṛhaspati",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "āṅgirasasya",
+        "gloss": "of the Āṅgirasa",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ji̱ṣṇoḥ",
+      "words": [
+       {
+        "w": "jiṣṇoḥ",
+        "gloss": "of the victorious",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दधिक्रावन् का ही हम अब कीर्तन करेंगे; सब उषाएँ ही मुझे ठीक करें; जलों के, अग्नि के, उषा के, सूर्य के, बृहस्पति के, आङ्गिरस के, विजयी के।",
+  "english": "Of Dadhikrāvan indeed we shall now speak in praise; may all the Dawns indeed set me right; of the waters, of Agni, of the Dawn, of the Sun, of Bṛhaspati, of the Āṅgirasa, of the victorious one.",
+  "text_flags": [],
+  "notes": "Obscure. The genitive dadhikrāvṇaḥ with carkirāma is read as 'celebrate (of) Dadhikrāvan'. The genitive list in line 2 (apām, agneḥ, uṣasaḥ, sūryasya, bṛhaspateḥ, āṅgirasasya, jiṣṇoḥ) has no governing word in the verse; it is translated as printed without supplying one. Whether āṅgirasasya and jiṣṇoḥ belong to Bṛhaspati or to Dadhikrāvan is unclear.",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "satvā̭",
+      "words": [
+       {
+        "w": "satvā",
+        "gloss": "warrior",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhari̱ṣo",
+      "words": [
+       {
+        "w": "bhariṣaḥ",
+        "gloss": "bearing",
+        "gram": "m. nom. sg. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "ga̭vi̱ṣo",
+      "words": [
+       {
+        "w": "gaviṣaḥ",
+        "gloss": "seeking cows",
+        "gram": "m. nom. sg. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "dṷvanya̱sacchra̭va̱syādi̱ṣa",
+      "words": [
+       {
+        "w": "duvanyasat",
+        "gloss": "he would serve",
+        "gram": "3 sg. aor. subj. denom. duvanya"
+       },
+       {
+        "w": "śravasyāt",
+        "gloss": "he would seek fame",
+        "gram": "3 sg. aor. subj. denom. śravasya"
+       },
+       {
+        "w": "iṣaḥ",
+        "gloss": "refreshments",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱ṣasa̭sturaṇya̱sat",
+      "words": [
+       {
+        "w": "uṣasaḥ",
+        "gloss": "dawns",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "turaṇyasat",
+        "gloss": "he would hasten",
+        "gram": "3 sg. aor. subj. denom. turaṇya"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa̱tyo",
+      "words": [
+       {
+        "w": "satyaḥ",
+        "gloss": "true",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dra̱vo",
+      "words": [
+       {
+        "w": "dravaḥ",
+        "gloss": "runner",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dra̭va̱raḥ",
+      "words": [
+       {
+        "w": "dravaraḥ",
+        "gloss": "swift-going",
+        "gram": "m. nom. sg. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "pa̭taṃga̱ro",
+      "words": [
+       {
+        "w": "pataṃgaraḥ",
+        "gloss": "flier",
+        "gram": "m. nom. sg. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "da̭dhi̱krāveṣa̱mūrja̱ṃ",
+      "words": [
+       {
+        "w": "dadhikrāḥ",
+        "gloss": "Dadhikrā",
+        "gram": "m. nom. sg. (name)"
+       },
+       {
+        "w": "iṣam",
+        "gloss": "refreshment",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ūrjam",
+        "gloss": "strength",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva̭rjanat",
+      "words": [
+       {
+        "w": "svar",
+        "gloss": "light",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "janat",
+        "gloss": "may he beget",
+        "gram": "3 sg. subj. aor. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "योद्धा, धारण करने वाला, गायों को खोजने वाला, वह सेवा करे, यश चाहे, भोजनों और उषाओं की ओर शीघ्रता करे। सत्य, दौड़ने वाला, तेज़ चलने वाला, उड़ने वाला दधिक्रा भोजन, बल और प्रकाश को उत्पन्न करे।",
+  "english": "The warrior, bearing, seeking cows — he would serve, would seek fame, would hasten to refreshments, to dawns. True, a runner, swift-going, a flier, may Dadhikrā beget refreshment, strength, light.",
+  "text_flags": [],
+  "notes": "Line 1 is very uncertain. bhariṣaḥ and gaviṣaḥ are treated as epithets of satvā (form unclear: a nominative in -aḥ from an ṣ-stem is not regular); duvanyasat, śravasyāt, turaṇyasat are read as 3 sg. subjunctives of denominatives ('would honour/serve', 'would seek fame', 'would hasten'); iṣaḥ uṣasaḥ as accusatives after turaṇyasat. dravara and pataṃgara: exact sense and form uncertain. svar = light.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smā̭sya̱",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "drava̭tasturaṇya̱taḥ",
+      "words": [
+       {
+        "w": "dravataḥ",
+        "gloss": "running",
+        "gram": "m. gen. sg. pres. part. √dru"
+       },
+       {
+        "w": "turaṇyataḥ",
+        "gloss": "hastening",
+        "gram": "m. gen. sg. pres. part. denom. turaṇya"
+       }
+      ]
+     },
+     {
+      "src": "pa̱rṇaṃ",
+      "words": [
+       {
+        "w": "parṇam",
+        "gloss": "feather",
+        "gram": "n. nom./acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "veranṷ",
+      "words": [
+       {
+        "w": "veḥ",
+        "gloss": "of a bird",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāti",
+      "words": [
+       {
+        "w": "vāti",
+        "gloss": "it blows",
+        "gram": "3 sg. pres. √vā"
+       }
+      ]
+     },
+     {
+      "src": "praga̱rdhina̭:",
+      "words": [
+       {
+        "w": "pragardhinaḥ",
+        "gloss": "of the eager",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śye̱nasyḙva̱",
+      "words": [
+       {
+        "w": "śyenasya",
+        "gloss": "of a hawk",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhraja̭to",
+      "words": [
+       {
+        "w": "dhrajataḥ",
+        "gloss": "gliding",
+        "gram": "m. gen. sg. pres. part. √dhraj"
+       }
+      ]
+     },
+     {
+      "src": "aṅka̱saṃ",
+      "words": [
+       {
+        "w": "aṅkasam",
+        "gloss": "curve",
+        "gram": "n. acc. sg. (meaning uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "pari̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dadhi̱krāvṇa̭:",
+      "words": [
+       {
+        "w": "dadhikrāvṇaḥ",
+        "gloss": "of Dadhikrāvan",
+        "gram": "m. gen. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "sa̱horjā",
+      "words": [
+       {
+        "w": "sahaḥ",
+        "gloss": "might",
+        "gram": "n. nom./acc. sg."
+       },
+       {
+        "w": "ūrjā",
+        "gloss": "with strength",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tari̭trataḥ",
+      "words": [
+       {
+        "w": "tarītrataḥ",
+        "gloss": "crossing over",
+        "gram": "m. gen. sg. intens. pres. part. √tṝ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उसके दौड़ते, शीघ्रता करते, उत्सुक के पीछे वह पक्षी के पंख के समान बहता है। बाज़ के समान सरकते हुए, मोड़ के चारों ओर, दधिक्रावन् का बल, शक्ति के साथ पार जाते हुए का।",
+  "english": "And after him, running, hastening, eager, it blows along like the feather of a bird. Like a hawk gliding, around the curve, the might of Dadhikrāvan, crossing over with strength.",
+  "text_flags": [],
+  "notes": "Obscure. The subject of vāti is not expressed ('it'). parṇaṃ na veḥ is read 'like a bird's feather'. aṅkasam ('curve, bend') is uncertain; sahaḥ is read as 'might' attached to the genitive of the second line. The case relations in line 2 are not clear.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sya",
+      "words": [
+       {
+        "w": "sya",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̱jī",
+      "words": [
+       {
+        "w": "vājī",
+        "gloss": "prize-winner",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṣi̭pa̱ṇiṃ",
+      "words": [
+       {
+        "w": "kṣipaṇim",
+        "gloss": "whip",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tṷraṇyati",
+      "words": [
+       {
+        "w": "turaṇyati",
+        "gloss": "hastens",
+        "gram": "3 sg. pres. denom. turaṇya"
+       }
+      ]
+     },
+     {
+      "src": "grī̱vāyā̭ṃ",
+      "words": [
+       {
+        "w": "grīvāyām",
+        "gloss": "at the neck",
+        "gram": "f. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ba̱ddho",
+      "words": [
+       {
+        "w": "baddhaḥ",
+        "gloss": "bound",
+        "gram": "m. nom. sg. ppp. √bandh"
+       }
+      ]
+     },
+     {
+      "src": "a̭pika̱kṣa",
+      "words": [
+       {
+        "w": "api",
+        "gloss": "also",
+        "gram": "ind."
+       },
+       {
+        "w": "kakṣe",
+        "gloss": "at the girth",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā̱sani̭",
+      "words": [
+       {
+        "w": "āsani",
+        "gloss": "in the mouth",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kratṷṃ",
+      "words": [
+       {
+        "w": "kratum",
+        "gloss": "resolve",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadhi̱krā",
+      "words": [
+       {
+        "w": "dadhikrāḥ",
+        "gloss": "Dadhikrā",
+        "gram": "m. nom. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "anṷ",
+      "words": [
+       {
+        "w": "anu",
+        "gloss": "after",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̱ṃtavī̭tvat",
+      "words": [
+       {
+        "w": "saṃtavītvat",
+        "gloss": "rushing",
+        "gram": "m. nom. sg. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "pa̱thāmaṅkā̱ṃsyanvā̱panī̭phaṇat",
+      "words": [
+       {
+        "w": "pathām",
+        "gloss": "of the paths",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "aṅkāṃsi",
+        "gloss": "bends",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       },
+       {
+        "w": "āpanīphaṇat",
+        "gloss": "bounding",
+        "gram": "m. nom. sg. intens. pres. part. (form uncertain)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और वह पुरस्कार जीतने वाला कोड़े की ओर तेज़ चलता है, गर्दन में, कमर पर और मुख में बँधा हुआ। दधिक्रा संकल्प के अनुसार दौड़ता हुआ, मार्गों के मोड़ों पर उछलता हुआ।",
+  "english": "And that prize-winner hastens at the whip, bound at the neck, also at the girth, in the mouth. Dadhikrā, after resolve, rushing, bounding along the bends of the paths.",
+  "text_flags": [],
+  "notes": "Uncertain: kṣipaṇim (here 'whip'), saṃtavītvat and āpanīphaṇat (forms and exact senses unclear; given as 'rushing', 'bounding'). 'kratum ... anu' is read 'after (in accordance with) resolve'. The second line has no finite verb.",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ha̱ṃsaḥ",
+      "words": [
+       {
+        "w": "haṃsaḥ",
+        "gloss": "swan",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śṷci̱ṣad",
+      "words": [
+       {
+        "w": "śuci-sat",
+        "gloss": "dwelling in the bright",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vasṷrantarikṣa̱saddhotā̭",
+      "words": [
+       {
+        "w": "vasuḥ",
+        "gloss": "Vasu",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "antarikṣa-sat",
+        "gloss": "dwelling in the atmosphere",
+        "gram": "m. nom. sg. tat-puruṣa"
+       },
+       {
+        "w": "hotā",
+        "gloss": "Hotṛ priest",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vedi̱ṣadati̭thirduroṇa̱sat",
+      "words": [
+       {
+        "w": "vedi-sat",
+        "gloss": "dwelling at the altar",
+        "gram": "m. nom. sg. tat-puruṣa"
+       },
+       {
+        "w": "atithiḥ",
+        "gloss": "guest",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "duroṇa-sat",
+        "gloss": "dwelling in the house",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nṛ̱ṣadva̭ra̱sadṛ̭ta̱sad",
+      "words": [
+       {
+        "w": "nṛ-sat",
+        "gloss": "dwelling among men",
+        "gram": "m. nom. sg. tat-puruṣa"
+       },
+       {
+        "w": "vara-sat",
+        "gloss": "dwelling in the best",
+        "gram": "m. nom. sg. tat-puruṣa"
+       },
+       {
+        "w": "ṛta-sat",
+        "gloss": "dwelling in order",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vyo̭ma̱sada̱bjā",
+      "words": [
+       {
+        "w": "vyoma-sat",
+        "gloss": "dwelling in the sky",
+        "gram": "m. nom. sg. tat-puruṣa"
+       },
+       {
+        "w": "abjāḥ",
+        "gloss": "born of water",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "go̱jā",
+      "words": [
+       {
+        "w": "gojāḥ",
+        "gloss": "born of cows",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛ̭ta̱jā",
+      "words": [
+       {
+        "w": "ṛtajāḥ",
+        "gloss": "born of order",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭dri̱jā",
+      "words": [
+       {
+        "w": "adrijāḥ",
+        "gloss": "born of the mountain",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛ̱tam",
+      "words": [
+       {
+        "w": "ṛtam",
+        "gloss": "order",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हंस, शुचि स्थान में बसने वाला, वसु, अन्तरिक्ष में बसने वाला, होता, वेदी पर बैठने वाला, अतिथि, घर में बसने वाला; मनुष्यों में बसने वाला, श्रेष्ठ में बसने वाला, ऋत में बसने वाला, आकाश में बसने वाला; जल से उत्पन्न, गायों से उत्पन्न, ऋत से उत्पन्न, पर्वत से उत्पन्न, ऋत।",
+  "english": "The swan dwelling in the bright, the Vasu dwelling in the atmosphere, the Hotṛ priest dwelling at the altar, the guest dwelling in the house; dwelling among men, dwelling in the best, dwelling in order, dwelling in the sky; born of water, born of cows, born of order, born of the mountain: order.",
+  "text_flags": [],
+  "notes": "The verse names no subject; the epithets are given as they stand. śuci-sat 'dwelling in the bright (place)': śuci is an adjective used as a noun, nothing supplied. vasu may be an adjective ('good') rather than the Vasu; vara-sat 'in the best/choicest (place)' is uncertain. haṃsa is 'swan' (no identification given). ṛtam is the final nominative, rendered 'order'.",
+  "confidence": "medium"
+ }
+]

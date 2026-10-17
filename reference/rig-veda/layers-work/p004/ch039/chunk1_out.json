@@ -1,0 +1,965 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā̱śuṃ",
+      "words": [
+       {
+        "w": "āśum",
+        "gloss": "swift",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "da̭dhi̱krāṃ",
+      "words": [
+       {
+        "w": "dadhikrām",
+        "gloss": "Dadhikrā",
+        "gram": "m. acc. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "tamu̱",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nu",
+      "words": [
+       {
+        "w": "nu",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣṭa̭vāma",
+      "words": [
+       {
+        "w": "stavāma",
+        "gloss": "let us praise",
+        "gram": "1 pl. subj. √stu"
+       }
+      ]
+     },
+     {
+      "src": "di̱vaspṛ̭thi̱vyā",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "from heaven",
+        "gram": "m. abl. sg. (or gen.)"
+       },
+       {
+        "w": "pṛthivyāḥ",
+        "gloss": "from earth",
+        "gram": "f. abl. sg. (or gen.)"
+       }
+      ]
+     },
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̭rkirāma",
+      "words": [
+       {
+        "w": "carkirāma",
+        "gloss": "we shall celebrate",
+        "gram": "1 pl. subj. intens. √kṝ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "u̱cchantī̱rmāmu̱ṣasa̭:",
+      "words": [
+       {
+        "w": "ucchantīḥ",
+        "gloss": "dawning",
+        "gram": "f. nom. pl. pres. part. ud-√vas"
+       },
+       {
+        "w": "mām",
+        "gloss": "me",
+        "gram": "1 sg. acc."
+       },
+       {
+        "w": "uṣasaḥ",
+        "gloss": "Dawns",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sūdaya̱ntvati̱",
+      "words": [
+       {
+        "w": "sūdayantu",
+        "gloss": "let them set right",
+        "gram": "3 pl. impv. caus. √sūd"
+       },
+       {
+        "w": "ati",
+        "gloss": "across",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "viśvā̭ni",
+      "words": [
+       {
+        "w": "viśvāni",
+        "gloss": "all",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "duri̱tāni̭",
+      "words": [
+       {
+        "w": "duritāni",
+        "gloss": "troubles",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "parṣan",
+      "words": [
+       {
+        "w": "parṣan",
+        "gloss": "may they carry",
+        "gram": "3 pl. subj. √pṝ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तेज़ दधिक्रा की हम अब स्तुति करें, और आकाश से और पृथ्वी से उसका बार-बार कीर्तन करेंगे। प्रकाशित होती हुई उषाएँ मुझे ठीक करें; वे सब संकटों के पार ले चलें।",
+  "english": "Let us now praise him, the swift Dadhikrā, and we shall celebrate him from heaven and from earth. May the dawning Dawns set me right; may they carry across all troubles.",
+  "text_flags": [],
+  "notes": "divaḥ pṛthivyāḥ may be ablative ('from heaven and earth') or genitive ('of Heaven and Earth'); the ablative is used here. parṣan is read as 3 pl. subjunctive with ati; the object of the carrying is not expressed, so none is added. carkirāma is a subjunctive of the intensive of √kṝ 'celebrate'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ma̱haśca̭rka̱rmyarva̭taḥ",
+      "words": [
+       {
+        "w": "mahaḥ",
+        "gloss": "greatness",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "carkarmi",
+        "gloss": "I celebrate",
+        "gram": "1 sg. pres. intens. √kṝ"
+       },
+       {
+        "w": "arvataḥ",
+        "gloss": "of the steed",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kratu̱prā",
+      "words": [
+       {
+        "w": "kratu-prāḥ",
+        "gloss": "fulfilling resolve",
+        "gram": "m. gen. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "da̭dhi̱krāvṇa̭:",
+      "words": [
+       {
+        "w": "dadhikrāvṇaḥ",
+        "gloss": "of Dadhikrāvan",
+        "gram": "m. gen. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "puru̱vāra̭sya̱",
+      "words": [
+       {
+        "w": "puru-vārasya",
+        "gloss": "rich in many treasures",
+        "gram": "m. gen. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vṛṣṇa̭:",
+      "words": [
+       {
+        "w": "vṛṣṇaḥ",
+        "gloss": "of the bull",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "pū̱rubhyo̭",
+      "words": [
+       {
+        "w": "pūrubhyaḥ",
+        "gloss": "for the Pūrus",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "dīdi̱vāṃsa̱ṃ",
+      "words": [
+       {
+        "w": "dīdivāṃsam",
+        "gloss": "shining",
+        "gram": "m. acc. sg. pf. part. √dīv"
+       }
+      ]
+     },
+     {
+      "src": "nāgniṃ",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "agnim",
+        "gloss": "Agni",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "da̱dathṷrmitrāvaruṇā̱",
+      "words": [
+       {
+        "w": "dadathuḥ",
+        "gloss": "you two gave",
+        "gram": "2 du. pf. √dā"
+       },
+       {
+        "w": "mitrāvaruṇā",
+        "gloss": "Mitra and Varuṇa",
+        "gram": "m. voc. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "tatṷrim",
+      "words": [
+       {
+        "w": "tatūrim",
+        "gloss": "conqueror",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मैं अश्व की महिमा का कीर्तन करता हूँ, संकल्प को पूर्ण करने वाले, बहुत वरणीय धन वाले, बलवान् दधिक्रावन् की; जिसे पूरुओं के लिए अग्नि के समान चमकते हुए, विजयी को, हे मित्र और वरुण, तुम दोनों ने दिया।",
+  "english": "I celebrate the greatness of the steed, of Dadhikrāvan who fulfils resolve, rich in many treasures, of the bull; him whom, shining like Agni, the conqueror, you two, Mitra and Varuṇa, gave for the Pūrus.",
+  "text_flags": [],
+  "notes": "mahaḥ is read as the neuter noun 'greatness' (acc.). puru-vāra: vāra may be 'treasure, desirable thing' or 'tail'; the first is used. kratuprāḥ: the printed kratuprā is the genitive kratuprāḥ with regular loss of the visarga before d-. Mitrāvaruṇā is the dual vocative of the pair.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "aśva̭sya",
+      "words": [
+       {
+        "w": "aśvasya",
+        "gloss": "of the steed",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadhi̱krāvṇo̱",
+      "words": [
+       {
+        "w": "dadhikrāvṇaḥ",
+        "gloss": "of Dadhikrāvan",
+        "gram": "m. gen. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "akā̭rī̱t",
+      "words": [
+       {
+        "w": "akārīt",
+        "gloss": "has celebrated",
+        "gram": "3 sg. aor. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "sami̭ddhe",
+      "words": [
+       {
+        "w": "samiddhe",
+        "gloss": "kindled",
+        "gram": "m. loc. sg. ppp. sam-√idh"
+       }
+      ]
+     },
+     {
+      "src": "a̱gnā",
+      "words": [
+       {
+        "w": "agnau",
+        "gloss": "Agni",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "u̱ṣaso̱",
+      "words": [
+       {
+        "w": "uṣasaḥ",
+        "gloss": "of the Dawn",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyṷṣṭau",
+      "words": [
+       {
+        "w": "vyuṣṭau",
+        "gloss": "at the dawning",
+        "gram": "f. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "anā̭gasa̱ṃ",
+      "words": [
+       {
+        "w": "anāgasam",
+        "gloss": "blameless",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tamadi̭tiḥ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "aditiḥ",
+        "gloss": "Aditi",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇotu̱",
+      "words": [
+       {
+        "w": "kṛṇotu",
+        "gloss": "let her make",
+        "gram": "3 sg. impv. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mi̱treṇa̱",
+      "words": [
+       {
+        "w": "mitreṇa",
+        "gloss": "with Mitra",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṷṇenā",
+      "words": [
+       {
+        "w": "varuṇena",
+        "gloss": "with Varuṇa",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱joṣā̭:",
+      "words": [
+       {
+        "w": "sajoṣāḥ",
+        "gloss": "in harmony",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसने अश्व दधिक्रावन् का कीर्तन किया है, जब अग्नि प्रज्वलित हो और उषा का प्रकाश हो, उसे अदिति निर्दोष करे; वह मित्र और वरुण के साथ एकमत होकर रहे।",
+  "english": "Whoever has celebrated the steed Dadhikrāvan, when Agni is kindled, at the dawning of the Dawn — may Aditi make him blameless; he in harmony with Mitra and with Varuṇa.",
+  "text_flags": [],
+  "notes": "akārīt (lit. 'has made/done') has no object; it is rendered 'has celebrated' as the usual sense with the genitive of the one praised. The edition prints varuṇenā with a long final vowel (metrical lengthening, not flagged). Aditi is the goddess of that name.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "da̱dhi̱krāvṇa̭",
+      "words": [
+       {
+        "w": "dadhikrāvṇaḥ",
+        "gloss": "of Dadhikrāvan",
+        "gram": "m. gen. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "i̱ṣa",
+      "words": [
+       {
+        "w": "iṣaḥ",
+        "gloss": "refreshments",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ū̱rjo",
+      "words": [
+       {
+        "w": "ūrjaḥ",
+        "gloss": "strengths",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ma̱ho",
+      "words": [
+       {
+        "w": "mahaḥ",
+        "gloss": "greatness",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadama̭nmahi",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "amanmahi",
+        "gloss": "we have thought of",
+        "gram": "1 pl. aor. mid. √man"
+       }
+      ]
+     },
+     {
+      "src": "ma̱rutā̱ṃ",
+      "words": [
+       {
+        "w": "marutām",
+        "gloss": "of the Maruts",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "nāma̭",
+      "words": [
+       {
+        "w": "nāma",
+        "gloss": "name",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bha̱dram",
+      "words": [
+       {
+        "w": "bhadram",
+        "gloss": "auspicious",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sva̱staye̱",
+      "words": [
+       {
+        "w": "svastaye",
+        "gloss": "for well-being",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṷṇaṃ",
+      "words": [
+       {
+        "w": "varuṇam",
+        "gloss": "Varuṇa",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mi̱trama̱gniṃ",
+      "words": [
+       {
+        "w": "mitram",
+        "gloss": "Mitra",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "agnim",
+        "gloss": "Agni",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "havā̭maha̱",
+      "words": [
+       {
+        "w": "havāmahe",
+        "gloss": "we call upon",
+        "gram": "1 pl. pres. mid. √hve"
+       }
+      ]
+     },
+     {
+      "src": "indra̱ṃ",
+      "words": [
+       {
+        "w": "indram",
+        "gloss": "Indra",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vajra̭bāhum",
+      "words": [
+       {
+        "w": "vajra-bāhum",
+        "gloss": "vajra-armed",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब हमने दधिक्रावन् के भोजनों, बलों और महिमा का तथा मरुतों के कल्याणकारी नाम का चिन्तन किया, तब कल्याण के लिए हम वरुण, मित्र, अग्नि को और वज्र-बाहु इन्द्र को पुकारते हैं।",
+  "english": "When we have thought of the refreshments, strengths and greatness of Dadhikrāvan, and of the auspicious name of the Maruts, for well-being we call upon Varuṇa, Mitra, Agni, Indra the vajra-armed.",
+  "text_flags": [],
+  "notes": "The construction of the first line is uncertain: iṣaḥ ūrjaḥ mahaḥ are taken as accusatives governed by amanmahi together with marutām nāma bhadram; yat read as 'when'. The edition prints havāmaha (e before a vowel, regular).",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "indra̭mi̱vedu̱bhaye̱",
+      "words": [
+       {
+        "w": "indram",
+        "gloss": "Indra",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "it",
+        "gloss": "just",
+        "gram": "ind."
+       },
+       {
+        "w": "ubhaye",
+        "gloss": "both",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "severally",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "hva̭yanta",
+      "words": [
+       {
+        "w": "hvayante",
+        "gloss": "they call",
+        "gram": "3 pl. pres. mid. √hve"
+       }
+      ]
+     },
+     {
+      "src": "u̱dīrā̭ṇā",
+      "words": [
+       {
+        "w": "udīrāṇāḥ",
+        "gloss": "rising",
+        "gram": "m. nom. pl. pres. part. mid. ud-√īr"
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñamṷpapra̱yanta̭:",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "upaprayantaḥ",
+        "gloss": "approaching",
+        "gram": "m. nom. pl. pres. part. upa-pra-√i"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "da̱dhi̱krāmu̱",
+      "words": [
+       {
+        "w": "dadhikrām",
+        "gloss": "Dadhikrā",
+        "gram": "m. acc. sg. (name)"
+       },
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūda̭na̱ṃ",
+      "words": [
+       {
+        "w": "sūdanam",
+        "gloss": "setting right",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "martyā̭ya",
+      "words": [
+       {
+        "w": "martyāya",
+        "gloss": "for the mortal",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "da̱dathṷrmitrāvaruṇā",
+      "words": [
+       {
+        "w": "dadathuḥ",
+        "gloss": "you two gave",
+        "gram": "2 du. pf. √dā"
+       },
+       {
+        "w": "mitrāvaruṇā",
+        "gloss": "Mitra and Varuṇa",
+        "gram": "m. voc. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "no̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "1 pl. dat. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "aśva̭m",
+      "words": [
+       {
+        "w": "aśvam",
+        "gloss": "steed",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दोनों पक्ष उठते हुए, यज्ञ के पास जाते हुए, इन्द्र की भाँति ही उसे अलग-अलग पुकारते हैं। हे मित्र और वरुण, तुम दोनों ने हमें अश्व दधिक्रा को दिया, जो मनुष्य के लिए ठीक करने वाला है।",
+  "english": "Both parties, rising, approaching the sacrifice, call upon him severally, just as upon Indra. You two, Mitra and Varuṇa, gave us the steed Dadhikrā, the one who sets right for the mortal.",
+  "text_flags": [],
+  "notes": "'Both' (ubhaye) is read as two parties of worshippers; the verse does not say who. sūdanam is read 'setting right' (could also be 'slayer'); it is taken in apposition with Dadhikrā. 'him' in the first line is understood from the verb and not stated.",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "da̱dhi̱krāvṇo̭",
+      "words": [
+       {
+        "w": "dadhikrāvṇaḥ",
+        "gloss": "of Dadhikrāvan",
+        "gram": "m. gen. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "akāriṣaṃ",
+      "words": [
+       {
+        "w": "akāriṣam",
+        "gloss": "I have celebrated",
+        "gram": "1 sg. aor. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "ji̱ṣṇoraśva̭sya",
+      "words": [
+       {
+        "w": "jiṣṇoḥ",
+        "gloss": "of the victorious",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "aśvasya",
+        "gloss": "steed",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̱jina̭:",
+      "words": [
+       {
+        "w": "vājinaḥ",
+        "gloss": "of the prize-winner",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "su̱ra̱bhi",
+      "words": [
+       {
+        "w": "surabhi",
+        "gloss": "fragrant",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "no̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "1 pl. gen. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "mukhā̭",
+      "words": [
+       {
+        "w": "mukhā",
+        "gloss": "mouths",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kara̱t",
+      "words": [
+       {
+        "w": "karat",
+        "gloss": "may he make",
+        "gram": "3 sg. subj. aor. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ṇa̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "1 pl. gen. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "āyṷ̄ṃṣi",
+      "words": [
+       {
+        "w": "āyūṃṣi",
+        "gloss": "lives",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "tāriṣat",
+      "words": [
+       {
+        "w": "tāriṣat",
+        "gloss": "may he prolong",
+        "gram": "3 sg. subj. aor. √tṝ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मैंने विजयी, पुरस्कार जीतने वाले अश्व दधिक्रावन् का कीर्तन किया है। वह हमारे मुखों को सुगन्धित करे; वह हमारी आयुओं को बढ़ाए।",
+  "english": "I have celebrated Dadhikrāvan, the victorious steed, the prize-winner. May he make our mouths fragrant; may he prolong our lives.",
+  "text_flags": [],
+  "notes": "akāriṣam (lit. 'I have made/done') has no object; rendered 'celebrated' as in verse 3. pra ... tāriṣat is read 'prolong' (pra-√tṝ, extend).",
+  "confidence": "medium"
+ }
+]

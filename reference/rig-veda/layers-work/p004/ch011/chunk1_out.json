@@ -1,0 +1,1060 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bha̱draṃ",
+      "words": [
+       {
+        "w": "bhadram",
+        "gloss": "good",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "gen. sg. (pron. 2 sg.)"
+       }
+      ]
+     },
+     {
+      "src": "agne",
+      "words": [
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sahasi̱nnanī̭kamupā̱ka",
+      "words": [
+       {
+        "w": "sahasin",
+        "gloss": "O mighty one",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "anīkam",
+        "gloss": "face",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "upāke",
+        "gloss": "near",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "to",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ro̭cate̱",
+      "words": [
+       {
+        "w": "rocate",
+        "gloss": "shines",
+        "gram": "3 sg. pres. mid. √ruc"
+       }
+      ]
+     },
+     {
+      "src": "sūrya̭sya",
+      "words": [
+       {
+        "w": "sūryasya",
+        "gloss": "of the sun",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ruśa̭d",
+      "words": [
+       {
+        "w": "ruśat",
+        "gloss": "bright",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛ̱śe",
+      "words": [
+       {
+        "w": "dṛśe",
+        "gloss": "to be seen",
+        "gram": "dat. inf. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "da̭dṛśe",
+      "words": [
+       {
+        "w": "dadṛśe",
+        "gloss": "is seen",
+        "gram": "3 sg. pf. pass. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "nakta̱yā",
+      "words": [
+       {
+        "w": "naktayā",
+        "gloss": "by night",
+        "gram": "ind. (inst.)"
+       }
+      ]
+     },
+     {
+      "src": "ci̱darṷ̄kṣitaṃ",
+      "words": [
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "arūkṣitam",
+        "gloss": "not parched (form uncertain)",
+        "gram": "n. nom. sg. ppp."
+       }
+      ]
+     },
+     {
+      "src": "dṛ̱śa",
+      "words": [
+       {
+        "w": "dṛśe",
+        "gloss": "for sight",
+        "gram": "dat. inf. √dṛś"
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "in",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rū̱pe",
+      "words": [
+       {
+        "w": "rūpe",
+        "gloss": "in form",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "anna̭m",
+      "words": [
+       {
+        "w": "annam",
+        "gloss": "food",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे बलवान् अग्नि, तुम्हारा मुख भद्र है; वह सूर्य के पास चमकता है। चमकता हुआ, देखने के लिए, रात में भी दिखाई देता है, अशुष्क; देखने के लिए, रूप में, अन्न।",
+  "english": "Good is your face, O mighty Agni; it shines near the sun. Bright, to be seen, it is seen even by night, not parched; for sight, in form, food.",
+  "text_flags": [],
+  "notes": "Line b is obscure to me and is translated only literally. arūkṣitam (cidarūkṣitam = cit arūkṣitam) is read as \"not parched\" and I do not know which noun it qualifies; annam and the phrase dṛśe ā rūpe are not tied together by any verb. In line a, upāke with the genitive sūryasya is read as \"near the sun\" (it could also be read \"near, of the sun\" as a possessive sense). sahasin \"mighty\" (voc.).",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ṣā̭hyagne",
+      "words": [
+       {
+        "w": "sāhi",
+        "gloss": "overcome (sense uncertain)",
+        "gram": "2 sg. impv. vi-√sah"
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gṛṇa̱te",
+      "words": [
+       {
+        "w": "gṛṇate",
+        "gloss": "for the singer",
+        "gram": "m. dat. sg. pres. part. √gṝ"
+       }
+      ]
+     },
+     {
+      "src": "ma̭nī̱ṣāṃ",
+      "words": [
+       {
+        "w": "manīṣām",
+        "gloss": "inspired thought",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "khaṃ",
+      "words": [
+       {
+        "w": "kham",
+        "gloss": "opening",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vepa̭sā",
+      "words": [
+       {
+        "w": "vepasā",
+        "gloss": "with trembling",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tuvijāta̱",
+      "words": [
+       {
+        "w": "tuvi-jāta",
+        "gloss": "O strong-born",
+        "gram": "m. voc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "stavā̭naḥ",
+      "words": [
+       {
+        "w": "stavānaḥ",
+        "gloss": "being praised",
+        "gram": "m. nom. sg. pres. part. pass. √stu"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viśvḙbhi̱ryad",
+      "words": [
+       {
+        "w": "viśvebhiḥ",
+        "gloss": "with all",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. acc. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "vā̱vana̭:",
+      "words": [
+       {
+        "w": "vāvanaḥ",
+        "gloss": "you have won",
+        "gram": "2 sg. pf. subj. √van"
+       }
+      ]
+     },
+     {
+      "src": "śukra",
+      "words": [
+       {
+        "w": "śukra",
+        "gloss": "O bright one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vaistanno̭",
+      "words": [
+       {
+        "w": "devaiḥ",
+        "gloss": "with the gods",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "pron. 1 pl. dat."
+       }
+      ]
+     },
+     {
+      "src": "rāsva",
+      "words": [
+       {
+        "w": "rāsva",
+        "gloss": "give",
+        "gram": "2 sg. impv. mid. √rā"
+       }
+      ]
+     },
+     {
+      "src": "sumaho̱",
+      "words": [
+       {
+        "w": "su-maho",
+        "gloss": "O very great one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūri̱",
+      "words": [
+       {
+        "w": "bhūri",
+        "gloss": "abundant",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "manma̭",
+      "words": [
+       {
+        "w": "manma",
+        "gloss": "hymns",
+        "gram": "n. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे अग्नि, गाने वाले के लिए प्रेरित विचार को पार करो, खुले स्थान को, कम्पन के साथ स्तुति पाते हुए, हे बलवान् जन्म वाले। जो तुमने सब देवों के साथ जीता है, हे दीप्तिमान्, वह हमें दो, हे अत्यन्त महान्, प्रचुर स्तोत्र।",
+  "english": "Overcome, O Agni, for the singer the inspired thought, the opening, being praised with trembling, O strong-born one. What you have won with all the gods, O bright one, that give us, O very great one, abundant hymns.",
+  "text_flags": [],
+  "notes": "Line a is unclear to me. vi ṣāhi is read as a form of vi-√sah (\"overcome\"), but other analyses (vi-√sā, \"release, open\") are possible, and the objects manīṣām and kham are not tied together by any clear construction. vepasā \"with trembling\" (excitement). In line b the pf. vāvanaḥ is read as 2 sg. \"you have won\"; manma (n. pl.) is \"hymns\" (manman).",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvada̭gne̱",
+      "words": [
+       {
+        "w": "tvat",
+        "gloss": "from you",
+        "gram": "ind. (abl. of pron. 2 sg.)"
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kāvyā̱",
+      "words": [
+       {
+        "w": "kāvyā",
+        "gloss": "seer-songs",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "tvanma̭nī̱ṣāstvadu̱kthā",
+      "words": [
+       {
+        "w": "tvat",
+        "gloss": "from you",
+        "gram": "ind."
+       },
+       {
+        "w": "manīṣāḥ",
+        "gloss": "inspired thoughts",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "tvat",
+        "gloss": "from you",
+        "gram": "ind."
+       },
+       {
+        "w": "ukthā",
+        "gloss": "hymns",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jā̭yante̱",
+      "words": [
+       {
+        "w": "jāyante",
+        "gloss": "are born",
+        "gram": "3 pl. pres. mid. √jan"
+       }
+      ]
+     },
+     {
+      "src": "rādhyā̭ni",
+      "words": [
+       {
+        "w": "rādhyāni",
+        "gloss": "to be accomplished",
+        "gram": "n. nom. pl. gerundive √rādh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tvadḙti̱",
+      "words": [
+       {
+        "w": "tvat",
+        "gloss": "from you",
+        "gram": "ind."
+       },
+       {
+        "w": "eti",
+        "gloss": "comes",
+        "gram": "3 sg. pres. √i"
+       }
+      ]
+     },
+     {
+      "src": "dravi̭ṇaṃ",
+      "words": [
+       {
+        "w": "draviṇam",
+        "gloss": "wealth",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vī̱rapḙśā",
+      "words": [
+       {
+        "w": "vīra-peśāḥ",
+        "gloss": "adorned with heroes",
+        "gram": "n. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "i̱tthādhi̭ye",
+      "words": [
+       {
+        "w": "itthā-dhiye",
+        "gloss": "for the truly thoughtful",
+        "gram": "m. dat. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "dā̱śuṣe̱",
+      "words": [
+       {
+        "w": "dāśuṣe",
+        "gloss": "worshipping",
+        "gram": "m. dat. sg. pf. part. √dāś"
+       }
+      ]
+     },
+     {
+      "src": "martyā̭ya",
+      "words": [
+       {
+        "w": "martyāya",
+        "gloss": "for the mortal",
+        "gram": "m. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुमसे, हे अग्नि, कवि-गीत; तुमसे प्रेरित विचार, तुमसे स्तोत्र उत्पन्न होते हैं जो सिद्ध किए जाने योग्य हैं। तुमसे धन आता है, वीरों से अलंकृत, सच्चे विचार वाले पूजा करने वाले मनुष्य के लिए।",
+  "english": "From you, O Agni, seer-songs, from you inspired thoughts, from you hymns, to be accomplished, are born. From you comes wealth, adorned with heroes, for the truly thoughtful, worshipping mortal.",
+  "text_flags": [],
+  "notes": "kāvya (from kavi \"seer\") is rendered \"seer-songs\". rādhyāni (gerundive of √rādh) \"to be accomplished\" is uncertain; it could mean \"leading to bounty\". vīrapeśāḥ is written with a long final syllable and read as neuter nominative \"adorned with heroes\" agreeing with draviṇam; \"consisting of heroes\" is possible. itthādhiye \"for the truly thoughtful\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvad",
+      "words": [
+       {
+        "w": "tvat",
+        "gloss": "from you",
+        "gram": "ind. (abl.)"
+       }
+      ]
+     },
+     {
+      "src": "vā̱jī",
+      "words": [
+       {
+        "w": "vājī",
+        "gloss": "prize-winner",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̭jambha̱ro",
+      "words": [
+       {
+        "w": "vāja-bharaḥ",
+        "gloss": "prize-bringer",
+        "gram": "m. nom. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vihā̭yā",
+      "words": [
+       {
+        "w": "vihāyāḥ",
+        "gloss": "great",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhiṣṭi̱kṛjjā̭yate",
+      "words": [
+       {
+        "w": "abhiṣṭi-kṛt",
+        "gloss": "help-maker",
+        "gram": "m. nom. sg. tat-puruṣa"
+       },
+       {
+        "w": "jāyate",
+        "gloss": "is born",
+        "gram": "3 sg. pres. mid. √jan"
+       }
+      ]
+     },
+     {
+      "src": "sa̱tyaśṷṣmaḥ",
+      "words": [
+       {
+        "w": "satya-śuṣmaḥ",
+        "gloss": "of true vigour",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tvad",
+      "words": [
+       {
+        "w": "tvat",
+        "gloss": "from you",
+        "gram": "ind. (abl.)"
+       }
+      ]
+     },
+     {
+      "src": "ra̱yirde̱vajṷ̄to",
+      "words": [
+       {
+        "w": "rayiḥ",
+        "gloss": "wealth",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "deva-jūtaḥ",
+        "gloss": "impelled by the gods",
+        "gram": "m. nom. sg. ppp. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "mayo̱bhustvadā̱śurjṷ̄ju̱vā~",
+      "words": [
+       {
+        "w": "mayaḥ-bhūḥ",
+        "gloss": "bringing delight",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tvat",
+        "gloss": "from you",
+        "gram": "ind. (abl.)"
+       },
+       {
+        "w": "āśuḥ",
+        "gloss": "swift",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "jūjuvān",
+        "gloss": "speeding",
+        "gram": "m. nom. sg. pf. part. √jū"
+       }
+      ]
+     },
+     {
+      "src": "a̭gne̱",
+      "words": [
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "arvā̭",
+      "words": [
+       {
+        "w": "arvā",
+        "gloss": "steed",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुमसे विजेता, पुरस्कार लाने वाला, महान्, सहायता करने वाला, सच्चे बल वाला उत्पन्न होता है। तुमसे धन, देवों द्वारा प्रेरित, आनन्द देने वाला; तुमसे तीव्र, दौड़ता हुआ घोड़ा, हे अग्नि।",
+  "english": "From you is born the prize-winner, the prize-bringer, the great one, the help-maker, of true vigour. From you wealth, impelled by the gods, bringing delight; from you the swift, speeding steed, O Agni.",
+  "text_flags": [],
+  "notes": "abhiṣṭikṛt \"help-maker\" is a loose rendering of a compound whose first member abhiṣṭi (\"help, superiority\") is not certain. vihāyāḥ \"vast, great\". mayobhūḥ \"bringing delight\" (mayas \"delight\"). In Hindi विजेता renders vājin (prize-winner).",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvāma̭gne",
+      "words": [
+       {
+        "w": "tvām",
+        "gloss": "you",
+        "gram": "acc. sg. (pron. 2 sg.)"
+       },
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pratha̱maṃ",
+      "words": [
+       {
+        "w": "prathamam",
+        "gloss": "first",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dḙva̱yanto̭",
+      "words": [
+       {
+        "w": "deva-yantaḥ",
+        "gloss": "seeking the gods",
+        "gram": "m. nom. pl. pres. part. denom. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "de̱vaṃ",
+      "words": [
+       {
+        "w": "devam",
+        "gloss": "god",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "martā̭",
+      "words": [
+       {
+        "w": "martāḥ",
+        "gloss": "mortals",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "amṛta",
+      "words": [
+       {
+        "w": "amṛta",
+        "gloss": "O immortal one",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱ndraji̭hvam",
+      "words": [
+       {
+        "w": "mandra-jihvam",
+        "gloss": "glad-tongued",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dve̱ṣo̱yuta̱mā",
+      "words": [
+       {
+        "w": "dveṣaḥ-yutam",
+        "gloss": "warding off hostility",
+        "gram": "m. acc. sg. tat-puruṣa"
+       },
+       {
+        "w": "ā",
+        "gloss": "towards",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "vi̭vāsanti",
+      "words": [
+       {
+        "w": "vivāsanti",
+        "gloss": "they honour",
+        "gram": "3 pl. pres. desid. ā-√vas"
+       }
+      ]
+     },
+     {
+      "src": "dhī̱bhirdamṷ̄nasaṃ",
+      "words": [
+       {
+        "w": "dhībhiḥ",
+        "gloss": "with thoughts",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "damūnasam",
+        "gloss": "of the house",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gṛ̱hapa̭ti̱mamṷ̄ram",
+      "words": [
+       {
+        "w": "gṛha-patim",
+        "gloss": "lord of the house",
+        "gram": "m. acc. sg. tat-puruṣa"
+       },
+       {
+        "w": "amūram",
+        "gloss": "wise",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "देवों की कामना करने वाले मनुष्य तुम्हें, हे अग्नि, पहले देव को, हे अमर, मधुर जीभ वाले को, शत्रुता को दूर करने वाले को, घर के, गृहपति को, बुद्धिमान् को विचारों से सम्मान देते हैं।",
+  "english": "Mortals, seeking the gods, honour with thoughts you, O Agni, the first god, O immortal one, the glad-tongued, the one who wards off hostility, of the house, the lord of the house, the wise.",
+  "text_flags": [],
+  "notes": "The verb is ā vivāsanti (desiderative of √vas, \"seek to win, honour\"), whose object is the accusatives of both lines. damūnasam is taken as \"of the house\" (damūnas, an epithet of Agni); its meaning is not fully certain. amūram \"not foolish, wise\".",
+  "confidence": "medium"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā̱re",
+      "words": [
+       {
+        "w": "āre",
+        "gloss": "far",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "a̱smadama̭timā̱re",
+      "words": [
+       {
+        "w": "asmat",
+        "gloss": "from us",
+        "gram": "ind. (abl. of pron. 1 pl.)"
+       },
+       {
+        "w": "amatim",
+        "gloss": "want",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āre",
+        "gloss": "far",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "aṃha̭",
+      "words": [
+       {
+        "w": "aṃhaḥ",
+        "gloss": "distress",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā̱re",
+      "words": [
+       {
+        "w": "āre",
+        "gloss": "far",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "viśvā̭ṃ",
+      "words": [
+       {
+        "w": "viśvām",
+        "gloss": "all",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "durma̱tiṃ",
+      "words": [
+       {
+        "w": "durmatim",
+        "gloss": "evil thought",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yanni̱pāsi̭",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "since",
+        "gram": "ind."
+       },
+       {
+        "w": "ni-pāsi",
+        "gloss": "you guard",
+        "gram": "2 sg. pres. ni-√pā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "do̱ṣā",
+      "words": [
+       {
+        "w": "doṣā",
+        "gloss": "at night",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śi̱vaḥ",
+      "words": [
+       {
+        "w": "śivaḥ",
+        "gloss": "kind",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭hasaḥ",
+      "words": [
+       {
+        "w": "sahasaḥ",
+        "gloss": "of strength",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sūno",
+      "words": [
+       {
+        "w": "sūno",
+        "gloss": "O son",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "agne̱",
+      "words": [
+       {
+        "w": "agne",
+        "gloss": "O Agni",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "de̱va",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "O god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "to",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "ci̱t",
+      "words": [
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "saca̭se",
+      "words": [
+       {
+        "w": "sacase",
+        "gloss": "you attend",
+        "gram": "2 sg. pres. mid. √sac"
+       }
+      ]
+     },
+     {
+      "src": "sva̱sti",
+      "words": [
+       {
+        "w": "svasti",
+        "gloss": "for well-being",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हमसे दूर अभाव, दूर संकट, दूर सारी दुर्बुद्धि, क्योंकि तुम रक्षा करते हो। रात में कल्याणकारी, हे बल के पुत्र अग्नि, जिसका, हे देव, तुम कल्याण के लिए भी साथ देते हो।",
+  "english": "Far from us want, far distress, far all evil thought, since you guard. At night kind, O son of strength, O Agni, whom, O god, you even attend upon for well-being.",
+  "text_flags": [],
+  "notes": "Line a: amati can mean \"want, poverty\" or \"ill-will\"; \"want\" is chosen. yat nipāsi is read as \"since you guard\" with no object stated; \"which you guard against\" is possible. In line b the clause yaṃ ... sacase svasti is literal; the exact relation to the preceding vocatives is not certain.",
+  "confidence": "medium"
+ }
+]

@@ -1,0 +1,1787 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱to",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̭ṃ",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "of you two",
+        "gram": "2 du. gen. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "dā̱trā",
+      "words": [
+       {
+        "w": "dātrā",
+        "gloss": "gifts",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "santi̱",
+      "words": [
+       {
+        "w": "santi",
+        "gloss": "there are",
+        "gram": "3 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "pūrvā̱",
+      "words": [
+       {
+        "w": "pūrvā",
+        "gloss": "earlier",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "n. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "pū̱rubhya̭stra̱sada̭syurnito̱śe",
+      "words": [
+       {
+        "w": "pūrubhyaḥ",
+        "gloss": "for the Pūrus",
+        "gram": "m. dat. pl."
+       },
+       {
+        "w": "trasadasyuḥ",
+        "gloss": "Trasadasyu",
+        "gram": "m. nom. sg. (name)"
+       },
+       {
+        "w": "nitośe",
+        "gloss": "has bestowed",
+        "gram": "form uncertain (ni-√tuś?)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "kṣe̱trā̱sāṃ",
+      "words": [
+       {
+        "w": "kṣetrā-sām",
+        "gloss": "winner of fields",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "da̭dathururvarā̱sāṃ",
+      "words": [
+       {
+        "w": "dadathuḥ",
+        "gloss": "you two gave",
+        "gram": "2 du. pf. √dā"
+       },
+       {
+        "w": "urvarā-sām",
+        "gloss": "winner of fertile land",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gha̱naṃ",
+      "words": [
+       {
+        "w": "ghanam",
+        "gloss": "smiter",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dasyṷbhyo",
+      "words": [
+       {
+        "w": "dasyubhyaḥ",
+        "gloss": "for the Dasyus",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱bhibhṷ̄timu̱gram",
+      "words": [
+       {
+        "w": "abhibhūtim",
+        "gloss": "overpowering",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ugram",
+        "gloss": "fierce",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और निश्चय ही तुम दोनों के पहले के दान हैं, जो त्रसदस्यु ने पूरुओं के लिए प्रदान किए हैं; तुम दोनों ने खेतों को जीतने वाले, उपजाऊ भूमि को जीतने वाले, दस्युओं के लिए प्रहार करने वाले, पराभव करने वाले, उग्र को दिया।",
+  "english": "And indeed there are earlier gifts of you two, which Trasadasyu has bestowed for the Pūrus; you two gave a winner of fields, a winner of fertile land, a smiter for the Dasyus, overpowering, fierce.",
+  "text_flags": [],
+  "notes": "Difficult verse. nitośe is not a form I can parse with certainty (perhaps from ni-√tuś); rendered 'has bestowed' as a guess. The object of dadathuḥ is not named in the verse. The edition prints kṣetrāsām/urvarāsām with a long vowel (compound with -sā 'winning'); split as kṣetrā-sām, urvarā-sām.",
+  "confidence": "low"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̱jina̭ṃ",
+      "words": [
+       {
+        "w": "vājinam",
+        "gloss": "prize-winner",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "puruni̱ṣṣidhvā̭naṃ",
+      "words": [
+       {
+        "w": "puru-niḥ-sidhvānam",
+        "gloss": "driving back many",
+        "gram": "m. acc. sg. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "dadhi̱krāmṷ",
+      "words": [
+       {
+        "w": "dadhikrām",
+        "gloss": "Dadhikrā",
+        "gram": "m. acc. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "dadathurvi̱śvakṛ̭ṣṭim",
+      "words": [
+       {
+        "w": "dadathuḥ",
+        "gloss": "you two gave",
+        "gram": "2 du. pf. √dā"
+       },
+       {
+        "w": "viśva-kṛṣṭim",
+        "gloss": "of all peoples",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ṛ̱ji̱pyaṃ",
+      "words": [
+       {
+        "w": "ṛjipyam",
+        "gloss": "straight-flying",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śye̱naṃ",
+      "words": [
+       {
+        "w": "śyenam",
+        "gloss": "hawk",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prṷṣi̱tapsṷmā̱śuṃ",
+      "words": [
+       {
+        "w": "pruṣita-psum",
+        "gloss": "speckled-formed",
+        "gram": "m. acc. sg. bahuvrīhi (uncertain)"
+       },
+       {
+        "w": "āśum",
+        "gloss": "swift",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱rkṛtya̭ma̱ryo",
+      "words": [
+       {
+        "w": "carkṛtyam",
+        "gloss": "to be often extolled",
+        "gram": "m. acc. sg. gerundive"
+       },
+       {
+        "w": "aryaḥ",
+        "gloss": "of the master",
+        "gram": "m. gen. sg. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "nṛ̱pati̱ṃ",
+      "words": [
+       {
+        "w": "nṛ-patim",
+        "gloss": "lord of men",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śūra̭m",
+      "words": [
+       {
+        "w": "śūram",
+        "gloss": "hero",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और तुम दोनों ने पुरस्कार जीतने वाले, बहुतों को हटाने वाले, सब जातियों के दधिक्रा को दिया; सीधे उड़ने वाले, बाज़ जैसे, चितकबरे रूप वाले, तेज़, बार-बार स्तुति के योग्य, स्वामी के, वीर के समान, मनुष्यों के स्वामी को।",
+  "english": "And you two gave Dadhikrā, the prize-winner, driving back many, of all peoples; straight-flying, a hawk, speckled-formed, swift, to be often extolled, of the master, like a hero, a lord of men.",
+  "text_flags": [],
+  "notes": "Several words are uncertain: ṛjipya (rendered 'straight-flying'), pruṣita-psu ('speckled-formed'), puru-niḥ-sidhvān ('driving back many'). aryaḥ is read as genitive of arya 'master', but it could be another form; the last phrase 'nṛpatiṃ na śūram' is taken as 'like a hero, a lord of men'.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "sī̱manṷ",
+      "words": [
+       {
+        "w": "sīm",
+        "gloss": "(emphatic) him",
+        "gram": "ind./pron. acc."
+       },
+       {
+        "w": "anu",
+        "gloss": "along",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pra̱vatḙva̱",
+      "words": [
+       {
+        "w": "pravate",
+        "gloss": "down a slope",
+        "gram": "f. loc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "as if",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "drava̭nta̱ṃ",
+      "words": [
+       {
+        "w": "dravantam",
+        "gloss": "running",
+        "gram": "m. acc. sg. pres. part. √dru"
+       }
+      ]
+     },
+     {
+      "src": "viśva̭:",
+      "words": [
+       {
+        "w": "viśvaḥ",
+        "gloss": "every",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pū̱rurmada̭ti̱",
+      "words": [
+       {
+        "w": "pūruḥ",
+        "gloss": "multitude",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "madati",
+        "gloss": "rejoices",
+        "gram": "3 sg. pres. √mad"
+       }
+      ]
+     },
+     {
+      "src": "harṣa̭māṇaḥ",
+      "words": [
+       {
+        "w": "harṣamāṇaḥ",
+        "gloss": "delighted",
+        "gram": "m. nom. sg. pres. part. mid. √hṛṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pa̱ḍbhirgṛdhya̭ntaṃ",
+      "words": [
+       {
+        "w": "paḍbhiḥ",
+        "gloss": "with the feet",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "gṛdhyantam",
+        "gloss": "eager",
+        "gram": "m. acc. sg. pres. part. √gṛdh"
+       }
+      ]
+     },
+     {
+      "src": "medha̱yuṃ",
+      "words": [
+       {
+        "w": "medha-yum",
+        "gloss": "desiring wisdom",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śūra̭ṃ",
+      "words": [
+       {
+        "w": "śūram",
+        "gloss": "hero",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ratha̱tura̱ṃ",
+      "words": [
+       {
+        "w": "ratha-turam",
+        "gloss": "chariot-speeding",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vāta̭miva̱",
+      "words": [
+       {
+        "w": "vātam",
+        "gloss": "wind",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dhraja̭ntam",
+      "words": [
+       {
+        "w": "dhrajantam",
+        "gloss": "gliding",
+        "gram": "m. acc. sg. pres. part. √dhraj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसके पीछे, ढलान पर जैसे दौड़ते हुए, हर भीड़ हर्षित होकर आनन्द मनाती है; पैरों से उत्सुक, वीर के समान मेधा चाहने वाले, रथ को तेज़ चलाने वाले, वायु के समान सरकते हुए को।",
+  "english": "Him who runs as if down a slope, in whom every multitude rejoices, delighted; eager with the feet, like a hero desiring wisdom, chariot-speeding, gliding like the wind.",
+  "text_flags": [],
+  "notes": "sīm anu is read 'along him' (sīm is an enclitic acc. particle); the construction 'yam ... dravantam ... madati' is read as 'in whom ... rejoices'. pūruḥ is read as 'multitude' (nom. sg. of pūru 'many'); a tribal name Pūru is also possible. medha-yu: medha may be 'wisdom' or 'sacrifice'; rendered 'wisdom' as in the glossary-consistent reading of 4.37.6.",
+  "confidence": "low"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "smā̭rundhā̱no",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "ārundhānaḥ",
+        "gloss": "holding back",
+        "gram": "m. nom. sg. pres. part. mid. ā-√rudh"
+       }
+      ]
+     },
+     {
+      "src": "gadhyā̭",
+      "words": [
+       {
+        "w": "gadhyā",
+        "gloss": "spoils",
+        "gram": "n. acc. pl. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "sa̱matsu̱",
+      "words": [
+       {
+        "w": "samatsu",
+        "gloss": "in the battles",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sanṷtara̱ścara̭ti̱",
+      "words": [
+       {
+        "w": "sanutar",
+        "gloss": "aside",
+        "gram": "ind."
+       },
+       {
+        "w": "carati",
+        "gloss": "moves",
+        "gram": "3 sg. pres. √car"
+       }
+      ]
+     },
+     {
+      "src": "goṣu̱",
+      "words": [
+       {
+        "w": "goṣu",
+        "gloss": "among the cows",
+        "gram": "m./f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "gaccha̭n",
+      "words": [
+       {
+        "w": "gacchan",
+        "gloss": "going",
+        "gram": "m. nom. sg. pres. part. √gam"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā̱virṛ̭jīko",
+      "words": [
+       {
+        "w": "āviḥ",
+        "gloss": "openly",
+        "gram": "ind."
+       },
+       {
+        "w": "ṛjīkaḥ",
+        "gloss": "upright",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱dathā̭",
+      "words": [
+       {
+        "w": "vidathā",
+        "gloss": "rites",
+        "gram": "n. acc. pl. (or inst. sg.)"
+       }
+      ]
+     },
+     {
+      "src": "ni̱cikya̭t",
+      "words": [
+       {
+        "w": "nicikyat",
+        "gloss": "he would observe",
+        "gram": "3 sg. subj. ni-√cit (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "tiro",
+      "words": [
+       {
+        "w": "tiraḥ",
+        "gloss": "across",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "a̭ra̱tiṃ",
+      "words": [
+       {
+        "w": "aratim",
+        "gloss": "hostile one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "paryāpa̭",
+      "words": [
+       {
+        "w": "pari",
+        "gloss": "around",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "āpa",
+        "gloss": "has overtaken",
+        "gram": "3 sg. pf. √āp"
+       }
+      ]
+     },
+     {
+      "src": "ā̱yoḥ",
+      "words": [
+       {
+        "w": "āyoḥ",
+        "gloss": "of the living man",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो रोकते हुए, युद्धों में लूट के लिए एक ओर चलता है, गायों के बीच जाता हुआ; खुले रूप से सीधा वह यज्ञों को देखे; उसने जीवित मनुष्य के शत्रु को पार करके पीछे छोड़ दिया है।",
+  "english": "Who, holding back, moves aside in the battles for the spoils, going among the cows; openly upright, he would observe the rites; he has overtaken the hostile one of the living man, passing across.",
+  "text_flags": [],
+  "notes": "Very uncertain. sanutar (printed 'sanutaraś', sandhi of -ar before c) is read as the adverb 'aside, away'; meaning uncertain. gadhyā, nicikyat, paryāpa and āyoḥ (also possibly a name Āyu) are all unclear; nicikyat read as subjunctive of ni-√cit. aratim = 'hostile one' per glossary.",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smai̭naṃ",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vastra̱mathi̱ṃ",
+      "words": [
+       {
+        "w": "vastram",
+        "gloss": "garment",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "athim",
+        "gloss": "roaming one",
+        "gram": "m. acc. sg. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tā̱yumanṷ",
+      "words": [
+       {
+        "w": "tāyum",
+        "gloss": "thief",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "anu",
+        "gloss": "after",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "krośanti",
+      "words": [
+       {
+        "w": "krośanti",
+        "gloss": "they cry out",
+        "gram": "3 pl. pres. √kruś"
+       }
+      ]
+     },
+     {
+      "src": "kṣi̱tayo̱",
+      "words": [
+       {
+        "w": "kṣitayaḥ",
+        "gloss": "peoples",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bharḙṣu",
+      "words": [
+       {
+        "w": "bhareṣu",
+        "gloss": "in the battles",
+        "gram": "m. loc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nī̱cāya̭māna̱ṃ",
+      "words": [
+       {
+        "w": "nīcāyamānam",
+        "gloss": "swooping down",
+        "gram": "m. acc. sg. pres. part. mid."
+       }
+      ]
+     },
+     {
+      "src": "jasṷri̱ṃ",
+      "words": [
+       {
+        "w": "jasurim",
+        "gloss": "exhausted",
+        "gram": "m. acc. sg. (meaning uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śye̱naṃ",
+      "words": [
+       {
+        "w": "śyenam",
+        "gloss": "hawk",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śrava̱ścācchā̭",
+      "words": [
+       {
+        "w": "śravaḥ",
+        "gloss": "fame",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "acchā",
+        "gloss": "toward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "paśu̱macca̭",
+      "words": [
+       {
+        "w": "paśu-mat",
+        "gloss": "rich in cattle",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yū̱tham",
+      "words": [
+       {
+        "w": "yūtham",
+        "gloss": "herd",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और लोग युद्धों में उसके पीछे चिल्लाते हैं, जैसे वस्त्र लेकर घूमने वाले चोर के पीछे; नीचे उतरते हुए, थके हुए बाज़ के समान, यश की ओर और पशुओं से भरे झुंड की ओर।",
+  "english": "And the peoples in the battles cry out after him, as after a thief roaming with a garment, after him swooping down like an exhausted hawk, toward fame and toward the cattle-rich herd.",
+  "text_flags": [],
+  "notes": "athim (printed 'vastramathiṃ', read vastram athim) is unclear; 'roaming one' from √at is a guess. jasuri: 'exhausted' is uncertain (alternatives: hungry, failing). nīcāyamānam is taken as ni-√cāy middle participle 'swooping down' (uncertain).",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smā̭su",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "āsu",
+        "gloss": "among these",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pratha̱maḥ",
+      "words": [
+       {
+        "w": "prathamaḥ",
+        "gloss": "foremost",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̭ri̱ṣyan",
+      "words": [
+       {
+        "w": "sariṣyan",
+        "gloss": "about to run",
+        "gram": "m. nom. sg. fut. part. √sṛ"
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down, in",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "vḙveti̱",
+      "words": [
+       {
+        "w": "veveti",
+        "gloss": "he goes",
+        "gram": "3 sg. intens. pres. √vī (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "śreṇi̭bhī̱",
+      "words": [
+       {
+        "w": "śreṇibhiḥ",
+        "gloss": "with the rows",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "rathā̭nām",
+      "words": [
+       {
+        "w": "rathānām",
+        "gloss": "of the chariots",
+        "gram": "m. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sraja̭ṃ",
+      "words": [
+       {
+        "w": "srajam",
+        "gloss": "garland",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇvā̱no",
+      "words": [
+       {
+        "w": "kṛṇvānaḥ",
+        "gloss": "making",
+        "gram": "m. nom. sg. pres. part. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "janyo̱",
+      "words": [
+       {
+        "w": "janyaḥ",
+        "gloss": "bridal attendant",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śubhvā̭",
+      "words": [
+       {
+        "w": "śubhvā",
+        "gloss": "splendid",
+        "gram": "m. nom. sg. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "re̱ṇuṃ",
+      "words": [
+       {
+        "w": "reṇum",
+        "gloss": "dust",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "reri̭hat",
+      "words": [
+       {
+        "w": "rerihat",
+        "gloss": "licking",
+        "gram": "m. nom. sg. intens. pres. part. √rih (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "ki̱raṇa̭ṃ",
+      "words": [
+       {
+        "w": "kiraṇam",
+        "gloss": "scattering",
+        "gram": "n. acc. sg. (meaning uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "dada̱śvān",
+      "words": [
+       {
+        "w": "dadaśvān",
+        "gloss": "having bestowed",
+        "gram": "m. nom. sg. pf. part. √dāś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और इनमें सबसे आगे दौड़ने को उद्यत वह रथों की पंक्तियों के साथ भीतर जाता है; माला बनाता हुआ, दूल्हे के साथी के समान सुन्दर, धूल को चाटता हुआ, बिखेरने को देकर।",
+  "english": "And among these, foremost, about to run, he goes in with the rows of chariots, making a garland, splendid like a bridal attendant, licking the dust, having bestowed a scattering.",
+  "text_flags": [],
+  "notes": "Uncertain throughout. 'ni veveti' (printed 'ni vḙveti') is read as ni + intensive of √vī 'goes in'; the instrumental śreṇibhiḥ 'with the rows' might also be read 'in the rows'. The second line (srajam, kiraṇam, dadaśvān) is obscure; kiraṇa 'scattering' is only a guess.",
+  "confidence": "low"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sya",
+      "words": [
+       {
+        "w": "sya",
+        "gloss": "that",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̱jī",
+      "words": [
+       {
+        "w": "vājī",
+        "gloss": "prize-winner",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sahṷrirṛ̱tāvā̱",
+      "words": [
+       {
+        "w": "sahuriḥ",
+        "gloss": "mighty",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ṛtāvā",
+        "gloss": "keeper of order",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuśrṷ̄ṣamāṇasta̱nvā̭",
+      "words": [
+       {
+        "w": "śuśrūṣamāṇaḥ",
+        "gloss": "attending",
+        "gram": "m. nom. sg. desid. pres. part. mid. √śru"
+       },
+       {
+        "w": "tanvā",
+        "gloss": "with the body",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sama̱rye",
+      "words": [
+       {
+        "w": "samarye",
+        "gloss": "in the contest",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tura̭ṃ",
+      "words": [
+       {
+        "w": "turam",
+        "gloss": "swift one",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱tīṣṷ",
+      "words": [
+       {
+        "w": "yatīṣu",
+        "gloss": "among those advancing",
+        "gram": "f. loc. pl. pres. part. √i"
+       }
+      ]
+     },
+     {
+      "src": "tu̱raya̭nnṛji̱pyo'dhi̭",
+      "words": [
+       {
+        "w": "turayan",
+        "gloss": "urging on",
+        "gram": "m. nom. sg. pres. part. caus. √tur"
+       },
+       {
+        "w": "ṛjipyaḥ",
+        "gloss": "straight-flying",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adhi",
+        "gloss": "upon",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhru̱voḥ",
+      "words": [
+       {
+        "w": "bhruvoḥ",
+        "gloss": "the two brows",
+        "gram": "f. loc. du."
+       }
+      ]
+     },
+     {
+      "src": "ki̭rate",
+      "words": [
+       {
+        "w": "kirate",
+        "gloss": "he scatters",
+        "gram": "3 sg. pres. mid. √kṝ"
+       }
+      ]
+     },
+     {
+      "src": "re̱ṇumṛ̱ñjan",
+      "words": [
+       {
+        "w": "reṇum",
+        "gloss": "dust",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ṛñjan",
+        "gloss": "striving",
+        "gram": "m. nom. sg. pres. part. √ṛñj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और वह पुरस्कार जीतने वाला, बलवान्, ऋत का पालन करने वाला, युद्ध में शरीर से सेवा करता हुआ, आगे बढ़ते हुओं के बीच तेज़ को प्रेरित करता हुआ, सीधे उड़ने वाला, दोनों भौंहों पर धूल बिखेरता है, प्रयास करता हुआ।",
+  "english": "And that prize-winner, mighty, keeper of order, attending with the body in the contest, urging the swift one on among those advancing, straight-flying, scatters the dust upon the two brows, striving.",
+  "text_flags": [],
+  "notes": "ṛjipya ('straight-flying') and ṛñjan ('striving'; adorning is also possible) are uncertain. turam may be an adverb ('swiftly') rather than an object.",
+  "confidence": "low"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smā̭sya",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "of him",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tanya̱tori̭va̱",
+      "words": [
+       {
+        "w": "tanyatoḥ",
+        "gloss": "of thunder",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "as",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dyorṛ̭ghāya̱to",
+      "words": [
+       {
+        "w": "dyoḥ",
+        "gloss": "of heaven",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "ṛghāyataḥ",
+        "gloss": "of the raging",
+        "gram": "m. gen. sg. pres. part. (meaning uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "a̭bhi̱yujo̭",
+      "words": [
+       {
+        "w": "abhiyujaḥ",
+        "gloss": "assailants",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhayante",
+      "words": [
+       {
+        "w": "bhayante",
+        "gloss": "they are afraid",
+        "gram": "3 pl. pres. mid. √bhī"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ya̱dā",
+      "words": [
+       {
+        "w": "yadā",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̱hasra̭ma̱bhi",
+      "words": [
+       {
+        "w": "sahasram",
+        "gloss": "a thousand",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "abhi",
+        "gloss": "against",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣī̱mayo̭dhīd",
+      "words": [
+       {
+        "w": "sīm",
+        "gloss": "(emphatic)",
+        "gram": "ind."
+       },
+       {
+        "w": "ayodhīt",
+        "gloss": "he has fought",
+        "gram": "3 sg. aor. √yudh"
+       }
+      ]
+     },
+     {
+      "src": "du̱rvartṷ:",
+      "words": [
+       {
+        "w": "durvartuḥ",
+        "gloss": "hard to turn back",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "smā",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhavati",
+      "words": [
+       {
+        "w": "bhavati",
+        "gloss": "he becomes",
+        "gram": "3 sg. pres. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "bhī̱ma",
+      "words": [
+       {
+        "w": "bhīmaḥ",
+        "gloss": "terrible",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛ̱ñjan",
+      "words": [
+       {
+        "w": "ṛñjan",
+        "gloss": "striving",
+        "gram": "m. nom. sg. pres. part. √ṛñj"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और उसके, गर्जन करते हुए आकाश की गड़गड़ाहट की तरह, आक्रमणकारी डरते हैं; जब वह हज़ार के विरुद्ध लड़ा है, तब वह पीछे हटाने में कठिन, भयंकर, प्रयास करता हुआ हो जाता है।",
+  "english": "And the assailants are afraid of him as of the thunder of the raging heaven; when he has fought against a thousand, he becomes hard to turn back, terrible, striving.",
+  "text_flags": [],
+  "notes": "ṛghāyataḥ is unclear (perhaps 'raging, quaking'); taken with dyoḥ. The first line is read as 'of him, as of thunder of heaven, ... the assailants are afraid' (genitive of fear). ṛñjan as in verse 7.",
+  "confidence": "low"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "smā̭sya",
+      "words": [
+       {
+        "w": "sma",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "panayanti̱",
+      "words": [
+       {
+        "w": "panayanti",
+        "gloss": "they admire",
+        "gram": "3 pl. pres. √pan"
+       }
+      ]
+     },
+     {
+      "src": "janā̭",
+      "words": [
+       {
+        "w": "janāḥ",
+        "gloss": "people",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "jū̱tiṃ",
+      "words": [
+       {
+        "w": "jūtim",
+        "gloss": "speed",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̭ṣṭi̱pro",
+      "words": [
+       {
+        "w": "kṛṣṭi-praḥ",
+        "gloss": "filling the peoples",
+        "gram": "m. nom. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "a̱bhibhṷ̄timā̱śoḥ",
+      "words": [
+       {
+        "w": "abhibhūtim",
+        "gloss": "overpowering",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "āśoḥ",
+        "gloss": "of the swift one",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "u̱taina̭māhuḥ",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "and",
+        "gram": "ind."
+       },
+       {
+        "w": "enam",
+        "gloss": "of him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āhuḥ",
+        "gloss": "they say",
+        "gram": "3 pl. pf. √ah"
+       }
+      ]
+     },
+     {
+      "src": "sami̱the",
+      "words": [
+       {
+        "w": "samithe",
+        "gloss": "in the encounter",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱yanta̱:",
+      "words": [
+       {
+        "w": "viyantaḥ",
+        "gloss": "parting",
+        "gram": "m. nom. pl. pres. part. vi-√i"
+       }
+      ]
+     },
+     {
+      "src": "parā̭",
+      "words": [
+       {
+        "w": "parā",
+        "gloss": "away",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dadhi̱krā",
+      "words": [
+       {
+        "w": "dadhikrāḥ",
+        "gloss": "Dadhikrā",
+        "gram": "m. nom. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "a̭sarat",
+      "words": [
+       {
+        "w": "asarat",
+        "gloss": "has run",
+        "gram": "3 sg. aor. √sṛ"
+       }
+      ]
+     },
+     {
+      "src": "sa̱hasrai̭:",
+      "words": [
+       {
+        "w": "sahasraiḥ",
+        "gloss": "with thousands",
+        "gram": "n. inst. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "और लोग उसकी गति की प्रशंसा करते हैं; जातियों को पूर्ण करने वाला, उस तेज़ का पराभव करने वाला भी। और युद्ध में अलग होते हुए लोग उसके विषय में कहते हैं: दधिक्रा हज़ारों के साथ दूर भाग गया है।",
+  "english": "And the people admire his speed, the one filling the peoples, the overpowering of the swift one. And those parting in the encounter say of him: Dadhikrā has run away with thousands.",
+  "text_flags": [],
+  "notes": "kṛṣṭi-praḥ (nom. sg.) is unclear in its role; abhibhūtim āśoḥ is read 'the overpowering of the swift one'. 'enam āhuḥ' is read 'say of him'; no direct speech is marked in the text, the clause after is taken as what they say. The meaning of 'parā asarat' is 'has run away/off'.",
+  "confidence": "low"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "over",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "da̭dhi̱krāḥ",
+      "words": [
+       {
+        "w": "dadhikrāḥ",
+        "gloss": "Dadhikrā",
+        "gram": "m. nom. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "śava̭sā̱",
+      "words": [
+       {
+        "w": "śavasā",
+        "gloss": "with strength",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pañca̭",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̱ṣṭīḥ",
+      "words": [
+       {
+        "w": "kṛṣṭīḥ",
+        "gloss": "peoples",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sūrya̭",
+      "words": [
+       {
+        "w": "sūryaḥ",
+        "gloss": "the sun",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "iva̱",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jyoti̭ṣā̱pasta̭tāna",
+      "words": [
+       {
+        "w": "jyotiṣā",
+        "gloss": "with light",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "apaḥ",
+        "gloss": "the waters",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "tatāna",
+        "gloss": "has stretched",
+        "gram": "3 sg. pf. √tan"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa̱ha̱sra̱sāḥ",
+      "words": [
+       {
+        "w": "sahasra-sāḥ",
+        "gloss": "thousand-winning",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̭ta̱sā",
+      "words": [
+       {
+        "w": "śata-sāḥ",
+        "gloss": "hundred-winning",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̱jyarvā̭",
+      "words": [
+       {
+        "w": "vājī",
+        "gloss": "prize-winning",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "arvā",
+        "gloss": "steed",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛ̱ṇaktu̱",
+      "words": [
+       {
+        "w": "pṛṇaktu",
+        "gloss": "may he mingle",
+        "gram": "3 sg. impv. √pṛc"
+       }
+      ]
+     },
+     {
+      "src": "madhvā̱",
+      "words": [
+       {
+        "w": "madhvā",
+        "gloss": "with honey",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sami̱mā",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind. (preverb)"
+       },
+       {
+        "w": "imā",
+        "gloss": "these",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vacā̭ṃsi",
+      "words": [
+       {
+        "w": "vacāṃsi",
+        "gloss": "words",
+        "gram": "n. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "दधिक्रा ने बल से पाँच जातियों पर विस्तार किया है, जैसे सूर्य प्रकाश से जलों पर; हज़ार जीतने वाला, सौ जीतने वाला, पुरस्कार जीतने वाला घोड़ा इन वचनों को मधु से मिलाए।",
+  "english": "Dadhikrā has stretched over the five peoples with strength, as the sun over the waters with light; may the thousand-winning, hundred-winning, prize-winning steed mingle these words with honey.",
+  "text_flags": [],
+  "notes": "apaḥ read as 'waters' (acc. pl. of ap), not apas 'works'. 'ā ... tatāna' read 'has stretched over'. 'śatasā' is śata-sāḥ (nom. sg.), the edition's visarga omitted in the printed token (a regular sandhi before v-).",
+  "confidence": "medium"
+ }
+]

@@ -1,0 +1,569 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vāyo̭",
+      "words": [
+       {
+        "w": "vāyo",
+        "gloss": "O Vāyu",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śu̱kro",
+      "words": [
+       {
+        "w": "śukraḥ",
+        "gloss": "bright",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭yāmi",
+      "words": [
+       {
+        "w": "ayāmi",
+        "gloss": "has been presented",
+        "gram": "3 sg. aor. pass. √yam"
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "to you",
+        "gram": "pron. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhvo̱",
+      "words": [
+       {
+        "w": "madhvaḥ",
+        "gloss": "of honey",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "agra̱ṃ",
+      "words": [
+       {
+        "w": "agram",
+        "gloss": "foremost part",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "divi̭ṣṭiṣu",
+      "words": [
+       {
+        "w": "diviṣṭiṣu",
+        "gloss": "at the heavenly offerings",
+        "gram": "f. loc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yā̭hi̱",
+      "words": [
+       {
+        "w": "yāhi",
+        "gloss": "come",
+        "gram": "2 sg. impv. √yā"
+       }
+      ]
+     },
+     {
+      "src": "soma̭pītaye",
+      "words": [
+       {
+        "w": "soma-pītaye",
+        "gloss": "for the drinking of Soma",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "spā̱rho",
+      "words": [
+       {
+        "w": "spārhaḥ",
+        "gloss": "desirable",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dḙva",
+      "words": [
+       {
+        "w": "deva",
+        "gloss": "O god",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni̱yutva̭tā",
+      "words": [
+       {
+        "w": "niyutvatā",
+        "gloss": "with the one having yoked teams",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे वायु, उजला तुम्हें अर्पित किया गया है, मधु का अग्रभाग, स्वर्गीय अर्पणों में। सोम के पान के लिए आओ, हे वांछनीय देव, जुते हुए दलों वाले के साथ।",
+  "english": "O Vāyu, the bright one has been presented to you, the foremost of the honey, at the heavenly offerings. Come for the drinking of Soma, O desirable god, with the one having yoked teams.",
+  "text_flags": [],
+  "notes": "ayāmi read as 3 sg. aorist passive of √yam 'has been presented' (the 'bright one' is not named). niyutvatā is an instrumental without a stated noun ('with the one having yoked teams'; a chariot may be understood but is not stated). Compare 4.46.1.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "indra̭śca",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vāyaveṣā̱ṃ",
+      "words": [
+       {
+        "w": "vāyo",
+        "gloss": "O Vāyu",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "of these",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "somā̭nāṃ",
+      "words": [
+       {
+        "w": "somānām",
+        "gloss": "of the Somas",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "pī̱tima̭rhathaḥ",
+      "words": [
+       {
+        "w": "pītim",
+        "gloss": "drinking",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "arhathaḥ",
+        "gloss": "you two deserve",
+        "gram": "2 du. pres. √arh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yu̱vāṃ",
+      "words": [
+       {
+        "w": "yuvām",
+        "gloss": "you two",
+        "gram": "pron. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yantīnda̭vo",
+      "words": [
+       {
+        "w": "yanti",
+        "gloss": "they go",
+        "gram": "3 pl. pres. √i"
+       },
+       {
+        "w": "indavaḥ",
+        "gloss": "drops",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ni̱mnamāpo̱",
+      "words": [
+       {
+        "w": "nimnam",
+        "gloss": "downward",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āpaḥ",
+        "gloss": "waters",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̱dhrya̭k",
+      "words": [
+       {
+        "w": "sadhryak",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "इन्द्र और हे वायु, तुम दोनों इन सोमों के पान के योग्य हो; क्योंकि बूँदें तुम दोनों के पास जाती हैं, जैसे जल नीचे की ओर, एक साथ।",
+  "english": "Indra and you, O Vāyu, deserve the drinking of these Somas; for the drops go to you two, like waters downward, together.",
+  "text_flags": [],
+  "notes": "sadhryak taken as adverb 'together' (nom. sg. of sadhryañc used adverbially).",
+  "confidence": "high"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vāya̱vindra̭śca",
+      "words": [
+       {
+        "w": "vāyo",
+        "gloss": "O Vāyu",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śu̱ṣmiṇā̭",
+      "words": [
+       {
+        "w": "śuṣmiṇā",
+        "gloss": "vigorous",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "sa̱ratha̭ṃ",
+      "words": [
+       {
+        "w": "sa-ratham",
+        "gloss": "in the same chariot",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śavasaspatī",
+      "words": [
+       {
+        "w": "śavasaḥ",
+        "gloss": "of strength",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "patī",
+        "gloss": "O lords",
+        "gram": "m. voc. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ni̱yutva̭ntā",
+      "words": [
+       {
+        "w": "niyutvantā",
+        "gloss": "having yoked teams",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "pron. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "ū̱taya̱",
+      "words": [
+       {
+        "w": "ūtaye",
+        "gloss": "for help",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yā̭ta̱ṃ",
+      "words": [
+       {
+        "w": "yātam",
+        "gloss": "come",
+        "gram": "2 du. impv. √yā"
+       }
+      ]
+     },
+     {
+      "src": "soma̭pītaye",
+      "words": [
+       {
+        "w": "soma-pītaye",
+        "gloss": "for the drinking of Soma",
+        "gram": "f. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे वायु और इन्द्र, बलवान, एक ही रथ में, बल के स्वामियो, जुते हुए दलों वाले, हमारी सहायता के लिए आओ, सोम के पान के लिए।",
+  "english": "O Vāyu and Indra, vigorous ones, in the same chariot, lords of strength, having yoked teams, come to us for help, for the drinking of Soma.",
+  "text_flags": [],
+  "notes": "vāyav indraś ca is taken as 'O Vāyu, and Indra' (both addressed). sa-ratham taken as adverb 'in the same chariot'.",
+  "confidence": "high"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "f. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "vā̱ṃ",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "of you two",
+        "gram": "gen. du."
+       }
+      ]
+     },
+     {
+      "src": "santi̭",
+      "words": [
+       {
+        "w": "santi",
+        "gloss": "are",
+        "gram": "3 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "puru̱spṛho̭",
+      "words": [
+       {
+        "w": "puru-spṛhaḥ",
+        "gloss": "much-desired",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ni̱yuto̭",
+      "words": [
+       {
+        "w": "niyutaḥ",
+        "gloss": "yoked teams",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dā̱śuṣḙ",
+      "words": [
+       {
+        "w": "dāśuṣe",
+        "gloss": "for the giver",
+        "gram": "m. dat. sg. pf. part. √dāś"
+       }
+      ]
+     },
+     {
+      "src": "narā",
+      "words": [
+       {
+        "w": "narā",
+        "gloss": "O men",
+        "gram": "m. voc. du."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱sme",
+      "words": [
+       {
+        "w": "asme",
+        "gloss": "to us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "those",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ya̭jñavāha̱sendra̭vāyū̱",
+      "words": [
+       {
+        "w": "yajña-vāhasā",
+        "gloss": "O bearers of the sacrifice",
+        "gram": "m. voc. du."
+       },
+       {
+        "w": "indra-vāyū",
+        "gloss": "O Indra and Vāyu",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ya̭cchatam",
+      "words": [
+       {
+        "w": "yacchatam",
+        "gloss": "give",
+        "gram": "2 du. impv. √yam"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो तुम दोनों के बहुत चाहे जाने वाले जुते हुए दल हैं, हे वीरो, दाता के लिए, उन्हें हमें, हे यज्ञ को वहन करने वाले इन्द्र और वायु, दो।",
+  "english": "The much-desired yoked teams of you two that are for the giver, O men — those, to us, O bearers of the sacrifice, O Indra and Vāyu, give.",
+  "text_flags": [],
+  "notes": "ni yacchatam (ni-√yam) rendered 'give'; its ordinary sense 'restrain' is not suitable with asme. narā 'O men' (vocative dual).",
+  "confidence": "medium"
+ }
+]
