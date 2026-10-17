@@ -1,0 +1,233 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "and the triṣṭubh",
+"problem": "The word is traiṣṭubham (neuter, the sāman/chant of the triṣṭubh), not the metre name; the English changes the word and the notes call both 'metre names', an interpretation.",
+"fix": "and the traiṣṭubha",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "replace",
+"field": "english",
+"old": "and the triṣṭubh",
+"new": "and the traiṣṭubha"
+}
+},
+{
+"field": "gloss",
+"where": "traiṣṭubham",
+"problem": "Keep the gloss on the printed word, as for gāyatram.",
+"fix": "the traiṣṭubha",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "word",
+"match_w": "traiṣṭubham",
+"field": "gloss",
+"value": "the traiṣṭubha"
+}
+},
+{
+"field": "gram",
+"where": "śakuntayaḥ",
+"problem": "śakunti is feminine (unit 042.3 labels śakunte f.); 'm.' is inconsistent.",
+"fix": "f. nom. pl.",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "word",
+"match_w": "śakuntayaḥ",
+"field": "gram",
+"value": "f. nom. pl."
+}
+},
+{
+"field": "gram",
+"where": "vadanta",
+"problem": "vadanta is not a present middle (that would be vadante): it is the -anta (injunctive/imperfect-type) form; label accordingly.",
+"fix": "3 pl. mid. (-anta form) √vad",
+"severity": "minor"
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "यज्ञ के सवनों में",
+"problem": "'यज्ञ के' is added; English 'at the pressings' (savana = pressing).",
+"fix": "सवनों में",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "यज्ञ के सवनों में",
+"new": "सवनों में"
+}
+},
+{
+"field": "english",
+"where": "Like a vigorous bull,",
+"problem": "Glossary fixes vājin = prize-winner; 'vigorous' deviates.",
+"fix": "Like a bull, a prize-winner,",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "english",
+"old": "Like a vigorous bull,",
+"new": "Like a bull, a prize-winner,"
+}
+},
+{
+"field": "gloss",
+"where": "vājī",
+"problem": "Same as above.",
+"fix": "prize-winner",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "word",
+"match_w": "vājī",
+"field": "gloss",
+"value": "prize-winner"
+}
+},
+{
+"field": "hindi",
+"where": "बलवान बैल की तरह,",
+"problem": "Same as above (glossary vājin = prize-winner).",
+"fix": "बैल की तरह, पुरस्कार जीतने वाले,",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "बलवान बैल की तरह,",
+"new": "बैल की तरह, पुरस्कार जीतने वाले,"
+}
+},
+{
+"field": "hindi",
+"where": "बच्चों वाली मादाओं के पास",
+"problem": "'मादाओं' (females) is an addition; English has 'those with young'.",
+"fix": "बच्चों वालियों के पास",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "बच्चों वाली मादाओं के पास",
+"new": "बच्चों वालियों के पास"
+}
+},
+{
+"field": "hindi",
+"where": "पुण्यकारी",
+"problem": "puṇya = 'auspicious' (English); 'पुण्यकारी' means 'virtue-producing'.",
+"fix": "शुभ",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "पुण्यकारी",
+"new": "शुभ"
+}
+},
+{
+"field": "gram",
+"where": "śiśu-matīḥ",
+"problem": "'bahuvrīhi' is the wrong label: śiśumatī is a possessive derivative in -mant, not a compound.",
+"fix": "f. acc. pl. (śiśumatī, -mat suffix)",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "word",
+"match_w": "śiśu-matīḥ",
+"field": "gram",
+"value": "f. acc. pl. (śiśumatī, -mat suffix)"
+}
+},
+{
+"field": "hindi",
+"where": "ब्रह्मा के पुत्र के समान",
+"problem": "Hindi 'ब्रह्मा के पुत्र' reads as the son of the god Brahmā; English says 'a Brahman'. Glossary has Brahman priest = ब्रह्मा, but the notes call the sense uncertain. Align Hindi, English and notes on one reading.",
+"fix": "decide with glossary",
+"severity": "minor"
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "take notice of our good will",
+"problem": "Glossary: sumati = favour.",
+"fix": "take notice of our favour",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "english",
+"old": "take notice of our good will",
+"new": "take notice of our favour"
+}
+},
+{
+"field": "gloss",
+"where": "sumatim",
+"problem": "Same as above.",
+"fix": "favour",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "word",
+"match_w": "sumatim",
+"field": "gloss",
+"value": "favour"
+}
+},
+{
+"field": "hindi",
+"where": "कर्करि के समान, तब हम",
+"problem": "'तब' (then) is added; the last two pādas are loosely joined and the notes say so.",
+"fix": "कर्करि के समान, हम",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "कर्करि के समान, तब हम",
+"new": "कर्करि के समान, हम"
+}
+},
+{
+"field": "hindi",
+"where": "महान् वचन बोलें",
+"problem": "Hindi refrain adds the noun 'वचन' (words) that is not in bṛhad vadema; 'speak greatly' has no object.",
+"fix": "महान् रूप से बोलें",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "महान् वचन बोलें",
+"new": "महान् रूप से बोलें"
+}
+}
+]
+}
+],
+"summary": "Reviewed 3 units. Total issues: 0 error, 16 minor. No clear errors; all minor: glossary deviations (vājin = prize-winner, sumati = favour), traiṣṭubha rendered as 'triṣṭubh', śakunti gender, śiśumatī mislabelled bahuvrīhi, Hindi additions (यज्ञ के, मादाओं, तब, refrain 'वचन'), brahmaputra Hindi 'ब्रह्मा के पुत्र' unclear. Confidence 'low' on all three units is honest. Unit 2 has three printed lines; no regrouping suggested."
+}

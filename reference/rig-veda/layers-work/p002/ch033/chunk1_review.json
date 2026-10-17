@@ -1,0 +1,504 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हम संतान के साथ बढ़ें",
+     "problem": "pra jāyemahi is rendered 'may we be born forth' in English (and the notes say literally so); Hindi 'बढ़ें' (grow) is an interpretation and disagrees.",
+     "fix": "हम संतान के साथ आगे उत्पन्न हों",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हम संतान के साथ बढ़ें",
+      "new": "हम संतान के साथ आगे उत्पन्न हों"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "2",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अत्यंत सुखकर उपचारों",
+     "problem": "śaṃtama is 'most beneficial'; 'सुखकर' (pleasant) belongs to mayobhu 'comforting' (unit 13).",
+     "fix": "अत्यंत हितकर उपचारों",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अत्यंत सुखकर उपचारों",
+      "new": "अत्यंत हितकर उपचारों"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "vya1smaddveṣo",
+     "problem": "In the Devanagari the digit is '१', the standard independent-svarita sign written after a semivowel (here vy-a1); it is accent notation, not a typo, so the flag and its suggestion should not be raised.",
+     "fix": "[]",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "3",
+   "issues": [
+    {
+     "field": "english",
+     "where": "thunderbolt-armed one",
+     "problem": "Fixed rendering is vajra = vajra (वज्र); 'thunderbolt' deviates (Hindi already says वज्र).",
+     "fix": "O vajra-armed one",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "O thunderbolt-armed one",
+      "new": "O vajra-armed one"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vajra-bāho",
+     "problem": "Same deviation in the gloss.",
+     "fix": "O vajra-armed one",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "vajra-bāho",
+      "field": "gloss",
+      "value": "O vajra-armed one"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "इस द्वेष के हाथ न सौंपे",
+     "problem": "'के हाथ' (into the hands of) is added; asyai manāyai is a plain dative ('to this ill will').",
+     "fix": "इस द्वेष को न सौंपे",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इस द्वेष के हाथ न सौंपे",
+      "new": "इस द्वेष को न सौंपे"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "6",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "a̭śī̱yā''",
+     "problem": "The flag treats the marks as stray and suggests 'aśīya', but the Devanagari reads 'अशीयाऽऽ विवासेयं': the long ā and avagraha-type signs record the contraction aśīya + ā (the next word begins ā-vivāseyam or the ā is a separate particle). Deleting them would drop a printed vowel, and the split/translation do not account for any ā.",
+     "fix": "Keep the flag as 'unusual contraction aśīyā-ऽ, probably aśīya ā; sense of ā unclear', not a plain deletion; mention in notes that ā is untranslated.",
+     "severity": "minor"
+    },
+    {
+     "field": "english",
+     "where": "Like one in the heat reaching shade, free from fault may I attain it",
+     "problem": "The English (and Hindi) supply 'one in', 'reaching' and an object 'it'; the line has only ghṛṇiḥ iva chāyām (heat ... shade) arapāḥ aśīya. The notes claim 'only what the grammar needs' is supplied, which is not so.",
+     "fix": "Keep closer to the text, e.g. 'Like heat (seeking) shade' is still supplied; at least move the supplied words to the notes and render 'Like heat, shade; free from fault may I attain' with a note.",
+     "severity": "minor"
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "7",
+   "issues": [
+    {
+     "field": "text_flags",
+     "where": "kva1",
+     "problem": "In the Devanagari the digit is '१', the standard independent-svarita sign written after a semivowel (here kva); it is accent notation, not a typo, so the flag and its suggestion should not be raised.",
+     "fix": "[]",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    },
+    {
+     "field": "english",
+     "where": "Remover of the harm of the gods",
+     "problem": "daivya is 'divine'; 'harm of the gods' reads it as a genitive noun. 'Divine harm' is literal (the notes can mention harm sent by the gods).",
+     "fix": "Remover of divine harm",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "Remover of the harm of the gods",
+      "new": "Remover of divine harm"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तुम देवों की हानि को दूर करने वाले हो",
+     "problem": "Same, and 'तुम ... हो' adds a copula.",
+     "fix": "तुम दिव्य हानि को दूर करने वाले हो",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तुम देवों की हानि को दूर करने वाले हो",
+      "new": "तुम दिव्य हानि को दूर करने वाले हो"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "daivyasya",
+     "problem": "Same.",
+     "fix": "divine",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "daivyasya",
+      "field": "gloss",
+      "value": "divine"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "8",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "महान् भूरे वृषभ, उज्ज्वल रूप वाले के लिए",
+     "problem": "Hindi and English disagree: Hindi has two 'महान्' (one attached to the bull), English one 'great' (praise only), so maho is rendered twice or not at all; 'रूप वाले' is an addition to śvitīce; and the case string is ungrammatical. The gram 'dat. sg.' for mahaḥ is also wrong (see next).",
+     "fix": "भूरे वृषभ के लिए, उज्ज्वल के लिए, मैं महान् उत्तम स्तुति भेजता हूँ।",
+     "severity": "error",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "महान् भूरे वृषभ, उज्ज्वल रूप वाले के लिए मैं महान् उत्तम स्तुति भेजता हूँ।",
+      "new": "भूरे वृषभ के लिए, उज्ज्वल के लिए, मैं महान् उत्तम स्तुति भेजता हूँ।"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "mahaḥ",
+     "problem": "-aḥ is not a dative ending (dative would be mahe); mahaḥ is gen./abl. sg. or acc. pl. (or nom./acc. of mahas). The English also leaves mahaḥ untranslated.",
+     "fix": "form uncertain; -aḥ is not dative (gen./abl. sg. or acc. pl.)",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "mahaḥ",
+      "field": "gram",
+      "value": "form uncertain; -aḥ is not dative (gen./abl. sg. or acc. pl.)"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "9",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "sthirebhiḥ",
+     "problem": "aṅga is neuter, so the agreeing adjective is n.; 'm.' is wrong.",
+     "fix": "n. inst. pl. (with aṅgaiḥ)",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "sthirebhiḥ",
+      "field": "gram",
+      "value": "n. inst. pl. (with aṅgaiḥ)"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "śukrebhiḥ",
+     "problem": "agrees with hiraṇyaiḥ (n.), not m.",
+     "fix": "n. inst. pl. (with hiraṇyaiḥ)",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "śukrebhiḥ",
+      "field": "gram",
+      "value": "n. inst. pl. (with hiraṇyaiḥ)"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "चमकते सोने के आभूषणों से",
+     "problem": "'आभूषणों' (ornaments) is added; English has 'bright gold'.",
+     "fix": "चमकते सोने से",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "चमकते सोने के आभूषणों से",
+      "new": "चमकते सोने से"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इस विशाल जगत्",
+     "problem": "bhūri is 'abundant' (English); 'विशाल' (vast) disagrees.",
+     "fix": "इस प्रचुर जगत्",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इस विशाल जगत्",
+      "new": "इस प्रचुर जगत्"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रभुत्व कभी अलग नहीं होगा",
+     "problem": "'कभी' (ever) is added; the line has na vā u (surely not).",
+     "fix": "प्रभुत्व निश्चय ही अलग नहीं होगा",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रभुत्व कभी अलग नहीं होगा",
+      "new": "प्रभुत्व निश्चय ही अलग नहीं होगा"
+     }
+    },
+    {
+     "field": "english",
+     "where": "Lordship, asurya, will not",
+     "problem": "Untranslated Sanskrit inside the translation; the fixed rendering is plain 'lordship' (gloss may carry the Sanskrit).",
+     "fix": "Lordship will not indeed separate",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "Lordship, asurya, will not",
+      "new": "Lordship will not"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "10",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "11",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "प्रचंड रुद्र की स्तुति करो",
+     "problem": "'रुद्र' is added: the first line does not name Rudra (the notes say so), and the English correctly has 'the mighty'.",
+     "fix": "प्रचंड की स्तुति करो",
+     "severity": "error",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रचंड रुद्र की स्तुति करो",
+      "new": "प्रचंड की स्तुति करो"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "12",
+   "issues": [
+    {
+     "field": "english",
+     "where": "as even a boy bows towards his father",
+     "problem": "kumāraḥ cit is third person and cannot be subject of the 1 sg. nānāma; the draft uses nānāma twice ('I have bowed' and 'a boy bows'), and 'as' (जैसे) is admittedly not in the text. The comparison is invented.",
+     "fix": "Do not split the verb: render e.g. 'I, even a boy, have bowed towards the father who is greeted / as he approaches, O Rudra' or mark the line as unresolved; remove the supplied 'as ... as'. Hindi 'जैसे बालक भी ... झुकता है' needs the same repair.",
+     "severity": "error"
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "13",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "जो अत्यंत सुखकर हैं",
+     "problem": "śaṃtama is 'most beneficial'; 'सुखकर' duplicates mayobhu 'comforting' (आरामदायक).",
+     "fix": "जो अत्यंत हितकर हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जो अत्यंत सुखकर हैं",
+      "new": "जो अत्यंत हितकर हैं"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "14",
+   "issues": [
+    {
+     "field": "english",
+     "where": "for the generous patrons",
+     "problem": "maghavan = bountiful in the fixed renderings, and 'patron' is reserved for sūri.",
+     "fix": "for the bountiful",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "for the generous patrons",
+      "new": "for the bountiful"
+     }
+    },
+    {
+     "field": "english",
+     "where": "O bountiful one",
+     "problem": "mīḍhvas is not maghavan; 'bountiful' now collides with maghavadbhyaḥ.",
+     "fix": "O liberal one",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "O bountiful one",
+      "new": "O liberal one"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "maghavadbhyaḥ",
+     "problem": "Same.",
+     "fix": "for the bountiful",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "maghavadbhyaḥ",
+      "field": "gloss",
+      "value": "for the bountiful"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "mīḍhvaḥ",
+     "problem": "Same.",
+     "fix": "O liberal one",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "mīḍhvaḥ",
+      "field": "gloss",
+      "value": "O liberal one"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हे उदार, उदार दाताओं के लिए",
+     "problem": "The same Hindi word renders two different Sanskrit words.",
+     "fix": "हे दानशील, उदार जनों के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे उदार, उदार दाताओं के लिए",
+      "new": "हे दानशील, उदार जनों के लिए"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "15",
+   "issues": [
+    {
+     "field": "english",
+     "where": "may we speak greatly at the rite, rich in heroes",
+     "problem": "Refrain must have one wording in every hymn: 'may we, rich in heroes, speak greatly in the rite'.",
+     "fix": "may we, rich in heroes, speak greatly in the rite",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "english",
+      "old": "may we speak greatly at the rite, rich in heroes",
+      "new": "may we, rich in heroes, speak greatly in the rite"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vidathe",
+     "problem": "Fixed rendering 'in the rite'.",
+     "fix": "in the rite",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "word",
+      "match_w": "vidathe",
+      "field": "gloss",
+      "value": "in the rite"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ऊँचे स्वर से",
+     "problem": "The English says 'greatly'; 'ऊँचे स्वर से' (loudly) is an interpretation the notes themselves call a side option.",
+     "fix": "यज्ञ में महान् रूप से बोलें",
+     "severity": "minor",
+     "patch": {
+      "n": "15",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यज्ञ में ऊँचे स्वर से बोलें",
+      "new": "यज्ञ में महान् रूप से बोलें"
+     }
+    }
+   ],
+   "verdict": "fix"
+  }
+ ],
+ "summary": "Reviewed 15 units of RV 2.33. Total issues: 3 error, 28 minor. Errors: unit 8 Hindi doubles/mismatches maho and adds 'रूप वाले' (and gram 'dat.' for mahaḥ is impossible); unit 11 Hindi inserts the name 'रुद्र' into a line that does not name him; unit 12 uses 1 sg. nānāma for both 'I' and the boy and invents 'as ... as'. Minor: footnote-like flags on '१' in units 2 and 7 are wrong (it is the svarita sign); unit 6 flag on aśīyā'' wrongly suggests deleting a printed ā, and the English adds 'one in', 'reaching', 'it'; vajra and maghavan and the refrain deviate from the glossary (units 3, 14, 15); śaṃtama 'सुखकर' (units 2, 13); additions in Hindi ('के हाथ', 'आभूषणों', 'कभी'); daivya 'divine' (unit 7); neuter gram of sthirebhiḥ/śukrebhiḥ (unit 9). Units 4 and 10 are ok. Confidences honest. No regrouping suggested."
+}

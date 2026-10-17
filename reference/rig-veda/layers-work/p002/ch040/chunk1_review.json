@@ -1,0 +1,123 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "gram",
+"where": "jātau",
+"problem": "gram says nom. du. but the notes (and the translation 'the gods made you ...') take jātau as accusative in apposition with gopau; -au is nom./acc. alike, so the label contradicts the draft's own analysis.",
+"fix": "m. acc. du. ppp. √jan",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "word",
+"match_w": "jātau",
+"field": "gram",
+"value": "m. acc. du. ppp. √jan"
+}
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "gram",
+"where": "juṣante",
+"problem": "After the split is corrected to juṣanta the tense label 'pres.' is wrong (juṣanta is the -anta injunctive/imperfect form). Apply this patch before the w patch below.",
+"fix": "3 pl. mid. (impf./inj.) √juṣ",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "word",
+"match_w": "juṣante",
+"field": "gram",
+"value": "3 pl. mid. (impf./inj.) √juṣ"
+}
+},
+{
+"field": "w",
+"where": "juṣante",
+"problem": "Printed 'juṣante̱mau' (no hiatus) is juṣanta + imau (a+i = e); compare the hiatus form 'ma̭ i̱maṃ' (me imam) in 2.41.13. The split 'juṣante' + 'imau' does not reproduce the sandhi.",
+"fix": "juṣanta",
+"severity": "error",
+"patch": {
+"n": "2",
+"op": "word",
+"match_w": "juṣante",
+"field": "w",
+"value": "juṣanta"
+}
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "हे बैलो",
+"problem": "vṛṣaṇā is dual (English 'you two bulls'); Hindi 'हे बैलो' is plural.",
+"fix": "हे दोनों बैलो",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "हे बैलो",
+"new": "हे दोनों बैलो"
+}
+}
+]
+},
+{
+"n": "4",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "5",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "6",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "अनिन्दित",
+"problem": "anarvā glossed and translated 'unassailed' in English; Hindi 'अनिन्दित' means 'unblamed', a different sense.",
+"fix": "अबाधित",
+"severity": "error",
+"patch": {
+"n": "6",
+"op": "replace",
+"field": "hindi",
+"old": "अनिन्दित",
+"new": "अबाधित"
+}
+},
+{
+"field": "hindi",
+"where": "महान् वचन बोलें",
+"problem": "Hindi refrain adds the noun 'वचन' (words) that is not in bṛhad vadema; 'speak greatly' has no object.",
+"fix": "महान् रूप से बोलें",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "replace",
+"field": "hindi",
+"old": "महान् वचन बोलें",
+"new": "महान् रूप से बोलें"
+}
+}
+]
+}
+],
+"summary": "Reviewed 6 units. Total issues: 2 error, 4 minor. Key errors: unit 2 split juṣante should be juṣanta + imau (sandhi a+i=e; tense label then adjusted); unit 6 Hindi 'अनिन्दित' (unblamed) for anarvā 'unassailed'. Minor: jātau case label contradicts notes, dual 'हे बैलो', refrain Hindi adds 'वचन'. No text_flags needed. Confidence levels honest. No regrouping."
+}

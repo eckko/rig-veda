@@ -1,0 +1,112 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "सर्वव्यापी शक्ति तुम्हें",
+"problem": "Hindi adds the noun 'शक्ति' (power); the text has only the feminine pronoun kā with two adjectives and the notes say the noun is unknown.",
+"fix": "सर्वव्यापिनी तुम्हें",
+"severity": "error",
+"patch": {
+"n": "1",
+"op": "replace",
+"field": "hindi",
+"old": "सर्वव्यापी शक्ति तुम्हें",
+"new": "सर्वव्यापिनी तुम्हें"
+}
+},
+{
+"field": "gram",
+"where": "bhavāsi",
+"problem": "bhavāsi is the subjunctive (bhavā-si), not an optative; the draft itself labels bhavāti as subj. in 2.41.11.",
+"fix": "2 sg. subj. √bhū",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "word",
+"match_w": "bhavāsi",
+"field": "gram",
+"value": "2 sg. subj. √bhū"
+}
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "न सुपर्ण,",
+"problem": "Hindi leaves suparṇa untranslated while English says 'fair-winged bird'.",
+"fix": "न सुन्दर पंखों वाला पक्षी,",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "न सुपर्ण,",
+"new": "न सुन्दर पंखों वाला पक्षी,"
+}
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "घरों के दक्षिण की ओर से",
+"problem": "Notes say the literal 'right side' is used; Hindi 'दक्षिण' reads as 'south'.",
+"fix": "घरों की दाहिनी ओर से",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "घरों के दक्षिण की ओर से",
+"new": "घरों की दाहिनी ओर से"
+}
+},
+{
+"field": "gram",
+"where": "naḥ (mā naḥ stena īśata)",
+"problem": "īś takes the genitive, so naḥ is gen. pl., not acc. pl.; the label occurs on the word 'naḥ' whose w is also used by other tokens in the unit, so no machine patch (match_w not unique).",
+"fix": "gen. pl.",
+"severity": "minor"
+},
+{
+"field": "notes",
+"where": "ava kranda",
+"problem": "ava is not rendered in either translation (nothing dropped): note that 'ava kranda' is rendered simply 'cry out' and ava is left unrendered.",
+"fix": "append note",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "append_note",
+"text": "ava kranda: the preverb ava ('down') is not rendered separately in the translation."
+}
+},
+{
+"field": "hindi",
+"where": "महान् वचन बोलें",
+"problem": "Hindi refrain adds the noun 'वचन' (words) that is not in bṛhad vadema; 'speak greatly' has no object.",
+"fix": "महान् रूप से बोलें",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "महान् वचन बोलें",
+"new": "महान् रूप से बोलें"
+}
+}
+]
+}
+],
+"summary": "Reviewed 3 units. Total issues: 1 error, 6 minor. Key error: unit 1 Hindi adds 'शक्ति' for the unnamed feminine kā. Minor: bhavāsi is subjunctive; suparṇa untranslated in Hindi; दक्षिण vs 'right side'; naḥ is genitive with īś; ava unrendered; refrain Hindi adds 'वचन'. No regrouping."
+}

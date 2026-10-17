@@ -1,0 +1,535 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "O lord of teams",
+"problem": "'lord' is not in niyut-vān (gloss: possessing teams); keep literal.",
+"fix": "O possessor of teams",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "replace",
+"field": "english",
+"old": "O lord of teams",
+"new": "O possessor of teams"
+}
+},
+{
+"field": "gram",
+"where": "niyutvān",
+"problem": "The vocative of -vant stems ends in -van; niyutvān is the nominative form used in address.",
+"fix": "m. nom. sg. (used as vocative)",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "word",
+"match_w": "niyutvān",
+"field": "gram",
+"value": "m. nom. sg. (used as vocative)"
+}
+},
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "lord of teams",
+"problem": "Same as unit 1: 'lord' is added.",
+"fix": "possessor of teams",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "english",
+"old": "lord of teams",
+"new": "possessor of teams"
+}
+},
+{
+"field": "gram",
+"where": "niyutvān",
+"problem": "Same as unit 1.",
+"fix": "m. nom. sg. (used as vocative)",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "word",
+"match_w": "niyutvān",
+"field": "gram",
+"value": "m. nom. sg. (used as vocative)"
+}
+},
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "आज उस चमकीले",
+"problem": "'उस' (that) is not in śukrasya; English has 'the bright one'.",
+"fix": "आज चमकीले",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "आज उस चमकीले",
+"new": "आज चमकीले"
+}
+},
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "4",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "gram",
+"where": "rājānau",
+"problem": "gram says voc. du. but the translation and notes take the word as nominative (with āsāte); the form serves for both.",
+"fix": "m. nom./voc. du.",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "rājānau",
+"field": "gram",
+"value": "m. nom./voc. du."
+}
+},
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "6",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "सीधे मार्ग वाले का अनुसरण करते हैं",
+"problem": "Hindi adds 'मार्ग' (path); anavahvaram is 'unswerving' (English has no noun).",
+"fix": "अकुटिल का अनुसरण करते हैं",
+"severity": "error",
+"patch": {
+"n": "6",
+"op": "replace",
+"field": "hindi",
+"old": "सीधे मार्ग वाले का अनुसरण करते हैं",
+"new": "अकुटिल का अनुसरण करते हैं"
+}
+},
+{
+"field": "english",
+"where": "lords of the dānu",
+"problem": "'dānu' is left as an untranslated Sanskrit word in both translations; render with a plain word (the notes already say 'a fluid or gift') or accept as a flagged leave. Needs a human decision.",
+"fix": "decide: e.g. 'lords of the fluid' (Hindi 'द्रव') or keep dānu",
+"severity": "minor"
+}
+]
+},
+{
+"n": "7",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "पुरुषों के पीने योग्य के पास",
+"problem": "Hindi 'what men may drink' (passive potential) differs from English 'the drink of men' and from the gloss; align one reading (the notes mention both 'to be drunk by men' and 'protecting men').",
+"fix": "align Hindi with the English or the notes",
+"severity": "minor"
+},
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "7",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "8",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "9",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "Bring to us, O Aśvins, that wealth tawny",
+"problem": "tā (those two = you two) is dropped from English and 'that' is added; Hindi has 'वे तुम दोनों'.",
+"fix": "You two, O Aśvins, bring to us wealth tawny",
+"severity": "minor",
+"patch": {
+"n": "9",
+"op": "replace",
+"field": "english",
+"old": "Bring to us, O Aśvins, that wealth tawny",
+"new": "You two, O Aśvins, bring to us wealth tawny"
+}
+},
+{
+"field": "gloss",
+"where": "dhiṣṇyā / O you two Dhiṣṇyas",
+"problem": "dhiṣṇyā is treated as a name ('Dhiṣṇyas') while the notes call it an uncertain epithet ('attentive, bountiful'); a name in the translation is a firmer reading than the notes support. Hindi 'हे धिष्ण्यो' is plural for a dual.",
+"fix": "keep as epithet or mark clearly as uncertain; no change made",
+"severity": "minor"
+},
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "9",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "10",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "10",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "11",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "11",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "12",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "12",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "13",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "13",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "14",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "14",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "15",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "15",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "16",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "17",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "उस देवी में",
+"problem": "'उस' (that) is not in devyām; English has 'in the goddess'.",
+"fix": "देवी में",
+"severity": "minor",
+"patch": {
+"n": "17",
+"op": "replace",
+"field": "hindi",
+"old": "उस देवी में",
+"new": "देवी में"
+}
+}
+]
+},
+{
+"n": "18",
+"verdict": "fix",
+"issues": [
+{
+"field": "w",
+"where": "ṛtā-vari",
+"problem": "The hyphenated split 'ṛtā-vari' is not a real division (voc. of ṛtāvarī); w should be the inflected word.",
+"fix": "ṛtāvari",
+"severity": "minor",
+"patch": {
+"n": "18",
+"op": "word",
+"match_w": "ṛtā-vari",
+"field": "w",
+"value": "ṛtāvari"
+}
+}
+]
+},
+{
+"n": "19",
+"verdict": "fix",
+"issues": [
+{
+"field": "split",
+"where": "yuvāmidā",
+"problem": "'idā' is a Vedic adverb ('now, here') and may be the intended word (yuvām + idā) rather than id + ā; the English renders 'indeed' and 'here' for the two particles. Please check; no patch.",
+"fix": "yuvām + idā 'now'? (verify)",
+"severity": "minor"
+},
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "19",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "20",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "आकाश को छूने वाले",
+"problem": "divi-spṛś is 'touching heaven' (English); 'आकाश' is not the fixed Hindi for heaven (द्युलोक).",
+"fix": "द्युलोक को छूने वाले",
+"severity": "minor",
+"patch": {
+"n": "20",
+"op": "replace",
+"field": "hindi",
+"old": "आकाश को छूने वाले",
+"new": "द्युलोक को छूने वाले"
+}
+},
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "20",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+},
+{
+"n": "21",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "|",
+"problem": "Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark').",
+"fix": "half-verse divider",
+"severity": "minor",
+"patch": {
+"n": "21",
+"op": "word",
+"match_w": "|",
+"field": "gloss",
+"value": "half-verse divider"
+}
+}
+]
+}
+],
+"summary": "Reviewed 21 units. Total issues: 1 error, 30 minor. Key errors: unit 6 Hindi adds 'मार्ग' for anavahvaram. Minor: niyutvān is nominative in address (not voc.) and 'lord of teams' adds 'lord'; rājānau label vs translation; 'pause mark' gloss deviates from glossary 'half-verse divider' (patched in every unit with the token); Hindi additions (उस, तुम); dānu untranslated; unit 9 tā dropped and dhiṣṇyā treated as name; unit 19 possible idā (check, no patch); ṛtāvari split. Units 4, 8, 10-16, 21 otherwise ok. No regrouping."
+}

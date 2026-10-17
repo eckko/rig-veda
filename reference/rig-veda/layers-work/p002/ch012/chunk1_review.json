@@ -1,0 +1,257 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "प्रथम बुद्धिमान् देव होकर",
+"problem": "'होकर' (becoming) is not in the Sanskrit; prathamo manasvān devo are three nominatives in apposition, as the English has them.",
+"fix": "प्रथम, बुद्धिमान् देव, अपने",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "replace",
+"field": "hindi",
+"old": "प्रथम बुद्धिमान् देव होकर अपने",
+"new": "प्रथम, बुद्धिमान् देव, अपने"
+}
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "gram",
+"where": "vyathamānām",
+"problem": "The word is √vyath + -māna; there is no vi- preverb to count separately, and 'vi-√vyath' mislabels the root.",
+"fix": "f. acc. sg. pres. part. mid. √vyath",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "word",
+"match_w": "vyathamānām",
+"field": "gram",
+"value": "f. acc. sg. pres. part. mid. √vyath"
+}
+},
+{
+"field": "hindi",
+"where": "अत्यन्त विस्तृत",
+"problem": "varīyaḥ is a comparative (English 'wider'); 'अत्यन्त' (very) is a different degree and disagrees with the English and the gloss.",
+"fix": "अधिक विस्तृत अन्तरिक्ष",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "अत्यन्त विस्तृत अन्तरिक्ष",
+"new": "अधिक विस्तृत अन्तरिक्ष"
+}
+}
+]
+},
+{
+"n": "3",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "4",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "īm",
+"problem": "Gloss 'him' contradicts its own gram '(part.)' and the note ('īm taken as an emphatic particle'); gloss should say what the note says.",
+"fix": "emphatic particle",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "īm",
+"field": "gloss",
+"value": "emphatic particle"
+}
+}
+]
+},
+{
+"n": "6",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "जुते हुए पाषाणों",
+"problem": "The English and gloss have 'pressing stones yoked' (grāvan); the Hindi drops 'pressing'.",
+"fix": "जुते हुए निचोड़ने के पाषाणों वाले का",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "replace",
+"field": "hindi",
+"old": "जुते हुए पाषाणों वाले का",
+"new": "जुते हुए निचोड़ने के पाषाणों वाले का"
+}
+}
+]
+},
+{
+"n": "7",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "8",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "9",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "yasmāt (gloss 'than whom')",
+"problem": "'than whom' is a comparative sense; the ablative here depends on ṛte ('without whom'), as the note says. Gloss should be the plain ablative.",
+"fix": "from whom",
+"severity": "minor",
+"patch": {
+"n": "9",
+"op": "word",
+"match_w": "yasmāt",
+"field": "gloss",
+"value": "from whom"
+}
+},
+{
+"field": "hindi",
+"where": "अचल को भी",
+"problem": "'भी' (even) is not in acyuta-cyut and not in the English.",
+"fix": "अचल को हिला देता है",
+"severity": "minor",
+"patch": {
+"n": "9",
+"op": "replace",
+"field": "hindi",
+"old": "अचल को भी हिला देता है",
+"new": "अचल को हिला देता है"
+}
+}
+]
+},
+{
+"n": "10",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "11",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "12",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "बैल जैसे",
+"problem": "'जैसे' (like) turns the apposition vṛṣabhaḥ 'bull' into a simile; the English has 'a bull'.",
+"fix": "बैल, बलवान् होकर",
+"severity": "minor",
+"patch": {
+"n": "12",
+"op": "replace",
+"field": "hindi",
+"old": "बैल जैसे बलवान् होकर",
+"new": "बैल, बलवान् होकर"
+}
+}
+]
+},
+{
+"n": "13",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "fear his fury",
+"problem": "śuṣma is 'vigour' in unit 1 (and Hindi बल here); 'fury' is inconsistent and unsupported.",
+"fix": "fear his vigour",
+"severity": "minor",
+"patch": {
+"n": "13",
+"op": "replace",
+"field": "english",
+"old": "fear his fury",
+"new": "fear his vigour"
+}
+},
+{
+"field": "gloss",
+"where": "śuṣmāt",
+"problem": "Same: keep 'vigour' as in unit 1.",
+"fix": "from the vigour",
+"severity": "minor",
+"patch": {
+"n": "13",
+"op": "word",
+"match_w": "śuṣmāt",
+"field": "gloss",
+"value": "from the vigour"
+}
+}
+]
+},
+{
+"n": "14",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "जिसकी स्तुति बढ़ाने वाली",
+"problem": "brahma (n.) is 'prayer', Hindi ब्रह्म per the fixed renderings; स्तुति is stoma/praise. vardhana is neuter, so 'बढ़ाने वाला'.",
+"fix": "जिसका ब्रह्म बढ़ाने वाला है",
+"severity": "minor",
+"patch": {
+"n": "14",
+"op": "replace",
+"field": "hindi",
+"old": "जिसकी स्तुति बढ़ाने वाली है",
+"new": "जिसका ब्रह्म बढ़ाने वाला है"
+}
+}
+]
+},
+{
+"n": "15",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "always dear to you",
+"problem": "viśvahā is 'every day' (the gloss and the Hindi 'प्रतिदिन' say so); 'always dear' attaches it to priyāsaḥ and changes the sense. Align English with Hindi and gloss.",
+"fix": "dear to you, rich in heroes, speak every day at the rite",
+"severity": "minor",
+"patch": {
+"n": "15",
+"op": "replace",
+"field": "english",
+"old": "always dear to you, rich in heroes, speak at the rite",
+"new": "dear to you, rich in heroes, speak every day at the rite"
+}
+}
+]
+}
+],
+"summary": "Reviewed 15 units. 0 errors, 11 minor (all with machine patches). Draft is careful: tokens, splits and case labels are sound; uncertain words (abhyasetām, apadhā, radhra, vija, krandasī) are flagged in notes with medium confidence. Fixes: Hindi additions (होकर, भी, जैसे, अत्यन्त), Hindi omission (pressing stones), Hindi brahma as स्तुति, śuṣma 'fury' vs 'vigour', viśvahā attachment, gloss 'than whom' for yasmāt with ṛte, root label vi-√vyath, īm gloss. No regrouping suggested. Proposal: śuṣma = vigour (बल); viśvahā = every day (प्रतिदिन); krandasī = the two armies (sense uncertain, note)."
+}
