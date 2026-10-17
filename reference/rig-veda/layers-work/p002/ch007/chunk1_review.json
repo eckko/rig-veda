@@ -1,0 +1,77 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "Bring hither, O youngest ... the best brilliant wealth, O good one, much desired.",
+"problem": "'much desired' hangs after the vocative 'O good one' although puruspṛham agrees with rayim (the draft's own note); readers will take it as describing the vocative.",
+"fix": "Bring hither the best, brilliant, much desired wealth, O youngest, O Bhārata, O Agni, O good one.",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "set",
+"field": "english",
+"value": "Bring hither the best, brilliant, much desired wealth, O youngest, O Bhārata, O Agni, O good one."
+}
+},
+{
+"field": "hindi",
+"where": "हे वसु, जो बहुतों का चाहा हुआ है",
+"problem": "Same misplacement, plus 'जो ... है' adds a relative clause and 'हे वसु' clashes with English 'good one' (and with the glossary's Vasus).",
+"fix": "हे सबसे युवा, हे भारत, हे अग्नि, श्रेष्ठ, तेजस्वी, बहुतों के चाहे हुए धन को यहाँ लाओ, हे उत्तम।",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "set",
+"field": "hindi",
+"value": "हे सबसे युवा, हे भारत, हे अग्नि, श्रेष्ठ, तेजस्वी, बहुतों के चाहे हुए धन को यहाँ लाओ, हे उत्तम।"
+}
+}
+]
+},
+{
+"n": "2",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "3",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "4",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "अष्टपदियों",
+"problem": "Left as an untranslated Sanskrit word while English says 'eight-footed ones'.",
+"fix": "आठ पैरों वालियों",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "replace",
+"field": "hindi",
+"old": "अष्टपदियों से",
+"new": "आठ पैरों वालियों से"
+}
+}
+]
+},
+{
+"n": "6",
+"verdict": "ok",
+"issues": []
+}
+],
+"summary": "RV 2.7. Draft is sound; only two minor wording points (word order of 'much desired', untranslated aṣṭāpadī). No regrouping."
+}

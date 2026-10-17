@@ -1,0 +1,175 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "इस स्तुति से हम तुम्हारी सेवा करें",
+"problem": "'स्तुति' is supplied (notes: the noun is not stated; English says only 'With this'); also vidhema is 'worship' in English but 'सेवा' here, while saparyema 'serve' becomes 'पूजें' in unit 3: the two verbs are swapped.",
+"fix": "इससे हम तुम्हारी पूजा करें",
+"severity": "error",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "इस स्तुति से हम तुम्हारी सेवा करें",
+"new": "इससे हम तुम्हारी पूजा करें"
+}
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "हम सेवा करते हुए स्तुतियों से पूजें",
+"problem": "saparyema/saparyavaḥ are 'serve', 'we who serve' in English; Hindi uses 'पूजें' for the finite verb, swapping with unit 2.",
+"fix": "हम स्तुतियों से सेवा करें, सेवा करने वाले होकर",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "हम सेवा करते हुए स्तुतियों से पूजें",
+"new": "हम स्तुतियों से सेवा करें, सेवा करने वाले होकर"
+}
+}
+]
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "text_flags",
+"where": "yuyodhya1smad",
+"problem": "Not a real typo and the explanation is wrong: the digit 1 is a printed Vedic svara/sandhi mark (y standing for i), not a footnote marker. The reading yuyodhi asmat is right, but this is not a text flag.",
+"fix": "remove the flag and correct the note",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "set",
+"field": "text_flags",
+"value": []
+}
+},
+{
+"field": "notes",
+"where": "footnote marker",
+"problem": "Note calls the digit a footnote marker.",
+"fix": "append correction",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "append_note",
+"text": "Correction: the digit 1 is the printed Vedic svara/sandhi mark for y replacing i, not a footnote marker; the text is yuyodhy asmat (= yuyodhi asmat)."
+}
+}
+]
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "सहस्रगुणा अन्न",
+"problem": "iṣ is rendered 'refreshments' in English; 'अन्न' (food) is a different, narrower sense.",
+"fix": "a Hindi word matching 'refreshments' (e.g. सहस्रगुणी स्फूर्ति)",
+"severity": "minor"
+}
+]
+},
+{
+"n": "6",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "सहायता चाहने वाले के पास",
+"problem": "'के पास' (near/to) is an addition; īḻānāya avasyave are datives.",
+"fix": "सहायता चाहने वाले के लिए",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "replace",
+"field": "hindi",
+"old": "सहायता चाहने वाले के पास",
+"new": "सहायता चाहने वाले के लिए"
+}
+}
+]
+},
+{
+"n": "7",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "दूत की भाँति",
+"problem": "'भाँति' (like) is not in the text: dūtaḥ is nominative 'as a messenger' (English); iva belongs only to janyā iva.",
+"fix": "दूत के रूप में",
+"severity": "error",
+"patch": {
+"n": "7",
+"op": "replace",
+"field": "hindi",
+"old": "दूत की भाँति",
+"new": "दूत के रूप में"
+}
+},
+{
+"field": "gram",
+"where": "janyā",
+"problem": "'m. nom. sg.' cannot be right for -ā, and the gloss 'kinsfolk' is plural; label, gloss and rendering disagree.",
+"fix": "e.g. 'n. nom./acc. pl. or f. nom. sg.; unclear'",
+"severity": "minor"
+}
+]
+},
+{
+"n": "8",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "sit on this sacred grass",
+"problem": "Mandala 2 decisions in the glossary: barhis = barhis.",
+"fix": "sit on this barhis",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "english",
+"old": "on this sacred grass",
+"new": "on this barhis"
+}
+},
+{
+"field": "gloss",
+"where": "barhiṣi",
+"problem": "Same.",
+"fix": "on the barhis",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "word",
+"match_w": "barhiṣi",
+"field": "gloss",
+"value": "on the barhis"
+}
+}
+]
+}
+],
+"summary": "RV 2.6. Mostly sound. Errors: Hindi added 'स्तुति' (2) and 'like' (7); swapped worship/serve verbs (2/3); wrong explanation of the digit 1 mark in unit 4. Minor glossary items (barhis, iṣ). No regrouping."
+}

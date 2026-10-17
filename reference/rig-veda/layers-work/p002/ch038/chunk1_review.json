@@ -1,0 +1,222 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "in its circuit",
+     "problem": "'its' is not in the text (parijman only).",
+     "fix": "in the circuit",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "in its circuit",
+      "new": "in the circuit"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अपने परिभ्रमण में विश्राम करती है",
+     "problem": "Same added 'अपने'; also वायु is masculine in Hindi, so 'करती' is wrong.",
+     "fix": "परिभ्रमण में विश्राम करता है",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपने परिभ्रमण में विश्राम करती है",
+      "new": "परिभ्रमण में विश्राम करता है"
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "adardhaḥ",
+     "problem": "The printed token ends ...dhararamatiḥ, i.e. adardhar + aramatiḥ. A visarga form adardhaḥ before a- would be adardho 'ramatiḥ, so the verb must end in r: adardhar, 3 sg. imperfect of the intensive of √dhṛ (dardharti). The split word does not match the printed text.",
+     "fix": "adardhar",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "adardhaḥ",
+      "field": "w",
+      "value": "adardhar"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "adardhar",
+     "problem": "Label 'redup.' is vague; intensive imperfect.",
+     "fix": "3 sg. impf. intens. √dhṛ",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "vyṛ1tū~radardhararamatiḥ",
+     "problem": "The digit 1 is indeed the svarita mark, but the suggestion 'vyṛtūnadardhararamatiḥ' silently undoes the sandhi (ṛtūm̐r + adardhar is the printed form). Suggest 'vyṛtū~radardhararamatiḥ' (digit removed only).",
+     "fix": "vyṛtū~radardhararamatiḥ",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "श्रेष्ठ भाग",
+     "problem": "jyeṣṭha is 'foremost/eldest' (English 'foremost'); 'श्रेष्ठ' means best, a different sense.",
+     "fix": "ज्येष्ठ भाग",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "श्रेष्ठ भाग",
+      "new": "ज्येष्ठ भाग"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "apaḥ",
+     "problem": "'n. acc. pl.' is not a possible form of apas (n.) 'work' (acc. pl. apāṃsi; apaḥ is acc. sg.), and the translation 'all altered works' pairs it with vikṛtam (sg.) and śaśvān (m. pl.). Alternatively apaḥ is f. acc. pl. 'waters', which the notes mention. The agreement is unresolved; label 'acc. (n. sg. 'work' or f. pl. 'waters')' and lower confidence in the 'works' reading. No patch.",
+     "fix": "gram: acc. sg. n. (apas 'work') or f. acc. pl. (ap 'waters')",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "dhanvānvā",
+     "problem": "The simpler reading dhanvān + vā ('or') is possible and the Devanagari is unaccented (a dhanvā anu ā reading would normally show accents). The unit's own note admits the construction is unclear; mention dhanvān vā as the alternative. No patch.",
+     "fix": "append alternative",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Yādrādhya, a form not understood;",
+     "problem": "Editorial comment inside the translation; interpretations belong in notes (the notes already say it).",
+     "fix": "Yādrādhya; Varuṇa",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "Yādrādhya, a form not understood; Varuṇa",
+      "new": "Yādrādhya; Varuṇa"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "याद्राध्य, जिसका रूप अस्पष्ट है;",
+     "problem": "Same: comment inside the Hindi.",
+     "fix": "याद्राध्य; वरुण",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "याद्राध्य, जिसका रूप अस्पष्ट है; वरुण",
+      "new": "याद्राध्य; वरुण"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "apyam",
+     "problem": "Labelled f. acc. sg., but -am cannot be feminine (apyām would); it also disagrees with unit 7 (n. acc.) and with the m. label of aniśitam. The agreement with yonim (f.) is irregular and should be said.",
+     "fix": "acc. sg. (m./n. form; agreement with yonim irregular)",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "word",
+      "match_w": "apyam",
+      "field": "gram",
+      "value": "acc. sg. (m./n. form; agreement with yonim irregular)"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "10",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "गनास्पति",
+     "problem": "Wrong Devanagari for gnāspati (conjunct missing).",
+     "fix": "ग्नास्पति",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गनास्पति",
+      "new": "ग्नास्पति"
+     }
+    }
+   ]
+  },
+  {
+   "n": "11",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दूर-दूर तक प्रशंसा करने वाले गायक",
+     "problem": "Hindi has the active sense (praising widely) while the English and the notes say passive 'praised widely' and claim the Hindi follows it. Align with the English.",
+     "fix": "दूर-दूर तक प्रशंसित गायक",
+     "severity": "error",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दूर-दूर तक प्रशंसा करने वाले गायक",
+      "new": "दूर-दूर तक प्रशंसित गायक"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 11 units. 2 errors, 10 minor (about 8 carry a machine patch). Errors: unit 4 the split word adardhaḥ does not match the printed token (adardhar); unit 11 Hindi 'praising widely' contradicts English 'praised widely'. Minor: added 'its'/'अपने' (unit 2), comment text inside translations (unit 8), apaḥ and apyam gram labels (units 6, 8), Hindi ज्येष्ठ and ग्नास्पति (units 5, 10), the unit 4 text-flag suggestion undoes sandhi, dhanvān vā alternative (unit 7). Units 1, 3, 9 ok. No regrouping suggested. Confidence honest (all low except 2, 11 medium and 9 high, which is fine)."
+}

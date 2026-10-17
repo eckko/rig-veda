@@ -1,0 +1,368 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "I call for you on Agni",
+"problem": "'on Agni' is not in the Sanskrit (huve ... agnim, accusative object).",
+"fix": "I call for you Agni",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "replace",
+"field": "english",
+"old": "for you on Agni",
+"new": "for you Agni"
+}
+},
+{
+"field": "gram",
+"where": "vaḥ",
+"problem": "Gram says acc. pl. but gloss/Hindi/English render 'for you'; enclitic vaḥ with huve is read as dative here.",
+"fix": "dat. pl. (enclitic pron.)",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "word",
+"match_w": "vaḥ",
+"field": "gram",
+"value": "dat. pl. (enclitic pron.)"
+}
+},
+{
+"field": "gloss",
+"where": "vaḥ",
+"problem": "Gloss 'you' does not match the rendering 'for you'.",
+"fix": "for you",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "word",
+"match_w": "vaḥ",
+"field": "gloss",
+"value": "for you"
+}
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "इस अग्नि की सेवा करते हुए",
+"problem": "Hindi names Agni in the first half-verse, which has only imam (this one); English and notes keep it unnamed.",
+"fix": "इसकी सेवा करते हुए",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "इस अग्नि की सेवा करते हुए",
+"new": "इसकी सेवा करते हुए"
+}
+},
+{
+"field": "hindi",
+"where": "जनों की बस्तियों में",
+"problem": "Drops Āyu: the text has vikṣu āyoḥ 'among the clans of Āyu' (English and gloss keep Āyu).",
+"fix": "आयु की बस्तियों में",
+"severity": "error",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "जनों की बस्तियों में",
+"new": "आयु की बस्तियों में"
+}
+},
+{
+"field": "text_flags",
+"where": "vikṣvā3yoḥ",
+"problem": "Not a suspected typo (the flag itself says 'not an error'); the 3 is the printed pluta mark and the sandhi is regular. A text flag should list only real suspected errors.",
+"fix": "remove the flag",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "set",
+"field": "text_flags",
+"value": []
+}
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "like a friend about to settle",
+"problem": "kṣeṣyantaḥ is nom. pl. (the gram says so); it cannot qualify mitram (acc. sg.). The draft's 'friend about to settle' contradicts its own gram.",
+"fix": "like those about to settle, a friend",
+"severity": "error",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "english",
+"old": "like a friend about to settle",
+"new": "like those about to settle, a friend"
+}
+},
+{
+"field": "hindi",
+"where": "मानो बसने को उद्यत मित्र हो",
+"problem": "Same misattachment; also 'हो' adds a verb.",
+"fix": "बसने को उद्यत जनों की भाँति, मित्र को",
+"severity": "error",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "मानो बसने को उद्यत मित्र हो",
+"new": "बसने को उद्यत जनों की भाँति, मित्र को"
+}
+},
+{
+"field": "notes",
+"where": "comparison",
+"problem": "Notes call 'like a friend about to settle' the literal reading; it is not (nom. pl. participle).",
+"fix": "append correction",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "append_note",
+"text": "Correction: kṣeṣyantaḥ is nominative plural and cannot agree with mitram (acc. sg.); the literal reading is 'like those about to settle, a friend'."
+}
+}
+]
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "the appearance of him, the speeding, blazing one is the same",
+"problem": "'is the same' is an unsupported added predicate; the clause is verbless.",
+"fix": "the appearance of him, the speeding, blazing one.",
+"severity": "error",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "english",
+"old": "the speeding, blazing one is the same.",
+"new": "the speeding, blazing one."
+}
+},
+{
+"field": "hindi",
+"where": "उस वेग से चलने वाले, दीप्त अग्नि का दर्शन भी",
+"problem": "'अग्नि' and 'भी' are not in the text (asya hiyānasya dakṣoḥ); English does not add them.",
+"fix": "उस वेग से चलने वाले, दीप्त का दर्शन।",
+"severity": "error",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "hindi",
+"old": "उस वेग से चलने वाले, दीप्त अग्नि का दर्शन भी।",
+"new": "उस वेग से चलने वाले, दीप्त का दर्शन।"
+}
+},
+{
+"field": "english",
+"where": "shakes it about like a chariot horse its tail-hairs",
+"problem": "Wrong object: jihvām is object of bharibhrat 'bearing'; vārān 'tail-hairs' is the object of dodhavīti. 'it' makes the tongue the thing shaken. Also atyaḥ 'steed' is dropped.",
+"fix": "shakes the tail-hairs about like a steed, a chariot horse.",
+"severity": "error",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "english",
+"old": "shakes it about like a chariot horse its tail-hairs.",
+"new": "shakes the tail-hairs about like a steed, a chariot horse."
+}
+},
+{
+"field": "notes",
+"where": "jihvām as object of dodhavīti",
+"problem": "Notes repeat the wrong construction.",
+"fix": "append correction",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "append_note",
+"text": "Correction: jihvām is the object of bharibhrat; vārān is the object of dodhavīti, compared with atyaḥ ... rathyaḥ."
+}
+}
+]
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "मेरे उस अद्भुत कार्य की",
+"problem": "'उस' and 'कार्य' are additions: abhvam is only 'marvel/wonder' (English 'my wonder').",
+"fix": "मेरे अद्भुत पर, उत्सुकों के लिए, विस्मय किया",
+"severity": "error",
+"patch": {
+"n": "5",
+"op": "replace",
+"field": "hindi",
+"old": "मेरे उस अद्भुत कार्य की, उत्सुकों के लिए, प्रशंसा की",
+"new": "मेरे अद्भुत पर, उत्सुकों के लिए, विस्मय किया"
+}
+},
+{
+"field": "gram",
+"where": "raṃsu",
+"problem": "An -u stem neuter cannot be instrumental (that would be raṃsunā); the form is nom./acc. n., adverbial or adjectival, so 'n. inst. sg.' is a wrong case label.",
+"fix": "n. nom./acc. sg. (adverbial or adjectival; -u stem, not inst.)",
+"severity": "error",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "raṃsu",
+"field": "gram",
+"value": "n. nom./acc. sg. (adverbial or adjectival; -u stem, not inst.)"
+}
+},
+{
+"field": "hindi",
+"where": "विचित्र",
+"problem": "citra here is 'bright' (English); विचित्र means strange/variegated.",
+"fix": "चमकीले",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "replace",
+"field": "hindi",
+"old": "विचित्र और मनोहर प्रकाश से",
+"new": "चमकीले और मनोहर प्रकाश से"
+}
+}
+]
+},
+{
+"n": "6",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "7",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "पृथ्वी को सुखद नहीं बना सका",
+"problem": "'सका' (was unable) is an addition; asvadayat na is 'did not make'.",
+"fix": "पृथ्वी को सुखद नहीं बनाया।",
+"severity": "error",
+"patch": {
+"n": "7",
+"op": "replace",
+"field": "hindi",
+"old": "पृथ्वी को सुखद नहीं बना सका।",
+"new": "पृथ्वी को सुखद नहीं बनाया।"
+}
+},
+{
+"field": "hindi",
+"where": "काले मार्ग पर दौड़ता हुआ",
+"problem": "kṛṣṇa-vyathiḥ is 'black-darting'; 'on the black path' conflates it with kṛṣṇādhvā (unit 6) and adds 'path'.",
+"fix": "काला, दौड़ता हुआ",
+"severity": "error",
+"patch": {
+"n": "7",
+"op": "replace",
+"field": "hindi",
+"old": "काले मार्ग पर दौड़ता हुआ",
+"new": "काला, दौड़ता हुआ"
+}
+}
+]
+},
+{
+"n": "8",
+"verdict": "fix",
+"issues": [
+{
+"field": "gram",
+"where": "pūrvasya",
+"problem": "Agrees with avasaḥ, and avas is neuter, so 'm. gen. sg.' is the wrong gender.",
+"fix": "n. gen. sg.",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "word",
+"match_w": "pūrvasya",
+"field": "gram",
+"value": "n. gen. sg."
+}
+},
+{
+"field": "hindi",
+"where": "स्मरण में",
+"problem": "'remembrance' is not adhīti; English has 'in thought'.",
+"fix": "चिन्तन में",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "hindi",
+"old": "स्मरण में",
+"new": "चिन्तन में"
+}
+},
+{
+"field": "gram",
+"where": "śaṃsi",
+"problem": "'1 sg. pres. √śaṃs' is not a regular form (that is śaṃsāmi); śaṃsi is better the aorist-passive type '(it) has been recited' or an irregular 1 sg.; the draft states it as fact.",
+"fix": "mention uncertainty in notes",
+"severity": "minor"
+}
+]
+},
+{
+"n": "9",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "हे अग्नि, तुम्हारे द्वारा गृत्समद",
+"problem": "yathā 'so that' is dropped; English has it.",
+"fix": "ताकि, हे अग्नि, तुम्हारे द्वारा गृत्समद",
+"severity": "error",
+"patch": {
+"n": "9",
+"op": "replace",
+"field": "hindi",
+"old": "हे अग्नि, तुम्हारे द्वारा गृत्समद",
+"new": "ताकि, हे अग्नि, तुम्हारे द्वारा गृत्समद"
+}
+},
+{
+"field": "english",
+"where": "overcoming foes, give that vigour",
+"problem": "Run-on: the optative clause and the imperative dhāḥ are fused into one sentence.",
+"fix": "overcoming foes. Give that vigour",
+"severity": "minor",
+"patch": {
+"n": "9",
+"op": "replace",
+"field": "english",
+"old": "overcoming foes, give that vigour",
+"new": "overcoming foes. Give that vigour"
+}
+}
+]
+}
+],
+"summary": "Hard hymn (RV 2.4); all nine units already 'low'/'medium' confidence, which is honest. Errors: misattached participle (3), unsupported additions (4, 5, 7), dropped 'so that' and Āyu (9, 2), wrong object of dodhavīti (4), wrong case label for raṃsu (5). No regrouping."
+}

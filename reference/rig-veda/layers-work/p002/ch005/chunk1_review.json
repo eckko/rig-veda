@@ -1,0 +1,267 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "gram",
+"where": "vājinaḥ",
+"problem": "-aḥ cannot be genitive plural (that is vājinām). It is nom./acc. pl. or gen./abl. sg.; the draft's 'of the prize-winners' rests on an impossible label. Nom. pl. 'we prize-winners' (with śakema) is one real option, gen. sg. 'of the prize-winner' another; needs a human choice.",
+"fix": "m. nom./acc. pl. or gen./abl. sg.",
+"severity": "error",
+"patch": {
+"n": "1",
+"op": "word",
+"match_w": "vājinaḥ",
+"field": "gram",
+"value": "m. nom. pl. or gen. sg. (not gen. pl.)"
+}
+},
+{
+"field": "gram",
+"where": "pra-yakṣan",
+"problem": "yakṣan is not a present participle (that would be yajan); it is an s-aorist/injunctive or infinitive-type form of pra-√yaj.",
+"fix": "form of pra-√yaj (not a pres. part.)",
+"severity": "minor"
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "text_flags",
+"where": "tsapta",
+"problem": "Not a typo (the flag says 'not an error'); the inserted t is regular Vedic sandhi.",
+"fix": "remove the flag",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "set",
+"field": "text_flags",
+"value": []
+}
+},
+{
+"field": "hindi",
+"where": "सात रश्मियाँ",
+"problem": "English and notes read raśmi as 'rein'; रश्मि in Hindi means ray.",
+"fix": "सात लगामें",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "सात रश्मियाँ फैली",
+"new": "सात लगामें फैली"
+}
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "प्रार्थनाएँ कहीं",
+"problem": "Glossary: brahman (n.) is ब्रह्म in Hindi.",
+"fix": "ब्रह्म कहे",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "प्रार्थनाएँ कहीं",
+"new": "ब्रह्म कहे"
+}
+},
+{
+"field": "english",
+"where": "Like a felly the wheel, he was around all the wisdoms.",
+"problem": "Garbled order; the simile follows the clause (nemiś cakram iva abhavat).",
+"fix": "He was around all the wisdoms, like a felly the wheel.",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "english",
+"old": "Like a felly the wheel, he was around all the wisdoms.",
+"new": "He was around all the wisdoms, like a felly the wheel."
+}
+}
+]
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "the bright director",
+"problem": "Glossary: Praśāstṛ priest (the draft's own note concedes this).",
+"fix": "the bright Praśāstṛ priest",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "english",
+"old": "the bright director",
+"new": "the bright Praśāstṛ priest"
+}
+},
+{
+"field": "gloss",
+"where": "praśāstā",
+"problem": "Same.",
+"fix": "Praśāstṛ priest",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "word",
+"match_w": "praśāstā",
+"field": "gloss",
+"value": "Praśāstṛ priest"
+}
+},
+{
+"field": "hindi",
+"where": "उज्ज्वल निर्देशक सामर्थ्य से",
+"problem": "Praśāstṛ priest (प्रशास्ता) and kratu = resolve (संकल्प) per glossary.",
+"fix": "उज्ज्वल प्रशास्ता संकल्प से",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "hindi",
+"old": "उज्ज्वल निर्देशक सामर्थ्य से",
+"new": "उज्ज्वल प्रशास्ता संकल्प से"
+}
+},
+{
+"field": "english",
+"where": "by power",
+"problem": "Glossary: kratu = resolve.",
+"fix": "by resolve",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "english",
+"old": "has been born, by power",
+"new": "has been born, by resolve"
+}
+},
+{
+"field": "gloss",
+"where": "kratunā",
+"problem": "Glossary: kratu = resolve.",
+"fix": "by resolve",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "word",
+"match_w": "kratunā",
+"field": "gloss",
+"value": "by resolve"
+}
+}
+]
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "जो नेष्टा का है",
+"problem": "'जो ... है' adds a relative clause; the text has only neṣṭuḥ (genitive).",
+"fix": "नेष्टा के",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "replace",
+"field": "hindi",
+"old": "जो नेष्टा का है",
+"new": "नेष्टा के"
+}
+},
+{
+"field": "hindi",
+"where": "क्या वे बहनें ... गईं?",
+"problem": "Hindi turns kuvit into a question and adds a second verb 'गईं'; English reads 'Indeed, the sisters who went to this one, from the three to the better'. The two layers disagree and the Hindi adds a verb.",
+"fix": "निश्चय ही वे बहनें, जो इसके पास गईं, तीन से श्रेष्ठ की ओर।",
+"severity": "error",
+"patch": {
+"n": "5",
+"op": "replace",
+"field": "hindi",
+"old": "क्या वे बहनें, जो इस के पास गईं, तीन से श्रेष्ठ की ओर गईं?",
+"new": "निश्चय ही वे बहनें, जो इसके पास गईं, तीन से श्रेष्ठ की ओर।"
+}
+}
+]
+},
+{
+"n": "6",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "7",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "8",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "make things fit",
+"problem": "'things' is an added object (the notes admit it is not in the text).",
+"fix": "he may act fittingly for all the adorable ones",
+"severity": "error",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "english",
+"old": "he may make things fit for all the adorable ones",
+"new": "he may act fittingly for all the adorable ones"
+}
+},
+{
+"field": "hindi",
+"where": "सब पूजनीय देवों के लिए उचित व्यवस्था करे",
+"problem": "'देवों' and 'व्यवस्था' are additions: viśvebhyo yajatebhyaḥ is 'for all the adorable ones'; aram karat has no object.",
+"fix": "सब पूजनीयों के लिए उचित रूप से करे",
+"severity": "error",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "hindi",
+"old": "सब पूजनीय देवों के लिए उचित व्यवस्था करे",
+"new": "सब पूजनीयों के लिए उचित रूप से करे"
+}
+},
+{
+"field": "hindi",
+"where": "तुझमें",
+"problem": "Register inconsistent with तुम used elsewhere in the chapter.",
+"fix": "तुममें",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "hindi",
+"old": "तुझमें",
+"new": "तुममें"
+}
+}
+]
+}
+],
+"summary": "RV 2.5. Main problems: vājinaḥ labelled genitive plural (impossible form); Hindi question/extra verb in 5; added 'things'/'देवों'/'व्यवस्था' in 8; glossary deviations (Praśāstṛ, kratu, brahman, raśmi). Units 6 and 7 are acceptable. No regrouping."
+}

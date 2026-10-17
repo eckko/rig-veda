@@ -1,0 +1,238 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "mahaḥ",
+     "problem": "Not an accusative dual: a dual would end in -ī/-ā (or -āntau), never -aḥ. mahaḥ can only be gen./abl. sg. of mah, nom./acc. sg. of mahas 'greatness', or acc. pl.; so the translation 'you two, the great ones' has no grammatical support (the gloss 'the great two' too).",
+     "fix": "Relabel gram as 'form uncertain (not dual)' and rework 'vām maho dadhe' (e.g. maho as 'greatness' or a gen., object of dadhe unclear); needs a human decision.",
+     "severity": "error"
+    },
+    {
+     "field": "hindi",
+     "where": "मुझ की इस वाणी",
+     "problem": "Ungrammatical Hindi: 'मुझ की'; the participial phrases belong to the genitive 'of me'.",
+     "fix": "मुझ ऋत के अनुसार चलने वाले और जीतने की इच्छा करने वाले की इस वाणी",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ऋत के अनुसार चलने वाले और जीतने की इच्छा करने वाले मुझ की इस वाणी",
+      "new": "मुझ ऋत के अनुसार चलने वाले और जीतने की इच्छा करने वाले की इस वाणी"
+     }
+    },
+    {
+     "field": "english",
+     "where": "hold to you two",
+     "problem": "dadhe is 'I place/hold'; 'hold to' adds a preposition not in the line and does not match the Hindi 'धारण करता हूँ' or the gloss.",
+     "fix": "I hold you two, the great ones (once the form of maho is settled)",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "hold to you two, the great ones",
+      "new": "hold you two, the great ones"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ṛtāyataḥ",
+     "problem": "'acting by the order' is not the sense of ṛtāyant (following / devoted to the order); it also differs from the English 'who follow the order'.",
+     "fix": "following the order",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "ṛtāyataḥ",
+      "field": "gloss",
+      "value": "following the order"
+     }
+    },
+    {
+     "field": "english",
+     "where": "te idaṃ pura",
+     "problem": "'te', 'idam' and 'pura' are not rendered in either translation although the notes list them as the unclear part; nothing should be dropped silently.",
+     "fix": "Render them literally (e.g. 'those two ... this ... before') or state in notes that they are left untranslated.",
+     "severity": "minor"
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "2",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "guhyāḥ",
+     "problem": "guhyāḥ agrees with ripaḥ, which is masculine; 'f./m.' is wrong.",
+     "fix": "m. nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "guhyāḥ",
+      "field": "gram",
+      "value": "m. nom. pl."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "इन दुष्ट अनिष्ट करने वालों के हाथ",
+     "problem": "'के हाथ' (into the hands of) is added; duścunābhyaḥ is a plain dative/ablative 'to'.",
+     "fix": "इन दुष्ट अनिष्ट करने वालों को न सौंपो",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इन दुष्ट अनिष्ट करने वालों के हाथ न सौंपो",
+      "new": "इन दुष्ट अनिष्ट करने वालों को न सौंपो"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "धोखेबाज़ दिन में",
+     "problem": "āyoḥ is dropped in the Hindi although the English has 'day of life'.",
+     "fix": "धोखेबाज़ जीवन के दिन में",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "धोखेबाज़ दिन में",
+      "new": "धोखेबाज़ जीवन के दिन में"
+     }
+    },
+    {
+     "field": "english",
+     "where": "know that wish of ours",
+     "problem": "'wish' (and Hindi 'विषय') is an unsupported addition: the line has viddhi tasya naḥ only (a genitive 'of that', 'of us'); nothing about a wish is in the text.",
+     "fix": "Drop the invented noun, e.g. keep the genitives literal ('take note of that, of us') and explain in notes. Hindi 'हमारे उस विषय को जानो' needs the same repair.",
+     "severity": "error"
+    },
+    {
+     "field": "english",
+     "where": "With a kindly mind",
+     "problem": "sumnāyant is 'seeking favour' (sumna = favour in the fixed renderings); 'kindly' blurs it.",
+     "fix": "With a mind seeking favour",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "With a kindly mind",
+      "new": "With a mind seeking favour"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कृपालु मन से",
+     "problem": "Same: sumnāyant, glossary sumna = favour.",
+     "fix": "कृपा चाहने वाले मन से",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कृपालु मन से",
+      "new": "कृपा चाहने वाले मन से"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sumnāyatā",
+     "problem": "Same.",
+     "fix": "seeking favour",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "sumnāyatā",
+      "field": "gloss",
+      "value": "seeking favour"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "3",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तत्काल तत्परता से सुनने को ले आओ, जो ... गाय के समान है",
+     "problem": "Two additions: 'तत्काल' (immediately) is not in the text, and 'के समान' turns the cow apposition into a simile, although the English (and the notes) take it as apposition (duhānāṃ dhenuṃ pipyuṣīm asaścatam are accusatives of śruṣṭim).",
+     "fix": "तत्पर श्रवण को ले आओ, दुही जाती हुई, भरी हुई, कभी न घटने वाली गाय को।",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तत्काल तत्परता से सुनने को ले आओ, जो दुही जाती हुई, भरी हुई, कभी न घटने वाली गाय के समान है।",
+      "new": "तत्पर श्रवण को ले आओ, दुही जाती हुई, भरी हुई, कभी न घटने वाली गाय को।"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "puruhūta",
+     "problem": "puru-hūta (puru + ppp. hūta) is not a bahuvrīhi; it is a compound of adverbial first member with a participle ('much-invoked').",
+     "fix": "m. voc. sg. compound (puru-hūta)",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "puruhūta",
+      "field": "gram",
+      "value": "m. voc. sg. compound (puru-hūta)"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उन्हीं के साथ",
+     "problem": "'उन्हीं' (only those) adds emphasis not in tābhiḥ.",
+     "fix": "उनके साथ",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उन्हीं के साथ",
+      "new": "उनके साथ"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "6",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Reviewed 8 units of RV 2.32. Total issues: 3 error, 12 minor. Errors: unit 1 gram of mahaḥ as acc. du. is impossible (and so the translation 'you two, the great ones'); unit 2 'wish'/'विषय' invented in 'viddhi tasya naḥ'; unit 3 Hindi adds 'तत्काल' and a simile 'के समान'. Minor: unit 1 ungrammatical Hindi 'मुझ की', 'hold to', ṛtāyataḥ gloss, dropped te/idam/pura; unit 2 guhyāḥ gender, 'के हाथ', dropped āyoḥ in Hindi, sumnāyant not rendered as 'seeking favour'; unit 3 puruhūta not a bahuvrīhi; unit 5 'उन्हीं'. Units 4, 6, 7, 8 are ok. No text flags needed. Confidences (low/medium) are honest. No regrouping suggested."
+}
