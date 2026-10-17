@@ -9,20 +9,18 @@
 Layout: mandala 002 is one file (p002.md, under 1000 lines); all other mandalas have one file per sukta.
 Sukta 8.66 is not in S1 (see ISSUES.md).
 
-## Parts
+## Parts (suktas in S1, verses extracted)
 
-| Part | Mandala | Suktas (S1) | Verses (extracted) |
-|---|---|---|---|
-| 001 | 1 | 191 | 1993 |
-| 002 | 2 | 43 | 429 |
-| 003 | 3 | 62 | 615 |
-| 004 | 4 | 58 | 589 |
-| 005 | 5 | 87 | 727 |
-| 006 | 6 | 75 | 765 |
-| 007 | 7 | 104 | 833 |
-| 008 | 8 | 102 | 1690 |
-| 009 | 9 | 114 | 1097 |
-| 010 | 10 | 191 | 1752 |
+- Part 001 (mandala 1): 191 suktas, 1993 verses
+- Part 002 (mandala 2): 43 suktas, 429 verses
+- Part 003 (mandala 3): 62 suktas, 615 verses
+- Part 004 (mandala 4): 58 suktas, 589 verses
+- Part 005 (mandala 5): 87 suktas, 727 verses
+- Part 006 (mandala 6): 75 suktas, 765 verses
+- Part 007 (mandala 7): 104 suktas, 833 verses
+- Part 008 (mandala 8): 102 suktas, 1690 verses
+- Part 009 (mandala 9): 114 suktas, 1097 verses
+- Part 010 (mandala 10): 191 suktas, 1752 verses
 
 ## Chapters
 
