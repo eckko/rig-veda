@@ -1,0 +1,3602 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ga̱ṇānā̭ṃ",
+      "words": [
+       {
+        "w": "gaṇānām",
+        "gloss": "of the hosts",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "2 sg. acc. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "ga̱ṇapa̭tiṃ",
+      "words": [
+       {
+        "w": "gaṇa-patim",
+        "gloss": "lord of hosts",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "havāmahe",
+      "words": [
+       {
+        "w": "havāmahe",
+        "gloss": "we call",
+        "gram": "1 pl. pres. mid. √hū"
+       }
+      ]
+     },
+     {
+      "src": "ka̱viṃ",
+      "words": [
+       {
+        "w": "kavim",
+        "gloss": "seer",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ka̭vī̱nāmṷpa̱maśra̭vastamam",
+      "words": [
+       {
+        "w": "kavīnām",
+        "gloss": "of seers",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "upama-śravaḥ-tamam",
+        "gloss": "most famed",
+        "gram": "m. acc. sg. superl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jye̱ṣṭha̱rāja̱ṃ",
+      "words": [
+       {
+        "w": "jyeṣṭha-rājam",
+        "gloss": "chief king",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇāṃ",
+      "words": [
+       {
+        "w": "brahmaṇām",
+        "gloss": "of the sacred utterances",
+        "gram": "n. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "brahmaṇaspata̱",
+      "words": [
+       {
+        "w": "brahmaṇaspate",
+        "gloss": "O Brahmaṇaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na̭:",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "1 pl. acc."
+       }
+      ]
+     },
+     {
+      "src": "śṛ̱ṇvannū̱tibhi̭:",
+      "words": [
+       {
+        "w": "śṛṇvan",
+        "gloss": "hearing",
+        "gram": "m. nom. sg. pres. part. √śru"
+       },
+       {
+        "w": "ūtibhiḥ",
+        "gloss": "with helps",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "sīda̱",
+      "words": [
+       {
+        "w": "sīda",
+        "gloss": "sit",
+        "gram": "2 sg. impv. √sad"
+       }
+      ]
+     },
+     {
+      "src": "sāda̭nam",
+      "words": [
+       {
+        "w": "sādanam",
+        "gloss": "seat",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हम तुम्हें गणों के गणपति, कवियों के कवि और अत्यन्त यशस्वी को बुलाते हैं। हे ब्रह्मणस्पति, ब्रह्म-वचनों के श्रेष्ठ राजा, हमारी सुनते हुए अपनी सहायताओं के साथ आओ और आसन पर बैठो।",
+  "english": "We call you, lord of the hosts, the seer of seers, the most famed, the chief king of the sacred utterances; O Brahmaṇaspati, hearing us, come with your helps and sit on the seat.",
+  "text_flags": [],
+  "notes": "brahman (n.) is taken as 'sacred utterance'. ā ... sīda is taken together ('come and sit'). The phrase gaṇānāṃ gaṇapatim is rendered 'lord of the hosts'. upama-śravastama 'most famed' (literally of highest fame).",
+  "confidence": "high"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "de̱vāści̭t",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "2 sg. gen."
+       }
+      ]
+     },
+     {
+      "src": "asurya̱",
+      "words": [
+       {
+        "w": "asurya",
+        "gloss": "lordly power",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pracḙtaso̱",
+      "words": [
+       {
+        "w": "pracetasaḥ",
+        "gloss": "wise",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bṛha̭spate",
+      "words": [
+       {
+        "w": "bṛhaspate",
+        "gloss": "O Bṛhaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñiya̭ṃ",
+      "words": [
+       {
+        "w": "yajñiyam",
+        "gloss": "fit for sacrifice",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhā̱gamā̭naśuḥ",
+      "words": [
+       {
+        "w": "bhāgam",
+        "gloss": "share",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ānaśuḥ",
+        "gloss": "they attained",
+        "gram": "3 pl. pf. √aś"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "u̱srā",
+      "words": [
+       {
+        "w": "usrāḥ",
+        "gloss": "rays",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "i̭va̱",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sūryo̱",
+      "words": [
+       {
+        "w": "sūryaḥ",
+        "gloss": "sun",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jyoti̭ṣā",
+      "words": [
+       {
+        "w": "jyotiṣā",
+        "gloss": "with light",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱ho",
+      "words": [
+       {
+        "w": "mahaḥ",
+        "gloss": "great",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "viśvḙṣā̱mijja̭ni̱tā",
+      "words": [
+       {
+        "w": "viśveṣām",
+        "gloss": "of all",
+        "gram": "n. gen. pl."
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "janitā",
+        "gloss": "begetter",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇāmasi",
+      "words": [
+       {
+        "w": "brahmaṇām",
+        "gloss": "of the sacred utterances",
+        "gram": "n. gen. pl."
+       },
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे बृहस्पति, देव भी तुम्हारी असुर-शक्ति से प्रज्ञावान् होकर यज्ञ के योग्य भाग को प्राप्त हुए हैं। किरणों के समान और प्रकाश से सूर्य के समान तुम सब ब्रह्म-वचनों के महान् जनक हो।",
+  "english": "Even the gods, wise through your lordly power, O Bṛhaspati, have attained their share fit for sacrifice. Like the rays, like the sun with its light, you are the great begetter of all the sacred utterances.",
+  "text_flags": [],
+  "notes": "te asurya is uncertain: asurya (n.) 'lordly power' taken as instrumental ('through your lordly power'); it could also be a vocative-like address. usrā iva sūryo jyotiṣā is elliptical; the comparison 'like the rays, like the sun with its light' is a literal reading and the exact construction of usrāḥ is doubtful. maho taken as 'great' agreeing with janitā.",
+  "confidence": "low"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̱bādhyā̭",
+      "words": [
+       {
+        "w": "vi-bādhya",
+        "gloss": "having driven away",
+        "gram": "abs. vi-√bādh"
+       }
+      ]
+     },
+     {
+      "src": "pari̱rāpa̱stamā̭ṃsi",
+      "words": [
+       {
+        "w": "pari-rāpaḥ",
+        "gloss": "slanders",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "tamāṃsi",
+        "gloss": "darknesses",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jyoti̭ṣmanta̱ṃ",
+      "words": [
+       {
+        "w": "jyotiṣmantam",
+        "gloss": "full of light",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ratha̭mṛ̱tasya̭",
+      "words": [
+       {
+        "w": "ratham",
+        "gloss": "chariot",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ṛtasya",
+        "gloss": "of ṛta",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tiṣṭhasi",
+      "words": [
+       {
+        "w": "tiṣṭhasi",
+        "gloss": "you mount",
+        "gram": "2 sg. pres. √sthā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bṛha̭spate",
+      "words": [
+       {
+        "w": "bṛhaspate",
+        "gloss": "O Bṛhaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhī̱mama̭mitra̱dambha̭naṃ",
+      "words": [
+       {
+        "w": "bhīmam",
+        "gloss": "fearsome",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "amitra-dambhanam",
+        "gloss": "harming the foes",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "rakṣo̱haṇa̭ṃ",
+      "words": [
+       {
+        "w": "rakṣaḥ-hanam",
+        "gloss": "slaying the Rakṣases",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "gotra̱bhida̭ṃ",
+      "words": [
+       {
+        "w": "gotra-bhidam",
+        "gloss": "splitting the cattle-pen",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "sva̱rvida̭m",
+      "words": [
+       {
+        "w": "svaḥ-vidam",
+        "gloss": "finding the light",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "निन्दाओं और अन्धकारों को दूर हटाकर तुम ऋत के प्रकाशमान रथ पर आरूढ़ होते हो — हे बृहस्पति, उस भयंकर, शत्रुओं को कुचलने वाले, राक्षसों को मारने वाले, गोष्ठ को तोड़ने वाले और प्रकाश को पाने वाले रथ पर।",
+  "english": "Having driven away slanders and darknesses, you mount the light-filled chariot of ṛta — O Bṛhaspati, the fearsome one that harms the foes, slays the Rakṣases, splits the cattle-pen and finds the light.",
+  "text_flags": [],
+  "notes": "The four epithets of line 2 are accusatives agreeing with ratham (the chariot); they could also be read as epithets of Bṛhaspati in a different construction, but the case points to the chariot. pari-rāp 'slander' (from √rap 'chatter') is doubtful. ā ... tiṣṭhasi 'mount'. gotra 'cattle-pen' (also 'family').",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "su̱nī̱tibhi̭rnayasi̱",
+      "words": [
+       {
+        "w": "su-nītibhiḥ",
+        "gloss": "with good guidance",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "nayasi",
+        "gloss": "you lead",
+        "gram": "2 sg. pres. √nī"
+       }
+      ]
+     },
+     {
+      "src": "trāya̭se̱",
+      "words": [
+       {
+        "w": "trāyase",
+        "gloss": "you protect",
+        "gram": "2 sg. pres. mid. √trā"
+       }
+      ]
+     },
+     {
+      "src": "jana̱ṃ",
+      "words": [
+       {
+        "w": "janam",
+        "gloss": "person",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yastubhya̱ṃ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       },
+       {
+        "w": "tubhyam",
+        "gloss": "to you",
+        "gram": "2 sg. dat."
+       }
+      ]
+     },
+     {
+      "src": "dāśā̱nna",
+      "words": [
+       {
+        "w": "dāśāt",
+        "gloss": "may he worship",
+        "gram": "3 sg. aor. subj. √dāś"
+       },
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tamaṃho̭",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "aṃhaḥ",
+        "gloss": "distress",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "aśnavat",
+      "words": [
+       {
+        "w": "aśnavat",
+        "gloss": "may it reach",
+        "gram": "3 sg. aor. subj. √aś"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bra̱hma̱dviṣa̱stapa̭no",
+      "words": [
+       {
+        "w": "brahma-dviṣaḥ",
+        "gloss": "haters of sacred utterance",
+        "gram": "m. acc. pl. tat-puruṣa"
+       },
+       {
+        "w": "tapanaḥ",
+        "gloss": "scorcher",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "manyu̱mīra̭si̱",
+      "words": [
+       {
+        "w": "manyum",
+        "gloss": "wrath",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "īrasi",
+        "gloss": "you rouse",
+        "gram": "2 sg. pres. √īr"
+       }
+      ]
+     },
+     {
+      "src": "bṛha̭spate̱",
+      "words": [
+       {
+        "w": "bṛhaspate",
+        "gloss": "O Bṛhaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahi̱",
+      "words": [
+       {
+        "w": "mahi",
+        "gloss": "great",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tat",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tḙ",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "2 sg. gen."
+       }
+      ]
+     },
+     {
+      "src": "mahitva̱nam",
+      "words": [
+       {
+        "w": "mahitvanam",
+        "gloss": "greatness",
+        "gram": "n. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम उत्तम नीति से मार्ग दिखाते और उस मनुष्य की रक्षा करते हो जो तुम्हारी पूजा करे; उसे संकट नहीं पहुँचता। हे बृहस्पति, ब्रह्म से द्वेष करने वालों को तपाने वाले होकर तुम क्रोध जगाते हो; तुम्हारी वह महिमा महान् है।",
+  "english": "With good guidance you lead and protect the person who worships you; distress does not reach him. Scorcher of the haters of sacred utterance, you rouse your wrath, O Bṛhaspati; great is that greatness of yours.",
+  "text_flags": [
+   {
+    "src": "manyu̱mīra̭si̱",
+    "suggest": "manyum īrase",
+    "why": "possible: the Vedic 2 sg. middle of √īr would be īrase; the printed form is īrasi, which is also a possible active form"
+   }
+  ],
+  "notes": "The printed form īrasi is read as 2 sg. of √īr (rouse); see text_flags. Whether brahmadviṣaḥ is the object of tapanaḥ or of the verb is not fully clear.",
+  "confidence": "medium"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tamaṃho̱",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "aṃhaḥ",
+        "gloss": "distress",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "nor",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dṷri̱taṃ",
+      "words": [
+       {
+        "w": "duritam",
+        "gloss": "trouble",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "kuta̭śca̱na",
+      "words": [
+       {
+        "w": "kutaḥ",
+        "gloss": "from where",
+        "gram": "ind."
+       },
+       {
+        "w": "cana",
+        "gloss": "ever",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nārā̭tayastitiru̱rna",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "nor",
+        "gram": "ind."
+       },
+       {
+        "w": "arātayaḥ",
+        "gloss": "hostile ones",
+        "gram": "f. nom. pl."
+       },
+       {
+        "w": "titiruḥ",
+        "gloss": "have overcome",
+        "gram": "3 pl. pf. √tṝ"
+       },
+       {
+        "w": "na",
+        "gloss": "nor",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dva̭yā̱vina̭:",
+      "words": [
+       {
+        "w": "dvayāvinaḥ",
+        "gloss": "double-dealing",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viśvā̱",
+      "words": [
+       {
+        "w": "viśvāḥ",
+        "gloss": "all",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ida̭smād",
+      "words": [
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "asmāt",
+        "gloss": "from him",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhva̱raso̱",
+      "words": [
+       {
+        "w": "dhvarasaḥ",
+        "gloss": "harms",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "away",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bā̭dhase̱",
+      "words": [
+       {
+        "w": "bādhase",
+        "gloss": "you drive",
+        "gram": "2 sg. pres. mid. √bādh"
+       }
+      ]
+     },
+     {
+      "src": "yaṃ",
+      "words": [
+       {
+        "w": "yam",
+        "gloss": "whom",
+        "gram": "m. acc. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "sṷgo̱pā",
+      "words": [
+       {
+        "w": "su-gopāḥ",
+        "gloss": "good protector",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rakṣa̭si",
+      "words": [
+       {
+        "w": "rakṣasi",
+        "gloss": "you guard",
+        "gram": "2 sg. pres. √rakṣ"
+       }
+      ]
+     },
+     {
+      "src": "brahmaṇaspate",
+      "words": [
+       {
+        "w": "brahmaṇaspate",
+        "gloss": "O Brahmaṇaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "न संकट, न कष्ट कहीं से उसे घेरता है, न शत्रु और न छल करने वाले उसे पार कर पाते हैं। हे ब्रह्मणस्पति, तुम जिसकी उत्तम रक्षक होकर रक्षा करते हो, उससे सब हानियों को दूर हटाते हो।",
+  "english": "Neither distress nor trouble from anywhere, nor hostile ones, nor the double-dealers have overcome him. All harms you drive away from him whom you guard as a good protector, O Brahmaṇaspati.",
+  "text_flags": [],
+  "notes": "Line 1 has one main verb (titiruḥ) for a series of negatives; the first two subjects (aṃhaḥ, duritam) have no verb of their own, so the translation lets 'overcome' stand over the whole line, which is a smoothing of the construction. arāti 'hostile one' (also 'miser'); dvayāvin 'double-dealing'. dhvaras 'harm' (literally crookedness).",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvaṃ",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "2 sg. nom."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "1 pl. gen."
+       }
+      ]
+     },
+     {
+      "src": "go̱pāḥ",
+      "words": [
+       {
+        "w": "gopāḥ",
+        "gloss": "guardian",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̭thi̱kṛd",
+      "words": [
+       {
+        "w": "pathi-kṛt",
+        "gloss": "maker of the path",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̭cakṣa̱ṇastava̭",
+      "words": [
+       {
+        "w": "vi-cakṣaṇaḥ",
+        "gloss": "far-seeing",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "tava",
+        "gloss": "your",
+        "gram": "2 sg. gen."
+       }
+      ]
+     },
+     {
+      "src": "vra̱tāya̭",
+      "words": [
+       {
+        "w": "vratāya",
+        "gloss": "for the ordinance",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱tibhi̭rjarāmahe",
+      "words": [
+       {
+        "w": "matibhiḥ",
+        "gloss": "with thoughts",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "jarāmahe",
+        "gloss": "we praise",
+        "gram": "1 pl. pres. mid. √jṝ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bṛha̭spate̱",
+      "words": [
+       {
+        "w": "bṛhaspate",
+        "gloss": "O Bṛhaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "1 pl. acc."
+       }
+      ]
+     },
+     {
+      "src": "a̱bhi",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "against",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "hvaro̭",
+      "words": [
+       {
+        "w": "hvaraḥ",
+        "gloss": "crookedness",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "da̱dhe",
+      "words": [
+       {
+        "w": "dadhe",
+        "gloss": "he has set",
+        "gram": "3 sg. pf. mid. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "svā",
+      "words": [
+       {
+        "w": "svā",
+        "gloss": "own",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̭rmartu",
+      "words": [
+       {
+        "w": "marmartu",
+        "gloss": "may it crush",
+        "gram": "3 sg. impv. int. √mṛ"
+       }
+      ]
+     },
+     {
+      "src": "du̱cchunā̱",
+      "words": [
+       {
+        "w": "duḥ-śunā",
+        "gloss": "evil",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hara̭svatī",
+      "words": [
+       {
+        "w": "harasvatī",
+        "gloss": "burning",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम हमारे रक्षक, मार्ग बनाने वाले और सब कुछ देखने वाले हो; तुम्हारे व्रत के लिए हम विचारों से स्तुति करते हैं। हे बृहस्पति, जो हमारे विरुद्ध कुटिलता रखता है, उसे उसकी अपनी जलती हुई दुर्दशा कुचल दे।",
+  "english": "You are our guardian, maker of the path, far-seeing; for your ordinance we praise with our thoughts. O Bṛhaspati, whoever has set crookedness against us, may his own burning evil crush him.",
+  "text_flags": [],
+  "notes": "hvaraḥ taken as 'crookedness' (also 'the crooked one'). duḥśunā 'evil' (literally ill-luck) and harasvatī 'burning' are doubtful; marmartu is an intensive of √mṛ 'crush' (uncertain). vi-cakṣaṇa 'far-seeing' (also 'discerning').",
+  "confidence": "low"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱ta",
+      "words": [
+       {
+        "w": "uta",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̱",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "1 pl. acc."
+       }
+      ]
+     },
+     {
+      "src": "ma̱rcayā̱danā̭gaso",
+      "words": [
+       {
+        "w": "marcayāt",
+        "gloss": "may he harm",
+        "gram": "3 sg. opt. caus. √mṛc"
+       },
+       {
+        "w": "anāgasaḥ",
+        "gloss": "guiltless",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "'rātī̱vā",
+      "words": [
+       {
+        "w": "arātīvā",
+        "gloss": "hostile",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "marta̭:",
+      "words": [
+       {
+        "w": "martaḥ",
+        "gloss": "mortal",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sānu̱ko",
+      "words": [
+       {
+        "w": "sānukaḥ",
+        "gloss": "sānuka",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛka̭:",
+      "words": [
+       {
+        "w": "vṛkaḥ",
+        "gloss": "wolf",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bṛha̭spate̱",
+      "words": [
+       {
+        "w": "bṛhaspate",
+        "gloss": "O Bṛhaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "apa̱",
+      "words": [
+       {
+        "w": "apa",
+        "gloss": "away",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̭rtayā",
+      "words": [
+       {
+        "w": "vartaya",
+        "gloss": "turn",
+        "gram": "2 sg. impv. caus. √vṛt"
+       }
+      ]
+     },
+     {
+      "src": "pa̱thaḥ",
+      "words": [
+       {
+        "w": "pathaḥ",
+        "gloss": "from the path",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱gaṃ",
+      "words": [
+       {
+        "w": "sugam",
+        "gloss": "easy",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "1 pl. dat."
+       }
+      ]
+     },
+     {
+      "src": "a̱syai",
+      "words": [
+       {
+        "w": "asyai",
+        "gloss": "for this",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "de̱vavī̭taye",
+      "words": [
+       {
+        "w": "deva-vītaye",
+        "gloss": "for the feast of the gods",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛdhi",
+      "words": [
+       {
+        "w": "kṛdhi",
+        "gloss": "make",
+        "gram": "2 sg. impv. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अथवा जो शत्रुतापूर्ण मनुष्य हम निर्दोषों को सताए, वह सानुक भेड़िया हो — हे बृहस्पति, उसे मार्ग से हटा दो और इस देवों के भोज के लिए हमारा मार्ग सुगम करो।",
+  "english": "Or the hostile mortal who would harm us, the guiltless, the sānuka wolf — O Bṛhaspati, turn him away from the path, and make an easy way for us for this feast of the gods.",
+  "text_flags": [],
+  "notes": "sānukaḥ is an unclear epithet (left untranslated). The first line is a relative clause with a loosely attached 'wolf'; the translation keeps it as an apposition. deva-vīti 'feast of the gods' (also 'invitation of the gods'); asyai refers to an unstated noun and is rendered 'this'.",
+  "confidence": "low"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "trā̱tāra̭ṃ",
+      "words": [
+       {
+        "w": "trātāram",
+        "gloss": "protector",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvā",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "2 sg. acc. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "ta̱nūnā̭ṃ",
+      "words": [
+       {
+        "w": "tanūnām",
+        "gloss": "of bodies",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "havāma̱he",
+      "words": [
+       {
+        "w": "havāmahe",
+        "gloss": "we call",
+        "gram": "1 pl. pres. mid. √hū"
+       }
+      ]
+     },
+     {
+      "src": "'va̭spartaradhiva̱ktāra̭masma̱yum",
+      "words": [
+       {
+        "w": "avaspartaḥ",
+        "gloss": "O deliverer",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "adhi-vaktāram",
+        "gloss": "advocate",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "asmayum",
+        "gloss": "friendly to us",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bṛha̭spate",
+      "words": [
+       {
+        "w": "bṛhaspate",
+        "gloss": "O Bṛhaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "deva̱nido̱",
+      "words": [
+       {
+        "w": "deva-nidaḥ",
+        "gloss": "scorners of the gods",
+        "gram": "m. acc. pl. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ba̭rhaya̱",
+      "words": [
+       {
+        "w": "barhaya",
+        "gloss": "crush",
+        "gram": "2 sg. impv. caus. √bṛh"
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "du̱revā̱",
+      "words": [
+       {
+        "w": "durevāḥ",
+        "gloss": "evil-doers",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "utta̭raṃ",
+      "words": [
+       {
+        "w": "uttaram",
+        "gloss": "higher",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱mnamunna̭śan",
+      "words": [
+       {
+        "w": "sumnam",
+        "gloss": "favour",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ut",
+        "gloss": "up",
+        "gram": "ind."
+       },
+       {
+        "w": "naśan",
+        "gloss": "may they reach",
+        "gram": "3 pl. aor. inj. √naś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हम तुम्हें शरीरों के रक्षक, हे उद्धारक, पक्षसमर्थक और हमारे प्रति मित्रभाव वाले के रूप में बुलाते हैं। हे बृहस्पति, देवों की निन्दा करने वालों को नीचे कुचल दो; दुष्ट लोग ऊँचे अनुग्रह तक न पहुँचें।",
+  "english": "We call you the protector of bodies, O deliverer, the advocate, friendly to us. O Bṛhaspati, crush down the scorners of the gods; let not the evil-doers attain the higher favour.",
+  "text_flags": [],
+  "notes": "avaspartar is taken as a vocative 'deliverer' (avaspartṛ, uncertain sense); adhivaktṛ 'advocate' (literally one who speaks for). durevāḥ 'evil-doers' is a guess at the sense (duḥ + evā); ut naśan 'may they reach up to' is doubtful. The printed 'avagraha' in 'havāma̱he 'va̭spartar' marks the lost a of avaspartar.",
+  "confidence": "low"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvayā̭",
+      "words": [
+       {
+        "w": "tvayā",
+        "gloss": "by you",
+        "gram": "2 sg. inst."
+       }
+      ]
+     },
+     {
+      "src": "va̱yaṃ",
+      "words": [
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "1 pl. nom."
+       }
+      ]
+     },
+     {
+      "src": "su̱vṛdhā̭",
+      "words": [
+       {
+        "w": "su-vṛdhā",
+        "gloss": "good strengthener",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahmaṇaspate",
+      "words": [
+       {
+        "w": "brahmaṇaspate",
+        "gloss": "O Brahmaṇaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "spā̱rhā",
+      "words": [
+       {
+        "w": "spārhā",
+        "gloss": "desirable",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vasṷ",
+      "words": [
+       {
+        "w": "vasu",
+        "gloss": "goods",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "manu̱ṣyā",
+      "words": [
+       {
+        "w": "manuṣyā",
+        "gloss": "human",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "da̭dīmahi",
+      "words": [
+       {
+        "w": "dadīmahi",
+        "gloss": "may we receive",
+        "gram": "1 pl. opt. mid. √dā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "f. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "from us",
+        "gram": "1 pl. abl."
+       }
+      ]
+     },
+     {
+      "src": "dū̱re",
+      "words": [
+       {
+        "w": "dūre",
+        "gloss": "far",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ta̱ḻito̱",
+      "words": [
+       {
+        "w": "taḻit",
+        "gloss": "near",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yāḥ",
+        "gloss": "which",
+        "gram": "f. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "arā̭tayo̱",
+      "words": [
+       {
+        "w": "arātayaḥ",
+        "gloss": "hostile ones",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "'bhi",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "against",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "santi̭",
+      "words": [
+       {
+        "w": "santi",
+        "gloss": "they are",
+        "gram": "3 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "ja̱mbhayā̱",
+      "words": [
+       {
+        "w": "jambhaya",
+        "gloss": "crush",
+        "gram": "2 sg. impv. caus. √jambh"
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tāḥ",
+        "gloss": "them",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭na̱pnasa̭:",
+      "words": [
+       {
+        "w": "anapnasaḥ",
+        "gloss": "without possessions",
+        "gram": "f. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे ब्रह्मणस्पति, तुम्हारे सहारे, उत्तम बढ़ाने वाले, हम मनुष्यों की प्रिय सम्पत्तियाँ प्राप्त करें। जो हमसे दूर या निकट हैं, और जो शत्रुतापूर्ण शक्तियाँ हमारे विरुद्ध हैं, उन्हें कुचल दो, उन्हें सम्पत्तिहीन करके।",
+  "english": "By you, O Brahmaṇaspati, good strengthener, may we receive the desirable human goods. Those that are far from us or near, and the hostile ones that are against us — crush them, without possessions.",
+  "text_flags": [],
+  "notes": "manuṣyā taken as neuter plural 'human'; it could be a form meaning 'for men'. yāḥ naḥ dūre taḻit: the construction is unclear (taḻit 'near' or 'at hand'); the antecedent of yāḥ is not stated beyond arātayaḥ. anapnasaḥ 'without possessions' (an-apnas) is a guess from the root; the relation to tāḥ is unclear.",
+  "confidence": "low"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tvayā̭",
+      "words": [
+       {
+        "w": "tvayā",
+        "gloss": "by you",
+        "gram": "2 sg. inst."
+       }
+      ]
+     },
+     {
+      "src": "va̱yamṷtta̱maṃ",
+      "words": [
+       {
+        "w": "vayam",
+        "gloss": "we",
+        "gram": "1 pl. nom."
+       },
+       {
+        "w": "uttamam",
+        "gloss": "highest",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhī̭mahe̱",
+      "words": [
+       {
+        "w": "dhīmahe",
+        "gloss": "we hold",
+        "gram": "1 pl. pres. mid. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "vayo̱",
+      "words": [
+       {
+        "w": "vayaḥ",
+        "gloss": "vigour",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛha̭spate̱",
+      "words": [
+       {
+        "w": "bṛhaspate",
+        "gloss": "O Bṛhaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "papri̭ṇā̱",
+      "words": [
+       {
+        "w": "papriṇā",
+        "gloss": "bounteous",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sasni̭nā",
+      "words": [
+       {
+        "w": "sasninā",
+        "gloss": "winning",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yu̱jā",
+      "words": [
+       {
+        "w": "yujā",
+        "gloss": "by the ally",
+        "gram": "m. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "1 pl. acc."
+       }
+      ]
+     },
+     {
+      "src": "du̱:śaṃso̭",
+      "words": [
+       {
+        "w": "duḥ-śaṃsaḥ",
+        "gloss": "slanderer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "abhidi̱psurī̭śata̱",
+      "words": [
+       {
+        "w": "abhi-dipsuḥ",
+        "gloss": "wishing to deceive",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "īśata",
+        "gloss": "may he have power",
+        "gram": "3 sg. aor. subj. mid. √īś"
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "su̱śaṃsā̭",
+      "words": [
+       {
+        "w": "su-śaṃsāḥ",
+        "gloss": "well-praising",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ma̱tibhi̭stāriṣīmahi",
+      "words": [
+       {
+        "w": "matibhiḥ",
+        "gloss": "with thoughts",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "tāriṣīmahi",
+        "gloss": "may we advance",
+        "gram": "1 pl. aor. opt. mid. √tṝ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे बृहस्पति, तुम जैसे परिपूर्ण करने वाले, विजयी सखा के साथ हम सर्वोत्तम जीवन-शक्ति धारण करें। छल करने की इच्छा वाला निन्दक हम पर अधिकार न करे; उत्तम स्तुति करते हुए हम अपने विचारों से आगे बढ़ें।",
+  "english": "With you, O Bṛhaspati, the bounteous, winning ally, may we hold the highest vigour. Let not the slanderer who wishes to deceive have power over us; praising well, may we advance with our thoughts.",
+  "text_flags": [],
+  "notes": "vayaḥ 'vigour' (also 'food, life'). yujā 'ally' (literally yoke-fellow). abhidipsu 'wishing to deceive' (also 'wishing to harm'). su-śaṃsāḥ 'well-praising' could also be 'well praised'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱nā̱nu̱do",
+      "words": [
+       {
+        "w": "anānudaḥ",
+        "gloss": "not driven back",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̭ṣa̱bho",
+      "words": [
+       {
+        "w": "vṛṣabhaḥ",
+        "gloss": "bull",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jagmi̭rāha̱vaṃ",
+      "words": [
+       {
+        "w": "jagmiḥ",
+        "gloss": "going",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "āhavam",
+        "gloss": "contest",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "niṣṭa̭ptā̱",
+      "words": [
+       {
+        "w": "niṣ-taptā",
+        "gloss": "scorcher",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śatru̱ṃ",
+      "words": [
+       {
+        "w": "śatrum",
+        "gloss": "foe",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pṛta̭nāsu",
+      "words": [
+       {
+        "w": "pṛtanāsu",
+        "gloss": "in battles",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sāsa̱hiḥ",
+      "words": [
+       {
+        "w": "sāsahiḥ",
+        "gloss": "overcoming",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "asi̭",
+      "words": [
+       {
+        "w": "asi",
+        "gloss": "you are",
+        "gram": "2 sg. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "sa̱tya",
+      "words": [
+       {
+        "w": "satyaḥ",
+        "gloss": "true",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛ̭ṇa̱yā",
+      "words": [
+       {
+        "w": "ṛṇayāḥ",
+        "gloss": "avenger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bra̭hmaṇaspata",
+      "words": [
+       {
+        "w": "brahmaṇaspate",
+        "gloss": "O Brahmaṇaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "u̱grasya̭",
+      "words": [
+       {
+        "w": "ugrasya",
+        "gloss": "of the fierce",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "cid",
+      "words": [
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dami̱tā",
+      "words": [
+       {
+        "w": "damitā",
+        "gloss": "tamer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vī̭ḻuha̱rṣiṇa̭:",
+      "words": [
+       {
+        "w": "vīḻu-harṣiṇaḥ",
+        "gloss": "exulting in strength",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अनुत्तेजित न होने वाला, वृषभ, युद्ध में जाने वाला, शत्रु को तपाने वाला और संग्रामों में विजयी — हे ब्रह्मणस्पति, तुम सत्य हो, प्रतिशोध लेने वाले हो, उग्र और बल में हर्षित होने वाले का भी दमन करने वाले हो।",
+  "english": "Not driven back, the bull, going to the contest, scorching the foe, overcoming in battles — you are true, the avenger, O Brahmaṇaspati, the tamer even of the fierce, of the one exulting in strength.",
+  "text_flags": [],
+  "notes": "anānuda 'not driven back' (not to be repelled); ṛṇayā 'avenger' is uncertain (one who pursues a debt or guilt); vīḻu-harṣin 'exulting in strength' is uncertain. The first line has no finite verb; 'you are' in line 2 supplies it.",
+  "confidence": "low"
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "adḙvena̱",
+      "words": [
+       {
+        "w": "adevena",
+        "gloss": "godless",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "mana̭sā̱",
+      "words": [
+       {
+        "w": "manasā",
+        "gloss": "with mind",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "ri̭ṣa̱ṇyati̭",
+      "words": [
+       {
+        "w": "riṣaṇyati",
+        "gloss": "he wishes to harm",
+        "gram": "3 sg. pres. den. √riṣ"
+       }
+      ]
+     },
+     {
+      "src": "śā̱sāmu̱gro",
+      "words": [
+       {
+        "w": "śāsām",
+        "gloss": "of the instructors",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "ugraḥ",
+        "gloss": "fierce",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "manya̭māno̱",
+      "words": [
+       {
+        "w": "manyamānaḥ",
+        "gloss": "thinking himself",
+        "gram": "m. nom. sg. pres. part. mid. √man"
+       }
+      ]
+     },
+     {
+      "src": "jighā̭ṃsati",
+      "words": [
+       {
+        "w": "jighāṃsati",
+        "gloss": "he wishes to strike",
+        "gram": "3 sg. des. √han"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bṛha̭spate̱",
+      "words": [
+       {
+        "w": "bṛhaspate",
+        "gloss": "O Bṛhaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "praṇa̱k",
+      "words": [
+       {
+        "w": "praṇak",
+        "gloss": "may it reach",
+        "gram": "3 sg. aor. inj. pra-√naś"
+       }
+      ]
+     },
+     {
+      "src": "tasya̭",
+      "words": [
+       {
+        "w": "tasya",
+        "gloss": "his",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "no",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "1 pl. acc."
+       }
+      ]
+     },
+     {
+      "src": "va̱dho",
+      "words": [
+       {
+        "w": "vadhaḥ",
+        "gloss": "weapon",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni",
+      "words": [
+       {
+        "w": "ni",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ka̭rma",
+      "words": [
+       {
+        "w": "karma",
+        "gloss": "we lay",
+        "gram": "1 pl. aor. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "ma̱nyuṃ",
+      "words": [
+       {
+        "w": "manyum",
+        "gloss": "wrath",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "du̱reva̭sya̱",
+      "words": [
+       {
+        "w": "durevasya",
+        "gloss": "of the evil-doer",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śardha̭taḥ",
+      "words": [
+       {
+        "w": "śardhataḥ",
+        "gloss": "of the insolent",
+        "gram": "m. gen. sg. pres. part. √śardh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो देवहीन मन से हानि करना चाहता है, उग्र बनकर अपने को मानता हुआ शासकों को मारना चाहता है — हे बृहस्पति, उसका शस्त्र हमें न पहुँचे; उस दुष्ट और धृष्ट के क्रोध को हम दबा दें।",
+  "english": "He who with a godless mind wishes to harm, fierce and thinking himself so, wishes to strike the instructors — O Bṛhaspati, let not his weapon reach us; we lay down the wrath of the evil-doer, the insolent one.",
+  "text_flags": [],
+  "notes": "śāsām is uncertain (gen. pl. of śās 'instructor' or 'commander'; the translation 'instructors' is a guess; 'commands' is also possible). manyamāna ugraḥ 'fierce and thinking himself so' is a free reading: 'thinking himself fierce'. vadhaḥ 'weapon' (also 'slaying'). ni karma 'we lay down' (ni-√kṛ 'subdue') is doubtful.",
+  "confidence": "low"
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bharḙṣu̱",
+      "words": [
+       {
+        "w": "bhareṣu",
+        "gloss": "in battles",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "havyo̱",
+      "words": [
+       {
+        "w": "havyaḥ",
+        "gloss": "to be invoked",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "nama̭sopa̱sadyo̱",
+      "words": [
+       {
+        "w": "namasā",
+        "gloss": "with homage",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "upa-sadyaḥ",
+        "gloss": "to be approached",
+        "gram": "m. nom. sg. gerundive"
+       }
+      ]
+     },
+     {
+      "src": "gantā̱",
+      "words": [
+       {
+        "w": "gantā",
+        "gloss": "goer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vājḙṣu̱",
+      "words": [
+       {
+        "w": "vājeṣu",
+        "gloss": "in the prize-contests",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sani̭tā̱",
+      "words": [
+       {
+        "w": "sanitā",
+        "gloss": "winner",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhana̭ṃdhanam",
+      "words": [
+       {
+        "w": "dhanam-dhanam",
+        "gloss": "every treasure",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viśvā̱",
+      "words": [
+       {
+        "w": "viśvāḥ",
+        "gloss": "all",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ida̱ryo",
+      "words": [
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "aryaḥ",
+        "gloss": "hostile",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭bhidi̱psvo̱3",
+      "words": [
+       {
+        "w": "abhidipsvaḥ",
+        "gloss": "deceitful",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mṛdho̱",
+      "words": [
+       {
+        "w": "mṛdhaḥ",
+        "gloss": "foes",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bṛha̱spati̱rvi",
+      "words": [
+       {
+        "w": "bṛhaspatiḥ",
+        "gloss": "Bṛhaspati",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭varhā̱",
+      "words": [
+       {
+        "w": "vavarha",
+        "gloss": "he has torn",
+        "gram": "3 sg. pf. √bṛh"
+       }
+      ]
+     },
+     {
+      "src": "rathā̭~",
+      "words": [
+       {
+        "w": "rathān",
+        "gloss": "chariots",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "iva",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "युद्धों में आह्वान करने योग्य, नमस्कार से पास पहुँचने योग्य, पुरस्कार-संग्रामों में जाने वाला, हर धन को जीतने वाला बृहस्पति — उसने सब शत्रुतापूर्ण, छल करने वाले शत्रुओं को रथों के समान तोड़ डाला है।",
+  "english": "To be invoked in battles, to be approached with homage, the goer into the prize-contests, winner of every treasure — Bṛhaspati has torn apart all the hostile, deceitful foes, as one tears apart chariots.",
+  "text_flags": [
+   {
+    "src": "a̭bhidi̱psvo̱3",
+    "suggest": "abhidipsvaḥ",
+    "why": "the digit 3 is the printed mark of a prolonged vowel; read abhidipsvaḥ"
+   }
+  ],
+  "notes": "The line-2 sentence is loosely joined to line 1 (Bṛhaspati is the subject of both). aryaḥ is taken as 'hostile' (arya 'lord, stranger' is also possible); abhidipsvaḥ 'deceitful' (also 'wishing to harm'). The printed digit 3 after abhidipsvo is the mark of a prolonged vowel, not a letter. vavarha taken as perfect of √bṛh 'tear' (uncertain).",
+  "confidence": "low"
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "teji̭ṣṭhayā",
+      "words": [
+       {
+        "w": "tejiṣṭhayā",
+        "gloss": "with the sharpest",
+        "gram": "f. inst. sg. superl."
+       }
+      ]
+     },
+     {
+      "src": "tapa̱nī",
+      "words": [
+       {
+        "w": "tapanī",
+        "gloss": "scorching one",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ra̱kṣasa̭stapa̱",
+      "words": [
+       {
+        "w": "rakṣasaḥ",
+        "gloss": "Rakṣases",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "tapa",
+        "gloss": "burn",
+        "gram": "2 sg. impv. √tap"
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "tvā̭",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "2 sg. acc. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "ni̱de",
+      "words": [
+       {
+        "w": "nide",
+        "gloss": "for scorn",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "da̭dhi̱re",
+      "words": [
+       {
+        "w": "dadhire",
+        "gloss": "they have set",
+        "gram": "3 pl. pf. mid. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "dṛ̱ṣṭavī̭ryam",
+      "words": [
+       {
+        "w": "dṛṣṭa-vīryam",
+        "gloss": "of seen valour",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā̱vistat",
+      "words": [
+       {
+        "w": "āviḥ",
+        "gloss": "manifest",
+        "gram": "ind."
+       },
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̭ṣva̱",
+      "words": [
+       {
+        "w": "kṛṣva",
+        "gloss": "make",
+        "gram": "2 sg. impv. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "yadasa̭t",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg. rel."
+       },
+       {
+        "w": "asat",
+        "gloss": "it may be",
+        "gram": "3 sg. aor. subj. √as"
+       }
+      ]
+     },
+     {
+      "src": "ta",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "2 sg. gen."
+       }
+      ]
+     },
+     {
+      "src": "u̱kthyaṃ1bṛha̭spate̱",
+      "words": [
+       {
+        "w": "ukthyam",
+        "gloss": "praiseworthy",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "bṛhaspate",
+        "gloss": "O Bṛhaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pa̭ri̱rāpo̭",
+      "words": [
+       {
+        "w": "pari-rāpaḥ",
+        "gloss": "slanderers",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ardaya",
+      "words": [
+       {
+        "w": "ardaya",
+        "gloss": "scatter",
+        "gram": "2 sg. impv. caus. √ard"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अपने सबसे तीक्ष्ण तापक से राक्षसों को जलाओ, जिन्होंने तुम्हें, जिसका पराक्रम देखा गया है, निन्दा के लिए रखा है। तुम्हारा जो स्तुत्य है, उसे प्रकट करो; हे बृहस्पति, निन्दकों को तितर-बितर कर दो।",
+  "english": "With your sharpest scorcher burn the Rakṣases who have set you, whose valour is seen, to scorn. Make manifest that of yours which is praiseworthy; O Bṛhaspati, scatter the slanderers.",
+  "text_flags": [
+   {
+    "src": "u̱kthyaṃ1bṛha̭spate̱",
+    "suggest": "ukthyaṃ bṛhaspate",
+    "why": "the digit 1 is probably residue of a printed independent svarita sign; possible"
+   }
+  ],
+  "notes": "tapanī is unclear (taken as an instrumental 'scorcher', an unstated weapon); the line 1 construction is uncertain. ye tvā nide dadhire: 'have set you to scorn' (nide dat. 'for scorn/reproach') is literal. The printed digit 1 in ukthyaṃ1bṛhaspate is residue of a printed accent sign; read ukthyaṃ bṛhaspate. tat ... yad asat te ukthyam: 'that which may be your praiseworthy (thing)'.",
+  "confidence": "low"
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bṛha̭spate̱",
+      "words": [
+       {
+        "w": "bṛhaspate",
+        "gloss": "O Bṛhaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ati̱",
+      "words": [
+       {
+        "w": "ati",
+        "gloss": "beyond",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yada̱ryo",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg. rel."
+       },
+       {
+        "w": "aryaḥ",
+        "gloss": "lord",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "arhā̭d",
+      "words": [
+       {
+        "w": "arhāt",
+        "gloss": "he deserves",
+        "gram": "3 sg. subj. √arh"
+       }
+      ]
+     },
+     {
+      "src": "dyu̱madvi̱bhāti̱",
+      "words": [
+       {
+        "w": "dyumat",
+        "gloss": "brilliantly",
+        "gram": "ind."
+       },
+       {
+        "w": "vibhāti",
+        "gloss": "it shines",
+        "gram": "3 sg. pres. vi-√bhā"
+       }
+      ]
+     },
+     {
+      "src": "kratṷma̱jjanḙṣu",
+      "words": [
+       {
+        "w": "kratumat",
+        "gloss": "with resolve",
+        "gram": "ind."
+       },
+       {
+        "w": "janeṣu",
+        "gloss": "among the peoples",
+        "gram": "m. loc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "dī̱daya̱cchava̭sa",
+      "words": [
+       {
+        "w": "dīdayat",
+        "gloss": "it has shone",
+        "gram": "3 sg. aor. √dī"
+       },
+       {
+        "w": "śavasaḥ",
+        "gloss": "of strength",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛtaprajāta̱",
+      "words": [
+       {
+        "w": "ṛta-prajāta",
+        "gloss": "O born of ṛta",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tada̱smāsu̱",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "asmāsu",
+        "gloss": "in us",
+        "gram": "1 pl. loc."
+       }
+      ]
+     },
+     {
+      "src": "dravi̭ṇaṃ",
+      "words": [
+       {
+        "w": "draviṇam",
+        "gloss": "wealth",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhehi",
+      "words": [
+       {
+        "w": "dhehi",
+        "gloss": "place",
+        "gram": "2 sg. impv. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "ci̱tram",
+      "words": [
+       {
+        "w": "citram",
+        "gloss": "wonderful",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे बृहस्पति, जो कुछ स्वामी अधिक योग्य है, वह मनुष्यों में तेज और संकल्प के साथ दीप्त होता है। हे ऋत से उत्पन्न, जो बल से चमका है, वह अद्भुत धन हममें स्थापित करो।",
+  "english": "O Bṛhaspati, what the lord deserves beyond others shines brilliantly, with resolve, among the peoples. That which has shone from strength, O you born of ṛta, that wonderful wealth place in us.",
+  "text_flags": [],
+  "notes": "Obscure. ati ... arhāt (ati-√arh 'deserves beyond, surpasses') and aryaḥ ('lord' or 'stranger, enemy') make line 1 uncertain; the rendering 'what the lord deserves beyond others' is tentative. dīdayat śavasaḥ 'has shone from strength' (the case of śavasaḥ is uncertain). ṛtaprajāta 'born of ṛta' (also 'born in due order').",
+  "confidence": "low"
+ },
+ {
+  "n": "16",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na̭:",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "1 pl. acc."
+       }
+      ]
+     },
+     {
+      "src": "ste̱nebhyo̱",
+      "words": [
+       {
+        "w": "stenebhyaḥ",
+        "gloss": "to thieves",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "ye",
+      "words": [
+       {
+        "w": "ye",
+        "gloss": "who",
+        "gram": "m. nom. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "a̱bhi",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "against",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dru̱haspa̱de",
+      "words": [
+       {
+        "w": "druhaḥ",
+        "gloss": "of deceit",
+        "gram": "f. gen. sg."
+       },
+       {
+        "w": "pade",
+        "gloss": "in the place",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni̭rā̱miṇo̭",
+      "words": [
+       {
+        "w": "nirāmiṇaḥ",
+        "gloss": "ruthless",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ri̱pavo'nnḙṣu",
+      "words": [
+       {
+        "w": "ripavaḥ",
+        "gloss": "deceivers",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "anneṣu",
+        "gloss": "in food",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "jāgṛ̱dhuḥ",
+      "words": [
+       {
+        "w": "jāgṛdhuḥ",
+        "gloss": "they are greedy",
+        "gram": "3 pl. pf. √gṛdh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "de̱vānā̱moha̭te̱",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "ohate",
+        "gloss": "unclear",
+        "gram": "unclear form"
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vrayo̭",
+      "words": [
+       {
+        "w": "vrayaḥ",
+        "gloss": "branch",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "hṛ̱di",
+      "words": [
+       {
+        "w": "hṛdi",
+        "gloss": "in the heart",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛha̭spate̱",
+      "words": [
+       {
+        "w": "bṛhaspate",
+        "gloss": "O Bṛhaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pa̱raḥ",
+      "words": [
+       {
+        "w": "paraḥ",
+        "gloss": "others",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "sāmno̭",
+      "words": [
+       {
+        "w": "sāmnaḥ",
+        "gloss": "songs",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "viduḥ",
+      "words": [
+       {
+        "w": "viduḥ",
+        "gloss": "they know",
+        "gram": "3 pl. pf. √vid"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हमें उन चोरों के हाथ न सौंपना जो छल के स्थान पर निर्दयी और ठग बनकर अन्नों के लिए लालायित रहते हैं। देवों का ओहते; हृदय में शाखा; हे बृहस्पति, दूसरे लोग सामों को नहीं जानते।",
+  "english": "Not to the thieves, who ruthless and deceitful are greedy for food in the place of deceit. Of the gods ohate; a branch in the heart; O Bṛhaspati, others do not know the sāmans.",
+  "text_flags": [],
+  "notes": "Line 1 is incomplete in grammar (mā naḥ stenebhyaḥ has no verb; 'not to the thieves' is left unfinished). Line 2 is obscure: ohate is an unclear form (possibly from ā-√vah or ā-√ūh), vi vrayaḥ is unclear (vraya 'branch'?), and the relation to na paraḥ sāmnaḥ viduḥ is not established; the translation is deliberately literal and tentative. paraḥ 'others' and sāman 'song' are standard. druhaḥ pade 'in the place of deceit'. Confidence is low throughout.",
+  "confidence": "low"
+ },
+ {
+  "n": "17",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viśvḙbhyo̱",
+      "words": [
+       {
+        "w": "viśvebhyaḥ",
+        "gloss": "from all",
+        "gram": "m. abl. pl."
+       }
+      ]
+     },
+     {
+      "src": "hi",
+      "words": [
+       {
+        "w": "hi",
+        "gloss": "for",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvā̱",
+      "words": [
+       {
+        "w": "tvā",
+        "gloss": "you",
+        "gram": "2 sg. acc. enclitic"
+       }
+      ]
+     },
+     {
+      "src": "bhuva̭nebhya̱spari̱",
+      "words": [
+       {
+        "w": "bhuvanebhyaḥ",
+        "gloss": "beings",
+        "gram": "n. abl. pl."
+       },
+       {
+        "w": "pari",
+        "gloss": "out of",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tvaṣṭāja̭na̱t",
+      "words": [
+       {
+        "w": "tvaṣṭā",
+        "gloss": "Tvaṣṭṛ",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ajanat",
+        "gloss": "begot",
+        "gram": "3 sg. impf. √jan"
+       }
+      ]
+     },
+     {
+      "src": "sāmna̭:sāmnaḥ",
+      "words": [
+       {
+        "w": "sāmnaḥ-sāmnaḥ",
+        "gloss": "from each song",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "ka̱viḥ",
+      "words": [
+       {
+        "w": "kaviḥ",
+        "gloss": "seer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛ̭ṇa̱cidṛ̭ṇa̱yā",
+      "words": [
+       {
+        "w": "ṛṇa-cit",
+        "gloss": "debt-collector",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ṛṇayāḥ",
+        "gloss": "avenger",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇa̱spati̭rdru̱ho",
+      "words": [
+       {
+        "w": "brahmaṇaspatiḥ",
+        "gloss": "Brahmaṇaspati",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "druhaḥ",
+        "gloss": "of deceit",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ha̱ntā",
+      "words": [
+       {
+        "w": "hantā",
+        "gloss": "slayer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱ha",
+      "words": [
+       {
+        "w": "mahaḥ",
+        "gloss": "great",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛ̱tasya̭",
+      "words": [
+       {
+        "w": "ṛtasya",
+        "gloss": "of ṛta",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dha̱rtari̭",
+      "words": [
+       {
+        "w": "dhartari",
+        "gloss": "in the upholder",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "क्योंकि सब भुवनों से ऊपर, हर साम से, कवि त्वष्टा ने तुम्हें उत्पन्न किया। वह ऋण-वसूल करने वाला, प्रतिशोधी ब्रह्मणस्पति, छल का संहारक, महान् ऋत के धारण करने वाले में है।",
+  "english": "For the seer Tvaṣṭṛ begot you out of all beings, from each song. He, the debt-collector, the avenger, Brahmaṇaspati, the slayer of deceit, is in the upholder of the great ṛta.",
+  "text_flags": [],
+  "notes": "Obscure. viśvebhyo bhuvanebhyaḥ pari: 'out of all beings' (pari with ablative; 'above all beings' is also possible). sāmnaḥ-sāmnaḥ taken as a distributive 'from each song' (the exact sense is uncertain). ṛṇacit and ṛṇayā ('debt-collector', 'avenger') are uncertain. The last clause mahaḥ ṛtasya dhartari is unclear: 'in the upholder of the great ṛta' is literal, and the grammar of the verse's second line is tentative. Printed sāmna:sāmnaḥ is one token.",
+  "confidence": "low"
+ },
+ {
+  "n": "18",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tava̭",
+      "words": [
+       {
+        "w": "tava",
+        "gloss": "your",
+        "gram": "2 sg. gen."
+       }
+      ]
+     },
+     {
+      "src": "śri̱ye",
+      "words": [
+       {
+        "w": "śriye",
+        "gloss": "for splendour",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "vya̭jihīta̱",
+      "words": [
+       {
+        "w": "vi-ajihīta",
+        "gloss": "it opened",
+        "gram": "3 sg. impf. mid. vi-√hā"
+       }
+      ]
+     },
+     {
+      "src": "parva̭to̱",
+      "words": [
+       {
+        "w": "parvataḥ",
+        "gloss": "mountain",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "gavā̭ṃ",
+      "words": [
+       {
+        "w": "gavām",
+        "gloss": "of cows",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "go̱tramu̱dasṛ̭jo̱",
+      "words": [
+       {
+        "w": "gotram",
+        "gloss": "pen",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "udasṛjaḥ",
+        "gloss": "you released",
+        "gram": "2 sg. impf. ud-√sṛj"
+       }
+      ]
+     },
+     {
+      "src": "yada̭ṅgiraḥ",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "aṅgiraḥ",
+        "gloss": "O Aṅgiras",
+        "gram": "m. voc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "indrḙṇa",
+      "words": [
+       {
+        "w": "indreṇa",
+        "gloss": "with Indra",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yu̱jā",
+      "words": [
+       {
+        "w": "yujā",
+        "gloss": "by the ally",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "tama̭sā̱",
+      "words": [
+       {
+        "w": "tamasā",
+        "gloss": "by darkness",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "parī̭vṛta̱ṃ",
+      "words": [
+       {
+        "w": "parīvṛtam",
+        "gloss": "enveloped",
+        "gram": "m. acc. sg. ppp. pari-√vṛ"
+       }
+      ]
+     },
+     {
+      "src": "bṛha̭spate̱",
+      "words": [
+       {
+        "w": "bṛhaspate",
+        "gloss": "O Bṛhaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "nira̱pāmaṷbjo",
+      "words": [
+       {
+        "w": "nis",
+        "gloss": "out",
+        "gram": "ind."
+       },
+       {
+        "w": "apām",
+        "gloss": "of the waters",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "aubjaḥ",
+        "gloss": "you forced",
+        "gram": "2 sg. impf. √ubj"
+       }
+      ]
+     },
+     {
+      "src": "arṇa̱vam",
+      "words": [
+       {
+        "w": "arṇavam",
+        "gloss": "flood",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हारे तेज के लिए पर्वत खुल गया, जब तुमने, हे अङ्गिरस्, गौओं के बाड़े को छोड़ दिया। हे बृहस्पति, इन्द्र को साथी बनाकर तुमने अन्धकार से घिरे जलों के प्रवाह को बाहर निकाल दिया।",
+  "english": "For your splendour the mountain opened apart, when you released the pen of cows, O Aṅgiras. With Indra as your ally, O Bṛhaspati, you forced out the flood of the waters, enveloped in darkness.",
+  "text_flags": [],
+  "notes": "śriye 'for splendour' (also 'for glory/for beauty'). vi ajihīta taken as impf. of vi-√hā 'gape, open apart'. yujā taken as 'ally'. parīvṛtam agrees with arṇavam; nir ... aubjaḥ 'forced out' (√ubj 'press, force'). The printed token nirapāmaubjo has an odd character in the source (aṷbjo).",
+  "confidence": "medium"
+ },
+ {
+  "n": "19",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "brahma̭ṇaspate̱",
+      "words": [
+       {
+        "w": "brahmaṇaspate",
+        "gloss": "O Brahmaṇaspati",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tvama̱sya",
+      "words": [
+       {
+        "w": "tvam",
+        "gloss": "you",
+        "gram": "2 sg. nom."
+       },
+       {
+        "w": "asya",
+        "gloss": "of this",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ya̱ntā",
+      "words": [
+       {
+        "w": "yantā",
+        "gloss": "guide",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sū̱ktasya̭",
+      "words": [
+       {
+        "w": "sūktasya",
+        "gloss": "of the hymn",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bodhi̱",
+      "words": [
+       {
+        "w": "bodhi",
+        "gloss": "heed",
+        "gram": "2 sg. impv. √budh"
+       }
+      ]
+     },
+     {
+      "src": "tana̭yaṃ",
+      "words": [
+       {
+        "w": "tanayam",
+        "gloss": "offspring",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jinva",
+      "words": [
+       {
+        "w": "jinva",
+        "gloss": "quicken",
+        "gram": "2 sg. impv. √jinv"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "viśva̱ṃ",
+      "words": [
+       {
+        "w": "viśvam",
+        "gloss": "all",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tadbha̱draṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       },
+       {
+        "w": "bhadram",
+        "gloss": "good",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadava̭nti",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "which",
+        "gram": "n. acc. sg. rel."
+       },
+       {
+        "w": "avanti",
+        "gloss": "they favour",
+        "gram": "3 pl. pres. √av"
+       }
+      ]
+     },
+     {
+      "src": "de̱vā",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bṛ̱had",
+      "words": [
+       {
+        "w": "bṛhat",
+        "gloss": "loudly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭dema",
+      "words": [
+       {
+        "w": "vadema",
+        "gloss": "may we speak",
+        "gram": "1 pl. opt. √vad"
+       }
+      ]
+     },
+     {
+      "src": "vi̱dathḙ",
+      "words": [
+       {
+        "w": "vidathe",
+        "gloss": "at the rite",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱vīrā̭:",
+      "words": [
+       {
+        "w": "su-vīrāḥ",
+        "gloss": "rich in heroes",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे ब्रह्मणस्पति, तुम इसके नियन्ता हो; सूक्त पर ध्यान दो और हमारी सन्तान को जीवन दो। वह सब कल्याणकारी है जिसकी देव रक्षा करते हैं। उत्तम वीरों से युक्त होकर हम यज्ञ में ऊँचे स्वर से बोलें।",
+  "english": "O Brahmaṇaspati, you are the guide of this; heed the hymn and quicken our offspring. All that is good which the gods favour. Rich in heroes, may we speak loudly at the rite.",
+  "text_flags": [],
+  "notes": "asya 'of this' has no stated noun (the rite or the hymn); yantā 'guide, controller'. tanayam 'offspring' is singular but collective. yad avanti: 'which the gods favour' (avanti 'help, favour'). The refrain bṛhad vadema vidathe suvīrāḥ is standard.",
+  "confidence": "medium"
+ }
+]
