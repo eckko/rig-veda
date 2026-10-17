@@ -1,0 +1,198 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "जैसे वज्र",
+"problem": "aśanī is 'thunderbolt' (English); vajra is a fixed separate rendering, so Hindi 'वज्र' for aśani blurs the two words.",
+"fix": "जैसे अशनि वृक्ष को",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "जैसे वज्र वृक्ष को",
+"new": "जैसे अशनि वृक्ष को"
+}
+},
+{
+"field": "text_flags",
+"where": "tadvaśāya~",
+"problem": "The printed token carries an unexplained nasal ('~') before eṣa; the notes mention it but text_flags is empty. It should be listed as a flag (printed nasal on tad-vaśāya, no expected sandhi).",
+"fix": "add text_flag src 'tadvaśāya̭~', why: unexplained nasal before eṣa",
+"severity": "minor"
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "who for you opened Vala",
+"problem": "The verb 'opened' is supplied for 'apa hi valam vaḥ' (apa 'away', hi 'for' unrendered) and presented as plain translation; the notes admit tmesis and 'a reading'. Mark in notes as supplied or reword.",
+"fix": "note that the verb is supplied (e.g. 'apa ... valam: verb supplied, probably \"opened\"')",
+"severity": "minor"
+}
+]
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "w",
+"where": "ya",
+"problem": "w must be the dictionary-style form: ya is yaḥ before u- (as in every other unit of this hymn).",
+"fix": "yaḥ",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "word",
+"match_w": "ya",
+"field": "w",
+"value": "yaḥ"
+}
+}
+]
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "gram",
+"where": "rudhikrām",
+"problem": "A masculine a-stem accusative would end in -am; rudhikrām is the accusative of the feminine name Rudhikrā, so 'm.' is wrong (the Hindi/English only give the name, so no change there).",
+"fix": "f. acc. sg. (name)",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "rudhikrām",
+"field": "gram",
+"value": "f. acc. sg. (name)"
+}
+}
+]
+},
+{
+"n": "6",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "7",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "8",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "9",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "the purified Soma",
+"problem": "nipūtam stands alone in the line; 'Soma' is supplied. (The Hindi correctly has only 'शुद्ध किए हुए को'.)",
+"fix": "lift up the purified one in the wood",
+"severity": "minor",
+"patch": {
+"n": "9",
+"op": "replace",
+"field": "english",
+"old": "lift up the purified Soma in the wood",
+"new": "lift up the purified one in the wood"
+}
+}
+]
+},
+{
+"n": "10",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "īm",
+"problem": "Gloss 'him' contradicts its gram '(part.)'; it is unrendered in English and Hindi, so treat as a particle.",
+"fix": "emphatic particle",
+"severity": "minor",
+"patch": {
+"n": "10",
+"op": "word",
+"match_w": "īm",
+"field": "gloss",
+"value": "emphatic particle"
+}
+},
+{
+"field": "english",
+"where": "I know of him this hidden thing",
+"problem": "'ma' (me) is glossed 'to me' but appears in neither English nor Hindi; either render it or note it as unrendered.",
+"fix": "add note: 'me (ma) is left unrendered / attached to nibhṛtam'",
+"severity": "minor"
+}
+]
+},
+{
+"n": "11",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "12",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "speak loudly at the rite",
+"problem": "The brief's one wording for this refrain is 'may we, rich in heroes, speak greatly in the rite' (bṛhad vadema vidathe suvīrāḥ).",
+"fix": "speak greatly in the rite",
+"severity": "minor",
+"patch": {
+"n": "12",
+"op": "replace",
+"field": "english",
+"old": "speak loudly at the rite",
+"new": "speak greatly in the rite"
+}
+},
+{
+"field": "gloss",
+"where": "bṛhat",
+"problem": "Same.",
+"fix": "greatly",
+"severity": "minor",
+"patch": {
+"n": "12",
+"op": "word",
+"match_w": "bṛhat",
+"field": "gloss",
+"value": "greatly"
+}
+},
+{
+"field": "gram",
+"where": "śravasyāḥ",
+"problem": "Labelled 'f. nom. pl.' but it describes the speakers ('we'); the gender label is unsupported.",
+"fix": "'nom. pl. (uncertain)'",
+"severity": "minor"
+}
+]
+}
+],
+"summary": "Reviewed 12 units. 0 errors, 11 minor (7 with machine patches). The draft is sound: tokens, splits, cases and roots check out, names are kept as names, uncertain verses carry low or medium confidence. Issues: Rudhikrā labelled m. (unit 5), w 'ya' for yaḥ (unit 4), supplied words ('Soma' in unit 9, verb 'opened' in unit 3), unrendered 'me' (unit 10), Hindi वज्र for aśani (unit 2), unlisted nasal text_flag (unit 2), final refrain not in the fixed wording (unit 12). Units 1, 6, 7, 8, 11 are ok. No regrouping suggested."
+}

@@ -345,16 +345,9 @@
 "problem": "Labelled 'f. nom. pl.' but it describes the speakers ('we'); the gender label is unsupported (the form is a nom. pl. in -āḥ of an adjective/denominative); the translation 'desiring glory' is fine.",
 "fix": "'nom. pl. (uncertain)'",
 "severity": "minor"
-},
-{
-"field": "notes",
-"where": "'The same verse recurs as 2.14.12 (line b with a different word division in the print)'",
-"problem": "The claim about a different word division is not checkable from this chunk; keep only if it matches ch014's printed line.",
-"fix": "check against ch014 chunk1_in",
-"severity": "minor"
 }
 ]
 }
 ],
-"summary": "Reviewed 13 units. 0 errors, 23 minor (about 19 with machine patches). All units except 4, 9 and 12 have at least one issue. The draft is honest about the very obscure verses (low confidence), and tokens and splits match the print. Issues: Hindi/English disagreement (units 2, 5, 6, 7, 8, 11), added or altered words in Hindi (भी, सबसे, बलवती, बाँधों, बढ़ाया), vājin not rendered as prize-winner, the refrain 'tā' labelled n. instead of f. tāḥ (units 2-4), untranslated second tat in unit 3, the final refrain not in the fixed wording (unit 13), gloss 'first milk' for pīyūṣa. No regrouping suggested."
+"summary": "Reviewed 13 units. 0 errors, 22 minor (17 with machine patches). All units except 4, 9 and 12 have at least one issue. The draft is honest about the very obscure verses (low confidence), and tokens and splits match the print. Issues: Hindi/English disagreement (units 2, 5, 6, 7, 8, 11), added or altered words in Hindi (भी, सबसे, बलवती, बाँधों, बढ़ाया), vājin not rendered as prize-winner, the refrain 'tā' labelled n. instead of f. tāḥ (units 2-4), untranslated second tat in unit 3, the final refrain not in the fixed wording (unit 13), gloss 'first milk' for pīyūṣa. No regrouping suggested."
 }
