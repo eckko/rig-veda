@@ -7,3 +7,12 @@ Rigveda hymns. Do not import later commentary (Sayana etc.) or later tradition; 
 - dyāvāpṛthivī = Heaven and Earth (द्यावापृथिवी); asura (in the Ṛgveda) = lord/god, gloss "asura"
 - Aṅgiras = Aṅgiras (अङ्गिरस्); Maruts = Maruts (मरुत्)
 - Hindi: names in Devanagari; no Latin letters.
+
+## Added after review of RV 2.3 (reviewer proposals)
+- Vasus = Vasus (वसु); Ādityas = Ādityas (आदित्य); viśve devāḥ = all gods (सब देव)
+- barhis = barhis, sacred grass (बर्हि); svāhā = svāhā (स्वाहा)
+- svadhā = own power (स्वधा) in every chunk; dhī = thought (धी)
+- apas = work(s), Hindi कार्य (not कर्म)
+- vanaspati = Lord of the Forest (no identification with a post or sacrificial pillar in the translation)
+- śamitṛ = Śamitṛ (शमिता); su-vīra = rich in heroes (उत्तम वीरों से युक्त); varṇa = colour (kind)
+- No bracketed interpretations inside translations or glosses; interpretations go in `notes`.
