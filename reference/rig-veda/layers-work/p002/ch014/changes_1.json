@@ -1,0 +1,55 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे अध्वर्युओ, जिसने जलों को घेरने वाले वृत्र को मारा, जैसे वज्र वृक्ष को; उसके लिए इसे लाओ, जो उसे चाहता है; यह इन्द्र इसके पान के योग्य है।",
+  "new": "हे अध्वर्युओ, जिसने जलों को घेरने वाले वृत्र को मारा, जैसे अशनि वृक्ष को; उसके लिए इसे लाओ, जो उसे चाहता है; यह इन्द्र इसके पान के योग्य है।",
+  "why": "reviewer (minor): aśanī is 'thunderbolt' (English); vajra is a fixed separate rendering, so Hindi 'वज्र' for aśani blurs the two words."
+ },
+ {
+  "n": "4",
+  "field": "word.w",
+  "word": "ya",
+  "old": "ya",
+  "new": "yaḥ",
+  "why": "reviewer (minor): w must be the dictionary-style form: ya is yaḥ before u- (as in every other unit of this hymn)."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "rudhikrām",
+  "old": "m. acc. sg. (name)",
+  "new": "f. acc. sg. (name)",
+  "why": "reviewer (minor): A masculine a-stem accusative would end in -am; rudhikrām is the accusative of the feminine name Rudhikrā, so 'm.' is wrong (the Hindi/English only give the name, so no change there)."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "O Adhvaryu priests, make ready service for him; lift up the purified Soma in the wood. Enjoying, he bellows to you toward what is in the hand; offer the intoxicating Soma to Indra.",
+  "new": "O Adhvaryu priests, make ready service for him; lift up the purified one in the wood. Enjoying, he bellows to you toward what is in the hand; offer the intoxicating Soma to Indra.",
+  "why": "reviewer (minor): nipūtam stands alone in the line; 'Soma' is supplied. (The Hindi correctly has only 'शुद्ध किए हुए को'.)"
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "īm",
+  "old": "him",
+  "new": "emphatic particle",
+  "why": "reviewer (minor): Gloss 'him' contradicts its gram '(part.)'; it is unrendered in English and Hindi, so treat as a particle."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "To us, O good one, bring about that bounty for giving; much is your wealth. Indra, that which is wondrous, desiring glory day after day, may we, rich in heroes, speak loudly at the rite.",
+  "new": "To us, O good one, bring about that bounty for giving; much is your wealth. Indra, that which is wondrous, desiring glory day after day, may we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): The brief's one wording for this refrain is 'may we, rich in heroes, speak greatly in the rite' (bṛhad vadema vidathe suvīrāḥ)."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "bṛhat",
+  "old": "loudly",
+  "new": "greatly",
+  "why": "reviewer (minor): Same."
+ }
+]

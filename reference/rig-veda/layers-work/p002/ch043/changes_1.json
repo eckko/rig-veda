@@ -1,0 +1,105 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "The singers praise, keeping to the right; the birds, the small birds, speak in due season. He speaks both voices like a Sāman-chanter, and shines in accord with both the gāyatra and the triṣṭubh.",
+  "new": "The singers praise, keeping to the right; the birds, the small birds, speak in due season. He speaks both voices like a Sāman-chanter, and shines in accord with both the gāyatra and the traiṣṭubha.",
+  "why": "reviewer (minor): The word is traiṣṭubham (neuter, the sāman/chant of the triṣṭubh), not the metre name; the English changes the word and the notes call both 'metre names', an interpretation."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "traiṣṭubham",
+  "old": "the triṣṭubh",
+  "new": "the traiṣṭubha",
+  "why": "reviewer (minor): Keep the gloss on the printed word, as for gāyatram."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "śakuntayaḥ",
+  "old": "m. nom. pl.",
+  "new": "f. nom. pl.",
+  "why": "reviewer (minor): śakunti is feminine (unit 042.3 labels śakunte f.); 'm.' is inconsistent."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे पक्षी, उद्गाता के समान तुम साम गाते हो; ब्रह्मा के पुत्र के समान यज्ञ के सवनों में शंसन करते हो। बलवान बैल की तरह, बच्चों वाली मादाओं के पास जाकर, सब ओर से हमारे लिए, हे पक्षी, कल्याणकारी बोलो। हर ओर से हमारे लिए, हे पक्षी, पुण्यकारी बोलो।",
+  "new": "हे पक्षी, उद्गाता के समान तुम साम गाते हो; ब्रह्मा के पुत्र के समान सवनों में शंसन करते हो। बलवान बैल की तरह, बच्चों वाली मादाओं के पास जाकर, सब ओर से हमारे लिए, हे पक्षी, कल्याणकारी बोलो। हर ओर से हमारे लिए, हे पक्षी, पुण्यकारी बोलो।",
+  "why": "reviewer (minor): 'यज्ञ के' is added; English 'at the pressings' (savana = pressing)."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "Like an Udgātṛ priest, O bird, you sing a sāman; like a son of a Brahman you recite at the pressings. Like a vigorous bull, having approached those with young, speak out what is good to us from all sides, O bird. From every side, O bird, speak out what is auspicious to us.",
+  "new": "Like an Udgātṛ priest, O bird, you sing a sāman; like a son of a Brahman you recite at the pressings. Like a bull, a prize-winner, having approached those with young, speak out what is good to us from all sides, O bird. From every side, O bird, speak out what is auspicious to us.",
+  "why": "reviewer (minor): Glossary fixes vājin = prize-winner; 'vigorous' deviates."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "vājī",
+  "old": "vigorous",
+  "new": "prize-winner",
+  "why": "reviewer (minor): Same as above."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे पक्षी, उद्गाता के समान तुम साम गाते हो; ब्रह्मा के पुत्र के समान सवनों में शंसन करते हो। बलवान बैल की तरह, बच्चों वाली मादाओं के पास जाकर, सब ओर से हमारे लिए, हे पक्षी, कल्याणकारी बोलो। हर ओर से हमारे लिए, हे पक्षी, पुण्यकारी बोलो।",
+  "new": "हे पक्षी, उद्गाता के समान तुम साम गाते हो; ब्रह्मा के पुत्र के समान सवनों में शंसन करते हो। बैल की तरह, पुरस्कार जीतने वाले, बच्चों वाली मादाओं के पास जाकर, सब ओर से हमारे लिए, हे पक्षी, कल्याणकारी बोलो। हर ओर से हमारे लिए, हे पक्षी, पुण्यकारी बोलो।",
+  "why": "reviewer (minor): Same as above (glossary vājin = prize-winner)."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे पक्षी, उद्गाता के समान तुम साम गाते हो; ब्रह्मा के पुत्र के समान सवनों में शंसन करते हो। बैल की तरह, पुरस्कार जीतने वाले, बच्चों वाली मादाओं के पास जाकर, सब ओर से हमारे लिए, हे पक्षी, कल्याणकारी बोलो। हर ओर से हमारे लिए, हे पक्षी, पुण्यकारी बोलो।",
+  "new": "हे पक्षी, उद्गाता के समान तुम साम गाते हो; ब्रह्मा के पुत्र के समान सवनों में शंसन करते हो। बैल की तरह, पुरस्कार जीतने वाले, बच्चों वालियों के पास जाकर, सब ओर से हमारे लिए, हे पक्षी, कल्याणकारी बोलो। हर ओर से हमारे लिए, हे पक्षी, पुण्यकारी बोलो।",
+  "why": "reviewer (minor): 'मादाओं' (females) is an addition; English has 'those with young'."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे पक्षी, उद्गाता के समान तुम साम गाते हो; ब्रह्मा के पुत्र के समान सवनों में शंसन करते हो। बैल की तरह, पुरस्कार जीतने वाले, बच्चों वालियों के पास जाकर, सब ओर से हमारे लिए, हे पक्षी, कल्याणकारी बोलो। हर ओर से हमारे लिए, हे पक्षी, पुण्यकारी बोलो।",
+  "new": "हे पक्षी, उद्गाता के समान तुम साम गाते हो; ब्रह्मा के पुत्र के समान सवनों में शंसन करते हो। बैल की तरह, पुरस्कार जीतने वाले, बच्चों वालियों के पास जाकर, सब ओर से हमारे लिए, हे पक्षी, कल्याणकारी बोलो। हर ओर से हमारे लिए, हे पक्षी, शुभ बोलो।",
+  "why": "reviewer (minor): puṇya = 'auspicious' (English); 'पुण्यकारी' means 'virtue-producing'."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "śiśu-matīḥ",
+  "old": "f. acc. pl. bahuvrīhi",
+  "new": "f. acc. pl. (śiśumatī, -mat suffix)",
+  "why": "reviewer (minor): 'bahuvrīhi' is the wrong label: śiśumatī is a possessive derivative in -mant, not a compound."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Speaking out, O bird, speak what is good; sitting silent, take notice of our good will. When, flying up, you speak like a karkari, may we, rich in heroes, speak greatly in the rite.",
+  "new": "Speaking out, O bird, speak what is good; sitting silent, take notice of our favour. When, flying up, you speak like a karkari, may we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): Glossary: sumati = favour."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "sumatim",
+  "old": "good will",
+  "new": "favour",
+  "why": "reviewer (minor): Same as above."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हे पक्षी, तुम बोलते हुए कल्याणकारी बोलो; चुप बैठे हुए हमारी सुमति का ध्यान रखो। जब उड़ते हुए तुम बोलते हो, कर्करि के समान, तब हम उत्तम वीरों से युक्त होकर यज्ञ में महान् वचन बोलें।",
+  "new": "हे पक्षी, तुम बोलते हुए कल्याणकारी बोलो; चुप बैठे हुए हमारी सुमति का ध्यान रखो। जब उड़ते हुए तुम बोलते हो, कर्करि के समान, हम उत्तम वीरों से युक्त होकर यज्ञ में महान् वचन बोलें।",
+  "why": "reviewer (minor): 'तब' (then) is added; the last two pādas are loosely joined and the notes say so."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हे पक्षी, तुम बोलते हुए कल्याणकारी बोलो; चुप बैठे हुए हमारी सुमति का ध्यान रखो। जब उड़ते हुए तुम बोलते हो, कर्करि के समान, हम उत्तम वीरों से युक्त होकर यज्ञ में महान् वचन बोलें।",
+  "new": "हे पक्षी, तुम बोलते हुए कल्याणकारी बोलो; चुप बैठे हुए हमारी सुमति का ध्यान रखो। जब उड़ते हुए तुम बोलते हो, कर्करि के समान, हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Hindi refrain adds the noun 'वचन' (words) that is not in bṛhad vadema; 'speak greatly' has no object."
+ }
+]

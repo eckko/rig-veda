@@ -1,0 +1,15 @@
+chunk 1: 14 units, 30 patches applied (30 changes logged), 7 issues without patch, 0 patches failed
+  MANUAL unit 1 [minor] gram / asṛkṣi: gram says '1 sg. aor. pass.', the gloss says 'has been sent forth' (a 3 sg. sense), and the English says 'I have sent forth' (active); three readings in three fields.
+         suggested fix: Pick one (e.g. gram '1 sg./3 sg. aor. pass.', gloss and English consistent) and keep the alternative in notes.
+  MANUAL unit 1 [minor] english / may the rivers place delight: The translation commits to nādyaḥ = 'rivers' although the notes concede that the singular dadhīta does not agree; kuvit is also 'surely' here but 'perhaps' in unit 2.
+         suggested fix: Keep the translation tentative in notes only; render kuvit the same way in both verses.
+  MANUAL unit 4 [minor] hindi / जल के रूप में जाती हैं: 'in the form of' is added; the English has the waters in apposition ('the young women go ... the waters').
+         suggested fix: Render the apposition literally, e.g. '... शुद्ध की जाती हुई, जाती हैं, जल।'
+  MANUAL unit 7 [minor] notes / This unit has 4 printed lines: The note is misleading: the four lines are two verses (7ab and 7cd, the latter standard RV 2.35.8 'yo apsv ā ...'), each a complete sentence, which the translations already keep apart.
+         suggested fix: Regroup: split into two units (lines a-b and c-d), or at least say in the note that two verses are printed under one number.
+  MANUAL unit 8 [minor] hindi / टेढ़ी बहने वालियों ... तीव्र धाराएँ: 'बहने' (flowing) and 'धाराएँ' (streams) supply nouns that jihmānām and hiraṇyavarṇāḥ yahvīḥ do not have; the English keeps them as 'the slanting ones' and 'swift ones'.
+         suggested fix: टेढ़ियों की गोद ... सोने के रंग वाली तीव्र वालियाँ (or keep the noun in notes only)
+  MANUAL unit 9 [minor] split / niṣadya: The printed token is niṣadyā (long ā); the split 'niṣadya' silently drops the length. Either it is the lengthened absolutive niṣadyā or niṣadya + ā; the notes should say which.
+         suggested fix: Record the printed ā in w/gram or add a note.
+  MANUAL unit 10 [minor] split / samittha: 'samittha' is not a word: the printed sami̱tthā is sam + itthā ('together' + 'thus').
+         suggested fix: Split into two words: sam [together; ind.] and itthā [thus; ind.]

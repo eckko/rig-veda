@@ -1,0 +1,3 @@
+chunk 1: 3 units, 6 patches applied (6 changes logged), 1 issues without patch, 0 patches failed
+  MANUAL unit 3 [minor] gram / naḥ (mā naḥ stena īśata): īś takes the genitive, so naḥ is gen. pl., not acc. pl.; the label occurs on the word 'naḥ' whose w is also used by other tokens in the unit, so no machine patch (match_w not unique).
+         suggested fix: gen. pl.

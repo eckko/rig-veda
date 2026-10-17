@@ -1,0 +1,156 @@
+[
+ {
+  "n": "2",
+  "field": "english",
+  "old": "May Mitra, Aryaman and Varuṇa, of one will, enjoy this praise of mine today; the Ādityas, bright, purified by streams, without crookedness, faultless, unharmed.",
+  "new": "May Mitra, Aryaman and Varuṇa, of one resolve, enjoy this praise of mine today; the Ādityas, bright, purified by streams, without crookedness, faultless, unharmed.",
+  "why": "reviewer (minor): kratu is fixed as \"resolve\"; Hindi already has संकल्प."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "sa-kratavaḥ",
+  "old": "of one will",
+  "new": "of one resolve",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "The Ādityas upheld what moves and what stands, the gods, guardians of the whole world; of far-reaching thought, guarding lordship, keepers of truth, taking note of debts.",
+  "new": "The Ādityas upheld what moves and what stands, the gods, guardians of the whole world; of far-reaching thought, guarding lordship, keepers of order, taking note of debts.",
+  "why": "reviewer (minor): ṛta = order; ṛtāvan = keeper of order."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "आदित्य देवों ने चलने वाले और स्थिर को धारण किया, जो सारे भुवन के रक्षक हैं; दीर्घ विचार वाले, प्रभुत्व की रक्षा करते हुए, सत्य के पालक, ऋणों पर ध्यान रखते हुए।",
+  "new": "आदित्य देवों ने चलने वाले और स्थिर को धारण किया, जो सारे भुवन के रक्षक हैं; दीर्घ विचार वाले, प्रभुत्व की रक्षा करते हुए, ऋत के पालक, ऋणों पर ध्यान रखते हुए।",
+  "why": "reviewer (minor): ṛta is ऋत in Hindi."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "ṛtāvānaḥ",
+  "old": "keepers of truth",
+  "new": "keepers of order",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "हे अर्यमा, हे मित्र, तुम्हारा मार्ग सुगम है, काँटों से रहित है; हे वरुण, वह सीधा है। हे आदित्यो, उससे हमारे पक्ष में बोलो और हमें ऐसा आश्रय दो जिसे रोका न जा सके।",
+  "new": "हे अर्यमा, हे मित्र, क्योंकि तुम्हारा मार्ग सुगम है, काँटों से रहित है; हे वरुण, वह सीधा है। हे आदित्यो, उससे हमारे पक्ष में बोलो और हमें ऐसा आश्रय दो जिसे रोका न जा सके।",
+  "why": "reviewer (minor): hi (\"for\") is dropped in Hindi; the English has \"For\"."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "They upheld the three earths and the three heavens; among these there are three ordinances in the rite. By truth, O Ādityas, great is your greatness; that, O Aryaman, Varuṇa and Mitra, is lovely.",
+  "new": "They upheld the three earths and the three heavens; among these there are three ordinances in the rite. By order, O Ādityas, great is your greatness; that, O Aryaman, Varuṇa and Mitra, is lovely.",
+  "why": "reviewer (minor): ṛta = order."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "उन्होंने तीन भूमियों को और तीन द्युलोकों को धारण किया; इनके बीच यज्ञ में तीन व्रत हैं। हे आदित्यो, सत्य से तुम्हारी महिमा महान् है; हे अर्यमा, वरुण और मित्र, वह सुन्दर है।",
+  "new": "उन्होंने तीन भूमियों को और तीन द्युलोकों को धारण किया; इनके बीच यज्ञ में तीन व्रत हैं। हे आदित्यो, ऋत से तुम्हारी महिमा महान् है; हे अर्यमा, वरुण और मित्र, वह सुन्दर है।",
+  "why": "reviewer (minor): ṛta is ऋत in Hindi."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "ṛtena",
+  "old": "by truth",
+  "new": "by order",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "asura",
+  "old": "O lord",
+  "new": "asura",
+  "why": "reviewer (minor): The glossary fixes the gloss of asura as \"asura\" (translation \"lord/god\"); the draft glosses \"O lord\"."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "जिसने सत्य से बंधे राजाओं को दान दिया, जिसे स्थायी पोषण बढ़ाते हैं, वह धनी रथ से सबसे आगे जाता है, वसुओं का दाता, यज्ञों में प्रशंसित।",
+  "new": "जिसने सत्य से बंधे राजाओं को दान दिया, जिसे स्थायी पोषण बढ़ाते हैं, वह धनी रथ से सबसे आगे जाता है, धन का दाता, यज्ञों में प्रशंसित।",
+  "why": "reviewer (error): Error: Hindi has \"giver of the Vasus\", but vasu here is \"goods\" (English \"giver of goods\"; the note says Vasus is not meant)."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "He who has given to the truth-bound kings, whom lasting nourishments strengthen, that wealthy one goes first by chariot, a giver of goods, praised at the rites.",
+  "new": "He who has given to the order-bound kings, whom lasting nourishments strengthen, that wealthy one goes first by chariot, a giver of goods, praised at the rites.",
+  "why": "reviewer (minor): ṛta = order (ṛta-nibhyaḥ is also marked unclear)."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "जिसने सत्य से बंधे राजाओं को दान दिया, जिसे स्थायी पोषण बढ़ाते हैं, वह धनी रथ से सबसे आगे जाता है, धन का दाता, यज्ञों में प्रशंसित।",
+  "new": "जिसने ऋत से बंधे राजाओं को दान दिया, जिसे स्थायी पोषण बढ़ाते हैं, वह धनी रथ से सबसे आगे जाता है, धन का दाता, यज्ञों में प्रशंसित।",
+  "why": "reviewer (minor): ṛta is ऋत in Hindi."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "ṛta-nibhyaḥ",
+  "old": "truth-bound",
+  "new": "order-bound",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Both, joined together, swell for him the rain of heaven, the fortunate one, thriving. Winning both dwellings he goes in battles; both increasers become good for him.",
+  "new": "Both, joined together, swell for him the rain of heaven, the fortunate one indeed, thriving. Winning both dwellings he goes in battles; both increasers become good for him.",
+  "why": "reviewer (minor): nāma (glossed \"indeed\") is dropped from both translations; the note admits it may also mean \"by name\"."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "दोनों मिलकर उसके लिए आकाश की वर्षा को बढ़ाते हैं; वह भाग्यवान्, पुष्ट होता हुआ। दोनों निवासों को जीतता हुआ वह युद्धों में जाता है; दोनों वर्धक उसके लिए अच्छे होते हैं।",
+  "new": "दोनों मिलकर उसके लिए आकाश की वर्षा को बढ़ाते हैं; वह सचमुच भाग्यवान्, पुष्ट होता हुआ। दोनों निवासों को जीतता हुआ वह युद्धों में जाता है; दोनों वर्धक उसके लिए अच्छे होते हैं।",
+  "why": "reviewer (minor): nāma dropped in Hindi."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "हे पूजनीय आदित्यो, तुम्हारी जो मायाएँ हैं, जो हानि करने वाले, शत्रु के लिए फैलाए हुए फंदे हैं। घोड़ों वाले की तरह मैं रथ से उनके पार जाऊँ; अक्षत हम विस्तृत आश्रय में रहें।",
+  "new": "हे पूजनीय आदित्यो, तुम्हारी जो मायाएँ हैं, जो हानि करने वाले के लिए, छली के लिए फैलाए हुए फंदे हैं। घोड़ों वाले की तरह मैं रथ से उनके पार जाऊँ; अक्षत हम विस्तृत आश्रय में रहें।",
+  "why": "reviewer (minor): ripave is \"deceiver\" in the English; Hindi has \"शत्रु\", and \"हानि करने वाले\" floats loose, so abhidruhe and ripave are not rendered as two datives."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "O Varuṇa, may I not come upon emptiness from a bounteous, dear, much-giving friend. O king, may I not fall away from well held wealth; rich in heroes, may we speak greatly at the rite.",
+  "new": "O Varuṇa, may I not come upon emptiness from a bountiful, dear, much-giving friend. O king, may I not fall away from well held wealth; rich in heroes, may we speak greatly at the rite.",
+  "why": "reviewer (minor): maghavan/maghonī is fixed as \"bountiful\"."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "maghonaḥ",
+  "old": "of the bounteous",
+  "new": "of the bountiful",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "O Varuṇa, may I not come upon emptiness from a bountiful, dear, much-giving friend. O king, may I not fall away from well held wealth; rich in heroes, may we speak greatly at the rite.",
+  "new": "O Varuṇa, may I not come upon emptiness from a bountiful, dear, much-giving friend. O king, may I not fall away from well held wealth; rich in heroes, may we speak greatly in the rite.",
+  "why": "reviewer (minor): Refrain wording fixed in the glossary is \"in the rite\"."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "vidathe",
+  "old": "at the rite",
+  "new": "in the rite",
+  "why": "reviewer (minor): Same."
+ }
+]

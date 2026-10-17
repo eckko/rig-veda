@@ -1,0 +1,7 @@
+chunk 1: 6 units, 21 patches applied (21 changes logged), 3 issues without patch, 0 patches failed
+  MANUAL unit 4 [minor] text_flags / sva1rṇa: The digit 1 is not a stray mark: it is the Vaidika notation for the independent svarita on a vowel resolved from kṣaipra (svar read suvar); the flag text calls it both "stray" and "independent svarita". Nothing is misprinted, so no correction svarṇa is needed.
+         suggested fix: drop the flag or reword it as "notation, not a typo"
+  MANUAL unit 5 [error] split / atri-vat + nu: Invented analysis. The printed text is atrim anu (Devanagari अत्रिमनु): atrim = Atri (acc.), anu = after/along. "atri-vat" is not in the text and there is no "nu" to account for the final u.
+         suggested fix: atrim (m. acc. sg., Atri) + anu (ind., after)
+  MANUAL unit 5 [error] text_flags / atri̱manṷ: The flag claims the printed form is "not a recognisable word" and suggests the invented "atrivan nu". The printed atrim anu is regular; there is no typo.
+         suggested fix: remove the flag

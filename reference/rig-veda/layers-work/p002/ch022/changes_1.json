@@ -1,0 +1,67 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "तब तेजस्वी होकर उसने बल से युद्ध में क्रिवि को पराभूत किया; उसने अपनी महिमा से द्यावापृथिवी को भर दिया और आगे बढ़ा। उसने दूसरे को पेट में रखा और वह आगे निकल गया। उस महान् देव, सत्य इन्द्र का वह देव, सत्य इन्दु अनुसरण करे।",
+  "new": "तब तेजस्वी होकर उसने बल से युद्ध में क्रिवि को पराभूत किया; उसने अपनी महिमा से द्यावापृथिवी को भर दिया और आगे बढ़ा। उसने दूसरे को पेट में रखा और वह आगे निकल गया। उस देव, सत्य इन्द्र का वह देव, सत्य इन्दु अनुसरण करे।",
+  "why": "reviewer (error): \"महान्\" is added: in this unit the refrain has no mahām urum (that is only in unit 1); English has \"the god, the true Indra\"."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "Then, full of splendour, by might he overcame Krivi in battle; he filled Heaven and Earth with his greatness and grew forth. He placed another in his belly, and he exceeded forth. May the true drop, a god, attend him, the god, the true Indra.",
+  "new": "Then, full of splendour, by might he overcame Krivi in battle; he filled the two worlds with his greatness and grew forth. He placed another in his belly, and he exceeded forth. May the true drop, a god, attend him, the god, the true Indra.",
+  "why": "reviewer (minor): Glossary: rodasī = the two worlds (दोनों लोक); \"Heaven and Earth\" is for dyāvā pṛthivī / dyāvāpṛthivī. Same in Hindi and gloss."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "तब तेजस्वी होकर उसने बल से युद्ध में क्रिवि को पराभूत किया; उसने अपनी महिमा से द्यावापृथिवी को भर दिया और आगे बढ़ा। उसने दूसरे को पेट में रखा और वह आगे निकल गया। उस देव, सत्य इन्द्र का वह देव, सत्य इन्दु अनुसरण करे।",
+  "new": "तब तेजस्वी होकर उसने बल से युद्ध में क्रिवि को पराभूत किया; उसने अपनी महिमा से दोनों लोकों को भर दिया और आगे बढ़ा। उसने दूसरे को पेट में रखा और वह आगे निकल गया। उस देव, सत्य इन्द्र का वह देव, सत्य इन्दु अनुसरण करे।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "rodasī",
+  "old": "Heaven and Earth",
+  "new": "the two worlds",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Together with resolve you were born, together with might you grew strong; together with heroic deeds grown great, you are the overcomer of foes, all-surveying. You are the giver of bounty, of desirable wealth, to the praiser. May the true drop, a god, attend him, the god, the true Indra.",
+  "new": "Together with resolve you were born, together with might you grew strong; together with heroic deeds having grown, you are the overcomer of foes, all-surveying. You are the giver of bounty, of desirable wealth, to the praiser. May the true drop, a god, attend him, the god, the true Indra.",
+  "why": "reviewer (minor): \"great\" is added: vṛddhaḥ is just \"grown\" (the gloss says \"grown\")."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "तुम संकल्प के साथ उत्पन्न हुए, बल के साथ तुम बढ़े; वीर कर्मों के साथ बढ़ा हुआ तुम शत्रुओं को पराभूत करने वाले और सब ओर देखने वाले हो। तुम स्तुति करने वाले को वाञ्छित धन और दान के देने वाले हो। उस देव, सत्य इन्द्र का वह देव, सत्य इन्दु अनुसरण करे।",
+  "new": "तुम संकल्प के साथ उत्पन्न हुए, बल के साथ तुम बढ़े; वीर कार्यों के साथ बढ़ा हुआ तुम शत्रुओं को पराभूत करने वाले और सब ओर देखने वाले हो। तुम स्तुति करने वाले को वाञ्छित धन और दान के देने वाले हो। उस देव, सत्य इन्द्र का वह देव, सत्य इन्दु अनुसरण करे।",
+  "why": "reviewer (minor): vīrya = heroic deeds; Hindi keeps कर्म for action and uses कार्य for works."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "That manly work of yours, O dancer, Indra, the first, the ancient, to be proclaimed in heaven, was done, when by the strength of the god you released the life-breath, releasing the waters. By might he overcame all that is without gods; the one of a hundred powers found strength, he found refreshment.",
+  "new": "That manly work of yours, O dancer, Indra, the first, the ancient, to be proclaimed in heaven, was done, when by the strength of the god you released the life-breath, releasing the waters. By might he overcame all that is without gods; the one of a hundred resolves found strength, he found refreshment.",
+  "why": "reviewer (minor): Glossary: kratu = resolve; \"powers\" deviates (also in the gloss of śata-kratuḥ). Keep one rendering across the hymn (unit 3 has kratunā = with resolve)."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "śata-kratuḥ",
+  "old": "of a hundred powers",
+  "new": "of a hundred resolves",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "हे नर्तक इन्द्र, तुम्हारा वह पुरुषोचित, प्रथम, प्राचीन कार्य, जो द्युलोक में घोषित करने योग्य किया गया, जब देव की शक्ति से तुमने जलों को बहाते हुए प्राण को मुक्त किया। उसने बल से सबको, देवरहित को भी, पराभूत किया; शतक्रतु ने बल पाया, उसने पोषण पाया।",
+  "new": "हे नर्तक इन्द्र, तुम्हारा वह पुरुषोचित, प्रथम, प्राचीन कार्य, जो द्युलोक में घोषित करने योग्य किया गया, जब देव की शक्ति से तुमने जलों को बहाते हुए प्राण को मुक्त किया। उसने बल से सब देवरहित को पराभूत किया; शतक्रतु ने बल पाया, उसने पोषण पाया।",
+  "why": "reviewer (minor): viśvam ādevam is one phrase, \"all that is without gods\"; Hindi splits it into two objects and adds \"भी\" (even)."
+ }
+]

@@ -1,0 +1,90 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "जो उत्पन्न होते ही प्रथम बुद्धिमान् देव होकर अपने संकल्प से देवों से आगे बढ़ गया; जिसके बल से, उसके पौरुष की महिमा से, दोनों लोक काँप उठे — हे जनो, वही इन्द्र है।",
+  "new": "जो उत्पन्न होते ही प्रथम, बुद्धिमान् देव, अपने संकल्प से देवों से आगे बढ़ गया; जिसके बल से, उसके पौरुष की महिमा से, दोनों लोक काँप उठे — हे जनो, वही इन्द्र है।",
+  "why": "reviewer (minor): 'होकर' (becoming) is not in the Sanskrit; prathamo manasvān devo are three nominatives in apposition, as the English has them."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "vyathamānām",
+  "old": "f. acc. sg. pres. part. mid. vi-√vyath",
+  "new": "f. acc. sg. pres. part. mid. √vyath",
+  "why": "reviewer (minor): The word is √vyath + -māna; there is no vi- preverb to count separately, and 'vi-√vyath' mislabels the root."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "जिसने काँपती हुई पृथिवी को दृढ़ किया, जिसने क्षुब्ध पर्वतों को शान्त किया; जिसने अत्यन्त विस्तृत अन्तरिक्ष को नापा और जिसने द्युलोक को थामा — हे जनो, वही इन्द्र है।",
+  "new": "जिसने काँपती हुई पृथिवी को दृढ़ किया, जिसने क्षुब्ध पर्वतों को शान्त किया; जिसने अधिक विस्तृत अन्तरिक्ष को नापा और जिसने द्युलोक को थामा — हे जनो, वही इन्द्र है।",
+  "why": "reviewer (minor): varīyaḥ is a comparative (English 'wider'); 'अत्यन्त' (very) is a different degree and disagrees with the English and the gloss."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "īm",
+  "old": "him",
+  "new": "emphatic particle",
+  "why": "reviewer (minor): Gloss 'him' contradicts its own gram '(part.)' and the note ('īm taken as an emphatic particle'); gloss should say what the note says."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "जो दुर्बल का, कृश का, याचना करने वाले ब्रह्मा का और स्तुति करने वाले का प्रेरक है; जो सुन्दर होठों वाला, जुते हुए पाषाणों वाले का और सोम निचोड़ चुके का रक्षक है — हे जनो, वही इन्द्र है।",
+  "new": "जो दुर्बल का, कृश का, याचना करने वाले ब्रह्मा का और स्तुति करने वाले का प्रेरक है; जो सुन्दर होठों वाला, जुते हुए निचोड़ने के पाषाणों वाले का और सोम निचोड़ चुके का रक्षक है — हे जनो, वही इन्द्र है।",
+  "why": "reviewer (minor): The English and gloss have 'pressing stones yoked' (grāvan); the Hindi drops 'pressing'."
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "yasmāt",
+  "old": "than whom",
+  "new": "from whom",
+  "why": "reviewer (minor): 'than whom' is a comparative sense; the ablative here depends on ṛte ('without whom'), as the note says. Gloss should be the plain ablative."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "जिसके बिना लोग विजय नहीं पाते, जिसे लड़ने वाले सहायता के लिए पुकारते हैं, जो सबका प्रतिरूप हुआ, जो अचल को भी हिला देता है — हे जनो, वही इन्द्र है।",
+  "new": "जिसके बिना लोग विजय नहीं पाते, जिसे लड़ने वाले सहायता के लिए पुकारते हैं, जो सबका प्रतिरूप हुआ, जो अचल को हिला देता है — हे जनो, वही इन्द्र है।",
+  "why": "reviewer (minor): 'भी' (even) is not in acyuta-cyut and not in the English."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "जिसने सात लगामों वाले, बैल जैसे बलवान् होकर, सात नदियों को बहने के लिए छोड़ा; जिसने बाहु में वज्र धारण करके द्युलोक पर चढ़ते हुए रौहिण को मार गिराया — हे जनो, वही इन्द्र है।",
+  "new": "जिसने सात लगामों वाले, बैल, बलवान् होकर, सात नदियों को बहने के लिए छोड़ा; जिसने बाहु में वज्र धारण करके द्युलोक पर चढ़ते हुए रौहिण को मार गिराया — हे जनो, वही इन्द्र है।",
+  "why": "reviewer (minor): 'जैसे' (like) turns the apposition vṛṣabhaḥ 'bull' into a simile; the English has 'a bull'."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "Heaven and Earth bow to him; even the mountains fear his fury. He who is the Soma-drinker, firmly set, with the vajra in his arm, who has the vajra in his hand — he, O people, is Indra.",
+  "new": "Heaven and Earth bow to him; even the mountains fear his vigour. He who is the Soma-drinker, firmly set, with the vajra in his arm, who has the vajra in his hand — he, O people, is Indra.",
+  "why": "reviewer (minor): śuṣma is 'vigour' in unit 1 (and Hindi बल here); 'fury' is inconsistent and unsupported."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "śuṣmāt",
+  "old": "from the fury",
+  "new": "from the vigour",
+  "why": "reviewer (minor): Same: keep 'vigour' as in unit 1."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "जो सोम निचोड़ने वाले की, पकाने वाले की, स्तुति करने वाले की और परिश्रम करने वाले की सहायता से रक्षा करता है; जिसकी स्तुति बढ़ाने वाली है, जिसका सोम है, जिसकी यह उदारता है — हे जनो, वही इन्द्र है।",
+  "new": "जो सोम निचोड़ने वाले की, पकाने वाले की, स्तुति करने वाले की और परिश्रम करने वाले की सहायता से रक्षा करता है; जिसका ब्रह्म बढ़ाने वाला है, जिसका सोम है, जिसकी यह उदारता है — हे जनो, वही इन्द्र है।",
+  "why": "reviewer (minor): brahma (n.) is 'prayer', Hindi ब्रह्म per the fixed renderings; स्तुति is stoma/praise. vardhana is neuter, so 'बढ़ाने वाला'."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "You who, unyielding, break open the prize for the one who presses and for the one who cooks, you indeed are true. May we, Indra, always dear to you, rich in heroes, speak at the rite.",
+  "new": "You who, unyielding, break open the prize for the one who presses and for the one who cooks, you indeed are true. May we, Indra, dear to you, rich in heroes, speak every day at the rite.",
+  "why": "reviewer (minor): viśvahā is 'every day' (the gloss and the Hindi 'प्रतिदिन' say so); 'always dear' attaches it to priyāsaḥ and changes the sense. Align English with Hindi and gloss."
+ }
+]

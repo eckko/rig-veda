@@ -1,0 +1,5 @@
+chunk 1: 3 units, 14 patches applied (14 changes logged), 2 issues without patch, 0 patches failed
+  MANUAL unit 1 [minor] gram / vadanta: vadanta is not a present middle (that would be vadante): it is the -anta (injunctive/imperfect-type) form; label accordingly.
+         suggested fix: 3 pl. mid. (-anta form) √vad
+  MANUAL unit 2 [minor] hindi / ब्रह्मा के पुत्र के समान: Hindi 'ब्रह्मा के पुत्र' reads as the son of the god Brahmā; English says 'a Brahman'. Glossary has Brahman priest = ब्रह्मा, but the notes call the sense uncertain. Align Hindi, English and notes on one reading.
+         suggested fix: decide with glossary

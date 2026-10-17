@@ -1,0 +1,7 @@
+chunk 1: 7 units, 11 patches applied (11 changes logged), 3 issues without patch, 0 patches failed
+  MANUAL unit 3 [minor] notes / adite could also be read with ca: This alternative is not workable (ca follows adite; a vocative cannot be 'read with ca' as an alternative to itself). Drop or rephrase; no patch.
+         suggested fix: delete the remark
+  MANUAL unit 4 [error] english / not be without ...: The translation breaks off with '...' and leaves 'madhyamavāṭ' as an untranslated Sanskrit word inside the English; the Hindi likewise has 'बिना ...'. A layer must give a complete rendering: translate mā vo ratho madhyamavāḍ ṛte bhūt literally, e.g. 'may your chariot, the middle-drawer, not be without ...' and say in the notes what is unclear, or give a full best-effort reading. Needs a human.
+         suggested fix: complete the sentence in English and Hindi
+  MANUAL unit 7 [minor] hindi / ऊँचे स्वर से: Refrain: 'loudly', not the glossary 'greatly'; Hindi refrain varies across chunks. Needs one glossary wording; no patch.
+         suggested fix: use the glossary Hindi wording

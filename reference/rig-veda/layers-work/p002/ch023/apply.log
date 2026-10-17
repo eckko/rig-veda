@@ -1,0 +1,11 @@
+chunk 1: 19 units, 45 patches applied (45 changes logged), 5 issues without patch, 0 patches failed
+  MANUAL unit 2 [minor] gram / asurya: "n. inst. sg." is not a regular form of asurya (n.; inst. asuryeṇa); the form printed is the bare stem/voc. Mark it honestly (inst. in function, irregular form, or voc.). No patch: needs a decision.
+         suggested fix: n. (irregular inst. or voc.)
+  MANUAL unit 3 [minor] gloss / pari-rāpaḥ: Rendered "slanders" here (and Hindi निन्दाओं) but "slanderers" in unit 14 with the same label m. acc. pl. Use one rendering. No patch: needs a decision.
+         suggested fix: slanderers (as in unit 14)
+  MANUAL unit 4 [minor] text_flags / manyumīrasi: The suggestion īrase is an invented variant: īrasi is the printed and a good 2 sg. active of √īr, so there is nothing to flag. Drop the flag.
+         suggested fix: remove the text_flag
+  MANUAL unit 13 [minor] gram / abhidipsvaḥ / aryaḥ / mṛdhaḥ: Labelled "m. acc. pl." but viśvāḥ is feminine, abhidipsvaḥ cannot be a masc. acc. pl. (that would be -ūn), aryaḥ is not an acc. pl. form of arya (aryān), and ch022 unit 3 labels mṛdhaḥ f. Decide the reading and make the labels agree. No patch.
+         suggested fix: mṛdhaḥ f. acc. pl.; abhidipsvaḥ f. acc. pl.; recheck aryaḥ (could be nom. pl. of ari or gen. sg.)
+  MANUAL unit 16 [minor] gram / paraḥ: "m. nom. pl." is wrong: the nom. pl. is parāḥ; paraḥ is nom. sg. (or adverbial) with a plural verb viduḥ. State this in the notes and keep "others" only if the reading is marked uncertain. No patch.
+         suggested fix: m. nom. sg. (with pl. verb) or adv.; note the problem

@@ -1,0 +1,127 @@
+[
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "pīyūṣam",
+  "old": "pīyūṣa, first milk",
+  "new": "pīyūṣa",
+  "why": "reviewer (minor): 'pīyūṣa, first milk' imports a later meaning (colostrum) and duplicates 'first' (prathamam); keep the bare word."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "वे मिलकर चारों ओर दूध धारण करती हुई आती हैं; सर्वरूप के लिए वे भोजन लाती हैं। ढलानों का मार्ग उनके बहने के लिए एक ही है। तू ने जो उन कार्यों को पहले किया, वह तू स्तुति के योग्य है।",
+  "new": "वे मिलकर चारों ओर दूध धारण करती हुई आती हैं; सर्वरूप के लिए वे भोजन लाती हैं। ढलानों के साथ बहने के लिए मार्ग एक ही है। तू ने जो उन कार्यों को पहले किया, वह तू स्तुति के योग्य है।",
+  "why": "reviewer (minor): Hindi makes 'ढलानों का' depend on 'मार्ग' and adds 'उनके'; English (and the gloss: pravatām anuṣyade, 'for running along the slopes') has the infinitive for flowing along the slopes. Align Hindi to English."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "तब तू ने पृथिवी को द्युलोक के साथ दिखाई देने योग्य बनाया; तू जो, हे अहिहन्, धाराओं के मार्ग खोलता है। उस तुझ बलशाली देव को देवों ने स्तोमों से, जलों की तरह, उत्पन्न किया; तू स्तुति के योग्य है।",
+  "new": "तब तू ने पृथिवी को द्युलोक के साथ दिखाई देने योग्य बनाया; तू जो, हे अहिहन्, धाराओं के मार्ग खोलता है। उस तुझ पुरस्कार जीतने वाले देव को देवों ने स्तोमों से, जलों की तरह, उत्पन्न किया; तू स्तुति के योग्य है।",
+  "why": "reviewer (minor): vājin is fixed as prize-winner (English has 'prize-winning'); 'बलशाली' (mighty) deviates from the glossary and from the English."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "sā",
+  "old": "pron.",
+  "new": "pron. m. nom. sg.",
+  "why": "reviewer (minor): Gram 'pron.' lacks case, number and gender."
+ },
+ {
+  "n": "5",
+  "field": "word.w",
+  "word": "sā",
+  "old": "sā",
+  "new": "saḥ",
+  "why": "reviewer (minor): Elsewhere in the hymn the same sandhi (sāsi = saḥ + asi) is split as saḥ; use the dictionary form here too."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "जो तू भोजन और वृद्धि देता है, गीले से लेकर सूखे तक मधुर को तू ने दुहा है। वह तू विवस्वान् में निधि स्थापित करता है; तू अकेला सबका स्वामी है; तू स्तुति के योग्य है।",
+  "new": "जो तू भोजन और वृद्धि बाँटता है, गीले से लेकर सूखे तक मधुर को तू ने दुहा है। वह तू विवस्वान् में निधि स्थापित करता है; तू अकेला सबका स्वामी है; तू स्तुति के योग्य है।",
+  "why": "reviewer (minor): dayase is √day 'share, distribute' (gloss and English 'share'); 'देता है' (gives) is a different verb."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "तू जिसने फूलों वाली और फल देने वाली धाराओं को अपने आधार से दान में अलग-अलग धारण किया; और जिसने स्वर्ग की अनुपम चमकती हुई को, चारों ओर विशाल घेरों को उत्पन्न किया; तू स्तुति के योग्य है।",
+  "new": "तू जिसने फूलों वाली और फल देने वाली धाराओं को अपने आधार से दान में अलग-अलग धारण किया; और जिसने स्वर्ग की अनुपम चमकने वालियों को, चारों ओर विशाल घेरों को उत्पन्न किया; तू स्तुति के योग्य है।",
+  "why": "reviewer (minor): didyutaḥ and asamāḥ are accusative plural (English 'unequalled shining ones'); Hindi is singular."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "तू जिसने नार्मर सहवसु को मारने के लिए पृक्ष्ण और दासवेश के लिए लाया; बलवती के अबाध मुख को, और आज भी बहुत करने वाला तू स्तुति के योग्य है।",
+  "new": "तू जिसने नार्मर सहवसु को मारने के लिए पृक्ष्ण और दासवेश के लिए लाया; बलवती के अबाध मुख को, और आज निश्चय ही बहुत करने वाला तू स्तुति के योग्य है।",
+  "why": "reviewer (minor): uta eva adya = 'and indeed today'; 'भी' (even) turns eva into 'even today', which the English does not have."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "तू जिसने नार्मर सहवसु को मारने के लिए पृक्ष्ण और दासवेश के लिए लाया; बलवती के अबाध मुख को, और आज निश्चय ही बहुत करने वाला तू स्तुति के योग्य है।",
+  "new": "तू जिसने नार्मर सहवसु को मारने के लिए पृक्ष्ण और दासवेश के लिए लाया; बल देने वाली के अबाध मुख को, और आज निश्चय ही बहुत करने वाला तू स्तुति के योग्य है।",
+  "why": "reviewer (minor): ūrjayantī is the causative participle 'strengthening' (English and gloss); 'बलवती' means mighty."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "puru-kṛt",
+  "old": "bahuvrīhi m. nom. sg.",
+  "new": "tat-puruṣa m. nom. sg. (root noun √kṛ)",
+  "why": "reviewer (minor): purukṛt 'doing much' has the object as first member (upapada compound), not a bahuvrīhi."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "सब ने उसके पौरुष का अनुसरण किया, बाँधों ने; उसे उन्होंने दिया, कर्ता के लिए धन रखा। तू ने छह विस्तार थामे, पाँच दृश्य; तू सबसे परे हुआ; तू स्तुति के योग्य है।",
+  "new": "सब ने उसके पौरुष का अनुसरण किया, तटों ने; उसे उन्होंने दिया, कर्ता के लिए धन रखा। तू ने छह विस्तार थामे, पाँच दृश्य; तू सबसे परे हुआ; तू स्तुति के योग्य है।",
+  "why": "reviewer (minor): rodhana here is 'bank'; 'बाँध' means a dam, which the English 'banks' does not."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "सब ने उसके पौरुष का अनुसरण किया, तटों ने; उसे उन्होंने दिया, कर्ता के लिए धन रखा। तू ने छह विस्तार थामे, पाँच दृश्य; तू सबसे परे हुआ; तू स्तुति के योग्य है।",
+  "new": "सब ने उसके पौरुष का अनुसरण किया, तटों ने; उसे उन्होंने दिया, कर्ता के लिए धन रखा। तू ने छह विस्तार थामे, पाँच दृश्य; तू बहुत परे हुआ; तू स्तुति के योग्य है।",
+  "why": "reviewer (minor): 'सबसे' (than all) is not in 'pari paro abhavaḥ'; English 'far beyond'."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Your heroism is well proclaimed, O hero, in that by a single resolve you win wealth. Of Jātūṣṭhira, the mighty, you have set forth vigour, those deeds that you have done; you, Indra, are worthy of praise in all.",
+  "new": "Your heroic deed is well proclaimed, O hero, in that by a single resolve you win wealth. Of Jātūṣṭhira, the mighty, you have set forth vigour, those deeds that you have done; you, Indra, are worthy of praise in all.",
+  "why": "reviewer (minor): Fixed rendering vīrya = heroic deeds."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "vīryam",
+  "old": "heroism",
+  "new": "heroic deed",
+  "why": "reviewer (minor): Same as above."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "हे वीर, तेरा वीर्य सुप्रशंसित है, क्योंकि तू एक ही संकल्प से धन पाता है। जातूष्ठिर बलवान् का तू ने बल बढ़ाया, जो कर्म तू ने किए; वह तू, हे इन्द्र, सब में स्तुति के योग्य है।",
+  "new": "हे वीर, तेरा वीर्य सुप्रशंसित है, क्योंकि तू एक ही संकल्प से धन पाता है। जातूष्ठिर बलवान् का तू ने बल आगे रखा, जो कर्म तू ने किए; वह तू, हे इन्द्र, सब में स्तुति के योग्य है।",
+  "why": "reviewer (minor): 'increased' is not in the line; the English has 'set forth' (pra). Hindi disagrees with English."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "To us, O good one, bring about that bounty for giving; much is your wealth. Indra, that which is wondrous, desiring glory day after day, may we, rich in heroes, speak loudly at the rite.",
+  "new": "To us, O good one, bring about that bounty for giving; much is your wealth. Indra, that which is wondrous, desiring glory day after day, may we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): The brief's one wording for this refrain is 'may we, rich in heroes, speak greatly in the rite' (bṛhad vadema vidathe suvīrāḥ)."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "bṛhat",
+  "old": "loudly",
+  "new": "greatly",
+  "why": "reviewer (minor): Same."
+ }
+]

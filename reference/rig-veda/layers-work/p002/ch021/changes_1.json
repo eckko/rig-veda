@@ -1,0 +1,80 @@
+[
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "Uncertain epithets: tuvigra (taken as 'mighty'; the exact sense of the second member is unclear), vahni 'carrier' (of the chariot or of the offering, not stated), duṣṭarītu (taken as 'hard to withstand'), vedhas 'ordainer' (also 'worshipper, devout'). The printed token 'ṣāḻahāya is aṣāḻhāya with an extra a; see text_flags. abhibhuve'bhibhaṅgāya has avagraha after e.",
+  "new": "Uncertain epithets: tuvigra (taken as 'mighty'; the exact sense of the second member is unclear), vahni 'carrier' (of the chariot or of the offering, not stated), duṣṭarītu (taken as 'hard to withstand'), vedhas 'ordainer' (also 'worshipper, devout'). The printed token 'ṣāḻahāya is aṣāḻhāya with the virama missing after ḻ; see text_flags. abhibhuve'bhibhaṅgāya has avagraha after e.",
+  "why": "reviewer (minor): The note says the printed token has \"an extra a\", but the flag reason (and the Devanagari ऽषा॑ळहाय) shows the real cause: the virama is missing after ळ (ḻ-ha for ḻha). The two explanations contradict each other."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "सदा पराभूत करने वाला, जनों में भाग लेने वाला, जनों को वश में करने वाला, कँपा देने वाला, योद्धा, अपनी प्रसन्नता के अनुसार बलवान् हुआ, घेरे हुए को इकट्ठा करने वाला, विजयी, जातियों में आदर पाया हुआ — इन्द्र के किए हुए वीर कर्म मैं आगे घोषित करूँगा।",
+  "new": "सदा पराभूत करने वाला, जनों में भाग लेने वाला, जनों को वश में करने वाला, कँपा देने वाला, योद्धा, अपनी प्रसन्नता के अनुसार बलवान् हुआ, घेरे हुए को इकट्ठा करने वाला, विजयी, कुलों में निकट पहुँचा हुआ — इन्द्र के किए हुए वीर कर्म मैं आगे घोषित करूँगा।",
+  "why": "reviewer (error): English (and gloss) say \"approached among the clans\" (āritaḥ); Hindi gives \"honoured\" (आदर पाया), a different meaning, and \"जातियों\" (castes) for vikṣu (clans)."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Ever-overcoming, sharer among the peoples, overcoming peoples, the shaker, the warrior, grown strong at his pleasure, gatherer of the enclosed, the overcoming one, approached among the clans — I will proclaim forth the heroic deeds done by Indra.",
+  "new": "Ever-overcoming, sharer among the peoples, overcoming peoples, the shaker, the warrior, grown strong at pleasure, gatherer of the enclosed, the overcoming one, approached among the clans — I will proclaim forth the heroic deeds done by Indra.",
+  "why": "reviewer (minor): anu joṣam = \"according to pleasure\"; \"his\" is supplied (Hindi adds \"अपनी\" too)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "सदा पराभूत करने वाला, जनों में भाग लेने वाला, जनों को वश में करने वाला, कँपा देने वाला, योद्धा, अपनी प्रसन्नता के अनुसार बलवान् हुआ, घेरे हुए को इकट्ठा करने वाला, विजयी, कुलों में निकट पहुँचा हुआ — इन्द्र के किए हुए वीर कर्म मैं आगे घोषित करूँगा।",
+  "new": "सदा पराभूत करने वाला, जनों में भाग लेने वाला, जनों को वश में करने वाला, कँपा देने वाला, योद्धा, प्रसन्नता के अनुसार बलवान् हुआ, घेरे हुए को इकट्ठा करने वाला, विजयी, कुलों में निकट पहुँचा हुआ — इन्द्र के किए हुए वीर कर्म मैं आगे घोषित करूँगा।",
+  "why": "reviewer (minor): Same: \"अपनी\" is not in the text."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "न हटाया जाने वाला, वृषभ, काँपने वाले का वधकर्ता, गम्भीर, ऊँचा, अनुपम काव्य-कौशल वाला, भक्त को प्रेरित करने वाला, भेदने वाला, दृढ़ और विशाल इन्द्र, उत्तम यज्ञ वाला — उसने उषाओं और प्रकाश को उत्पन्न किया।",
+  "new": "न हटाया जाने वाला, वृषभ, काँपने वाले का वधकर्ता, गम्भीर, ऊँचा, अनुपम काव्य-कौशल वाला, समर्पित को प्रेरित करने वाला, भेदने वाला, दृढ़ और विशाल इन्द्र, उत्तम यज्ञ वाला — उसने उषाओं और प्रकाश को उत्पन्न किया।",
+  "why": "reviewer (minor): English and notes say \"the devoted\" (radhra, doubtful); \"भक्त\" (devotee) imports the later bhakti sense."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "By sacrifice the swift ones found the way, urging on their thoughts, the eager, the wise. With chant and by sitting down, seeking help, urging themselves on in Indra, they gained cows and riches.",
+  "new": "By sacrifice the swift ones found the way, urging on thoughts, the eager, the wise. With chant and by sitting down, seeking help, urging themselves on in Indra, they gained cows and riches.",
+  "why": "reviewer (minor): \"their\" is supplied (dhiyaḥ is only \"thoughts\"); the Hindi has the same \"अपने\"."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "यज्ञ से तेज चलने वालों ने मार्ग पाया, अपने विचारों को प्रेरित करते हुए, उत्साही बुद्धिमान् जनों ने। उच्च स्वर से गान करके और बैठकर, सहायता चाहने वालों ने इन्द्र में अपने को प्रेरित करते हुए गौएँ और धन प्राप्त किए।",
+  "new": "यज्ञ से तेज चलने वालों ने मार्ग पाया, विचारों को प्रेरित करते हुए, उत्साही बुद्धिमान् जनों ने। उच्च स्वर से गान करके और बैठकर, सहायता चाहने वालों ने इन्द्र में अपने को प्रेरित करते हुए गौएँ और धन प्राप्त किए।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "By sacrifice the swift ones found the way, urging on thoughts, the eager, the wise. With chant and by sitting down, seeking help, urging themselves on in Indra, they gained cows and riches.",
+  "new": "By sacrifice the swift ones found the way, urging on thoughts, the eager, the wise. With chant and by sitting down, seeking help, urging on in Indra, they gained cows and riches.",
+  "why": "reviewer (error): The notes say the object of hinvānāḥ in line 2 is left unstated, but English adds the reflexive \"themselves\" and Hindi \"अपने को\". Draft contradicts its own note; the reflexive is an interpretation."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "यज्ञ से तेज चलने वालों ने मार्ग पाया, विचारों को प्रेरित करते हुए, उत्साही बुद्धिमान् जनों ने। उच्च स्वर से गान करके और बैठकर, सहायता चाहने वालों ने इन्द्र में अपने को प्रेरित करते हुए गौएँ और धन प्राप्त किए।",
+  "new": "यज्ञ से तेज चलने वालों ने मार्ग पाया, विचारों को प्रेरित करते हुए, उत्साही बुद्धिमान् जनों ने। उच्च स्वर से गान करके और बैठकर, सहायता चाहने वालों ने इन्द्र में प्रेरित करते हुए गौएँ और धन प्राप्त किए।",
+  "why": "reviewer (error): Same."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "हे इन्द्र, हममें सर्वश्रेष्ठ धन, कौशल की समझ और सौभाग्य स्थापित करो; धनों की वृद्धि, शरीरों की अहिंसा, वाणी की मधुरता और दिनों की सुन्दरता दो।",
+  "new": "हे इन्द्र, हममें सर्वश्रेष्ठ धन, कौशल की समझ और सौभाग्य स्थापित करो; धनों की वृद्धि, शरीरों की अक्षतता, वाणी की मधुरता और दिनों की सुन्दरता दो।",
+  "why": "reviewer (error): ariṣṭi = freedom from harm (English); अहिंसा means non-violence, a different meaning."
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "asme",
+  "old": "1 pl. loc.",
+  "new": "1 pl. dat./loc. pron. (Vedic)",
+  "why": "reviewer (minor): asme is the full Vedic dat./loc. form of asmad, not only loc."
+ }
+]

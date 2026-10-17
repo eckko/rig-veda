@@ -1,0 +1,169 @@
+[
+ {
+  "n": "2",
+  "field": "english",
+  "old": "Great Indra, without whom there is nothing at all, in whom all heroic powers are gathered together: in the belly he bears Soma, in the body great might, in the hand the vajra, in the head resolve.",
+  "new": "Great Indra, without whom there is nothing at all, in whom all heroic deeds are gathered together: in the belly he bears Soma, in the body great might, in the hand the vajra, in the head resolve.",
+  "why": "reviewer (minor): vīrya is fixed as heroic deeds in the glossary."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "vīryā",
+  "old": "heroic powers",
+  "new": "heroic deeds",
+  "why": "reviewer (minor): Same: glossary vīrya = heroic deeds."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "yasmāt",
+  "old": "n. abl. sg. rel.",
+  "new": "m. abl. sg. rel.",
+  "why": "reviewer (minor): yasmāt agrees with indrāt (masculine), not neuter."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "सब ही उस यजन के योग्य, निर्भीक, वृषभ के लिए, जो साथ देता है, संकल्प लाते हैं। हे वृषभ, तू हवि से यजन कर, और अधिक जानने वाला होकर। हे इन्द्र, वृषभ के समान तेज से सोम पी।",
+  "new": "क्योंकि सब उस यजन के योग्य, निर्भीक, वृषभ के लिए, जो साथ देता है, संकल्प लाते हैं। हे वृषभ, तू हवि से यजन कर, और अधिक जानने वाला होकर। हे इन्द्र, वृषभ के समान तेज से सोम पी।",
+  "why": "reviewer (minor): hi is causal \"for\" (English says \"For all bring\"); Hindi \"ही\" (emphasis) disagrees with the English and the gloss."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "hi",
+  "old": "indeed",
+  "new": "for",
+  "why": "reviewer (minor): Gloss \"indeed\" disagrees with English \"For\"."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "वृषभ का पात्र मधुर लहर के रूप में निर्मल होकर बहता है, उस वृषभ के लिए जिसका अन्न वृषभ का है, उस वृषभ के पीने के लिए। वृषभ जैसे दोनों अध्वर्यु और वृषभ जैसे पत्थर वृषभ सोम को वृषभ के लिए निचोड़ते हैं।",
+  "new": "वृषभ का पात्र मधु की लहर के रूप में निर्मल होकर बहता है, उस वृषभ के लिए जिसका अन्न वृषभ का है, उस वृषभ के पीने के लिए। वृषभ जैसे दोनों अध्वर्यु और वृषभ जैसे पत्थर वृषभ सोम को वृषभ के लिए निचोड़ते हैं।",
+  "why": "reviewer (minor): madhvaḥ ūrmiḥ is \"a wave of honey\"; Hindi \"मधुर\" (sweet) changes honey into an adjective, English says honey."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "vṛṣabha-annāya is uncertain: read as a bahuvrīhi 'having a bull's food' (vṛṣabha + anna); the compound could be understood differently. vṛṣan/vṛṣabha 'bull' kept throughout (also 'virile, showering'). adri 'stone' (pressing stones suggested by context). The verb suṣvati takes both subjects.",
+  "new": "vṛṣabha-annāya is uncertain: read as a bahuvrīhi 'having a bull's food' (vṛṣabha + anna); the compound could be understood differently. vṛṣan/vṛṣabha 'bull' kept throughout (also 'virile, showering'). adri 'stone' (pressing stones suggested by context). The verb suṣvati takes both subjects. Alternatively vṛṣabha-annāya is a tatpuruṣa, n. dat. sg. \"for the bull's food\", parallel to vṛṣabhāya pātave.",
+  "why": "reviewer (minor): Besides the bahuvrīhi, annāya may be the plain dative of anna (n.) \"for the bull's food\", parallel to the datives vṛṣabhāya pātave; the note should say so."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "तेरा वज्र वृषभ है और तेरा रथ वृषभ है; दोनों हरे घोड़े वृषभ हैं और शस्त्र वृषभ जैसे हैं। हे वृषभ, तू वृषभ के मद का स्वामी है; हे इन्द्र, वृषभ सोम से तृप्त हो।",
+  "new": "तेरा वज्र वृषभ है और तेरा रथ वृषभ है; दोनों भूरे-पीले घोड़े वृषभ हैं और शस्त्र वृषभ जैसे हैं। हे वृषभ, तू वृषभ के मद का स्वामी है; हे इन्द्र, वृषभ सोम से तृप्त हो।",
+  "why": "reviewer (error): Hindi हरे means green; harī = the two tawny horses (glossary), and English says tawny."
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "īśiṣa (printed) is īśiṣe + sandhi before indra. vṛṣan/vṛṣabha 'bull' (also 'virile'). harī 'the two tawny horses' (the verse names no horses beyond harī). Hindi हरे घोड़े = tawny horses (hari is a colour range).",
+  "new": "īśiṣa (printed) is īśiṣe + sandhi before indra. vṛṣan/vṛṣabha 'bull' (also 'virile'). harī 'the two tawny horses' (the verse names no horses beyond harī). Hindi भूरे-पीले घोड़े = tawny horses.",
+  "why": "reviewer (minor): Note defends the wrong Hindi word."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "Your vajra is a bull, and your chariot is a bull; the two tawny horses are bulls, and the weapons are bull-like. Bull, you have mastery of the exhilaration of the bull; Indra, take your fill of the Soma of the bull.",
+  "new": "Your vajra is a bull, and your chariot is a bull; the two tawny horses are bulls, and the weapons are bull-like. Bull, you have mastery of the exhilaration of the bull; Indra, take your fill of the bull Soma.",
+  "why": "reviewer (minor): vṛṣabhasya agrees with somasya (bull Soma, as in unit 5 and as the Hindi has it); English makes it a separate genitive."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "vṛṣabhasya",
+  "old": "of the bull",
+  "new": "of the bull-like",
+  "why": "reviewer (minor): Adjective agreeing with somasya."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "kuvit",
+  "old": "will",
+  "new": "interrogative particle",
+  "why": "reviewer (minor): \"will\" is not the meaning; kuvit is a question particle (\"Will he heed\")."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "तेरे लिए, प्रार्थना के साथ, सवनों में निर्भीक होकर मैं आगे जाता हूँ, सभा में नाव के समान, वाणी की चाह रखने वाला। क्या वह हमारे इस वचन पर ध्यान देगा? हम इन्द्र को धन के स्रोत के समान सींचते हैं।",
+  "new": "तेरे लिए, ब्रह्म के साथ, सवनों में निर्भीक होकर मैं आगे जाता हूँ, सभा में नाव के समान, वाणी की चाह रखने वाला। क्या वह हमारे इस वचन पर ध्यान देगा? हम इन्द्र को धन के स्रोत के समान सींचते हैं।",
+  "why": "reviewer (minor): Glossary fixes brahman (n.) in Hindi as ब्रह्म."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "संकट से पहले हमारी ओर लौट आ, जैसे चरागाह से पुष्ट हुई गाय अपने बछड़े की ओर। हे सैकड़ों संकल्पों वाले, एक बार तेरी कृपाओं से हम मिल जाएँ, जैसे बैल अपनी पत्नियों से।",
+  "new": "तंग स्थान से पहले हमारी ओर लौट आ, जैसे चरागाह से पुष्ट हुई गाय अपने बछड़े की ओर। हे सैकड़ों संकल्पों वाले, एक बार तेरी कृपाओं से हम मिल जाएँ, जैसे बैल अपनी पत्नियों से।",
+  "why": "reviewer (minor): sambādha is a tight place (English); संकट (distress) is interpretation and clashes with the aṃhas = distress entry."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "तंग स्थान से पहले हमारी ओर लौट आ, जैसे चरागाह से पुष्ट हुई गाय अपने बछड़े की ओर। हे सैकड़ों संकल्पों वाले, एक बार तेरी कृपाओं से हम मिल जाएँ, जैसे बैल अपनी पत्नियों से।",
+  "new": "तंग स्थान से पहले हमारी ओर लौट आ, जैसे चरागाह से पुष्ट हुई गाय बछड़े की ओर। हे सैकड़ों संकल्पों वाले, एक बार तेरी कृपाओं से हम मिल जाएँ, जैसे बैल अपनी पत्नियों से।",
+  "why": "reviewer (minor): \"अपने\", \"अपनी\" are not in the text (vatsam, patnībhiḥ); \"बैल\" breaks the rendering vṛṣan = वृषभ used in units 4-6."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "तंग स्थान से पहले हमारी ओर लौट आ, जैसे चरागाह से पुष्ट हुई गाय बछड़े की ओर। हे सैकड़ों संकल्पों वाले, एक बार तेरी कृपाओं से हम मिल जाएँ, जैसे बैल अपनी पत्नियों से।",
+  "new": "तंग स्थान से पहले हमारी ओर लौट आ, जैसे चरागाह से पुष्ट हुई गाय बछड़े की ओर। हे सैकड़ों संकल्पों वाले, एक बार तेरी कृपाओं से हम मिल जाएँ, जैसे वृषभ पत्नियों से।",
+  "why": "reviewer (minor): See previous."
+ },
+ {
+  "n": "8",
+  "field": "notes",
+  "old": "purā sambādhāt taken as 'before the tight place (comes)'; the verb for 'comes' is not stated. yavasasya pipyuṣī rendered 'swollen from the pasture' (literally gen. 'of the pasture'). saṃ nasīmahi sumatibhiḥ: 'be united with your favours' (√nas 'unite with'). The clause 'as bulls with wives' is literal.",
+  "new": "purā sambādhāt taken as 'before the tight place (comes)'; the verb for 'comes' is not stated. yavasasya pipyuṣī rendered 'swollen from the pasture' (literally gen. 'of the pasture'). saṃ nasīmahi sumatibhiḥ: 'be united with your favours' (√nas 'unite with'). The clause 'as bulls with wives' is literal. su in sakṛt su is not rendered separately in the translations.",
+  "why": "reviewer (minor): Token su (sakṛt su \"once and for all / well\") is glossed but not rendered in either translation; the note should say it is left out."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond them; the share is ours. May we, rich in heroes, speak mightily in the rite.",
+  "new": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond them; the share is ours. May we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (error): Glossary fixes the refrain as \"speak greatly in the rite\"."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में प्रबल रूप से बोलें।",
+  "new": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Same: bṛhat = greatly, not \"mighty\"."
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "bṛhat",
+  "old": "mightily",
+  "new": "greatly",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "Refrain: the identical verse ends each of the hymns 2.16 to 2.19. Readings uncertain: mā ati dhak (do not burn beyond/past; the object is not stated) and bhago naḥ ('the share is ours' taken with bhaga as 'share'; bhaga could also be the god Bhaga, 'Bhaga is ours'). dakṣiṇā taken as the bountiful gift; bṛhat taken adverbially ('mightily'). Hindi भाग for bhaga.",
+  "new": "Refrain: the identical verse ends each of the hymns 2.16 to 2.19. Readings uncertain: mā ati dhak (do not burn beyond/past; the object is not stated) and bhago naḥ ('the share is ours' taken with bhaga as 'share'; bhaga could also be the god Bhaga, 'Bhaga is ours'). dakṣiṇā taken as the bountiful gift; bṛhat taken adverbially ('greatly'). Hindi भाग for bhaga.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond them; the share is ours. May we, rich in heroes, speak greatly in the rite.",
+  "new": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond; the share is ours. May we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): Glossary fixes mā ati dhak = \"do not burn beyond\"; \"them\" is an unmarked addition (notes say the object is not stated)."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "new": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; परे तक न जला; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Adds \"उन्हें\" and turns \"burn beyond\" into \"burn and go past\"."
+ }
+]

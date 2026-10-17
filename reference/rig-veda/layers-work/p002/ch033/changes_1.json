@@ -1,0 +1,218 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "हे मरुतों के पिता, तुम्हारी कृपा हमारे पास आए; हमें सूर्य के दर्शन से अलग न करो। हमारा वीर घोड़े के सामने टिका रहे; हे रुद्र, हम संतान के साथ बढ़ें।",
+  "new": "हे मरुतों के पिता, तुम्हारी कृपा हमारे पास आए; हमें सूर्य के दर्शन से अलग न करो। हमारा वीर घोड़े के सामने टिका रहे; हे रुद्र, हम संतान के साथ आगे उत्पन्न हों।",
+  "why": "reviewer (minor): pra jāyemahi is rendered 'may we be born forth' in English (and the notes say literally so); Hindi 'बढ़ें' (grow) is an interpretation and disagrees."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे रुद्र, तुम्हारे दिए हुए अत्यंत सुखकर उपचारों के साथ मैं सौ वर्ष पाऊँ। हमसे द्वेष को दूर करो, और भी दूर करो; संकट को दूर करो; पीड़ाओं को बिखेरकर दूर भगाओ।",
+  "new": "हे रुद्र, तुम्हारे दिए हुए अत्यंत हितकर उपचारों के साथ मैं सौ वर्ष पाऊँ। हमसे द्वेष को दूर करो, और भी दूर करो; संकट को दूर करो; पीड़ाओं को बिखेरकर दूर भगाओ।",
+  "why": "reviewer (minor): śaṃtama is 'most beneficial'; 'सुखकर' (pleasant) belongs to mayobhu 'comforting' (unit 13)."
+ },
+ {
+  "n": "2",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "vya1smaddveṣo̭",
+    "suggest": "vyasmaddveṣo",
+    "why": "possible stray digit 1 after 'vya' (accent or footnote mark); the word is vi asmat dveṣaḥ"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (minor): In the Devanagari the digit is '१', the standard independent-svarita sign written after a semivowel (here vy-a1); it is accent notation, not a typo, so the flag and its suggestion should not be raised."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "O Rudra, you are the best of the born in splendour, the mightiest of the mighty, O thunderbolt-armed one. Carry us across to the far side of distress; grant well-being; keep away all assaults of harm.",
+  "new": "O Rudra, you are the best of the born in splendour, the mightiest of the mighty, O vajra-armed one. Carry us across to the far side of distress; grant well-being; keep away all assaults of harm.",
+  "why": "reviewer (minor): Fixed rendering is vajra = vajra (वज्र); 'thunderbolt' deviates (Hindi already says वज्र)."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "vajra-bāho",
+  "old": "O thunderbolt-armed one",
+  "new": "O vajra-armed one",
+  "why": "reviewer (minor): Same deviation in the gloss."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "जो पुकारों से, हवियों से बुलाया जाता है, उस रुद्र को मैं स्तुतियों से प्रसन्न करूँ। कोमल पेट वाला, सरलता से बुलाया जाने वाला, भूरा, सुंदर ओठों वाला वह हमें इस द्वेष के हाथ न सौंपे।",
+  "new": "जो पुकारों से, हवियों से बुलाया जाता है, उस रुद्र को मैं स्तुतियों से प्रसन्न करूँ। कोमल पेट वाला, सरलता से बुलाया जाने वाला, भूरा, सुंदर ओठों वाला वह हमें इस द्वेष को न सौंपे।",
+  "why": "reviewer (minor): 'के हाथ' (into the hands of) is added; asyai manāyai is a plain dative ('to this ill will')."
+ },
+ {
+  "n": "7",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "kva1",
+    "suggest": "kva",
+    "why": "stray digit 1 after 'kva' (accent or footnote mark)"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (minor): In the Devanagari the digit is '१', the standard independent-svarita sign written after a semivowel (here kva); it is accent notation, not a typo, so the flag and its suggestion should not be raised."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Where is that gracious hand of yours, O Rudra, which is healing and soothing? Remover of the harm of the gods, O bull, now pardon me.",
+  "new": "Where is that gracious hand of yours, O Rudra, which is healing and soothing? Remover of divine harm, O bull, now pardon me.",
+  "why": "reviewer (minor): daivya is 'divine'; 'harm of the gods' reads it as a genitive noun. 'Divine harm' is literal (the notes can mention harm sent by the gods)."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे रुद्र, तुम्हारा वह कृपालु हाथ कहाँ है जो उपचार करने वाला और शीतल करने वाला है? हे वृषभ, तुम देवों की हानि को दूर करने वाले हो; अब मुझे क्षमा करो।",
+  "new": "हे रुद्र, तुम्हारा वह कृपालु हाथ कहाँ है जो उपचार करने वाला और शीतल करने वाला है? हे वृषभ, तुम दिव्य हानि को दूर करने वाले हो; अब मुझे क्षमा करो।",
+  "why": "reviewer (minor): Same, and 'तुम ... हो' adds a copula."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "daivyasya",
+  "old": "of the gods",
+  "new": "divine",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "महान् भूरे वृषभ, उज्ज्वल रूप वाले के लिए मैं महान् उत्तम स्तुति भेजता हूँ। उस दीप्तिमान् को प्रणाम करो; प्रणामों के साथ हम रुद्र के प्रचंड नाम की स्तुति करते हैं।",
+  "new": "भूरे वृषभ के लिए, उज्ज्वल के लिए, मैं महान् उत्तम स्तुति भेजता हूँ। उस दीप्तिमान् को प्रणाम करो; प्रणामों के साथ हम रुद्र के प्रचंड नाम की स्तुति करते हैं।",
+  "why": "reviewer (error): Hindi and English disagree: Hindi has two 'महान्' (one attached to the bull), English one 'great' (praise only), so maho is rendered twice or not at all; 'रूप वाले' is an addition to śvitīce; and the case string is ungrammatical. The gram 'dat. sg.' for mahaḥ is also wrong (see next)."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "mahaḥ",
+  "old": "(dat. sg., form uncertain)",
+  "new": "form uncertain; -aḥ is not dative (gen./abl. sg. or acc. pl.)",
+  "why": "reviewer (minor): -aḥ is not a dative ending (dative would be mahe); mahaḥ is gen./abl. sg. or acc. pl. (or nom./acc. of mahas). The English also leaves mahaḥ untranslated."
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "sthirebhiḥ",
+  "old": "m. inst. pl.",
+  "new": "n. inst. pl. (with aṅgaiḥ)",
+  "why": "reviewer (minor): aṅga is neuter, so the agreeing adjective is n.; 'm.' is wrong."
+ },
+ {
+  "n": "9",
+  "field": "word.gram",
+  "word": "śukrebhiḥ",
+  "old": "m. inst. pl.",
+  "new": "n. inst. pl. (with hiraṇyaiḥ)",
+  "why": "reviewer (minor): agrees with hiraṇyaiḥ (n.), not m."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "दृढ़ अंगों से, अनेक रूपों वाला, प्रचंड, भूरा, वह चमकते सोने के आभूषणों से सजा है। इस विशाल जगत् के स्वामी रुद्र से प्रभुत्व कभी अलग नहीं होगा।",
+  "new": "दृढ़ अंगों से, अनेक रूपों वाला, प्रचंड, भूरा, वह चमकते सोने से सजा है। इस विशाल जगत् के स्वामी रुद्र से प्रभुत्व कभी अलग नहीं होगा।",
+  "why": "reviewer (minor): 'आभूषणों' (ornaments) is added; English has 'bright gold'."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "दृढ़ अंगों से, अनेक रूपों वाला, प्रचंड, भूरा, वह चमकते सोने से सजा है। इस विशाल जगत् के स्वामी रुद्र से प्रभुत्व कभी अलग नहीं होगा।",
+  "new": "दृढ़ अंगों से, अनेक रूपों वाला, प्रचंड, भूरा, वह चमकते सोने से सजा है। इस प्रचुर जगत् के स्वामी रुद्र से प्रभुत्व कभी अलग नहीं होगा।",
+  "why": "reviewer (minor): bhūri is 'abundant' (English); 'विशाल' (vast) disagrees."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "दृढ़ अंगों से, अनेक रूपों वाला, प्रचंड, भूरा, वह चमकते सोने से सजा है। इस प्रचुर जगत् के स्वामी रुद्र से प्रभुत्व कभी अलग नहीं होगा।",
+  "new": "दृढ़ अंगों से, अनेक रूपों वाला, प्रचंड, भूरा, वह चमकते सोने से सजा है। इस प्रचुर जगत् के स्वामी रुद्र से प्रभुत्व निश्चय ही अलग नहीं होगा।",
+  "why": "reviewer (minor): 'कभी' (ever) is added; the line has na vā u (surely not)."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "With firm limbs, of many forms, mighty, tawny, he is adorned with bright gold. Lordship, asurya, will not indeed separate from Rudra, the ruler of this abundant world.",
+  "new": "With firm limbs, of many forms, mighty, tawny, he is adorned with bright gold. Lordship will not indeed separate from Rudra, the ruler of this abundant world.",
+  "why": "reviewer (minor): Untranslated Sanskrit inside the translation; the fixed rendering is plain 'lordship' (gloss may carry the Sanskrit)."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "प्रसिद्ध, रथ के आसन पर बैठने वाले, युवा, जंगली पशु के समान भयंकर, निकट से प्रहार करने वाले, प्रचंड रुद्र की स्तुति करो। हे रुद्र, स्तुति पाकर गायक पर कृपा करो; तुम्हारी सेनाएँ हमारे सिवा किसी और को काट गिराएँ।",
+  "new": "प्रसिद्ध, रथ के आसन पर बैठने वाले, युवा, जंगली पशु के समान भयंकर, निकट से प्रहार करने वाले, प्रचंड की स्तुति करो। हे रुद्र, स्तुति पाकर गायक पर कृपा करो; तुम्हारी सेनाएँ हमारे सिवा किसी और को काट गिराएँ।",
+  "why": "reviewer (error): 'रुद्र' is added: the first line does not name Rudra (the notes say so), and the English correctly has 'the mighty'."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "हे मरुतो, तुम्हारे जो शुद्ध उपचार हैं, हे वृषभो, जो अत्यंत सुखकर हैं, जो आरामदायक हैं, जिन्हें हमारे पिता मनु ने चुना, उन्हें, और रुद्र के कल्याण तथा रक्षण को मैं चाहता हूँ।",
+  "new": "हे मरुतो, तुम्हारे जो शुद्ध उपचार हैं, हे वृषभो, जो अत्यंत हितकर हैं, जो आरामदायक हैं, जिन्हें हमारे पिता मनु ने चुना, उन्हें, और रुद्र के कल्याण तथा रक्षण को मैं चाहता हूँ।",
+  "why": "reviewer (minor): śaṃtama is 'most beneficial'; 'सुखकर' duplicates mayobhu 'comforting' (आरामदायक)."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "May the missile of Rudra be turned aside from us; may the great ill will of the fierce one pass us by. Slacken the firm ones for the generous patrons; O bountiful one, be gracious to child and descendant.",
+  "new": "May the missile of Rudra be turned aside from us; may the great ill will of the fierce one pass us by. Slacken the firm ones for the bountiful; O bountiful one, be gracious to child and descendant.",
+  "why": "reviewer (minor): maghavan = bountiful in the fixed renderings, and 'patron' is reserved for sūri."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "May the missile of Rudra be turned aside from us; may the great ill will of the fierce one pass us by. Slacken the firm ones for the bountiful; O bountiful one, be gracious to child and descendant.",
+  "new": "May the missile of Rudra be turned aside from us; may the great ill will of the fierce one pass us by. Slacken the firm ones for the bountiful; O liberal one, be gracious to child and descendant.",
+  "why": "reviewer (minor): mīḍhvas is not maghavan; 'bountiful' now collides with maghavadbhyaḥ."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "maghavadbhyaḥ",
+  "old": "for the generous patrons",
+  "new": "for the bountiful",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "mīḍhvaḥ",
+  "old": "O bountiful one",
+  "new": "O liberal one",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "रुद्र का शस्त्र हमसे बचकर निकल जाए; उस प्रचंड की महान् दुर्भावना हमारे पास से गुज़र जाए। हे उदार, उदार दाताओं के लिए दृढ़ वस्तुओं को ढीला करो; संतान और वंशज पर कृपा करो।",
+  "new": "रुद्र का शस्त्र हमसे बचकर निकल जाए; उस प्रचंड की महान् दुर्भावना हमारे पास से गुज़र जाए। हे दानशील, उदार जनों के लिए दृढ़ वस्तुओं को ढीला करो; संतान और वंशज पर कृपा करो।",
+  "why": "reviewer (minor): The same Hindi word renders two different Sanskrit words."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "So, O tawny bull, O attentive god, that you may neither be angry nor strike. Hearer of invocations, O Rudra, take heed of us here; may we speak greatly at the rite, rich in heroes.",
+  "new": "So, O tawny bull, O attentive god, that you may neither be angry nor strike. Hearer of invocations, O Rudra, take heed of us here; may we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): Refrain must have one wording in every hymn: 'may we, rich in heroes, speak greatly in the rite'."
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "vidathe",
+  "old": "at the rite",
+  "new": "in the rite",
+  "why": "reviewer (minor): Fixed rendering 'in the rite'."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "इसी प्रकार, हे भूरे वृषभ, हे सजग देव, जिससे तुम न क्रुद्ध हो और न प्रहार करो। हे पुकार सुनने वाले रुद्र, यहाँ हमारी ओर ध्यान दो; हम उत्तम वीरों से युक्त होकर यज्ञ में ऊँचे स्वर से बोलें।",
+  "new": "इसी प्रकार, हे भूरे वृषभ, हे सजग देव, जिससे तुम न क्रुद्ध हो और न प्रहार करो। हे पुकार सुनने वाले रुद्र, यहाँ हमारी ओर ध्यान दो; हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): The English says 'greatly'; 'ऊँचे स्वर से' (loudly) is an interpretation the notes themselves call a side option."
+ }
+]

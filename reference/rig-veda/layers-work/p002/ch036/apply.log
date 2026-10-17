@@ -1,0 +1,5 @@
+chunk 1: 6 units, 8 patches applied (8 changes logged), 2 issues without patch, 0 patches failed
+  MANUAL unit 2 [minor] text_flags / pṛṣatībhiṝṣṭibhir: The flag calls the printed ṝ a 'probable typo' with a firm suggestion. The Vedic samhitā convention (r dropped before r-initial, with compensatory lengthening) can produce exactly this printed form, so it is at least as likely to be regular printing as an error. Soften to 'unusual; possibly regular Vedic sandhi, not certainly a typo'. No patch (text_flags not patchable).
+         suggested fix: soften why: 'unusual ṝ (probably the printed Vedic r-sandhi pṛṣatībhir ṛṣṭibhiḥ); check the edition'
+  MANUAL unit 5 [minor] english / from the Brāhmaṇa priest: 'Brāhmaṇa priest' conflicts with the glossary pair Brahman priest (m., ब्रह्मा) vs brahman (n.); here the word is brāhmaṇa (m.). The identification of the office is not stated in the line. Needs a glossary decision (e.g. 'from the Brāhmaṇa'); the note should say the exact office is unclear.
+         suggested fix: glossary decision needed

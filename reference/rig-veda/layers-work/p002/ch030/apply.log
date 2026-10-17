@@ -1,0 +1,9 @@
+chunk 1: 11 units, 9 patches applied (9 changes logged), 4 issues without patch, 0 patches failed
+  MANUAL unit 1 [minor] hindi / सत्य को रचनेवाले: Glossary: ṛta = order (ऋत in Hindi); 'सत्य' deviates.
+         suggested fix: ऋत करनेवाले
+  MANUAL unit 1 [minor] english / for the impeller: savitre next to devāya kṛṇvate and Indra is most naturally the god Savitṛ; the glossary writes divine names in plain IAST (Savitṛ). The draft's own note says so. Decide; if Savitṛ, change English, gloss, Hindi (सविता). No patch.
+         suggested fix: for Savitṛ
+  MANUAL unit 2 [minor] split / viduṣaḥ: Printed viduṣa u- allows viduṣe (dat., 'to the knowing one') + uvāca by the same e-before-vowel sandhi the draft itself uses for upāyane (2.28.2); that gives 'the mother declared him to the knowing one' and removes the unnamed 'knowing one' of the notes. Mention as alternative in notes; no patch.
+         suggested fix: add alternative viduṣe (dat.) to notes
+  MANUAL unit 11 [minor] hindi / सुख की इच्छा: Glossary: sumna = favour; Hindi 'सुख' (happiness) deviates.
+         suggested fix: कृपा की इच्छा

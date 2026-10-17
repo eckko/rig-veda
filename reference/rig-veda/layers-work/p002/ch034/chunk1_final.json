@@ -1,0 +1,3002 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dhā̱rā̱va̱rā",
+      "words": [
+       {
+        "w": "dhārā-varāḥ",
+        "gloss": "bearing streams",
+        "gram": "m. nom. pl. bahuvrīhi (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "ma̱ruto̭",
+      "words": [
+       {
+        "w": "marutaḥ",
+        "gloss": "Maruts",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhṛ̱ṣṇvo̭jaso",
+      "words": [
+       {
+        "w": "dhṛṣṇu-ojasaḥ",
+        "gloss": "of bold strength",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "mṛ̱gā",
+      "words": [
+       {
+        "w": "mṛgāḥ",
+        "gloss": "wild beasts",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhī̱māstavi̭ṣībhira̱rcina̭:",
+      "words": [
+       {
+        "w": "bhīmāḥ",
+        "gloss": "terrible",
+        "gram": "m. nom. pl."
+       },
+       {
+        "w": "taviṣībhiḥ",
+        "gloss": "with powers",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "arcinaḥ",
+        "gloss": "radiant",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱gnayo̱",
+      "words": [
+       {
+        "w": "agnayaḥ",
+        "gloss": "fires",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śṷśucā̱nā",
+      "words": [
+       {
+        "w": "śuśucānāḥ",
+        "gloss": "blazing",
+        "gram": "m. nom. pl. pf. part. mid. √śuc"
+       }
+      ]
+     },
+     {
+      "src": "ṛ̭jī̱ṣiṇo̱",
+      "words": [
+       {
+        "w": "ṛjīṣiṇaḥ",
+        "gloss": "driving forward",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhṛmi̱ṃ",
+      "words": [
+       {
+        "w": "bhṛmim",
+        "gloss": "whirl",
+        "gram": "f. acc. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "dhama̭nto̱",
+      "words": [
+       {
+        "w": "dhamantaḥ",
+        "gloss": "blowing",
+        "gram": "m. nom. pl. pres. part. √dham"
+       }
+      ]
+     },
+     {
+      "src": "apa̱",
+      "words": [
+       {
+        "w": "apa",
+        "gloss": "open",
+        "gram": "ind. (preverb)"
+       }
+      ]
+     },
+     {
+      "src": "gā",
+      "words": [
+       {
+        "w": "gāḥ",
+        "gloss": "cows",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭vṛṇvata",
+      "words": [
+       {
+        "w": "avṛṇvata",
+        "gloss": "they uncovered",
+        "gram": "3 pl. impf. mid. apa-√vṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "धाराओं को लाने वाले, साहसी बल वाले मरुत्, वन्य पशुओं के समान भयंकर, अपनी शक्तियों से दीप्तिमान् हैं। अग्नियों के समान प्रज्वलित, आगे बढ़ने वाले, भृमि को फूँकते हुए उन्होंने गायों को खोल दिया।",
+  "english": "The Maruts, bearing streams, of bold strength, terrible like wild beasts, radiant with their powers. Blazing like fires, driving forward, blowing the whirl, they opened up the cows.",
+  "text_flags": [],
+  "notes": "Several words are uncertain: 'dhārāvarāḥ' (streams plus -vara; 'bearing streams' is a guess), 'ṛjīṣin' (driving forward), 'bhṛmi' (whirl). 'gāḥ' means cows and may be meant figuratively; not interpreted here. 'apa avṛṇvata' is 'they uncovered, opened'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.034.1a",
+   "002.034.1b"
+  ],
+  "lines_deva": [
+   "धा॒रा॒व॒रा म॒रुतो॑ धृ॒ष्ण्वो॑जसो मृ॒गा न भी॒मास्तवि॑षीभिर॒र्चिन॑:",
+   "अ॒ग्नयो॒ न शु॑शुचा॒ना ऋ॑जी॒षिणो॒ भृमिं॒ धम॑न्तो॒ अप॒ गा अ॑वृण्वत"
+  ],
+  "lines_iast": [
+   "dhā̱rā̱va̱rā ma̱ruto̭ dhṛ̱ṣṇvo̭jaso mṛ̱gā na bhī̱māstavi̭ṣībhira̱rcina̭:",
+   "a̱gnayo̱ na śṷśucā̱nā ṛ̭jī̱ṣiṇo̱ bhṛmi̱ṃ dhama̭nto̱ apa̱ gā a̭vṛṇvata"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dyāvo̱",
+      "words": [
+       {
+        "w": "dyāvaḥ",
+        "gloss": "skies",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "stṛbhi̭ścitayanta",
+      "words": [
+       {
+        "w": "stṛbhiḥ",
+        "gloss": "with stars",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "citayanta",
+        "gloss": "they appeared",
+        "gram": "3 pl. impf. mid. caus. √cit"
+       }
+      ]
+     },
+     {
+      "src": "khā̱dino̱",
+      "words": [
+       {
+        "w": "khādinaḥ",
+        "gloss": "wearing rings",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vya1bhriyā̱",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "forth",
+        "gram": "ind."
+       },
+       {
+        "w": "abhriyāḥ",
+        "gloss": "cloud-born",
+        "gram": "f. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dyṷtayanta",
+      "words": [
+       {
+        "w": "dyutayanta",
+        "gloss": "they flashed",
+        "gram": "3 pl. impf. mid. √dyut"
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱ṣṭaya̭:",
+      "words": [
+       {
+        "w": "vṛṣṭayaḥ",
+        "gloss": "rains",
+        "gram": "f. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ru̱dro",
+      "words": [
+       {
+        "w": "rudraḥ",
+        "gloss": "Rudra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vo̭",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "you",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "maruto",
+      "words": [
+       {
+        "w": "marutaḥ",
+        "gloss": "O Maruts",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rukmavakṣaso̱",
+      "words": [
+       {
+        "w": "rukma-vakṣasaḥ",
+        "gloss": "gold-breasted",
+        "gram": "m. voc. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "vṛṣāja̭ni̱",
+      "words": [
+       {
+        "w": "vṛṣā",
+        "gloss": "bull",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "ajani",
+        "gloss": "was born, begot",
+        "gram": "3 sg. aor. pass. √jan"
+       }
+      ]
+     },
+     {
+      "src": "pṛśnyā̭:",
+      "words": [
+       {
+        "w": "pṛśnyāḥ",
+        "gloss": "of Pṛśni",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "śu̱kra",
+      "words": [
+       {
+        "w": "śukre",
+        "gloss": "bright",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ūdha̭ni",
+      "words": [
+       {
+        "w": "ūdhani",
+        "gloss": "in the udder",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तारों से आकाश की भाँति वे प्रकट हुए, ये कड़े पहनने वाले; बादलों से उत्पन्न वर्षाओं की भाँति वे चमक उठे। जब, हे सोने की छाती वाले मरुतो, वृषभ रुद्र ने तुम्हें पृश्नि के उज्ज्वल थन में उत्पन्न किया।",
+  "english": "Like skies with stars they appeared, wearing rings; like cloud-born rains they flashed forth. When Rudra, the bull, begot you, O Maruts, gold-breasted ones, in the bright udder of Pṛśni.",
+  "text_flags": [],
+  "notes": "'khādin' is taken as 'wearing rings (anklets or bracelets)'. 'vṛṣā ajani' could also be read 'the bull was born (for you)', with Rudra as subject of a passive; 'begot' is taken from the sense of the line. The sentence continues into the next unit. OPEN (reviewer error, not settled): ajani labelled passive but translated active \"begot\"; gram, gloss and translation disagree",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.034.2a",
+   "002.034.2b"
+  ],
+  "lines_deva": [
+   "द्यावो॒ न स्तृभि॑श्चितयन्त खा॒दिनो॒ व्य१भ्रिया॒ न द्यु॑तयन्त वृ॒ष्टय॑:",
+   "रु॒द्रो यद् वो॑ मरुतो रुक्मवक्षसो॒ वृषाज॑नि॒ पृश्न्या॑: शु॒क्र ऊध॑नि"
+  ],
+  "lines_iast": [
+   "dyāvo̱ na stṛbhi̭ścitayanta khā̱dino̱ vya1bhriyā̱ na dyṷtayanta vṛ̱ṣṭaya̭:",
+   "ru̱dro yad vo̭ maruto rukmavakṣaso̱ vṛṣāja̭ni̱ pṛśnyā̭: śu̱kra ūdha̭ni"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "u̱kṣante̱",
+      "words": [
+       {
+        "w": "ukṣante",
+        "gloss": "they sprinkle",
+        "gram": "3 pl. pres. mid. √ukṣ"
+       }
+      ]
+     },
+     {
+      "src": "aśvā̱~",
+      "words": [
+       {
+        "w": "aśvān",
+        "gloss": "horses",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "atyā̭~",
+      "words": [
+       {
+        "w": "atyān",
+        "gloss": "racers",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ivā̱jiṣṷ",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "ājiṣu",
+        "gloss": "in the contests",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "na̱dasya̱",
+      "words": [
+       {
+        "w": "nadasya",
+        "gloss": "of the roaring one",
+        "gram": "m. gen. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "karṇai̭sturayanta",
+      "words": [
+       {
+        "w": "karṇaiḥ",
+        "gloss": "with ears",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "turayanta",
+        "gloss": "they hasten",
+        "gram": "3 pl. impf. mid. √tur"
+       }
+      ]
+     },
+     {
+      "src": "ā̱śubhi̭:",
+      "words": [
+       {
+        "w": "āśubhiḥ",
+        "gloss": "with the swift ones",
+        "gram": "inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "hira̭ṇyaśiprā",
+      "words": [
+       {
+        "w": "hiraṇya-śiprāḥ",
+        "gloss": "gold-helmeted",
+        "gram": "m. nom. pl. bahuvrīhi (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "maruto̱",
+      "words": [
+       {
+        "w": "marutaḥ",
+        "gloss": "Maruts",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "davi̭dhvataḥ",
+      "words": [
+       {
+        "w": "davidhvataḥ",
+        "gloss": "shaking",
+        "gram": "m. nom. pl. intens. part. √dhū"
+       }
+      ]
+     },
+     {
+      "src": "pṛ̱kṣaṃ",
+      "words": [
+       {
+        "w": "pṛkṣam",
+        "gloss": "nourishment",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yā̭tha̱",
+      "words": [
+       {
+        "w": "yātha",
+        "gloss": "you go",
+        "gram": "2 pl. pres. √yā"
+       }
+      ]
+     },
+     {
+      "src": "pṛṣa̭tībhiḥ",
+      "words": [
+       {
+        "w": "pṛṣatībhiḥ",
+        "gloss": "with spotted mares",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "samanyavaḥ",
+      "words": [
+       {
+        "w": "sa-manyavaḥ",
+        "gloss": "of one fury",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे घोड़ों को सींचते हैं, दौड़ में तेज़ घोड़ों की भाँति; गरजने वाले के कानों से वे तेज़ों के साथ शीघ्रता करते हैं। सोने के शिरस्त्राण वाले, काँपते हुए मरुतो, एक ही क्रोध वाले, तुम चितकबरी घोड़ियों के साथ पोषण की ओर जाते हो।",
+  "english": "They sprinkle the horses like racers in the contests; they hasten with the ears of the roaring one, with the swift ones. Gold-helmeted Maruts, shaking, of one fury, you go to nourishment with the spotted mares.",
+  "text_flags": [],
+  "notes": "The first line is obscure: 'nadasya karṇaiḥ' (with the ears of the roaring one, or of the river) and the object of 'ukṣante' are uncertain; the translation is literal. 'hiraṇyaśipra' is taken as 'gold-helmeted' (gold-lipped is also possible).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.034.3a",
+   "002.034.3b"
+  ],
+  "lines_deva": [
+   "उ॒क्षन्ते॒ अश्वाँ॒ अत्याँ॑ इवा॒जिषु॑ न॒दस्य॒ कर्णै॑स्तुरयन्त आ॒शुभि॑:",
+   "हिर॑ण्यशिप्रा मरुतो॒ दवि॑ध्वतः पृ॒क्षं या॑थ॒ पृष॑तीभिः समन्यवः"
+  ],
+  "lines_iast": [
+   "u̱kṣante̱ aśvā̱~ atyā̭~ ivā̱jiṣṷ na̱dasya̱ karṇai̭sturayanta ā̱śubhi̭:",
+   "hira̭ṇyaśiprā maruto̱ davi̭dhvataḥ pṛ̱kṣaṃ yā̭tha̱ pṛṣa̭tībhiḥ samanyavaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pṛ̱kṣe",
+      "words": [
+       {
+        "w": "pṛkṣe",
+        "gloss": "for nourishment",
+        "gram": "m. loc./dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tā",
+        "gloss": "these",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "viśvā̱",
+      "words": [
+       {
+        "w": "viśvā",
+        "gloss": "all",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhuva̭nā",
+      "words": [
+       {
+        "w": "bhuvanā",
+        "gloss": "worlds",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vavakṣire",
+      "words": [
+       {
+        "w": "vavakṣire",
+        "gloss": "have grown strong",
+        "gram": "3 pl. pf. mid. √vakṣ"
+       }
+      ]
+     },
+     {
+      "src": "mi̱trāya̭",
+      "words": [
+       {
+        "w": "mitrāya",
+        "gloss": "for Mitra",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̱",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sada̱mā",
+      "words": [
+       {
+        "w": "sadam",
+        "gloss": "always",
+        "gram": "ind."
+       },
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jī̱radā̭navaḥ",
+      "words": [
+       {
+        "w": "jīra-dānavaḥ",
+        "gloss": "with swift gifts",
+        "gram": "m. voc. pl. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "pṛṣa̭daśvāso",
+      "words": [
+       {
+        "w": "pṛṣat-aśvāsaḥ",
+        "gloss": "with spotted horses",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "anava̱bhrarā̭dhasa",
+      "words": [
+       {
+        "w": "anavabhra-rādhasaḥ",
+        "gloss": "of unfailing bounty",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ṛji̱pyāso̱",
+      "words": [
+       {
+        "w": "ṛjipyāsaḥ",
+        "gloss": "straight-going ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̱yunḙṣu",
+      "words": [
+       {
+        "w": "vayuneṣu",
+        "gloss": "on the ways",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhū̱rṣada̭:",
+      "words": [
+       {
+        "w": "dhūr-sadaḥ",
+        "gloss": "seated at the pole",
+        "gram": "m. nom. pl. tat-puruṣa"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "पोषण के लिए ये सब लोक बलवान हुए हैं, या सदा मित्र के लिए, हे शीघ्र दान वाले। चितकबरे घोड़ों वाले, अटूट दान वाले, मार्गों पर जुए के पास बैठे सीधे चलने वालों के समान।",
+  "english": "For nourishment all these worlds have grown strong, or for Mitra always, O you of swift gifts. With spotted horses, of unfailing bounty, like straight-going ones seated at the pole on the ways.",
+  "text_flags": [],
+  "notes": "Uncertain: 'pṛkṣe' (nourishment), 'jīradānavaḥ' (swift gifts), 'ṛjipya' (straight-going), 'vayuna' (way). The second line is an unattached description of the Maruts. 'vavakṣire' may also be 'have carried'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.034.4a",
+   "002.034.4b"
+  ],
+  "lines_deva": [
+   "पृ॒क्षे ता विश्वा॒ भुव॑ना ववक्षिरे मि॒त्राय॑ वा॒ सद॒मा जी॒रदा॑नवः",
+   "पृष॑दश्वासो अनव॒भ्ररा॑धस ऋजि॒प्यासो॒ न व॒युने॑षु धू॒र्षद॑:"
+  ],
+  "lines_iast": [
+   "pṛ̱kṣe tā viśvā̱ bhuva̭nā vavakṣire mi̱trāya̭ vā̱ sada̱mā jī̱radā̭navaḥ",
+   "pṛṣa̭daśvāso anava̱bhrarā̭dhasa ṛji̱pyāso̱ na va̱yunḙṣu dhū̱rṣada̭:"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "indha̭nvabhirdhe̱nubhī̭",
+      "words": [
+       {
+        "w": "indhanvabhiḥ",
+        "gloss": "kindling",
+        "gram": "inst. pl. (uncertain)"
+       },
+       {
+        "w": "dhenubhiḥ",
+        "gloss": "with milch cows",
+        "gram": "f. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "ra̱pśadṷ̄dhabhiradhva̱smabhi̭:",
+      "words": [
+       {
+        "w": "rapśat-ūdhabhiḥ",
+        "gloss": "with swelling udders",
+        "gram": "f. inst. pl. bahuvrīhi"
+       },
+       {
+        "w": "adhvasmabhiḥ",
+        "gloss": "unfailing",
+        "gram": "inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "pa̱thibhi̭rbhrājadṛṣṭayaḥ",
+      "words": [
+       {
+        "w": "pathibhiḥ",
+        "gloss": "by paths",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "bhrājat-ṛṣṭayaḥ",
+        "gloss": "with gleaming spears",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ha̱ṃsāso̱",
+      "words": [
+       {
+        "w": "haṃsāsaḥ",
+        "gloss": "swans",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svasa̭rāṇi",
+      "words": [
+       {
+        "w": "svasarāṇi",
+        "gloss": "dwellings",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "gantana̱",
+      "words": [
+       {
+        "w": "gantana",
+        "gloss": "come",
+        "gram": "2 pl. imv. √gam"
+       }
+      ]
+     },
+     {
+      "src": "madho̱rmadā̭ya",
+      "words": [
+       {
+        "w": "madhoḥ",
+        "gloss": "of honey",
+        "gram": "n. gen. sg."
+       },
+       {
+        "w": "madāya",
+        "gloss": "for delight",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "marutaḥ",
+      "words": [
+       {
+        "w": "marutaḥ",
+        "gloss": "O Maruts",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "samanyavaḥ",
+      "words": [
+       {
+        "w": "sa-manyavaḥ",
+        "gloss": "of one fury",
+        "gram": "m. voc. pl. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रज्वलित करने वाली, भरे थनों वाली दुधारू गायों के साथ, अटूट मार्गों से, चमकते भालों वाले, हे एक ही क्रोध वाले मरुतो, हंसों की भाँति मधु के आनंद के लिए अपने निवासों में आओ।",
+  "english": "With the kindling milch cows with swelling udders, by unfailing paths, with gleaming spears, come like swans to your dwellings for the delight of honey, O Maruts of one fury.",
+  "text_flags": [],
+  "notes": "'indhanvabhiḥ' is an unclear word (possibly 'kindling' or 'fuel-bearing'); the first line is a string of instrumentals whose exact link to 'gantana' is not certain. 'adhvasma' is taken as 'unfailing'. 'svasarāṇi' rendered 'dwellings'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.034.5a",
+   "002.034.5b"
+  ],
+  "lines_deva": [
+   "इन्ध॑न्वभिर्धे॒नुभी॑ र॒प्शदू॑धभिरध्व॒स्मभि॑: प॒थिभि॑र्भ्राजदृष्टयः",
+   "आ हं॒सासो॒ न स्वस॑राणि गन्तन॒ मधो॒र्मदा॑य मरुतः समन्यवः"
+  ],
+  "lines_iast": [
+   "indha̭nvabhirdhe̱nubhī̭ ra̱pśadṷ̄dhabhiradhva̱smabhi̭: pa̱thibhi̭rbhrājadṛṣṭayaḥ",
+   "ā ha̱ṃsāso̱ na svasa̭rāṇi gantana̱ madho̱rmadā̭ya marutaḥ samanyavaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "brahmā̭ṇi",
+      "words": [
+       {
+        "w": "brahmāṇi",
+        "gloss": "prayers",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "marutaḥ",
+      "words": [
+       {
+        "w": "marutaḥ",
+        "gloss": "O Maruts",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "samanyavo",
+      "words": [
+       {
+        "w": "sa-manyavaḥ",
+        "gloss": "of one fury",
+        "gram": "m. voc. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "na̱rāṃ",
+      "words": [
+       {
+        "w": "narām",
+        "gloss": "of men",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śaṃsa̱:",
+      "words": [
+       {
+        "w": "śaṃsaḥ",
+        "gloss": "praise",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sava̭nāni",
+      "words": [
+       {
+        "w": "savanāni",
+        "gloss": "pressings",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "gantana",
+      "words": [
+       {
+        "w": "gantana",
+        "gloss": "come",
+        "gram": "2 pl. imv. √gam"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "aśvā̭miva",
+      "words": [
+       {
+        "w": "aśvām",
+        "gloss": "mare",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pipyata",
+      "words": [
+       {
+        "w": "pipyata",
+        "gloss": "make swell",
+        "gram": "2 pl. imv. √pyā"
+       }
+      ]
+     },
+     {
+      "src": "dhe̱numūdha̭ni̱",
+      "words": [
+       {
+        "w": "dhenum",
+        "gloss": "milch cow",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ūdhani",
+        "gloss": "in the udder",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kartā̱",
+      "words": [
+       {
+        "w": "kartā",
+        "gloss": "make",
+        "gram": "2 pl. imv. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "dhiya̭ṃ",
+      "words": [
+       {
+        "w": "dhiyam",
+        "gloss": "thought",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jari̱tre",
+      "words": [
+       {
+        "w": "jaritre",
+        "gloss": "for the singer",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "vāja̭peśasam",
+      "words": [
+       {
+        "w": "vāja-peśasam",
+        "gloss": "shaped with prizes",
+        "gram": "f. acc. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हमारे ब्रह्म की ओर आओ, हे एक ही क्रोध वाले मरुतो, पुरुषों की स्तुति की भाँति हमारे सवनों में आओ। घोड़ी के समान दुधारू गाय को थन में भर दो; गायक के लिए पुरस्कारों से सजी धी बनाओ।",
+  "english": "Come to our prayers, O Maruts of one fury, come to the pressings like the praise of men. Make the milch cow swell in the udder like a mare; make for the singer a thought shaped with prizes.",
+  "text_flags": [],
+  "notes": "'narāṃ na śaṃsaḥ' is literally 'like the praise of men'; its link to the verb is uncertain. 'aśvām iva pipyata dhenum ūdhani' is uncertain: the comparison with a mare is kept literal. 'vājapeśasam' is taken as 'shaped with prizes'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.034.6a",
+   "002.034.6b"
+  ],
+  "lines_deva": [
+   "आ नो॒ ब्रह्मा॑णि मरुतः समन्यवो न॒रां न शंस॒: सव॑नानि गन्तन",
+   "अश्वा॑मिव पिप्यत धे॒नुमूध॑नि॒ कर्ता॒ धियं॑ जरि॒त्रे वाज॑पेशसम्"
+  ],
+  "lines_iast": [
+   "ā no̱ brahmā̭ṇi marutaḥ samanyavo na̱rāṃ na śaṃsa̱: sava̭nāni gantana",
+   "aśvā̭miva pipyata dhe̱numūdha̭ni̱ kartā̱ dhiya̭ṃ jari̱tre vāja̭peśasam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "dāta",
+      "words": [
+       {
+        "w": "dāta",
+        "gloss": "give",
+        "gram": "2 pl. imv. √dā"
+       }
+      ]
+     },
+     {
+      "src": "maruto",
+      "words": [
+       {
+        "w": "marutaḥ",
+        "gloss": "O Maruts",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vā̱jina̱ṃ",
+      "words": [
+       {
+        "w": "vājinam",
+        "gloss": "prize-winner",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ratha̭",
+      "words": [
+       {
+        "w": "rathe",
+        "gloss": "in the chariot",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "āpā̱naṃ",
+      "words": [
+       {
+        "w": "āpānam",
+        "gloss": "obtaining",
+        "gram": "m. acc. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "brahma̭",
+      "words": [
+       {
+        "w": "brahma",
+        "gloss": "prayer",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ci̱taya̭d",
+      "words": [
+       {
+        "w": "citayat",
+        "gloss": "awakening",
+        "gram": "n. acc. sg. pres. part. caus. √cit"
+       }
+      ]
+     },
+     {
+      "src": "di̱vedi̭ve",
+      "words": [
+       {
+        "w": "dive-dive",
+        "gloss": "day by day",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "iṣa̭ṃ",
+      "words": [
+       {
+        "w": "iṣam",
+        "gloss": "refreshment",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sto̱tṛbhyo̭",
+      "words": [
+       {
+        "w": "stotṛbhyaḥ",
+        "gloss": "to the praisers",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱janḙṣu",
+      "words": [
+       {
+        "w": "vṛjaneṣu",
+        "gloss": "in the settlements",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kā̱ravḙ",
+      "words": [
+       {
+        "w": "kārave",
+        "gloss": "to the poet",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱niṃ",
+      "words": [
+       {
+        "w": "sanim",
+        "gloss": "gain",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "me̱dhāmari̭ṣṭaṃ",
+      "words": [
+       {
+        "w": "medhām",
+        "gloss": "wisdom",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "ariṣṭam",
+        "gloss": "unharmed",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "du̱ṣṭara̱ṃ",
+      "words": [
+       {
+        "w": "duṣṭaram",
+        "gloss": "hard to overcome",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saha̭:",
+      "words": [
+       {
+        "w": "sahaḥ",
+        "gloss": "might",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे मरुतो, हमें वह दो: रथ में पुरस्कार जीतने वाले को, दिन-प्रतिदिन जगाने वाले, प्राप्त होने वाले ब्रह्म को। स्तुति करने वालों को स्फूर्ति, बस्तियों में कवि को लाभ, बुद्धि, तथा अहिंसित, दुर्जेय बल दो।",
+  "english": "That give to us, O Maruts: the prize-winner in the chariot, the obtained prayer that awakens day by day. Give to the praisers refreshment, to the poet in the settlements gain, wisdom, and unharmed, hard-to-overcome might.",
+  "text_flags": [],
+  "notes": "The first line is uncertain: 'tam ... vājinam rathe āpānam brahma citayat' is a literal arrangement; 'āpāna' (obtaining) and 'citayat' (awakening) are guesses, and the object of 'dāta' is not clearly delimited. In the second line 'dāta' carries over; 'ariṣṭam' is taken with 'sahaḥ' or separately.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.034.7a",
+   "002.034.7b"
+  ],
+  "lines_deva": [
+   "तं नो॑ दात मरुतो वा॒जिनं॒ रथ॑ आपा॒नं ब्रह्म॑ चि॒तय॑द् दि॒वेदि॑वे",
+   "इषं॑ स्तो॒तृभ्यो॑ वृ॒जने॑षु का॒रवे॑ स॒निं मे॒धामरि॑ष्टं दु॒ष्टरं॒ सह॑:"
+  ],
+  "lines_iast": [
+   "taṃ no̭ dāta maruto vā̱jina̱ṃ ratha̭ āpā̱naṃ brahma̭ ci̱taya̭d di̱vedi̭ve",
+   "iṣa̭ṃ sto̱tṛbhyo̭ vṛ̱janḙṣu kā̱ravḙ sa̱niṃ me̱dhāmari̭ṣṭaṃ du̱ṣṭara̱ṃ saha̭:"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yu̱ñjatḙ",
+      "words": [
+       {
+        "w": "yuñjate",
+        "gloss": "they yoke",
+        "gram": "3 pl. pres. mid. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "ma̱ruto̭",
+      "words": [
+       {
+        "w": "marutaḥ",
+        "gloss": "Maruts",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ru̱kmava̭kṣa̱so",
+      "words": [
+       {
+        "w": "rukma-vakṣasaḥ",
+        "gloss": "gold-breasted",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "'śvā̱n",
+      "words": [
+       {
+        "w": "aśvān",
+        "gloss": "horses",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rathḙṣu̱",
+      "words": [
+       {
+        "w": "ratheṣu",
+        "gloss": "to the chariots",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bhaga̱",
+      "words": [
+       {
+        "w": "bhage",
+        "gloss": "for the share",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "su̱dāna̭vaḥ",
+      "words": [
+       {
+        "w": "su-dānavaḥ",
+        "gloss": "generous",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "dhe̱nurna",
+      "words": [
+       {
+        "w": "dhenuḥ",
+        "gloss": "milch cow",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śiśve̱",
+      "words": [
+       {
+        "w": "śiśve",
+        "gloss": "for the calf",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "svasa̭reṣu",
+      "words": [
+       {
+        "w": "svasareṣu",
+        "gloss": "in the dwellings",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pinvate̱",
+      "words": [
+       {
+        "w": "pinvate",
+        "gloss": "they cause to swell",
+        "gram": "3 pl. pres. mid. √pinv"
+       }
+      ]
+     },
+     {
+      "src": "janā̭ya",
+      "words": [
+       {
+        "w": "janāya",
+        "gloss": "for the man",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "rā̱taha̭viṣe",
+      "words": [
+       {
+        "w": "rāta-haviṣe",
+        "gloss": "whose oblation is given",
+        "gram": "m. dat. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ma̱hīmiṣa̭m",
+      "words": [
+       {
+        "w": "mahīm",
+        "gloss": "great",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "iṣam",
+        "gloss": "refreshment",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जब सोने की छाती वाले उदार मरुत् अपने घोड़ों को रथों में जोतते हैं, हिस्से के लिए यहाँ; जैसे दुधारू गाय बछड़े के लिए, वे निवासों में उस जन के लिए जिसने हवि दी है, महान् स्फूर्ति को बढ़ाते हैं।",
+  "english": "When the Maruts, gold-breasted, generous, yoke their horses to the chariots, for the share; like a milch cow for her calf, in the dwellings they make a great refreshment swell for the man whose oblation is given.",
+  "text_flags": [],
+  "notes": "'bhaga ā' is read bhage ā (e before a vowel); 'ā' and the link of 'bhage' are not certain. 'pinvate' is taken as transitive.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.034.8a",
+   "002.034.8b"
+  ],
+  "lines_deva": [
+   "यद् यु॒ञ्जते॑ म॒रुतो॑ रु॒क्मव॑क्ष॒सो ऽश्वा॒न् रथे॑षु॒ भग॒ आ सु॒दान॑वः",
+   "धे॒नुर्न शिश्वे॒ स्वस॑रेषु पिन्वते॒ जना॑य रा॒तह॑विषे म॒हीमिष॑म्"
+  ],
+  "lines_iast": [
+   "yad yu̱ñjatḙ ma̱ruto̭ ru̱kmava̭kṣa̱so 'śvā̱n rathḙṣu̱ bhaga̱ ā su̱dāna̭vaḥ",
+   "dhe̱nurna śiśve̱ svasa̭reṣu pinvate̱ janā̭ya rā̱taha̭viṣe ma̱hīmiṣa̭m"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "maruto",
+      "words": [
+       {
+        "w": "marutaḥ",
+        "gloss": "O Maruts",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱katā̭ti̱",
+      "words": [
+       {
+        "w": "vṛkatāti",
+        "gloss": "wolf-like",
+        "gram": "f. (uncertain form)"
+       }
+      ]
+     },
+     {
+      "src": "martyo̭",
+      "words": [
+       {
+        "w": "martyaḥ",
+        "gloss": "mortal",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ri̱purda̱dhe",
+      "words": [
+       {
+        "w": "ripuḥ",
+        "gloss": "deceiver",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "dadhe",
+        "gloss": "has set himself",
+        "gram": "3 sg. pf. mid. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "va̭savo̱",
+      "words": [
+       {
+        "w": "vasavaḥ",
+        "gloss": "O Vasus",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rakṣa̭tā",
+      "words": [
+       {
+        "w": "rakṣatā",
+        "gloss": "protect",
+        "gram": "2 pl. imv. √rakṣ"
+       }
+      ]
+     },
+     {
+      "src": "ri̱ṣaḥ",
+      "words": [
+       {
+        "w": "riṣaḥ",
+        "gloss": "from harm",
+        "gram": "f. abl. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "va̱rtaya̭ta̱",
+      "words": [
+       {
+        "w": "vartayata",
+        "gloss": "turn",
+        "gram": "2 pl. imv. caus. √vṛt"
+       }
+      ]
+     },
+     {
+      "src": "tapṷṣā",
+      "words": [
+       {
+        "w": "tapuṣā",
+        "gloss": "with burning heat",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱kriyā̱bhi",
+      "words": [
+       {
+        "w": "cakriyā",
+        "gloss": "by the wheel",
+        "gram": "f. inst. sg. (uncertain)"
+       },
+       {
+        "w": "abhi",
+        "gloss": "upon",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tamava̭",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ava",
+        "gloss": "down",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rudrā",
+      "words": [
+       {
+        "w": "rudrāḥ",
+        "gloss": "O Rudras",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱śaso̭",
+      "words": [
+       {
+        "w": "aśasaḥ",
+        "gloss": "the accursed one",
+        "gram": "m. acc. pl./ gen. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "hantanā̱",
+      "words": [
+       {
+        "w": "hantana",
+        "gloss": "strike",
+        "gram": "2 pl. imv. √han"
+       }
+      ]
+     },
+     {
+      "src": "vadha̭:",
+      "words": [
+       {
+        "w": "vadhaḥ",
+        "gloss": "with weapons",
+        "gram": "m. inst. pl./ acc. pl. (uncertain)"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जो मर्त्य शत्रु, हे मरुतो, भेड़िये की तरह हमारे विरुद्ध खड़ा हुआ है, हे वसुओ, हानि से हमारी रक्षा करो। जलते ताप से, चक्र से, उसकी ओर घुमाओ; हे रुद्रो, शापित को शस्त्रों से नीचे गिराओ।",
+  "english": "The mortal deceiver who, O Maruts, has set himself wolf-like against us, O Vasus, protect us from harm. Turn upon him with the burning heat, by the wheel; O Rudras, strike down the accursed one with weapons.",
+  "text_flags": [],
+  "notes": "Uncertain: 'vṛkatāti' (a form of vṛka, wolf), 'dadhe' (has set himself), 'cakriyā' (by the wheel), 'aśasaḥ' and 'vadhaḥ' (case and sense). The translation is a conjectural literal reading. 'vasavaḥ' kept as Vasus. OPEN (reviewer error, not settled): vadhaḥ cannot be inst. pl.; \"with weapons\" unsupported",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.034.9a",
+   "002.034.9b"
+  ],
+  "lines_deva": [
+   "यो नो॑ मरुतो वृ॒कता॑ति॒ मर्त्यो॑ रि॒पुर्द॒धे व॑सवो॒ रक्ष॑ता रि॒षः",
+   "व॒र्तय॑त॒ तपु॑षा च॒क्रिया॒भि तमव॑ रुद्रा अ॒शसो॑ हन्तना॒ वध॑:"
+  ],
+  "lines_iast": [
+   "yo no̭ maruto vṛ̱katā̭ti̱ martyo̭ ri̱purda̱dhe va̭savo̱ rakṣa̭tā ri̱ṣaḥ",
+   "va̱rtaya̭ta̱ tapṷṣā ca̱kriyā̱bhi tamava̭ rudrā a̱śaso̭ hantanā̱ vadha̭:"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ci̱traṃ",
+      "words": [
+       {
+        "w": "citram",
+        "gloss": "wonderful",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "tad",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vo̭",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "your",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "maruto̱",
+      "words": [
+       {
+        "w": "marutaḥ",
+        "gloss": "O Maruts",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yāma̭",
+      "words": [
+       {
+        "w": "yāma",
+        "gloss": "course, going",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "cekite̱",
+      "words": [
+       {
+        "w": "cekite",
+        "gloss": "is perceived",
+        "gram": "3 sg. pf. pass. √cit"
+       }
+      ]
+     },
+     {
+      "src": "pṛśnyā̱",
+      "words": [
+       {
+        "w": "pṛśnyāḥ",
+        "gloss": "of Pṛśni",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yadūdha̱rapyā̱payo̭",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       },
+       {
+        "w": "ūdhaḥ",
+        "gloss": "udder",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "apyā",
+        "gloss": "watery",
+        "gram": "f. nom. pl. (uncertain)"
+       },
+       {
+        "w": "payaḥ",
+        "gloss": "milk",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "du̱huḥ",
+      "words": [
+       {
+        "w": "duhuḥ",
+        "gloss": "they milked",
+        "gram": "3 pl. impf. (augmentless) √duh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yad",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "when",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̭",
+      "words": [
+       {
+        "w": "vā",
+        "gloss": "or",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ni̱de",
+      "words": [
+       {
+        "w": "nide",
+        "gloss": "for reproach",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "nava̭mānasya",
+      "words": [
+       {
+        "w": "navamānasya",
+        "gloss": "of the one who disparages",
+        "gram": "m. gen. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "rudriyāstri̱taṃ",
+      "words": [
+       {
+        "w": "rudriyāḥ",
+        "gloss": "sons of Rudra",
+        "gram": "m. voc. pl."
+       },
+       {
+        "w": "tritam",
+        "gloss": "Trita",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jarā̭ya",
+      "words": [
+       {
+        "w": "jarāya",
+        "gloss": "for old age",
+        "gram": "f. dat. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "jura̱tāma̭dābhyāḥ",
+      "words": [
+       {
+        "w": "juratām",
+        "gloss": "may he wear out",
+        "gram": "3 sg. imv. mid. √jur (uncertain)"
+       },
+       {
+        "w": "adābhyāḥ",
+        "gloss": "unbeguilable",
+        "gram": "m. voc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे मरुतो, तुम्हारा वह गमन अद्भुत है, वह जाना गया है, जब उन्होंने पृश्नि के थन से जलीय दूध दुहा। अथवा जब, हे रुद्र के पुत्रो, हे न ठगे जा सकने वालो, निंदा करने वाले की निंदा के लिए, त्रित को वृद्धावस्था के लिए वह क्षीण हो।",
+  "english": "That course of yours, O Maruts, is wonderful, it is perceived, when they milked the watery milk from the udder of Pṛśni. Or when, O sons of Rudra, unbeguilable ones, for the reproach of the one who disparages, Trita, for old age, may he wear out.",
+  "text_flags": [],
+  "notes": "The line is very unclear: 'apyā' (watery), 'navamānasya', 'jarāya', 'juratām' and the role of Trita (acc.) cannot be resolved from the verse alone; the second line translation is a conjectural literal rendering and should not be relied on.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.034.10a",
+   "002.034.10b"
+  ],
+  "lines_deva": [
+   "चि॒त्रं तद् वो॑ मरुतो॒ याम॑ चेकिते॒ पृश्न्या॒ यदूध॒रप्या॒पयो॑ दु॒हुः",
+   "यद् वा॑ नि॒दे नव॑मानस्य रुद्रियास्त्रि॒तं जरा॑य जुर॒ताम॑दाभ्याः"
+  ],
+  "lines_iast": [
+   "ci̱traṃ tad vo̭ maruto̱ yāma̭ cekite̱ pṛśnyā̱ yadūdha̱rapyā̱payo̭ du̱huḥ",
+   "yad vā̭ ni̱de nava̭mānasya rudriyāstri̱taṃ jarā̭ya jura̱tāma̭dābhyāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "11",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tān",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "those",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vo̭",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "of you",
+        "gram": "gen./acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ma̱ho",
+      "words": [
+       {
+        "w": "mahaḥ",
+        "gloss": "great",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ma̱ruta̭",
+      "words": [
+       {
+        "w": "marutaḥ",
+        "gloss": "Maruts",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "eva̱yāvno̱",
+      "words": [
+       {
+        "w": "evayāvnaḥ",
+        "gloss": "going their own way",
+        "gram": "m. voc. pl. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "viṣṇo̭re̱ṣasya̭",
+      "words": [
+       {
+        "w": "viṣṇoḥ",
+        "gloss": "of Viṣṇu",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "eṣasya",
+        "gloss": "of the swift",
+        "gram": "m. gen. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "prabhṛ̱the",
+      "words": [
+       {
+        "w": "prabhṛthe",
+        "gloss": "at the offering",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ha̭vāmahe",
+      "words": [
+       {
+        "w": "havāmahe",
+        "gloss": "we invoke",
+        "gram": "1 pl. pres. mid. √hve"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "hira̭ṇyavarṇān",
+      "words": [
+       {
+        "w": "hiraṇya-varṇān",
+        "gloss": "gold-coloured",
+        "gram": "m. acc. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "kaku̱hān",
+      "words": [
+       {
+        "w": "kakuhān",
+        "gloss": "lofty",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ya̱tasrṷco",
+      "words": [
+       {
+        "w": "yata-srucaḥ",
+        "gloss": "with ladles held out",
+        "gram": "m. acc. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "brahma̱ṇyanta̱:",
+      "words": [
+       {
+        "w": "brahmaṇyantaḥ",
+        "gloss": "making prayers",
+        "gram": "m. nom. pl. denom. part."
+       }
+      ]
+     },
+     {
+      "src": "śaṃsya̱ṃ",
+      "words": [
+       {
+        "w": "śaṃsyam",
+        "gloss": "praiseworthy",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rādha̭",
+      "words": [
+       {
+        "w": "rādhaḥ",
+        "gloss": "bounty",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "īmahe",
+      "words": [
+       {
+        "w": "īmahe",
+        "gloss": "we ask",
+        "gram": "1 pl. pres. mid. √ī"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "तुम्हारे उन महान् मरुतों को, जो अपने मार्ग पर चलते हैं, हम तेज़ विष्णु के अर्पण के समय पुकारते हैं। सोने के रंग वाले, ऊँचे, हाथ में उठाई करछी वाले उनसे प्रार्थना करते हुए हम प्रशंसनीय दान माँगते हैं।",
+  "english": "Those of you, O great Maruts, who go your own way, we invoke at the offering of swift Viṣṇu. Gold-coloured, lofty, with ladles held out, making prayers we ask for praiseworthy bounty.",
+  "text_flags": [],
+  "notes": "Uncertain: 'evayāvnaḥ' (going one's own way), 'viṣṇor eṣasya' (of the swift Viṣṇu; the gen. 'eṣasya' is unclear), 'kakuhān' (lofty). Whether the ladles belong to the Maruts or to the worshippers is not settled by the verse.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.034.11a",
+   "002.034.11b"
+  ],
+  "lines_deva": [
+   "तान् वो॑ म॒हो म॒रुत॑ एव॒याव्नो॒ विष्णो॑रे॒षस्य॑ प्रभृ॒थे ह॑वामहे",
+   "हिर॑ण्यवर्णान् ककु॒हान् य॒तस्रु॑चो ब्रह्म॒ण्यन्त॒: शंस्यं॒ राध॑ ईमहे"
+  ],
+  "lines_iast": [
+   "tān vo̭ ma̱ho ma̱ruta̭ eva̱yāvno̱ viṣṇo̭re̱ṣasya̭ prabhṛ̱the ha̭vāmahe",
+   "hira̭ṇyavarṇān kaku̱hān ya̱tasrṷco brahma̱ṇyanta̱: śaṃsya̱ṃ rādha̭ īmahe"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "12",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "daśa̭gvāḥ",
+      "words": [
+       {
+        "w": "daśagvāḥ",
+        "gloss": "Daśagvas",
+        "gram": "m. nom. pl. name"
+       }
+      ]
+     },
+     {
+      "src": "pratha̱mā",
+      "words": [
+       {
+        "w": "prathamāḥ",
+        "gloss": "first",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ya̱jñamṷ̄hire̱",
+      "words": [
+       {
+        "w": "yajñam",
+        "gloss": "sacrifice",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ūhire",
+        "gloss": "they bore",
+        "gram": "3 pl. pf. mid. √vah"
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "hinvantū̱ṣaso̱",
+      "words": [
+       {
+        "w": "hinvantu",
+        "gloss": "may they urge on",
+        "gram": "3 pl. imv. √hinv"
+       },
+       {
+        "w": "uṣasaḥ",
+        "gloss": "of the dawn",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vyṷṣṭiṣu",
+      "words": [
+       {
+        "w": "vyuṣṭiṣu",
+        "gloss": "at the dawnings",
+        "gram": "f. loc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "u̱ṣā",
+      "words": [
+       {
+        "w": "uṣāḥ",
+        "gloss": "Dawn",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rā̱mīra̭ru̱ṇairapo̭rṇute",
+      "words": [
+       {
+        "w": "rāmīḥ",
+        "gloss": "nights",
+        "gram": "f. acc. pl."
+       },
+       {
+        "w": "aruṇaiḥ",
+        "gloss": "with ruddy ones",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "apa-ūrṇute",
+        "gloss": "she uncovers",
+        "gram": "3 sg. pres. mid. apa-√vṛ"
+       }
+      ]
+     },
+     {
+      "src": "ma̱ho",
+      "words": [
+       {
+        "w": "mahaḥ",
+        "gloss": "great",
+        "gram": "form uncertain (-aḥ is not inst.; agrees loosely with jyotiṣā)"
+       }
+      ]
+     },
+     {
+      "src": "jyoti̭ṣā",
+      "words": [
+       {
+        "w": "jyotiṣā",
+        "gloss": "with light",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śuca̱tā",
+      "words": [
+       {
+        "w": "śucatā",
+        "gloss": "shining",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "goa̭rṇasā",
+      "words": [
+       {
+        "w": "go-arṇasā",
+        "gloss": "with a flood of cows",
+        "gram": "n. inst. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे दशग्व, जिन्होंने सबसे पहले यज्ञ को वहन किया, वे उषा के उदय के समय हमें प्रेरित करें। जैसे उषा अरुणों से रात्रियों को खोल देती है, महान् चमकते प्रकाश से, गायों की बाढ़ के साथ।",
+  "english": "They, the Daśagvas, first bore the sacrifice; may they urge us on at the dawnings of the dawn. As Dawn uncovers the nights with the ruddy ones, with great shining light, with a flood of cows.",
+  "text_flags": [],
+  "notes": "Daśagva is kept as a name (literally 'having ten cows' is a guess). 'maho jyotiṣā' is taken with 'mahaḥ' as an adjective; the form is irregular. 'aruṇaiḥ' has no noun; the translation keeps 'ruddy ones'. 'go-arṇasā' literally 'flood of cows'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.034.12a",
+   "002.034.12b"
+  ],
+  "lines_deva": [
+   "ते दश॑ग्वाः प्रथ॒मा य॒ज्ञमू॑हिरे॒ ते नो॑ हिन्वन्तू॒षसो॒ व्यु॑ष्टिषु",
+   "उ॒षा न रा॒मीर॑रु॒णैरपो॑र्णुते म॒हो ज्योति॑षा शुच॒ता गोअ॑र्णसा"
+  ],
+  "lines_iast": [
+   "te daśa̭gvāḥ pratha̱mā ya̱jñamṷ̄hire̱ te no̭ hinvantū̱ṣaso̱ vyṷṣṭiṣu",
+   "u̱ṣā na rā̱mīra̭ru̱ṇairapo̭rṇute ma̱ho jyoti̭ṣā śuca̱tā goa̭rṇasā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "13",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṣo̱ṇībhi̭raru̱ṇebhi̱rnāñjibhī̭",
+      "words": [
+       {
+        "w": "kṣoṇībhiḥ",
+        "gloss": "with kṣoṇīs",
+        "gram": "f. inst. pl. (uncertain)"
+       },
+       {
+        "w": "aruṇebhiḥ",
+        "gloss": "with ruddy ones",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "añjibhiḥ",
+        "gloss": "with ornaments",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "ru̱drā",
+      "words": [
+       {
+        "w": "rudrāḥ",
+        "gloss": "Rudras",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ṛ̱tasya̱",
+      "words": [
+       {
+        "w": "ṛtasya",
+        "gloss": "of order",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sada̭neṣu",
+      "words": [
+       {
+        "w": "sadaneṣu",
+        "gloss": "in the seats",
+        "gram": "n. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vāvṛdhuḥ",
+      "words": [
+       {
+        "w": "vāvṛdhuḥ",
+        "gloss": "they grew strong",
+        "gram": "3 pl. pf. √vṛdh"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ni̱megha̭mānā̱",
+      "words": [
+       {
+        "w": "nimeghamānāḥ",
+        "gloss": "pouring down",
+        "gram": "m. nom. pl. pres. part. mid. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "atyḙna̱",
+      "words": [
+       {
+        "w": "atyena",
+        "gloss": "swift",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "pāja̭sā",
+      "words": [
+       {
+        "w": "pājasā",
+        "gloss": "with force",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "suśca̱ndraṃ",
+      "words": [
+       {
+        "w": "su-candram",
+        "gloss": "very bright",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṇa̭ṃ",
+      "words": [
+       {
+        "w": "varṇam",
+        "gloss": "colour",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dadhire",
+      "words": [
+       {
+        "w": "dadhire",
+        "gloss": "they took on",
+        "gram": "3 pl. pf. mid. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "su̱peśa̭sam",
+      "words": [
+       {
+        "w": "su-peśasam",
+        "gloss": "well-formed",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे रुद्र, लाल क्षोणियों के साथ, आभूषणों की भाँति, ऋत के आसनों में बढ़े। बरसते हुए, तीव्र बल से, उन्होंने अत्यंत उज्ज्वल, सुंदर रूप वाला रंग धारण किया।",
+  "english": "They, the Rudras, grew strong in the seats of order, with the ruddy kṣoṇīs, like ornaments. Pouring down with swift force, they took on a very bright colour, well-formed.",
+  "text_flags": [],
+  "notes": "Uncertain: 'kṣoṇībhiḥ' (the meaning is unclear; left as kṣoṇī), 'nimeghamānāḥ' (pouring down), and whether 'aruṇebhir nāñjibhiḥ' means 'with ruddy ones as with ornaments'. The translation is literal.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.034.13a",
+   "002.034.13b"
+  ],
+  "lines_deva": [
+   "ते क्षो॒णीभि॑ररु॒णेभि॒र्नाञ्जिभी॑ रु॒द्रा ऋ॒तस्य॒ सद॑नेषु वावृधुः",
+   "नि॒मेघ॑माना॒ अत्ये॑न॒ पाज॑सा सुश्च॒न्द्रं वर्णं॑ दधिरे सु॒पेश॑सम्"
+  ],
+  "lines_iast": [
+   "te kṣo̱ṇībhi̭raru̱ṇebhi̱rnāñjibhī̭ ru̱drā ṛ̱tasya̱ sada̭neṣu vāvṛdhuḥ",
+   "ni̱megha̭mānā̱ atyḙna̱ pāja̭sā suśca̱ndraṃ varṇa̭ṃ dadhire su̱peśa̭sam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "14",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "tā~",
+      "words": [
+       {
+        "w": "tān",
+        "gloss": "them",
+        "gram": "m. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "i̭yā̱no",
+      "words": [
+       {
+        "w": "iyānaḥ",
+        "gloss": "going to",
+        "gram": "m. nom. sg. pf. part. √i"
+       }
+      ]
+     },
+     {
+      "src": "mahi̱",
+      "words": [
+       {
+        "w": "mahi",
+        "gloss": "great",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "varṷ̄thamū̱taya̱",
+      "words": [
+       {
+        "w": "varūtham",
+        "gloss": "shelter",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ūtaye",
+        "gloss": "for help",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "upa̱",
+      "words": [
+       {
+        "w": "upa",
+        "gloss": "near",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ghede̱nā",
+      "words": [
+       {
+        "w": "gha",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "id",
+        "gloss": "just",
+        "gram": "ind."
+       },
+       {
+        "w": "enā",
+        "gloss": "with this",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "nama̭sā",
+      "words": [
+       {
+        "w": "namasā",
+        "gloss": "with obeisance",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "gṛṇīmasi",
+      "words": [
+       {
+        "w": "gṛṇīmasi",
+        "gloss": "we praise",
+        "gram": "1 pl. pres. √gṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tri̱to",
+      "words": [
+       {
+        "w": "tritaḥ",
+        "gloss": "Trita",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "na",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yān",
+      "words": [
+       {
+        "w": "yān",
+        "gloss": "whom",
+        "gram": "m. acc. pl. rel."
+       }
+      ]
+     },
+     {
+      "src": "pañca̱",
+      "words": [
+       {
+        "w": "pañca",
+        "gloss": "five",
+        "gram": "num."
+       }
+      ]
+     },
+     {
+      "src": "hotṝ̭na̱bhiṣṭa̭ya",
+      "words": [
+       {
+        "w": "hotṝn",
+        "gloss": "Hotṛ priests",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "abhiṣṭaye",
+        "gloss": "for the aim",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "āva̱varta̱dava̭rāñca̱kriyāva̭se",
+      "words": [
+       {
+        "w": "āvavartat",
+        "gloss": "he turned hither",
+        "gram": "3 sg. impf./plpf. √vṛt"
+       },
+       {
+        "w": "avarān",
+        "gloss": "nearer ones",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "cakriyā",
+        "gloss": "by the wheel",
+        "gram": "f. inst. sg. (uncertain)"
+       },
+       {
+        "w": "avase",
+        "gloss": "for help",
+        "gram": "n. dat. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उनके पास जाता हुआ, सहायता के लिए महान् आश्रय चाहता हुआ, हम इसी प्रणाम से स्तुति करते हैं। जिन पाँच होताओं को त्रित की भाँति उद्देश्य के लिए उसने इधर घुमाया, निकटतर को चक्र से, सहायता के लिए।",
+  "english": "Going to them, for a great shelter for help, we praise indeed with this obeisance. Those whom, like Trita, for the aim, he turned hither, the five Hotṛ priests, the nearer ones, by the wheel, for help.",
+  "text_flags": [],
+  "notes": "The second line is uncertain: the subject of 'āvavartat' (he), 'cakriyā' (by the wheel), and the role of Trita ('like Trita') are not clear from the verse. The first line uses the participle 'iyānaḥ' with 'mahi varūtham' as the object sought.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.034.14a",
+   "002.034.14b"
+  ],
+  "lines_deva": [
+   "ताँ इ॑या॒नो महि॒ वरू॑थमू॒तय॒ उप॒ घेदे॒ना नम॑सा गृणीमसि",
+   "त्रि॒तो न यान् पञ्च॒ होतॄ॑न॒भिष्ट॑य आव॒वर्त॒दव॑राञ्च॒क्रियाव॑से"
+  ],
+  "lines_iast": [
+   "tā~ i̭yā̱no mahi̱ varṷ̄thamū̱taya̱ upa̱ ghede̱nā nama̭sā gṛṇīmasi",
+   "tri̱to na yān pañca̱ hotṝ̭na̱bhiṣṭa̭ya āva̱varta̱dava̭rāñca̱kriyāva̭se"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "15",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yayā̭",
+      "words": [
+       {
+        "w": "yayā",
+        "gloss": "by which",
+        "gram": "f. inst. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "ra̱dhraṃ",
+      "words": [
+       {
+        "w": "radhram",
+        "gloss": "one in need",
+        "gram": "m. acc. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "pā̱raya̱thātyaṃho̱",
+      "words": [
+       {
+        "w": "pārayatha",
+        "gloss": "you carry across",
+        "gram": "2 pl. pres. caus. √pṛ"
+       },
+       {
+        "w": "ati",
+        "gloss": "across",
+        "gram": "ind."
+       },
+       {
+        "w": "aṃhaḥ",
+        "gloss": "distress",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yayā̭",
+      "words": [
+       {
+        "w": "yayā",
+        "gloss": "by which",
+        "gram": "f. inst. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "ni̱do",
+      "words": [
+       {
+        "w": "nidaḥ",
+        "gloss": "from reproaches",
+        "gram": "f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "mu̱ñcatha̭",
+      "words": [
+       {
+        "w": "muñcatha",
+        "gloss": "you release",
+        "gram": "2 pl. pres. √muc"
+       }
+      ]
+     },
+     {
+      "src": "vandi̱tāra̭m",
+      "words": [
+       {
+        "w": "vanditāram",
+        "gloss": "praiser",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱rvācī̱",
+      "words": [
+       {
+        "w": "arvācī",
+        "gloss": "turned hither",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sā",
+      "words": [
+       {
+        "w": "sā",
+        "gloss": "that",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̭ruto̱",
+      "words": [
+       {
+        "w": "marutaḥ",
+        "gloss": "O Maruts",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yā",
+      "words": [
+       {
+        "w": "yā",
+        "gloss": "which",
+        "gram": "f. nom. sg. rel."
+       }
+      ]
+     },
+     {
+      "src": "va̭",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "your",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ū̱tiro",
+      "words": [
+       {
+        "w": "ūtiḥ",
+        "gloss": "help",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "hither",
+        "gram": "ind."
+       },
+       {
+        "w": "u",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ṣu",
+      "words": [
+       {
+        "w": "su",
+        "gloss": "well",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vā̱śreva̭",
+      "words": [
+       {
+        "w": "vāśrā",
+        "gloss": "lowing cow",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "suma̱tirji̭gātu",
+      "words": [
+       {
+        "w": "sumatiḥ",
+        "gloss": "favour",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "jigātu",
+        "gloss": "may it come",
+        "gram": "3 sg. imv. √gā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिस सहायता से तुम संकट पार कराते हो, जिससे निंदाओं से स्तुति करने वाले को छुड़ाते हो, हे मरुतो, तुम्हारी वह सहायता जो इधर मुड़ी है, तुम्हारी कृपा रँभाती गाय की भाँति भली-भाँति हमारे पास आए।",
+  "english": "That help of yours, O Maruts, by which you carry the one in need across distress, by which you release the praiser from reproaches, which is turned hither, may your favour indeed come well to us, like a lowing cow.",
+  "text_flags": [],
+  "notes": "'radhra' is uncertain ('one in need' is a guess). 'o ṣu' is ā u su; 'ā' joins 'jigātu'. 'vāśrā' is a lowing cow, as a comparison.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "002.034.15a",
+   "002.034.15b"
+  ],
+  "lines_deva": [
+   "यया॑ र॒ध्रं पा॒रय॒थात्यंहो॒ यया॑ नि॒दो मु॒ञ्चथ॑ वन्दि॒तार॑म्",
+   "अ॒र्वाची॒ सा म॑रुतो॒ या व॑ ऊ॒तिरो षु वा॒श्रेव॑ सुम॒तिर्जि॑गातु"
+  ],
+  "lines_iast": [
+   "yayā̭ ra̱dhraṃ pā̱raya̱thātyaṃho̱ yayā̭ ni̱do mu̱ñcatha̭ vandi̱tāra̭m",
+   "a̱rvācī̱ sā ma̭ruto̱ yā va̭ ū̱tiro ṣu vā̱śreva̭ suma̱tirji̭gātu"
+  ],
+  "uncertain": []
+ }
+]

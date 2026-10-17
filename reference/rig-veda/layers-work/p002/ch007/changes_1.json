@@ -1,0 +1,23 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Bring hither, O youngest, O Bhārata, O Agni, the best brilliant wealth, O good one, much desired.",
+  "new": "Bring hither the best, brilliant, much desired wealth, O youngest, O Bhārata, O Agni, O good one.",
+  "why": "reviewer (minor): 'much desired' hangs after the vocative 'O good one' although puruspṛham agrees with rayim (the draft's own note); readers will take it as describing the vocative."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "हे सबसे युवा भारत अग्नि, श्रेष्ठ, तेजस्वी धन यहाँ लाओ, हे वसु, जो बहुतों का चाहा हुआ है।",
+  "new": "हे सबसे युवा, हे भारत, हे अग्नि, श्रेष्ठ, तेजस्वी, बहुतों के चाहे हुए धन को यहाँ लाओ, हे उत्तम।",
+  "why": "reviewer (minor): Same misplacement, plus 'जो ... है' adds a relative clause and 'हे वसु' clashes with English 'good one' (and with the glossary's Vasus)."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "हे भारत अग्नि, तुम हमारे हो; वशा गायों, बैलों और अष्टपदियों से अर्पित होकर।",
+  "new": "हे भारत अग्नि, तुम हमारे हो; वशा गायों, बैलों और आठ पैरों वालियों से अर्पित होकर।",
+  "why": "reviewer (minor): Left as an untranslated Sanskrit word while English says 'eight-footed ones'."
+ }
+]

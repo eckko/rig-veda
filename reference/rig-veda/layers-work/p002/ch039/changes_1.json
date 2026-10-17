@@ -1,0 +1,59 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "जैसे दो सोम कूटने के पत्थर, वैसे तुम दोनों उसी प्रयोजन के लिए ध्वनि करते हो; जैसे दो गिद्ध निधि वाले वृक्ष की ओर। जैसे दो ब्रह्मा यज्ञ में उक्थ का पाठ करने वाले, जैसे दो दूत, बुलाने योग्य, जनों के, बहुत स्थानों में।",
+  "new": "जैसे दो निचोड़ने के पत्थर, वैसे तुम दोनों उसी प्रयोजन के लिए ध्वनि करते हो; जैसे दो गिद्ध निधि वाले वृक्ष की ओर। जैसे दो ब्रह्मा यज्ञ में उक्थ का पाठ करने वाले, जैसे दो दूत, बुलाने योग्य, जनों के, बहुत स्थानों में।",
+  "why": "reviewer (minor): 'Soma' is added; the English and the line have only grāvāṇā 'pressing stones'."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "Going at dawn, like two charioteers, heroes, like two goats, twins, you two attend the boon. Like two women adorning themselves with the body, like a married pair knowing skill among the people.",
+  "new": "Going at dawn, like two charioteers, heroes, like two goats, twins, you two attend the boon. Like two women adorning themselves with the body, like a married pair knowing resolve among the people.",
+  "why": "reviewer (minor): Glossary fixes kratu = resolve (संकल्प); draft uses 'skill' in English, Hindi and gloss."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "प्रातःकाल चलने वाले, जैसे दो रथ-चालक, वीर, जैसे दो बकरे, जुड़वाँ, तुम दोनों अभीष्ट के पास जाते हो। जैसे दो स्त्रियाँ शरीर से सजती हुईं, जैसे पति-पत्नी, कर्मकौशल जानने वाले, जनों के बीच।",
+  "new": "प्रातःकाल चलने वाले, जैसे दो रथ-चालक, वीर, जैसे दो बकरे, जुड़वाँ, तुम दोनों अभीष्ट के पास जाते हो। जैसे दो स्त्रियाँ शरीर से सजती हुईं, जैसे पति-पत्नी, संकल्प जानने वाले, जनों के बीच।",
+  "why": "reviewer (minor): Same deviation from kratu = संकल्प."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "kratu-vidā",
+  "old": "knowing skill",
+  "new": "knowing resolve",
+  "why": "reviewer (minor): Same deviation."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "Like two lips, speaking sweetly in the mouth; like two breasts, nourish us for living. Like two nostrils, protectors of our bodies; like two ears, good hearers, be so for us.",
+  "new": "Like two lips, speaking sweetly in the mouth; like two breasts, nourish us for living. Like two nostrils, protectors of our bodies; like two ears, good hearers, be for us.",
+  "why": "reviewer (minor): 'so' is supplied and not in bhūtam asme; the notes acknowledge a supplied complement, but the translation should not add words."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "These strengtheners for you, O Aśvins, the Gṛtsamadas have made: a sacred utterance, a praise. O men, enjoying them, come near; may we speak greatly in the rite, rich in heroes.",
+  "new": "These strengtheners for you, O Aśvins, the Gṛtsamadas have made: a sacred utterance, a praise. O men, enjoying them, come near; may we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): Glossary fixes one wording for the refrain: 'may we, rich in heroes, speak greatly in the rite'."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "ये बढ़ाने वाली वस्तुएँ तुम्हारे लिए, हे अश्विनौ, गृत्समदों ने बनाई हैं: ब्रह्म और स्तोम। हे वीरो, उनका सेवन करते हुए पास आओ; हम यज्ञ में उत्तम वीरों से युक्त होकर ऊँचे स्वर में बोलें।",
+  "new": "ये बढ़ाने वाली वस्तुएँ तुम्हारे लिए, हे अश्विनौ, गृत्समदों ने बनाई हैं: ब्रह्म और स्तोम। हे वीरो, उनका सेवन करते हुए पास आओ; हम, उत्तम वीरों से युक्त, यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Hindi 'in a loud voice' does not match English 'greatly' (bṛhat); the refrain should be uniform."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "ये बढ़ाने वाली वस्तुएँ तुम्हारे लिए, हे अश्विनौ, गृत्समदों ने बनाई हैं: ब्रह्म और स्तोम। हे वीरो, उनका सेवन करते हुए पास आओ; हम, उत्तम वीरों से युक्त, यज्ञ में महान् रूप से बोलें।",
+  "new": "ये बढ़ाने वाली वस्तुएँ तुम्हारे लिए, हे अश्विनौ, गृत्समदों ने बनाई हैं: ब्रह्म और स्तोम। हे नरो, उनका सेवन करते हुए पास आओ; हम, उत्तम वीरों से युक्त, यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): narā is 'O men' (English and gloss); 'वीर' is the glossary rendering of vīra, a different word."
+ }
+]

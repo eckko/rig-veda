@@ -1,0 +1,9 @@
+chunk 1: 6 units, 14 patches applied (14 changes logged), 4 issues without patch, 0 patches failed
+  MANUAL unit 4 [minor] gram / drāviṇodasaḥ: Labelled 'm. abl. sg.' while the note says 'ablative/genitive' of an unstated noun; the parallel with hotrāt, potrāt, neṣṭrāt suggests an office-noun. English 'from the Drāviṇodasa' is opaque. Needs a human decision on the stem; no patch.
+         suggested fix: abl. sg. (stem and gender uncertain)
+  MANUAL unit 6 [minor] gram / mahaḥ: Labelled 'm. voc.' but mahaḥ (printed maha before u) is not a vocative singular of mahā/mahant (that is mahān/mahat). It could be a gen. sg./acc. pl. form or adverb; the construction 'great' with the vocative is therefore uncertain.
+         suggested fix: gram: 'form uncertain (not a voc. sg.)'; keep translation tentative
+  MANUAL unit 6 [minor] text_flags / ṷśa̱taḥ: The modifier letter ṷ is a systematic printing mark in this edition (also anṷ, madhṷ, hṷve, ahṷve, prahṷta, dhṷkṣan in other units) and is not flagged there; flagging it as a 'probable typo' only here is inconsistent. Drop the flag or treat it as the edition's convention.
+         suggested fix: remove flag
+  MANUAL unit 6 [minor] notes / brahma: Note says 'not yet in glossary'; the glossary now has brahman (n.) = prayer / sacred utterance.
+         suggested fix: update note

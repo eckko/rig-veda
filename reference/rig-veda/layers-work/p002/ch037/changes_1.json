@@ -1,0 +1,102 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Rejoice, after the Hotṛ's office, at your pleasure in the juice; O Adhvaryu priests, he wants a full pouring. Bring this to him; the one who desires it is a giver. From the Hotṛ's office, O wealth-giver, drink Soma with the seasons.",
+  "new": "Rejoice, after the Hotṛ's office, at pleasure in the juice; O Adhvaryu priests, he wants a full pouring. Bring this to him; the one who desires it is a giver. From the Hotṛ's office, O wealth-giver, drink Soma with the seasons.",
+  "why": "reviewer (minor): 'your' is not in the line (joṣam = at pleasure/to one's liking)."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "होता के कार्य के पश्चात् अपनी प्रसन्नता के अनुसार रस का आनन्द ले; हे अध्वर्युओ, वह पूर्ण आसेचन चाहता है। उसके लिए इसे लाओ; उसकी कामना करने वाला दाता है। हे धन देने वाले, होता के कार्य से ऋतुओं के साथ सोम पी।",
+  "new": "होता के कार्य के पश्चात् प्रसन्नता के अनुसार रस का आनन्द ले; हे अध्वर्युओ, वह पूर्ण आसेचन चाहता है। उसके लिए इसे लाओ; उसकी कामना करने वाला दाता है। हे धन देने वाले, होता के कार्य से ऋतुओं के साथ सोम पी।",
+  "why": "reviewer (minor): Same added 'अपनी'."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "तुम्हारे वाहक पुष्ट हों, जिनके द्वारा तू जाता है; हानि न करते हुए, हे वनस्पति के स्वामी, दृढ़ हो जा। जुड़कर और स्वागत पाकर, हे साहसी, तू नेष्टा के कार्य से, हे धन देने वाले, ऋतुओं के साथ सोम पी।",
+  "new": "तुम्हारे वाहक पुष्ट हों, जिनके द्वारा तू जाता है; हानि न करते हुए, हे वनस्पति के स्वामी, दृढ़ हो जा। जुड़कर और स्वागत करके, हे साहसी, तू नेष्टा के कार्य से, हे धन देने वाले, ऋतुओं के साथ सोम पी।",
+  "why": "reviewer (error): abhigūrya is an active absolutive ('having welcomed'); 'स्वागत पाकर' (having received welcome) reverses the voice and disagrees with the English and gloss."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "तुम्हारे वाहक पुष्ट हों, जिनके द्वारा तू जाता है; हानि न करते हुए, हे वनस्पति के स्वामी, दृढ़ हो जा। जुड़कर और स्वागत करके, हे साहसी, तू नेष्टा के कार्य से, हे धन देने वाले, ऋतुओं के साथ सोम पी।",
+  "new": "तुम्हारे वाहक पुष्ट हों, जिनके द्वारा तू जाता है; हानि न करते हुए, हे वन के स्वामी, दृढ़ हो जा। जुड़कर और स्वागत करके, हे साहसी, तू नेष्टा के कार्य से, हे धन देने वाले, ऋतुओं के साथ सोम पी।",
+  "why": "reviewer (minor): Fixed rendering is Lord of the Forest; 'वनस्पति के स्वामी' reads 'lord of the plants/vanaspati'. Use 'वन के स्वामी'."
+ },
+ {
+  "n": "4",
+  "field": "word.gram",
+  "word": "ajuṣata",
+  "old": "3 aor. mid. √juṣ",
+  "new": "3 sg. impf. mid. √juṣ",
+  "why": "reviewer (error): Number missing, and the note calls it 'plural-looking'. The form a-juṣ-a-ta is the regular 3 sg. middle (imperfect/thematic aorist of juṣate); the plural would be -anta. It agrees with the singular subject, so the note's doubt is unfounded."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "Uncertain: ajuṣata is a plural-looking middle ending next to a singular subject (could be 3 sg. with irregular ending, or a plural subject); prayaḥ hitam 'refreshment set down' is tentative; amṛktam 'undefiled' is tentative (a-√mṛj, 'not wiped/unspoiled'); drāviṇodasaḥ is read as an ablative/genitive of a derivative of Draviṇodas ('belonging to Draviṇodas'), with the noun not stated, and the Hindi follows that reading with the unstated noun omitted. Subject of line a is not named; line b names Draviṇodas.",
+  "new": "Uncertain: ajuṣata is a plural-looking middle ending next to a singular subject (could be 3 sg. with irregular ending, or a plural subject); prayaḥ hitam 'refreshment set down' is tentative; amṛktam 'undefiled' is tentative (a-√mṛj, 'not wiped/unspoiled'); drāviṇodasaḥ is read as an ablative/genitive of a derivative of Draviṇodas ('belonging to Draviṇodas'), with the noun not stated, and the Hindi follows that reading with the unstated noun omitted. Subject of line a is not named; line b names Draviṇodas. Correction: ajuṣata is the regular 3 sg. middle (stem juṣa- + -ta); it agrees with the singular subject, so no plural subject is needed.",
+  "why": "reviewer (error): The note about a plural-looking ending should be corrected."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "He drank from the Hotṛ's office, and rejoiced from the Potṛ's office; from the Neṣṭṛ's office he enjoyed the refreshment set down. Let Draviṇodas drink the fourth cup, undefiled, immortal, from the Drāviṇodasa.",
+  "new": "He drank from the Hotṛ's office, and rejoiced from the Potṛ's office; from the Neṣṭṛ's office he enjoyed the refreshment set down. Let the wealth-giver drink the fourth cup, undefiled, immortal, from the Drāviṇodasa.",
+  "why": "reviewer (minor): draviṇodāḥ is the epithet 'wealth-giver' (rendered so in the vocatives of units 1-3); the English turns it into a name here while the Hindi has 'धन देने वाला'. Make English, Hindi and gloss agree."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "draviṇodāḥ",
+  "old": "Draviṇodas, wealth-giver",
+  "new": "wealth-giver",
+  "why": "reviewer (minor): Gloss 'Draviṇodas, wealth-giver' mixes name and epithet."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "आज अपने इस ओर मुड़े हुए, तेज़ चलने वाले, मनुष्यों को ढोने वाले रथ को जोड़ो; यहाँ तुम्हारा खोलने का स्थान है। हवियों को मधु से मिलाओ, क्योंकि सुख से आओ; फिर, हे पुरस्कार रूपी धन वाले दोनो, सोम पियो।",
+  "new": "आज इस ओर मुड़े हुए, तेज़ चलने वाले, मनुष्यों को ढोने वाले रथ को जोड़ो; यहाँ तुम्हारा खोलने का स्थान है। हवियों को मधु से मिलाओ, क्योंकि सुख से आओ; फिर, हे पुरस्कार रूपी धन वाले दोनो, सोम पियो।",
+  "why": "reviewer (minor): 'अपने' (own) is not in the line."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "आज इस ओर मुड़े हुए, तेज़ चलने वाले, मनुष्यों को ढोने वाले रथ को जोड़ो; यहाँ तुम्हारा खोलने का स्थान है। हवियों को मधु से मिलाओ, क्योंकि सुख से आओ; फिर, हे पुरस्कार रूपी धन वाले दोनो, सोम पियो।",
+  "new": "आज इस ओर मुड़े हुए, तेज़ चलने वाले, मनुष्यों को ढोने वाले रथ को जोड़ो; यहाँ तुम्हारा विमोचन है। हवियों को मधु से मिलाओ, क्योंकि सुख से आओ; फिर, हे पुरस्कार रूपी धन वाले दोनो, सोम पियो।",
+  "why": "reviewer (minor): 'स्थान' (place) is an addition; vimocanam is 'unyoking' and the notes already say '(place)' is supplied."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "आज इस ओर मुड़े हुए, तेज़ चलने वाले, मनुष्यों को ढोने वाले रथ को जोड़ो; यहाँ तुम्हारा विमोचन है। हवियों को मधु से मिलाओ, क्योंकि सुख से आओ; फिर, हे पुरस्कार रूपी धन वाले दोनो, सोम पियो।",
+  "new": "आज इस ओर मुड़े हुए, तेज़ चलने वाले, मनुष्यों को ढोने वाले रथ को जोड़ो; यहाँ तुम्हारा विमोचन है। हवियों को मधु से मिलाओ, क्योंकि सुख से आओ; फिर, हे पुरस्कार से समृद्ध दोनों, सोम पियो।",
+  "why": "reviewer (minor): Hindi 'prize-form wealth' does not match English 'rich in the prize'; and the spelling 'दोनो' is wrong (दोनों)."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "The addressees are two (dual); no names given. vimocanam: 'unyoking (place)' read as a predicate nominative; 'iha vāṃ vimocanam' could also be object of yuñjāthām. 'hi kaṃ gatam': kam 'well, happily'. vājinīvasū: compound unclear ('having wealth of vājinī' with vājinī 'prize/strength'); rendered 'rich in the prize' tentatively. yayyam 'swift' tentative.",
+  "new": "The addressees are two (dual); no names given. vimocanam: 'unyoking (place)' read as a predicate nominative; 'iha vāṃ vimocanam' could also be object of yuñjāthām. 'hi kaṃ gatam': kam 'well, happily'. vājinīvasū: compound unclear ('having wealth of vājinī' with vājinī 'prize/strength'); rendered 'rich in the prize' tentatively. yayyam 'swift' tentative. vājinīvasū: vājinī is not simply vāja; 'rich in the prize' is tentative (alternative: having the wealth of the prize-winning mare).",
+  "why": "reviewer (minor): vājinī (f., 'prize-winning mare'/'rich in prizes') is not the same as vāja (prize); the glossary renders vājin as prize-winner, so the compound is not settled. Hedge in notes."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "हे अग्नि, तू समिधा में प्रसन्न हो, आहुति में प्रसन्न हो, लोगों के लिए रचे ब्रह्म में प्रसन्न हो, सुन्दर स्तुति में प्रसन्न हो। सबके साथ, ऋतु के साथ, हे वसु, महान् और उत्सुक होकर, उत्सुक देवों को सब के सब हवि पिला।",
+  "new": "हे अग्नि, तू समिधा में प्रसन्न हो, आहुति में प्रसन्न हो, लोगों से संबंधित ब्रह्म में प्रसन्न हो, सुन्दर स्तुति में प्रसन्न हो। सबके साथ, ऋतु के साथ, हे वसु, महान् और उत्सुक होकर, उत्सुक देवों को सब के सब हवि पिला।",
+  "why": "reviewer (minor): 'रचे' (composed) and 'for' are added; janyam is only 'belonging to the people' per the English and notes."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "हे अग्नि, तू समिधा में प्रसन्न हो, आहुति में प्रसन्न हो, लोगों से संबंधित ब्रह्म में प्रसन्न हो, सुन्दर स्तुति में प्रसन्न हो। सबके साथ, ऋतु के साथ, हे वसु, महान् और उत्सुक होकर, उत्सुक देवों को सब के सब हवि पिला।",
+  "new": "हे अग्नि, तू समिधा में प्रसन्न हो, आहुति में प्रसन्न हो, लोगों से संबंधित ब्रह्म में प्रसन्न हो, सुन्दर स्तुति में प्रसन्न हो। सबके साथ, ऋतु के साथ, हे उत्तम, महान् और उत्सुक होकर, उत्सुक देवों को सब के सब हवि पिला।",
+  "why": "reviewer (minor): English/gloss 'O good one'; Hindi 'वसु' collides with the glossary entry Vasus."
+ }
+]

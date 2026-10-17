@@ -1,0 +1,17 @@
+chunk 1: 11 units, 20 patches applied (20 changes logged), 8 issues without patch, 0 patches failed
+  MANUAL unit 3 [minor] gloss / naḥ: Gloss says 'our' but both translations take naḥ as the object ('towards us'); draft contradicts itself (the notes mention both). Decide one reading; no patch.
+         suggested fix: align gloss with the translation ('us') or translate 'sons of Aditi, ours'
+  MANUAL unit 4 [error] split / vidhartā~: The printed nasal sign (-ā̃ before ṛ-) marks final -ān; a nominative singular vidhartā would carry no nasal. The notes' 'nasal a sandhi or editorial mark' is an unsupported explanation. Likely vidhartān (acc. pl.), i.e. 'Āditya sent them forth, the (upholders/ordainers)'; the translation of the whole half-line then needs rework. Same marker appears as asmā~ (acc. pl.) in RV 2.30.5, 2.30.6, 2.30.8. Needs a human decision, no patch.
+         suggested fix: re-read as vidhartān (acc. pl.) and redo the translation of line a
+  MANUAL unit 4 [minor] notes / 'paptū' in 'papta': Garbled note ('papta' is not a form here).
+         suggested fix: paptū is paptuḥ with ḥ lost before r- (paptū raghuyā)
+  MANUAL unit 4 [minor] hindi / की ओर जाती हैं: English says 'go along the order', Hindi 'go towards the order'; align (yanti + acc. ṛtam is ambiguous). No patch.
+         suggested fix: use one preposition in both
+  MANUAL unit 5 [minor] gloss / apasaḥ: Glossary fixes apas = work(s), Hindi कार्य; draft renders 'of the worker'. Both are possible grammatically (adj. apás) but the choice should follow the glossary or be justified in notes (it is, partly). No patch.
+         suggested fix: the measure of the work
+  MANUAL unit 7 [minor] english / lay the foes low: Hindi 'ढीला कर दो' (loosen) and English 'lay low' disagree on śiśrathaḥ; gloss says 'loosen, lay low'. Align both; no patch.
+         suggested fix: use one sense in English and Hindi
+  MANUAL unit 9 [minor] english / enjoy what another has done: anya-kṛtena is instrumental ('by/through what another has done'); both translations make it the object of bhojam. The notes admit 'suffer' is possible. Rework to keep the instrumental; no patch.
+         suggested fix: may I not enjoy through what another has done (and the same in Hindi)
+  MANUAL unit 11 [minor] hindi / ऊँचे स्वर से: Refrain: English follows the glossary ('speak greatly'), but Hindi 'ऊँचे स्वर से' = loudly, and the Hindi refrain varies across chunks (प्रबल रूप से / महान् वचन / बड़ी वाणी). Needs one glossary wording; no patch.
+         suggested fix: use the one Hindi wording the glossary will fix

@@ -1,0 +1,5 @@
+chunk 1: 8 units, 8 patches applied (8 changes logged), 2 issues without patch, 0 patches failed
+  MANUAL unit 5 [minor] hindi / सहस्रगुणा अन्न: iṣ is rendered 'refreshments' in English; 'अन्न' (food) is a different, narrower sense.
+         suggested fix: a Hindi word matching 'refreshments' (e.g. सहस्रगुणी स्फूर्ति)
+  MANUAL unit 7 [minor] gram / janyā: 'm. nom. sg.' cannot be right for -ā, and the gloss 'kinsfolk' is plural; label, gloss and rendering disagree.
+         suggested fix: e.g. 'n. nom./acc. pl. or f. nom. sg.; unclear'

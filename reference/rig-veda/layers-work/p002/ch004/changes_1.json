@@ -1,0 +1,166 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "I call for you on Agni, brightly shining, of fair praise, the guest of the clans, rich in good food, who like a friend has become one to be gained, a god among the god-devoted people, Jātavedas.",
+  "new": "I call for you Agni, brightly shining, of fair praise, the guest of the clans, rich in good food, who like a friend has become one to be gained, a god among the god-devoted people, Jātavedas.",
+  "why": "reviewer (minor): 'on Agni' is not in the Sanskrit (huve ... agnim, accusative object)."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "vaḥ",
+  "old": "acc. pl. (pron.)",
+  "new": "dat. pl. (enclitic pron.)",
+  "why": "reviewer (minor): Gram says acc. pl. but gloss/Hindi/English render 'for you'; enclitic vaḥ with huve is read as dative here."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "vaḥ",
+  "old": "you",
+  "new": "for you",
+  "why": "reviewer (minor): Gloss 'you' does not match the rendering 'for you'."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "इस अग्नि की सेवा करते हुए भृगुओं ने उसे जलों के सहवास-स्थान में, जनों की बस्तियों में, दूसरी बार स्थापित किया। यह बहुलता सब पर छा जाए; देवों का परिचारक, तीव्र घोड़ों वाला अग्नि।",
+  "new": "इसकी सेवा करते हुए भृगुओं ने उसे जलों के सहवास-स्थान में, जनों की बस्तियों में, दूसरी बार स्थापित किया। यह बहुलता सब पर छा जाए; देवों का परिचारक, तीव्र घोड़ों वाला अग्नि।",
+  "why": "reviewer (minor): Hindi names Agni in the first half-verse, which has only imam (this one); English and notes keep it unnamed."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "इसकी सेवा करते हुए भृगुओं ने उसे जलों के सहवास-स्थान में, जनों की बस्तियों में, दूसरी बार स्थापित किया। यह बहुलता सब पर छा जाए; देवों का परिचारक, तीव्र घोड़ों वाला अग्नि।",
+  "new": "इसकी सेवा करते हुए भृगुओं ने उसे जलों के सहवास-स्थान में, आयु की बस्तियों में, दूसरी बार स्थापित किया। यह बहुलता सब पर छा जाए; देवों का परिचारक, तीव्र घोड़ों वाला अग्नि।",
+  "why": "reviewer (error): Drops Āyu: the text has vikṣu āyoḥ 'among the clans of Āyu' (English and gloss keep Āyu)."
+ },
+ {
+  "n": "2",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "vikṣvā3yoḥ",
+    "suggest": "vikṣu āyoḥ",
+    "why": "the printed 3 marks a protracted vowel (pluta); u before ā becomes v by sandhi; not an error"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (minor): Not a suspected typo (the flag itself says 'not an error'); the 3 is the printed pluta mark and the sandhi is regular. A text flag should list only real suspected errors."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "The gods placed Agni as one dear among the human clans, like a friend about to settle. May he shine through the eager nights, he who is worthy of vigour, in the house of the giver.",
+  "new": "The gods placed Agni as one dear among the human clans, like those about to settle, a friend. May he shine through the eager nights, he who is worthy of vigour, in the house of the giver.",
+  "why": "reviewer (error): kṣeṣyantaḥ is nom. pl. (the gram says so); it cannot qualify mitram (acc. sg.). The draft's 'friend about to settle' contradicts its own gram."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "देवों ने मानव बस्तियों में अग्नि को प्रिय स्थापित किया, मानो बसने को उद्यत मित्र हो। वह उत्सुक रातों में चमके, जो बल के योग्य है, दानी के घर में।",
+  "new": "देवों ने मानव बस्तियों में अग्नि को प्रिय स्थापित किया, बसने को उद्यत जनों की भाँति, मित्र को। वह उत्सुक रातों में चमके, जो बल के योग्य है, दानी के घर में।",
+  "why": "reviewer (error): Same misattachment; also 'हो' adds a verb."
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "dhuḥ is a syncopated perfect (= dadhuḥ) of √dhā. ūrmyā 'night' and the sense of uśatīḥ 'eager' are uncertain; dakṣāyya is uncertain (taken as 'worthy of vigour'); the final ā after dame is left as a separate particle. The comparison 'like a friend about to settle' is the literal reading.",
+  "new": "dhuḥ is a syncopated perfect (= dadhuḥ) of √dhā. ūrmyā 'night' and the sense of uśatīḥ 'eager' are uncertain; dakṣāyya is uncertain (taken as 'worthy of vigour'); the final ā after dame is left as a separate particle. The comparison 'like a friend about to settle' is the literal reading. Correction: kṣeṣyantaḥ is nominative plural and cannot agree with mitram (acc. sg.); the literal reading is 'like those about to settle, a friend'.",
+  "why": "reviewer (minor): Notes call 'like a friend about to settle' the literal reading; it is not (nom. pl. participle)."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "His thriving is delightful, as of one's own; the appearance of him, the speeding, blazing one is the same. He who, bearing his tongue among the plants, shakes it about like a chariot horse its tail-hairs.",
+  "new": "His thriving is delightful, as of one's own; the appearance of him, the speeding, blazing one. He who, bearing his tongue among the plants, shakes it about like a chariot horse its tail-hairs.",
+  "why": "reviewer (error): 'is the same' is an unsupported added predicate; the clause is verbless."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "उसकी पुष्टि अपने ही की पुष्टि के समान सुखद है; उस वेग से चलने वाले, दीप्त अग्नि का दर्शन भी। जो औषधियों में अपनी जीभ को धारण करता हुआ, रथ के घोड़े की भाँति पूँछ के बालों को हिलाता है।",
+  "new": "उसकी पुष्टि अपने ही की पुष्टि के समान सुखद है; उस वेग से चलने वाले, दीप्त का दर्शन। जो औषधियों में अपनी जीभ को धारण करता हुआ, रथ के घोड़े की भाँति पूँछ के बालों को हिलाता है।",
+  "why": "reviewer (error): 'अग्नि' and 'भी' are not in the text (asya hiyānasya dakṣoḥ); English does not add them."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "His thriving is delightful, as of one's own; the appearance of him, the speeding, blazing one. He who, bearing his tongue among the plants, shakes it about like a chariot horse its tail-hairs.",
+  "new": "His thriving is delightful, as of one's own; the appearance of him, the speeding, blazing one. He who, bearing his tongue among the plants, shakes the tail-hairs about like a steed, a chariot horse.",
+  "why": "reviewer (error): Wrong object: jihvām is object of bharibhrat 'bearing'; vārān 'tail-hairs' is the object of dodhavīti. 'it' makes the tongue the thing shaken. Also atyaḥ 'steed' is dropped."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "dakṣoḥ (read as genitive of dakṣu 'blazing') and hiyānasya 'speeding' are uncertain; saṃdṛṣṭi could also be 'sight' or 'vision'. The simile of the second line (jihvām as object of dodhavīti, vārān compared) is rendered literally; the exact syntax is unclear. In the translations the possessor 'his' is Agni, understood from the hymn; the verse itself does not name him.",
+  "new": "dakṣoḥ (read as genitive of dakṣu 'blazing') and hiyānasya 'speeding' are uncertain; saṃdṛṣṭi could also be 'sight' or 'vision'. The simile of the second line (jihvām as object of dodhavīti, vārān compared) is rendered literally; the exact syntax is unclear. In the translations the possessor 'his' is Agni, understood from the hymn; the verse itself does not name him. Correction: jihvām is the object of bharibhrat; vārān is the object of dodhavīti, compared with atyaḥ ... rathyaḥ.",
+  "why": "reviewer (minor): Notes repeat the wrong construction."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "जब वन के दाताओं ने मेरे उस अद्भुत कार्य की, उत्सुकों के लिए, प्रशंसा की, तब उसने अपना रंग नहीं घटाया। वह विचित्र और मनोहर प्रकाश से दिखाई देता है, जो बूढ़ा होकर बार-बार फिर जवान हुआ।",
+  "new": "जब वन के दाताओं ने मेरे अद्भुत पर, उत्सुकों के लिए, विस्मय किया, तब उसने अपना रंग नहीं घटाया। वह विचित्र और मनोहर प्रकाश से दिखाई देता है, जो बूढ़ा होकर बार-बार फिर जवान हुआ।",
+  "why": "reviewer (error): 'उस' and 'कार्य' are additions: abhvam is only 'marvel/wonder' (English 'my wonder')."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "raṃsu",
+  "old": "n. inst. sg.",
+  "new": "n. nom./acc. sg. (adverbial or adjectival; -u stem, not inst.)",
+  "why": "reviewer (error): An -u stem neuter cannot be instrumental (that would be raṃsunā); the form is nom./acc. n., adverbial or adjectival, so 'n. inst. sg.' is a wrong case label."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "जब वन के दाताओं ने मेरे अद्भुत पर, उत्सुकों के लिए, विस्मय किया, तब उसने अपना रंग नहीं घटाया। वह विचित्र और मनोहर प्रकाश से दिखाई देता है, जो बूढ़ा होकर बार-बार फिर जवान हुआ।",
+  "new": "जब वन के दाताओं ने मेरे अद्भुत पर, उत्सुकों के लिए, विस्मय किया, तब उसने अपना रंग नहीं घटाया। वह चमकीले और मनोहर प्रकाश से दिखाई देता है, जो बूढ़ा होकर बार-बार फिर जवान हुआ।",
+  "why": "reviewer (minor): citra here is 'bright' (English); विचित्र means strange/variegated."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "वह जो फैल गया है, चौड़ी भूमि को जलाता है; बिना चरवाहे के, अपने आप जुता हुआ पशु जैसे चलता है, वैसे चलता है। अग्नि, ज्वालामय, झाड़ियों को झुलसाता हुआ, काले मार्ग पर दौड़ता हुआ, पृथ्वी को सुखद नहीं बना सका।",
+  "new": "वह जो फैल गया है, चौड़ी भूमि को जलाता है; बिना चरवाहे के, अपने आप जुता हुआ पशु जैसे चलता है, वैसे चलता है। अग्नि, ज्वालामय, झाड़ियों को झुलसाता हुआ, काले मार्ग पर दौड़ता हुआ, पृथ्वी को सुखद नहीं बनाया।",
+  "why": "reviewer (error): 'सका' (was unable) is an addition; asvadayat na is 'did not make'."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "वह जो फैल गया है, चौड़ी भूमि को जलाता है; बिना चरवाहे के, अपने आप जुता हुआ पशु जैसे चलता है, वैसे चलता है। अग्नि, ज्वालामय, झाड़ियों को झुलसाता हुआ, काले मार्ग पर दौड़ता हुआ, पृथ्वी को सुखद नहीं बनाया।",
+  "new": "वह जो फैल गया है, चौड़ी भूमि को जलाता है; बिना चरवाहे के, अपने आप जुता हुआ पशु जैसे चलता है, वैसे चलता है। अग्नि, ज्वालामय, झाड़ियों को झुलसाता हुआ, काला, दौड़ता हुआ, पृथ्वी को सुखद नहीं बनाया।",
+  "why": "reviewer (error): kṛṣṇa-vyathiḥ is 'black-darting'; 'on the black path' conflates it with kṛṣṇādhvā (unit 6) and adds 'path'."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "pūrvasya",
+  "old": "m. gen. sg.",
+  "new": "n. gen. sg.",
+  "why": "reviewer (minor): Agrees with avasaḥ, and avas is neuter, so 'm. gen. sg.' is the wrong gender."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "अब तुम्हारी पुरानी सहायता के स्मरण में तीसरे यज्ञ में मैं स्तोत्र का उच्चारण करता हूँ। हे अग्नि, हमें एकत्र वीरों से युक्त, महान्, प्रचुर, पुरस्कार रूप, उत्तम सन्तान वाला धन दो।",
+  "new": "अब तुम्हारी पुरानी सहायता के चिन्तन में तीसरे यज्ञ में मैं स्तोत्र का उच्चारण करता हूँ। हे अग्नि, हमें एकत्र वीरों से युक्त, महान्, प्रचुर, पुरस्कार रूप, उत्तम सन्तान वाला धन दो।",
+  "why": "reviewer (minor): 'remembrance' is not adhīti; English has 'in thought'."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम्हारे द्वारा गृत्समद गुप्त रूप से विजय पाते हुए नीचे वालों पर प्रबल हों, उत्तम वीरों से युक्त और शत्रुओं को दबाने वाले होकर। वह जीवन-शक्ति संरक्षकों के लिए और गाने वाले के लिए साथ-साथ दो।",
+  "new": "ताकि, हे अग्नि, तुम्हारे द्वारा गृत्समद गुप्त रूप से विजय पाते हुए नीचे वालों पर प्रबल हों, उत्तम वीरों से युक्त और शत्रुओं को दबाने वाले होकर। वह जीवन-शक्ति संरक्षकों के लिए और गाने वाले के लिए साथ-साथ दो।",
+  "why": "reviewer (error): yathā 'so that' is dropped; English has it."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "So that through you, O Agni, the Gṛtsamadas, winning in secret, may prevail over those below, rich in heroes and overcoming foes, give that vigour together to the patrons and to the singer.",
+  "new": "So that through you, O Agni, the Gṛtsamadas, winning in secret, may prevail over those below, rich in heroes and overcoming foes. Give that vigour together to the patrons and to the singer.",
+  "why": "reviewer (minor): Run-on: the optative clause and the imperative dhāḥ are fused into one sentence."
+ }
+]

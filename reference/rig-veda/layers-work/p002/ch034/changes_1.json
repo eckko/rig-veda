@@ -1,0 +1,140 @@
+[
+ {
+  "n": "3",
+  "field": "english",
+  "old": "They sprinkle their horses like racers in the contests; they hasten with the ears of the roaring one, with the swift ones. Gold-helmeted Maruts, shaking, of one fury, you go to nourishment with the spotted mares.",
+  "new": "They sprinkle the horses like racers in the contests; they hasten with the ears of the roaring one, with the swift ones. Gold-helmeted Maruts, shaking, of one fury, you go to nourishment with the spotted mares.",
+  "why": "reviewer (minor): 'their' is not in the text (aśvān atyān iva only); Hindi has no possessive either."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "For nourishment all these beings have grown strong, or for Mitra always, O you of swift gifts. With spotted horses, of unfailing bounty, like straight-going ones seated at the pole on the ways.",
+  "new": "For nourishment all these worlds have grown strong, or for Mitra always, O you of swift gifts. With spotted horses, of unfailing bounty, like straight-going ones seated at the pole on the ways.",
+  "why": "reviewer (minor): bhuvana is rendered 'world' in 2.33.9 (bhuvanasya 'of this ... world'); 'beings' makes the group inconsistent."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "पोषण के लिए ये सब प्राणी बलवान हुए हैं, या सदा मित्र के लिए, हे शीघ्र दान वाले। चितकबरे घोड़ों वाले, अटूट दान वाले, मार्गों पर जुए के पास बैठे सीधे चलने वालों के समान।",
+  "new": "पोषण के लिए ये सब लोक बलवान हुए हैं, या सदा मित्र के लिए, हे शीघ्र दान वाले। चितकबरे घोड़ों वाले, अटूट दान वाले, मार्गों पर जुए के पास बैठे सीधे चलने वालों के समान।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "bhuvanā",
+  "old": "beings",
+  "new": "worlds",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "कुछ अनिश्चित अर्थ वाले ईंधन-जैसे, भरे थनों वाली दुधारू गायों के साथ, अटूट मार्गों से, चमकते भालों वाले, हे एक ही क्रोध वाले मरुतो, हंसों की भाँति मधु के आनंद के लिए अपने निवासों में आओ।",
+  "new": "प्रज्वलित करने वाली, भरे थनों वाली दुधारू गायों के साथ, अटूट मार्गों से, चमकते भालों वाले, हे एक ही क्रोध वाले मरुतो, हंसों की भाँति मधु के आनंद के लिए अपने निवासों में आओ।",
+  "why": "reviewer (error): A reviewer-style remark ('of somewhat uncertain meaning') has been written into the translation; it is not a translation of indhanvabhiḥ, and 'ईंधन-जैसे' ('fuel-like') disagrees with the English 'kindling'."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "हमारी प्रार्थनाओं की ओर आओ, हे एक ही क्रोध वाले मरुतो, पुरुषों की स्तुति की भाँति हमारे सवनों में आओ। घोड़ी के समान दुधारू गाय को थन में भर दो; गायक के लिए पुरस्कारों से सजी बुद्धि बनाओ।",
+  "new": "हमारे ब्रह्म की ओर आओ, हे एक ही क्रोध वाले मरुतो, पुरुषों की स्तुति की भाँति हमारे सवनों में आओ। घोड़ी के समान दुधारू गाय को थन में भर दो; गायक के लिए पुरस्कारों से सजी बुद्धि बनाओ।",
+  "why": "reviewer (minor): Glossary: brahman (n.) = prayer / sacred utterance, Hindi ब्रह्म."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "हमारे ब्रह्म की ओर आओ, हे एक ही क्रोध वाले मरुतो, पुरुषों की स्तुति की भाँति हमारे सवनों में आओ। घोड़ी के समान दुधारू गाय को थन में भर दो; गायक के लिए पुरस्कारों से सजी बुद्धि बनाओ।",
+  "new": "हमारे ब्रह्म की ओर आओ, हे एक ही क्रोध वाले मरुतो, पुरुषों की स्तुति की भाँति हमारे सवनों में आओ। घोड़ी के समान दुधारू गाय को थन में भर दो; गायक के लिए पुरस्कारों से सजी धी बनाओ।",
+  "why": "reviewer (minor): Glossary: dhī = thought (धी); English says 'thought'."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे मरुतो, हमें वह दो: रथ में विजय पाने वाले को, दिन-प्रतिदिन जगाने वाली, प्राप्त होने वाली प्रार्थना को। स्तुति करने वालों को अन्न, बस्तियों में कवि को लाभ, बुद्धि, तथा अहिंसित, दुर्जेय बल दो।",
+  "new": "हे मरुतो, हमें वह दो: रथ में पुरस्कार जीतने वाले को, दिन-प्रतिदिन जगाने वाले, प्राप्त होने वाले ब्रह्म को। स्तुति करने वालों को अन्न, बस्तियों में कवि को लाभ, बुद्धि, तथा अहिंसित, दुर्जेय बल दो।",
+  "why": "reviewer (minor): vājin = prize-winner (English), fixed Hindi uses पुरस्कार; 'विजय पाने वाले' drifts. Also brahma (n.) should be ब्रह्म, not 'प्रार्थना'."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे मरुतो, हमें वह दो: रथ में पुरस्कार जीतने वाले को, दिन-प्रतिदिन जगाने वाले, प्राप्त होने वाले ब्रह्म को। स्तुति करने वालों को अन्न, बस्तियों में कवि को लाभ, बुद्धि, तथा अहिंसित, दुर्जेय बल दो।",
+  "new": "हे मरुतो, हमें वह दो: रथ में पुरस्कार जीतने वाले को, दिन-प्रतिदिन जगाने वाले, प्राप्त होने वाले ब्रह्म को। स्तुति करने वालों को स्फूर्ति, बस्तियों में कवि को लाभ, बुद्धि, तथा अहिंसित, दुर्जेय बल दो।",
+  "why": "reviewer (minor): iṣ is 'refreshment' in the English; 'अन्न' (food) disagrees."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "जब सोने की छाती वाले उदार मरुत् अपने घोड़ों को रथों में जोतते हैं, हिस्से के लिए यहाँ; जैसे दुधारू गाय बछड़े के लिए, वे निवासों में उस जन के लिए जिसने हवि दी है, महान् अन्न को बढ़ाते हैं।",
+  "new": "जब सोने की छाती वाले उदार मरुत् अपने घोड़ों को रथों में जोतते हैं, हिस्से के लिए यहाँ; जैसे दुधारू गाय बछड़े के लिए, वे निवासों में उस जन के लिए जिसने हवि दी है, महान् स्फूर्ति को बढ़ाते हैं।",
+  "why": "reviewer (minor): Same iṣ mismatch."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "जो मर्त्य शत्रु, हे मरुतो, भेड़िये की तरह हमारे विरुद्ध खड़ा हुआ है, हे वसुओ, उसकी हानि से हमारी रक्षा करो। जलते ताप से, चक्र से, उसकी ओर घुमाओ; हे रुद्रो, शापित को शस्त्रों से नीचे गिराओ।",
+  "new": "जो मर्त्य शत्रु, हे मरुतो, भेड़िये की तरह हमारे विरुद्ध खड़ा हुआ है, हे वसुओ, हानि से हमारी रक्षा करो। जलते ताप से, चक्र से, उसकी ओर घुमाओ; हे रुद्रो, शापित को शस्त्रों से नीचे गिराओ।",
+  "why": "reviewer (minor): 'उसकी' (his) is added; riṣaḥ is plain 'from harm' (English is right)."
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "duhuḥ",
+  "old": "3 pl. pf. √duh",
+  "new": "3 pl. impf. (augmentless) √duh",
+  "why": "reviewer (minor): duhuḥ is an augmentless imperfect/injunctive 3 pl. (the perfect would be duduhuḥ), not 'pf.'."
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "nide",
+  "old": "m. dat. sg.",
+  "new": "f. dat. sg.",
+  "why": "reviewer (minor): nid is feminine (the draft itself has f. nidaḥ in unit 15)."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "हे मरुतो, तुम्हारा वह गमन अद्भुत है, वह जाना गया है, जब उन्होंने पृश्नि के थन से जलीय दूध दुहा। अथवा जब, हे रुद्र के पुत्रो, हे अजेय, निंदा करने वाले की निंदा के लिए, त्रित को वृद्धावस्था के लिए वह क्षीण हो।",
+  "new": "हे मरुतो, तुम्हारा वह गमन अद्भुत है, वह जाना गया है, जब उन्होंने पृश्नि के थन से जलीय दूध दुहा। अथवा जब, हे रुद्र के पुत्रो, हे न ठगे जा सकने वालो, निंदा करने वाले की निंदा के लिए, त्रित को वृद्धावस्था के लिए वह क्षीण हो।",
+  "why": "reviewer (minor): adābhya is 'unbeguilable' (English), not 'invincible'."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "वे दशग्व, जिन्होंने सबसे पहले यज्ञ को वहन किया, वे उषाओं के उदय के समय हमें प्रेरित करें। जैसे उषा लाल किरणों से रात्रियों को खोल देती है, महान् चमकते प्रकाश से, गायों की बाढ़ के साथ।",
+  "new": "वे दशग्व, जिन्होंने सबसे पहले यज्ञ को वहन किया, वे उषा के उदय के समय हमें प्रेरित करें। जैसे उषा लाल किरणों से रात्रियों को खोल देती है, महान् चमकते प्रकाश से, गायों की बाढ़ के साथ।",
+  "why": "reviewer (minor): uṣasaḥ is glossed gen. sg. and English has 'of the dawn'; the plural 'उषाओं' disagrees."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "वे दशग्व, जिन्होंने सबसे पहले यज्ञ को वहन किया, वे उषा के उदय के समय हमें प्रेरित करें। जैसे उषा लाल किरणों से रात्रियों को खोल देती है, महान् चमकते प्रकाश से, गायों की बाढ़ के साथ।",
+  "new": "वे दशग्व, जिन्होंने सबसे पहले यज्ञ को वहन किया, वे उषा के उदय के समय हमें प्रेरित करें। जैसे उषा अरुणों से रात्रियों को खोल देती है, महान् चमकते प्रकाश से, गायों की बाढ़ के साथ।",
+  "why": "reviewer (minor): 'किरणों' (rays) is added; aruṇaiḥ has no noun (English: 'the ruddy ones')."
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "mahaḥ",
+  "old": "n. inst. sg.",
+  "new": "form uncertain (-aḥ is not inst.; agrees loosely with jyotiṣā)",
+  "why": "reviewer (minor): 'n. inst. sg.' cannot be right for -aḥ; the notes themselves call the form irregular."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "They, the Rudras, grew strong in the seats of ṛta, with the ruddy kṣoṇīs, like ornaments. Pouring down with swift force, they took on a very bright colour, well-formed.",
+  "new": "They, the Rudras, grew strong in the seats of order, with the ruddy kṣoṇīs, like ornaments. Pouring down with swift force, they took on a very bright colour, well-formed.",
+  "why": "reviewer (minor): Fixed rendering: ṛta = order (ऋत in Hindi); English should say 'order'."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "ṛtasya",
+  "old": "of ṛta",
+  "new": "of order",
+  "why": "reviewer (minor): Same."
+ }
+]

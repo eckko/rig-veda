@@ -1,0 +1,9 @@
+chunk 1: 9 units, 21 patches applied (21 changes logged), 4 issues without patch, 0 patches failed
+  MANUAL unit 1 [minor] english / desiring favour from men such as you: "from" is supplied: sumnam and nṝn are both accusatives of iyakṣantaḥ (the notes admit the construction is unclear), yet the translation asserts one reading in both Hindi and English.
+         suggested fix: keep the reading but state the alternative only in notes (already done); consider "desiring favour, men such as you" if a literal rendering is preferred
+  MANUAL unit 4 [minor] gram / pīparat: pīparat is a reduplicated aorist (injunctive in form), not a plain aor. subj.; the label is unsure. Needs a human check.
+         suggested fix: 3 sg. redupl. aor. inj. √pṝ
+  MANUAL unit 5 [minor] gram / tūtot: Root: tūtot belongs to √tud (urge, thrust), not √tu; the same form recurs in unit 7. Please verify against the padapāṭha/lexicon before applying.
+         suggested fix: 3 sg. past (redupl.) √tud
+  MANUAL unit 9 [minor] english / let not our share be burnt away: Glossary for the 2.16-19 refrain: bhaga = share, mā ati dhak = "do not burn beyond". "burnt away" deviates. No patch: a human should word it.
+         suggested fix: may our share not burn beyond

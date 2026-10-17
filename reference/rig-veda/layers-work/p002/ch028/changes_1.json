@@ -1,0 +1,145 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "May this of the wise Āditya, the self-ruler, prevail over all things by its greatness. I ask for the good fame of great Varuṇa, the god who is exceedingly gladdening, for worship.",
+  "new": "May this of the seer Āditya, the self-ruler, prevail over all things by its greatness. I ask for the good fame of great Varuṇa, the god who is exceedingly gladdening, for worship.",
+  "why": "reviewer (minor): kavi is fixed as 'seer' in the glossary; 'wise' deviates (same in gloss of kaveḥ)."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "kaveḥ",
+  "old": "of the wise one",
+  "new": "of the seer",
+  "why": "reviewer (minor): 'wise one' deviates from glossary kavi = seer."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "यह बुद्धिमान् स्वराट् आदित्य का है; यह अपनी महिमा से सब पर छा जाए। जो देव अत्यन्त आनन्ददायक है और यजन के योग्य है, उस महान् वरुण की उत्तम कीर्ति मैं माँगता हूँ।",
+  "new": "कवि, स्वराट् आदित्य का यह अपनी महिमा से सब पर छा जाए। जो देव अत्यन्त आनन्ददायक है और यजन के योग्य है, उस महान् वरुण की उत्तम कीर्ति मैं माँगता हूँ।",
+  "why": "reviewer (minor): Added copula 'है' and a doubled 'यह' (the Sanskrit has one idam with genitives, no 'is of'); 'बुद्धिमान्' for kavi."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "कवि, स्वराट् आदित्य का यह अपनी महिमा से सब पर छा जाए। जो देव अत्यन्त आनन्ददायक है और यजन के योग्य है, उस महान् वरुण की उत्तम कीर्ति मैं माँगता हूँ।",
+  "new": "कवि, स्वराट् आदित्य का यह अपनी महिमा से सब पर छा जाए। जो देव यजन के लिए अत्यन्त आनन्ददायक है, उस महान् वरुण की उत्तम कीर्ति मैं माँगता हूँ।",
+  "why": "reviewer (minor): yajathāya is a dative 'for worship'; 'योग्य' (worthy of) is an addition and the Hindi no longer matches the English 'for worship'."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "May we be fortunate in your ordinance, O Varuṇa, devout and having praised you, at the approach of the cow-rich dawns, praising day after day like fires.",
+  "new": "May we be fortunate in your ordinance, O Varuṇa, devout and having praised, at the approach of the cow-rich dawns, praising day after day like fires.",
+  "why": "reviewer (minor): tuṣṭuvāṃsaḥ has no object in the line; 'you' is an unmarked addition."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे वरुण, तेरे व्रत में हम सौभाग्यशाली हों, भक्त और स्तुति करनेवाले होकर, गायों से युक्त उषाओं के आगमन पर, अग्नियों के समान प्रतिदिन स्तुति करते हुए।",
+  "new": "हे वरुण, तेरे व्रत में हम सौभाग्यशाली हों, भक्त और स्तुति कर चुके होकर, गायों से युक्त उषाओं के आगमन पर, अग्नियों के समान प्रतिदिन स्तुति करते हुए।",
+  "why": "reviewer (minor): tuṣṭuvāṃsaḥ is a perfect participle ('having praised'); the Hindi reads as a present agent noun and duplicates jaramāṇāḥ ('praising') later."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "O Varuṇa, O leader, may we be in the shelter of you who have many heroes and are widely praised. O sons of Aditi, O undeceived gods, be forbearing towards us for fellowship.",
+  "new": "O Varuṇa, O leader, may we be in the shelter of you who are rich in many heroes and widely praised. O sons of Aditi, O undeceived gods, be forbearing towards us for fellowship.",
+  "why": "reviewer (minor): Glossary: puru-vīra = rich in many heroes (the gloss already says so)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हे वरुण, हे नायक, बहुत वीरों से युक्त और दूर तक प्रशंसित तेरे आश्रय में हम रहें। हे अदिति के पुत्रो, हे अपराजित देवो, तुम हमारे साथ मित्रता के लिए क्षमाशील बनो।",
+  "new": "हे वरुण, हे नायक, बहुत वीरों से युक्त और दूर तक प्रशंसित तेरे आश्रय में हम रहें। हे अदिति के पुत्रो, हे न छले जानेवाले देवो, तुम हमारे साथ मित्रता के लिए क्षमाशील बनो।",
+  "why": "reviewer (minor): adabdha is rendered 'undeceived' in English and the gloss; 'अपराजित' (unconquered) is a different sense."
+ },
+ {
+  "n": "4",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): Given the unresolved vidhartā~ and the unclear construction, 'medium' is too firm."
+ },
+ {
+  "n": "5",
+  "field": "confidence",
+  "old": "medium",
+  "new": "low",
+  "why": "reviewer (minor): Notes themselves say ṛdh + acc., khām, and mātrā are uncertain; 'medium' is too firm."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "हे वरुण, भय को मुझसे दूर कर दो। हे सम्राट्, हे ऋत के रक्षक, मुझे अपना लो। जैसे बछड़े से रस्सी खोली जाती है, वैसे कष्ट को खोल दो; क्योंकि तुमसे दूर मैं पलक झपकने भर पर भी अधिकार नहीं रखता।",
+  "new": "हे वरुण, भय को मुझसे दूर कर दो। हे सम्राट्, हे ऋत के रक्षक, मुझे थाम लो। जैसे बछड़े से रस्सी खोली जाती है, वैसे कष्ट को खोल दो; क्योंकि तुमसे दूर मैं पलक झपकने भर पर भी अधिकार नहीं रखता।",
+  "why": "reviewer (minor): anu √grabh 'take hold of'; 'अपना लो' (adopt/accept) adds the sense of favour which the notes say is not stated; English says 'take hold of me'."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Do not strike us, O Varuṇa, with the weapons which, at your wish, harm the one who commits an offence, O Asura. May we not go to journeys away from the light; lay the foes low, that we may live.",
+  "new": "Do not strike us, O Varuṇa, with the weapons which, at your wish, harm the one who commits an offence, O lord. May we not go to journeys away from the light; lay the foes low, that we may live.",
+  "why": "reviewer (minor): Glossary: asura in the Ṛgveda = lord/god (gloss 'asura'); the English 'O Asura' capitalised as a name deviates (the notes wrongly claim 'glossary: lord')."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "asura",
+  "old": "O Asura",
+  "new": "O asura",
+  "why": "reviewer (minor): Gloss should be the plain word 'asura' per glossary."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Do not strike us, O Varuṇa, with the weapons which, at your wish, harm the one who commits an offence, O lord. May we not go to journeys away from the light; lay the foes low, that we may live.",
+  "new": "Do not strike us, O Varuṇa, with the weapons which, at your wish, harm the one who commits an offence, O lord. May we not go on journeys away from the light; lay the foes low, that we may live.",
+  "why": "reviewer (minor): Ungrammatical; pravasathāni acc. pl. with ganma is 'go on journeys'."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "हे वरुण, हे महाबलशाली, हम पहले, अब और आगे भी तुझे नमस्कार कहें। हे अजेय, तुझमें तेरे व्रत पर्वत पर टिके हुए के समान अचल रखे हुए हैं।",
+  "new": "हे वरुण, हे प्रबल जन्मवाले, हम पहले, अब और आगे भी तुझे नमस्कार कहें। हे अजेय, तुझमें तेरे व्रत पर्वत पर टिके हुए के समान अचल रखे हुए हैं।",
+  "why": "reviewer (minor): tuvi-jāta 'mighty-born'; Hindi drops 'born' and disagrees with English and gloss."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "हे वरुण, हे प्रबल जन्मवाले, हम पहले, अब और आगे भी तुझे नमस्कार कहें। हे अजेय, तुझमें तेरे व्रत पर्वत पर टिके हुए के समान अचल रखे हुए हैं।",
+  "new": "हे वरुण, हे प्रबल जन्मवाले, हम पहले, अब और आगे भी तुझे नमस्कार कहें। क्योंकि हे जिसे ठगना कठिन है, तुझमें व्रत पर्वत पर टिके हुए के समान अटल स्थित हैं।",
+  "why": "reviewer (minor): dūḍabha is 'hard to deceive' (English, gloss); 'अजेय' (invincible) is a different word. 'तेरे' is added (vratāni has no pronoun) and 'अचल रखे हुए हैं' is awkward; 'hi' (for) is dropped."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "हे राजन्, जो भी मेरा साथी या मित्र स्वप्न में मुझ डरपोक से भय की बात कह गया हो, अथवा जो चोर या भेड़िया हमें हानि पहुँचाना चाहता हो, उससे, हे वरुण, तुम हमारी रक्षा करो।",
+  "new": "हे राजन्, जो मेरा साथी या मित्र स्वप्न में मुझ डरपोक से भय की बात कह गया हो, अथवा जो चोर या भेड़िया हमें हानि पहुँचाना चाहता हो, उससे, हे वरुण, तुम हमारी रक्षा करो।",
+  "why": "reviewer (minor): 'भी' is not in the Sanskrit (yo ... yujyaḥ vā sakhā vā)."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "O Varuṇa, may I not meet with the lack of a bounteous, dear friend who gives abundantly. O king, may I not fall away from wealth that is easy to hold. May we, rich in heroes, speak greatly in the rite.",
+  "new": "O Varuṇa, may I not meet with the lack of a bountiful, dear friend who gives abundantly. O king, may I not fall away from wealth that is easy to hold. May we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): Glossary: maghavan/maghonī = bountiful."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "maghonaḥ",
+  "old": "of the bounteous one",
+  "new": "of the bountiful one",
+  "why": "reviewer (minor): Same: bountiful."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "हे वरुण, मैं उदार, प्रिय और बहुत देनेवाले बन्धु की कमी न पाऊँ। हे राजन्, सरलता से सँभाली जानेवाली सम्पत्ति से मैं दूर न होऊँ। हम उत्तम वीरों से युक्त होकर यज्ञ में ऊँचे स्वर से बोलें।",
+  "new": "हे वरुण, मैं उदार, प्रिय और बहुत देनेवाले मित्र की कमी न पाऊँ। हे राजन्, सरलता से सँभाली जानेवाली सम्पत्ति से मैं दूर न होऊँ। हम उत्तम वीरों से युक्त होकर यज्ञ में ऊँचे स्वर से बोलें।",
+  "why": "reviewer (minor): English and gloss say 'friend' (āpi); 'बन्धु' (kinsman) differs and the same word glosses āpayaḥ as kinsmen in 2.29.4."
+ }
+]

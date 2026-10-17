@@ -1,0 +1,365 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे इन्द्र, तुमने उन महान् (धाराओं) को छोड़ा, जिन्हें तुमने उमड़ाया, जो सर्प द्वारा रोकी गई थीं, हे शूर, वे बहुत थीं। स्तोत्रों से बढ़ते हुए उसने अमर समझने वाले दास को भी चीर डाला।",
+  "new": "हे इन्द्र, तुमने उन महतियों को छोड़ा, जिन्हें तुमने उमड़ाया, जो सर्प द्वारा रोकी गई थीं, हे शूर, वे बहुत थीं। स्तोत्रों से बढ़ते हुए उसने अमर समझने वाले दास को भी चीर डाला।",
+  "why": "reviewer (minor): Bracketed interpretation in Hindi (no noun is stated in the verse)."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे इन्द्र, तुमने उन महतियों को छोड़ा, जिन्हें तुमने उमड़ाया, जो सर्प द्वारा रोकी गई थीं, हे शूर, वे बहुत थीं। स्तोत्रों से बढ़ते हुए उसने अमर समझने वाले दास को भी चीर डाला।",
+  "new": "हे इन्द्र, तुमने उन महतियों को छोड़ा, जिन्हें तुमने उमड़ाया, जो सर्प द्वारा रोकी गई थीं, हे शूर, उन बहुतों को। स्तोत्रों से बढ़ते हुए उसने अमर समझने वाले दास को भी चीर डाला।",
+  "why": "reviewer (minor): Hindi turns the apposition pūrvīḥ into a clause with a copula; English has \"the many\"."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "You released the great ones, O Indra, which you made swell, held back by the serpent, O hero, the many. Strengthened by hymns, he split down the dāsa, even one who thought himself immortal.",
+  "new": "You released the great ones, O Indra, which you made swell, held back by the serpent, O hero, the many. Strengthened by hymns, he split down the Dāsa, even one who thought himself immortal.",
+  "why": "reviewer (minor): Glossary: dāsa/dasyu = Dāsa/Dasyu (names)."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "dāsam",
+  "old": "the dāsa",
+  "new": "the Dāsa",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "3",
+  "field": "word.w",
+  "word": "ukthesu",
+  "old": "ukthesu",
+  "new": "uktheṣu",
+  "why": "reviewer (minor): Spelling error: ṣ missing."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हे शूर, जिन स्तोत्रों में और हे इन्द्र, रुद्र से सम्बन्धित जिन स्तुतियों में तुमने आनन्द लिया, उनमें अब; ये तुम्हारे ही लिए हैं, जिनमें हर्षित होते हुए तुम हो; उज्ज्वल धाराओं के समान ये वायु की ओर बह चलती हैं।",
+  "new": "हे शूर, अब उन स्तोत्रों में जिनमें तुमने आनन्द लिया, हे इन्द्र, स्तोमों में और रुद्र-सम्बन्धियों में भी; ये तुम्हारे ही लिए हैं, जिनमें हर्षित होते हुए तुम हो; उज्ज्वलों के समान ये वायु की ओर बह चलती हैं।",
+  "why": "reviewer (error): \"धाराओं\" (streams) is an addition; śubhrāḥ is only \"bright ones\" (English \"like bright ones\"). The Hindi also merges stomeṣu with rudriyeṣu and drops \"and\", while English keeps \"in the praises, O Indra, and in those of Rudra\"; glossary stoma = praise (स्तोम)."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Now strengthening your bright might, placing the bright vajra in the arms, you, bright, O Indra, being strengthened, may overcome for us the dāsa clans with the sun.",
+  "new": "Now strengthening your bright might, placing the bright vajra in the arms, you, bright, O Indra, being strengthened, may overcome for us the Dāsa clans with the sun.",
+  "why": "reviewer (minor): Glossary: Dāsa (name)."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "dāsīḥ",
+  "old": "dāsa",
+  "new": "Dāsa",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "Placed in concealment, hidden, concealed, enveloped in the waters, the wily one, dwelling there; and him who had held fast the waters and the sky, you slew, the serpent, O hero, with your heroism.",
+  "new": "Placed in concealment, hidden, concealed, enveloped in the waters, the wily one, dwelling there; and him who had held fast the waters and the sky, you slew, the serpent, O hero, with heroic deeds.",
+  "why": "reviewer (minor): Glossary: vīrya = heroic deeds; \"your\" is added."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "vīryeṇa",
+  "old": "with heroism",
+  "new": "with heroic deeds",
+  "why": "reviewer (minor): Glossary: vīrya = heroic deeds."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "गुफा में रखे हुए, छिपे हुए, गुप्त, जलों में आवृत, मायावी, वहाँ रहते हुए को; और जिसने जलों और द्युलोक को रोक रखा था, उस अहि को हे शूर, तुमने वीरता से मारा।",
+  "new": "गुफा में रखे हुए, छिपे हुए, गुप्त, जलों में आवृत, मायावी, वहाँ रहते हुए को; और जिसने जलों और द्युलोक को रोक रखा था, उस अहि को हे शूर, तुमने वीर कृत्यों से मारा।",
+  "why": "reviewer (minor): Align with heroic deeds (Hindi, avoiding कर्म)."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "Placed in concealment, hidden, concealed, enveloped in the waters, the wily one, dwelling there; and him who had held fast the waters and the sky, you slew, the serpent, O hero, with heroic deeds.",
+  "new": "Placed in concealment, hidden, concealed, enveloped in the waters, the wily one, dwelling; and him who had held fast the waters and the sky, you slew, the serpent, O hero, with heroic deeds.",
+  "why": "reviewer (minor): \"there\" is not in the text (kṣiyantam)."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "गुफा में रखे हुए, छिपे हुए, गुप्त, जलों में आवृत, मायावी, वहाँ रहते हुए को; और जिसने जलों और द्युलोक को रोक रखा था, उस अहि को हे शूर, तुमने वीर कृत्यों से मारा।",
+  "new": "गुफा में रखे हुए, छिपे हुए, गुप्त, जलों में आवृत, मायावी, रहते हुए को; और जिसने जलों और द्युलोक को रोक रखा था, उस अहि को हे शूर, तुमने वीर कृत्यों से मारा।",
+  "why": "reviewer (minor): \"वहाँ\" is not in the text."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "Now, O Indra, I shall praise your former great deeds, and we shall praise the new deeds that have been done. I shall praise the vajra, eager in the arms; I shall praise the two bays, the two beacons of the sun.",
+  "new": "Now, O Indra, I shall praise your former great deeds, and we shall praise the new deeds that have been done. I shall praise the vajra, eager in the arms; I shall praise the two tawny horses, the two beacons of the sun.",
+  "why": "reviewer (minor): Glossary: harī = the two tawny horses."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "harī",
+  "old": "the two bays",
+  "new": "the two tawny horses",
+  "why": "reviewer (minor): Glossary."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "हे इन्द्र, अब मैं तुम्हारे प्राचीन महान् कर्मों की स्तुति करूँगा, और हम नए किए हुए कर्मों की स्तुति करेंगे। मैं भुजाओं में उत्सुक वज्र की स्तुति करूँगा; मैं सूर्य के दोनों केतु रूप हरि (घोड़ों) की स्तुति करूँगा।",
+  "new": "हे इन्द्र, अब मैं तुम्हारे प्राचीन महान् कर्मों की स्तुति करूँगा, और हम नए किए हुए कर्मों की स्तुति करेंगे। मैं भुजाओं में उत्सुक वज्र की स्तुति करूँगा; मैं दोनों भूरे घोड़ों की, सूर्य के दोनों केतुओं की, स्तुति करूँगा।",
+  "why": "reviewer (minor): Bracketed gloss in Hindi; use the glossary rendering."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "Now, O Indra, your two bays, eager for the prize, have uttered a sound dripping ghee. The earth spread out level, and the mountain, though about to move, came to rest.",
+  "new": "Now, O Indra, your two tawny horses, eager for the prize, have uttered a sound dripping ghee. The earth spread out level, and the mountain, though about to move, came to rest.",
+  "why": "reviewer (minor): Glossary: harī = the two tawny horses."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "harī",
+  "old": "the two bays",
+  "new": "the two tawny horses",
+  "why": "reviewer (minor): Glossary."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे इन्द्र, अब तुम्हारे दोनों हरि, पुरस्कार की कामना करते हुए, घी टपकाती हुई ध्वनि कर चुके हैं। पृथ्वी समतल होकर फैल गई और चलने को उद्यत पर्वत भी ठहर गया।",
+  "new": "हे इन्द्र, अब तुम्हारे दोनों भूरे घोड़े, पुरस्कार की कामना करते हुए, घी टपकाती हुई ध्वनि कर चुके हैं। पृथ्वी समतल होकर फैल गई और चलने को उद्यत पर्वत भी ठहर गया।",
+  "why": "reviewer (minor): Hindi transliterates harī; use the glossary rendering."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "पर्वत नीचे बैठा दिया गया, उपेक्षा न करते हुए; माताओं के साथ गर्जन करता हुआ वह साथ-साथ दौड़ा। दूर, उस पार, वाणी को बढ़ाते हुए उन्होंने इन्द्र की भेजी हुई धमनी को फैला दिया।",
+  "new": "पर्वत नीचे बैठा दिया गया, उपेक्षा न करते हुए; माताओं के साथ गर्जन करता हुआ वह साथ-साथ चला। दूर, उस पार, वाणी को बढ़ाते हुए उन्होंने इन्द्र की भेजी हुई धमनी को फैला दिया।",
+  "why": "reviewer (minor): akrān = strode (English \"strode together\"); दौड़ा is \"ran\"."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "पर्वत नीचे बैठा दिया गया, उपेक्षा न करते हुए; माताओं के साथ गर्जन करता हुआ वह साथ-साथ चला। दूर, उस पार, वाणी को बढ़ाते हुए उन्होंने इन्द्र की भेजी हुई धमनी को फैला दिया।",
+  "new": "पर्वत नीचे बैठा दिया गया, उपेक्षा न करते हुए; माताओं के साथ गर्जन करता हुआ वह साथ-साथ चला। दूर, उस पार, वाणी को बढ़ाते हुए उन्होंने इन्द्र द्वारा भेजी गई धारा को फैला दिया।",
+  "why": "reviewer (minor): English renders dhamanim as \"stream\"; Hindi transliterates धमनी (artery)."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "इस वृषभ का वज्र गरजा, जब मनुष्य ने अमानुष को भस्म कर डाला होता। उसने मायावी दानव की मायाओं को नीचे गिरा दिया, दबाए हुए (सोम) को पीकर।",
+  "new": "इस वृषभ का वज्र गरजा, जब मनुष्य ने अमानुष को भस्म कर डाला होता। उसने मायावी दानव की मायाओं को नीचे गिरा दिया, निचोड़े हुए को पीकर।",
+  "why": "reviewer (minor): Bracketed interpretation; also \"दबाए हुए\" is inconsistent with \"निचोड़े हुए\" used for suta elsewhere."
+ },
+ {
+  "n": "10",
+  "field": "word.gram",
+  "word": "aroravīt",
+  "old": "3 sg. aor. intens. √ru",
+  "new": "3 sg. impf. intens. √ru",
+  "why": "reviewer (minor): The augmented intensive form aroravīt is an imperfect, not an aorist."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "हे शूर इन्द्र, सोम पियो, पियो; हर्ष देने वाले निचोड़े हुए (रस) तुम्हें प्रसन्न करें। तुम्हारे दोनों कुक्षियों को भरते हुए वे बढ़ाएँ; इस प्रकार निचोड़ा हुआ पौर इन्द्र की सहायता कर चुका है।",
+  "new": "हे शूर इन्द्र, सोम पियो, पियो; हर्ष देने वाले निचोड़े हुए तुम्हें प्रसन्न करें। तुम्हारे दोनों कुक्षियों को भरते हुए वे बढ़ाएँ; इस प्रकार निचोड़ा हुआ पौर इन्द्र की सहायता कर चुका है।",
+  "why": "reviewer (minor): Bracketed interpretation in Hindi."
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "āva",
+  "old": "3 sg. pf. ā-√av (uncertain)",
+  "new": "3 sg. pf. √av (uncertain)",
+  "why": "reviewer (minor): Labelled \"ā-√av\" with a preverb ā, which is not what the printed indramāva requires (āva = 3 sg. perfect of √av; the ā is the perfect augment). Labelled uncertain already."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "हे इन्द्र, हम तुममें ही स्थित हो गए हैं; ज्ञानी होकर, ऋत के अनुसार सेवा करते हुए हम धी को प्राप्त करें। सहायता चाहते हुए हम प्रशस्ति धारण करें; तुम्हारे धन के दान में हम तुरन्त भागी हों।",
+  "new": "हे इन्द्र, हम तुममें ही स्थित हो गए हैं; प्रेरित होकर, ऋत के अनुसार सेवा करते हुए हम धी को प्राप्त करें। सहायता चाहते हुए हम प्रशस्ति धारण करें; तुम्हारे धन के दान में हम तुरन्त भागी हों।",
+  "why": "reviewer (minor): viprāḥ is \"inspired ones\" in English; Hindi says ज्ञानी (learned)."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "In you, O Indra, we have indeed become inspired ones; may we win thought, serving rightly. Desiring help, may we hold praise; at once may we be in your giving of wealth.",
+  "new": "In you, O Indra, we have indeed become inspired ones; may we win thought, serving according to order. Desiring help, may we hold praise; at once may we be in your giving of wealth.",
+  "why": "reviewer (minor): Glossary: ṛta = order; Hindi has \"ऋत के अनुसार\" but English \"rightly\"."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "ṛtayā",
+  "old": "rightly",
+  "new": "according to order",
+  "why": "reviewer (minor): Align."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "हे इन्द्र, हम तुममें ही स्थित हो गए हैं; प्रेरित होकर, ऋत के अनुसार सेवा करते हुए हम धी को प्राप्त करें। सहायता चाहते हुए हम प्रशस्ति धारण करें; तुम्हारे धन के दान में हम तुरन्त भागी हों।",
+  "new": "हे इन्द्र, हम तुममें ही स्थित हो गए हैं; प्रेरित होकर, ऋत के अनुसार सेवा करते हुए हम धी को प्राप्त करें। सहायता चाहते हुए हम प्रशस्ति धारण करें; तुम्हारे धन के दान में हम तुरन्त रहें।",
+  "why": "reviewer (minor): \"भागी\" (sharers) is an addition and differs from the refrain in verse 1 (\"दान में रहें\"); English \"may we be in your giving\"."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "हे इन्द्र, हम तुम्हारे हों, जो तुम्हारी सहायता से, सहायता चाहते हुए, बल को बढ़ाते हैं। जिस अत्यन्त बलवान् (धन) की हमने कामना की है, हे देव, उस वीरों से युक्त धन को तुम हमें दो।",
+  "new": "हे इन्द्र, हम तुम्हारे हों, जो तुम्हारी सहायता से, सहायता चाहते हुए, बल को बढ़ाते हैं। जिस अत्यन्त बलवान् की हमने कामना की है, हे देव, उस वीरों से युक्त धन को तुम हमें दो।",
+  "why": "reviewer (minor): Bracketed interpretation in Hindi."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "तुम निवास दो, तुम हमें मित्र दो, हे इन्द्र, तुम हमें मरुतों का समूह दो। जो एकमत हैं और हर्षित हैं, वे वायु (देव) आगे के नेतृत्व की रक्षा करते हैं।",
+  "new": "तुम निवास दो, तुम हमें मित्र दो, हे इन्द्र, तुम हमें मरुतों का समूह दो। जो एकमत हैं और हर्षित हैं, वे वायुगण आगे के नेतृत्व की रक्षा करते हैं।",
+  "why": "reviewer (minor): Bracketed gloss in Hindi; English has \"the Vāyus\" (plural)."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "Let them enjoy indeed, now, in whom, rejoicing, you drink the Soma to satisfaction, firmly, O Indra. Us, well, in battles, O overcomer — you strengthened the sky with great chants.",
+  "new": "Let them enjoy indeed, now, in whom, rejoicing, drink the Soma to satisfaction, firmly, O Indra. Us, well, in battles, O overcomer — you strengthened the sky with great chants.",
+  "why": "reviewer (error): pāhi is the imperative (as the gram says), not \"you drink\"; Hindi \"तुमने ... पिया\" is a past tense. Both translations contradict the gram."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "वे अब आनन्द लें, जिनमें हर्षित होकर तुमने तृप्ति से सोम पिया, दृढ़ता से, हे इन्द्र। हे विजेता, हमें युद्धों में भली-भाँति तुमने बढ़ाया; द्युलोक को महान् मन्त्रों से बढ़ाया।",
+  "new": "वे अब आनन्द लें, जिनमें हर्षित होकर तृप्ति से सोम पियो, दृढ़ता से, हे इन्द्र। हे विजेता, हमें युद्धों में भली-भाँति तुमने बढ़ाया; द्युलोक को महान् मन्त्रों से बढ़ाया।",
+  "why": "reviewer (error): Past tense for an imperative."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "वे महान्, जो तुम्हारे, हे विजेता, स्तोत्रों से अथवा अनुग्रह की कामना करते हैं; बर्हि बिछाते हुए, घर सहित, तुमसे रक्षित, हे इन्द्र, वे ही पुरस्कार तक पहुँचे हैं।",
+  "new": "वे महान्, जो तुम्हारे, हे विजेता, स्तोत्रों से अथवा अनुग्रह की कामना करें; बर्हि बिछाते हुए, घर सहित, तुमसे रक्षित, हे इन्द्र, वे ही पुरस्कार तक पहुँचे हैं।",
+  "why": "reviewer (minor): Hindi is an indicative; āvivāsān is glossed and translated as subjunctive \"may seek\"."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "In the mighty ones now, O hero, rejoicing in the Trikadrukas, drink the Soma, O Indra. Shaking, in the beards, delighted, come with the two bays to the drinking of the pressed.",
+  "new": "In the mighty ones now, O hero, rejoicing in the Trikadrukas, drink the Soma, O Indra. Shaking, in the beards, delighted, come with the two tawny horses to the drinking of the pressed.",
+  "why": "reviewer (minor): Glossary: harī = the two tawny horses."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "haribhyām",
+  "old": "with the two bays",
+  "new": "with the two tawny horses",
+  "why": "reviewer (minor): Glossary."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "हे शूर, अब बलवानों में हर्षित होकर त्रिकद्रुकों में सोम पियो, हे इन्द्र। दाढ़ियों में हिलाते हुए, प्रसन्न होकर दोनों हरि (घोड़ों) के साथ निचोड़े हुए (सोम) के पान के लिए आओ।",
+  "new": "हे शूर, अब बलवानों में हर्षित होकर त्रिकद्रुकों में सोम पियो, हे इन्द्र। दाढ़ियों में हिलाते हुए, प्रसन्न होकर दोनों भूरे घोड़ों के साथ निचोड़े हुए (सोम) के पान के लिए आओ।",
+  "why": "reviewer (minor): Bracketed gloss in Hindi."
+ },
+ {
+  "n": "18",
+  "field": "english",
+  "old": "Take hold of the strength, O hero, by which you split down Vṛtra, Dānu, Aurṇavābha. You uncovered the light for the Ārya; the dasyu was set down on the left, O Indra.",
+  "new": "Take hold of the strength, O hero, by which you split down Vṛtra, Dānu, Aurṇavābha. You uncovered the light for the Ārya; the Dasyu was set down on the left, O Indra.",
+  "why": "reviewer (minor): Glossary: Dasyu (name)."
+ },
+ {
+  "n": "18",
+  "field": "word.gloss",
+  "word": "dasyuḥ",
+  "old": "the dasyu",
+  "new": "the Dasyu",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "May we win, who by your aids, overcoming all rivals, with the Ārya, the dasyus. For us you subdued that Tvāṣṭra, the many-formed, for Trita, out of friendship.",
+  "new": "May we win, who by your aids, overcoming all rivals, with the Ārya, the Dasyus. For us you subdued that Tvāṣṭra, the many-formed, for Trita, out of friendship.",
+  "why": "reviewer (minor): Glossary: Dasyu (name)."
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "dasyūn",
+  "old": "the dasyus",
+  "new": "the Dasyus",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "On this exhilarating (drink) of Trita being pressed, growing strong, he threw down Arbuda. He rolled it like the sun a wheel; Indra, with the Aṅgirases, split Vala.",
+  "new": "Of this one being pressed, the exhilarating, of Trita, growing strong, he threw down Arbuda. He rolled it like the sun a wheel; Indra, with the Aṅgirases, split Vala.",
+  "why": "reviewer (minor): Bracketed interpretation \"(drink)\" in English; the genitives are not tied to a drink in the text."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "इस निचोड़े जाते हुए, हर्ष देने वाले के (रस पर), त्रित के, बढ़ते हुए उसने अर्बुद को नीचे फेंका। उसने सूर्य के समान चक्र को घुमाया; अङ्गिरसों के साथ इन्द्र ने वल को चीर डाला।",
+  "new": "इस निचोड़े जाते हुए, हर्ष देने वाले के, त्रित के, बढ़ते हुए उसने अर्बुद को नीचे फेंका। उसने सूर्य के समान चक्र को घुमाया; अङ्गिरसों के साथ इन्द्र ने वल को चीर डाला।",
+  "why": "reviewer (minor): Bracketed interpretation in Hindi."
+ },
+ {
+  "n": "20",
+  "field": "english",
+  "old": "Of this one being pressed, the exhilarating, of Trita, growing strong, he threw down Arbuda. He rolled it like the sun a wheel; Indra, with the Aṅgirases, split Vala.",
+  "new": "Of this one being pressed, the exhilarating, of Trita, growing strong, he threw down Arbuda. He rolled, like the sun a wheel,; Indra, with the Aṅgirases, split Vala.",
+  "why": "reviewer (minor): The note says \"it\" is not in the Sanskrit, but English supplies \"it\" unbracketed."
+ },
+ {
+  "n": "21",
+  "field": "english",
+  "old": "Now may that bountiful gift of yours, O Indra, yield for the singer according to his choice.",
+  "new": "Now may that bountiful gift of yours, O Indra, yield for the singer according to choice.",
+  "why": "reviewer (minor): \"his\" is not in the text (prati varam); Hindi \"उसकी\" likewise."
+ },
+ {
+  "n": "21",
+  "field": "hindi",
+  "old": "हे इन्द्र, अब तुम्हारी वह उदार दक्षिणा गायक के लिए उसकी इच्छा के अनुसार फल दे।",
+  "new": "हे इन्द्र, अब तुम्हारी वह उदार दक्षिणा गायक के लिए इच्छा के अनुसार फल दे।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "22",
+  "field": "english",
+  "old": "Help the praisers; may Bhaga not burn past us. May we speak loudly in the rite, rich in heroes.",
+  "new": "Help the praisers; may Bhaga not burn past us. May we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): Glossary: bṛhad vadema vidathe suvīrāḥ = \"may we, rich in heroes, speak greatly in the rite\" (one wording in every refrain)."
+ },
+ {
+  "n": "22",
+  "field": "hindi",
+  "old": "स्तोताओं की सहायता करो; भग हमें लाँघकर न जला दे। हम यज्ञ में उत्तम वीरों से युक्त होकर ऊँचे स्वर से बोलें।",
+  "new": "स्तोताओं की सहायता करो; भग हमें लाँघकर न जला दे। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Same refrain wording."
+ },
+ {
+  "n": "22",
+  "field": "word.gloss",
+  "word": "bṛhat",
+  "old": "loudly",
+  "new": "greatly",
+  "why": "reviewer (minor): Same refrain wording."
+ },
+ {
+  "n": "22",
+  "field": "notes",
+  "old": "Single-line unit. The printed śikṣā is śikṣa (2 sg. imperative) with a lengthened final vowel. māti dhak bhago no is uncertain: it is read mā ati dhak bhagaḥ naḥ, 'may Bhaga not burn past us'; the sense of dhak here (√dah 'burn') and whether bhaga is the name Bhaga or 'fortune, share' is not certain. bṛhat is read adverbially 'loudly'. This is the refrain verse of the hymn.",
+  "new": "Single-line unit. The printed śikṣā is śikṣa (2 sg. imperative) with a lengthened final vowel. māti dhak bhago no is uncertain: it is read mā ati dhak bhagaḥ naḥ, 'may Bhaga not burn past us'; the sense of dhak here (√dah 'burn') and whether bhaga is the name Bhaga or 'fortune, share' is not certain. bṛhat is read adverbially 'greatly'. This is the refrain verse of the hymn.",
+  "why": "reviewer (minor): Same."
+ }
+]

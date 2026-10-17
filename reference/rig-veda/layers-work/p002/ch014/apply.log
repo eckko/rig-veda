@@ -1,0 +1,9 @@
+chunk 1: 12 units, 7 patches applied (7 changes logged), 4 issues without patch, 0 patches failed
+  MANUAL unit 2 [minor] text_flags / tadvaśāya~: The printed token carries an unexplained nasal ('~') before eṣa; the notes mention it but text_flags is empty. It should be listed as a flag (printed nasal on tad-vaśāya, no expected sandhi).
+         suggested fix: add text_flag src 'tadvaśāya̭~', why: unexplained nasal before eṣa
+  MANUAL unit 3 [minor] english / who for you opened Vala: The verb 'opened' is supplied for 'apa hi valam vaḥ' (apa 'away', hi 'for' unrendered) and presented as plain translation; the notes admit tmesis and 'a reading'. Mark in notes as supplied or reword.
+         suggested fix: note that the verb is supplied (e.g. 'apa ... valam: verb supplied, probably "opened"')
+  MANUAL unit 10 [minor] english / I know of him this hidden thing: 'ma' (me) is glossed 'to me' but appears in neither English nor Hindi; either render it or note it as unrendered.
+         suggested fix: add note: 'me (ma) is left unrendered / attached to nibhṛtam'
+  MANUAL unit 12 [minor] gram / śravasyāḥ: Labelled 'f. nom. pl.' but it describes the speakers ('we'); the gender label is unsupported.
+         suggested fix: 'nom. pl. (uncertain)'

@@ -1,0 +1,811 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ṛ̱juricchaṃso̭",
+      "words": [
+       {
+        "w": "ṛjuḥ",
+        "gloss": "straight, honest",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "śaṃsaḥ",
+        "gloss": "speaker",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vanavad",
+      "words": [
+       {
+        "w": "vanavat",
+        "gloss": "he shall overcome",
+        "gram": "3 sg. subj. √van"
+       }
+      ]
+     },
+     {
+      "src": "vanuṣya̱to",
+      "words": [
+       {
+        "w": "vanuṣyataḥ",
+        "gloss": "the hostile",
+        "gram": "m. acc. pl. pres. part."
+       }
+      ]
+     },
+     {
+      "src": "dḙva̱yannidadḙvayantama̱bhya̭sat",
+      "words": [
+       {
+        "w": "devayan",
+        "gloss": "seeking the gods",
+        "gram": "m. nom. sg. pres. part."
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "adevayantam",
+        "gloss": "not seeking the gods",
+        "gram": "m. acc. sg. pres. part."
+       },
+       {
+        "w": "abhi",
+        "gloss": "over",
+        "gram": "ind."
+       },
+       {
+        "w": "asat",
+        "gloss": "he shall be",
+        "gram": "3 sg. subj. √as"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "su̱prā̱vīrid",
+      "words": [
+       {
+        "w": "su-prāvīḥ",
+        "gloss": "good helper",
+        "gram": "bahuvrīhi, m. nom. sg."
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭navat",
+      "words": [
+       {
+        "w": "vanavat",
+        "gloss": "he shall win",
+        "gram": "3 sg. subj. √van"
+       }
+      ]
+     },
+     {
+      "src": "pṛ̱tsu",
+      "words": [
+       {
+        "w": "pṛtsu",
+        "gloss": "in battles",
+        "gram": "f. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "du̱ṣṭara̱ṃ",
+      "words": [
+       {
+        "w": "duṣṭaram",
+        "gloss": "hard to overcome",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yajvedaya̭jyo̱rvi",
+      "words": [
+       {
+        "w": "yajvā",
+        "gloss": "sacrificer",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "ayajyoḥ",
+        "gloss": "of the non-sacrificer",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bha̭jāti̱",
+      "words": [
+       {
+        "w": "bhajāti",
+        "gloss": "he shall divide",
+        "gram": "3 sg. subj. √bhaj"
+       }
+      ]
+     },
+     {
+      "src": "bhoja̭nam",
+      "words": [
+       {
+        "w": "bhojanam",
+        "gloss": "enjoyment, goods",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ईमानदार वक्ता विरोधियों को जीत ले; देवों को चाहने वाला देवों को न चाहने वाले पर प्रबल हो। उत्तम सहायक युद्धों में दुर्जय को जीत ले; यजमान यज्ञ न करने वाले के भोग का विभाग कर ले।",
+  "english": "The honest speaker shall overcome the hostile; the one seeking the gods shall prevail over the one not seeking the gods. The good helper shall win the one hard to overcome in battles; the sacrificer shall divide the goods of the non-sacrificer.",
+  "text_flags": [],
+  "notes": "śaṃsaḥ taken as 'speaker' (or 'praise'); 'abhi asat' read as 'shall prevail over'. In line b the object duṣṭaram is read as the hard-to-overcome adversary or prize.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "002.026.1a",
+   "002.026.1b"
+  ],
+  "lines_deva": [
+   "ऋ॒जुरिच्छंसो॑ वनवद् वनुष्य॒तो दे॑व॒यन्निददे॑वयन्तम॒भ्य॑सत्",
+   "सु॒प्रा॒वीरिद् व॑नवत् पृ॒त्सु दु॒ष्टरं॒ यज्वेदय॑ज्यो॒र्वि भ॑जाति॒ भोज॑नम्"
+  ],
+  "lines_iast": [
+   "ṛ̱juricchaṃso̭ vanavad vanuṣya̱to dḙva̱yannidadḙvayantama̱bhya̭sat",
+   "su̱prā̱vīrid va̭navat pṛ̱tsu du̱ṣṭara̱ṃ yajvedaya̭jyo̱rvi bha̭jāti̱ bhoja̭nam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yaja̭sva",
+      "words": [
+       {
+        "w": "yajasva",
+        "gloss": "sacrifice",
+        "gram": "2 sg. impv. mid. √yaj"
+       }
+      ]
+     },
+     {
+      "src": "vīra̱",
+      "words": [
+       {
+        "w": "vīra",
+        "gloss": "O hero",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̭hi",
+      "words": [
+       {
+        "w": "vihi",
+        "gloss": "go",
+        "gram": "2 sg. impv. √vī"
+       }
+      ]
+     },
+     {
+      "src": "manāya̱to",
+      "words": [
+       {
+        "w": "manāyataḥ",
+        "gloss": "of the zealous",
+        "gram": "m. gen. sg. pres. part."
+       }
+      ]
+     },
+     {
+      "src": "bha̱draṃ",
+      "words": [
+       {
+        "w": "bhadram",
+        "gloss": "good",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mana̭:",
+      "words": [
+       {
+        "w": "manaḥ",
+        "gloss": "mind",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇuṣva",
+      "words": [
+       {
+        "w": "kṛṇuṣva",
+        "gloss": "make",
+        "gram": "2 sg. impv. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "vṛtra̱tūryḙ",
+      "words": [
+       {
+        "w": "vṛtra-tūrye",
+        "gloss": "in the smiting of obstacles",
+        "gram": "tat-puruṣa, n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ha̱viṣkṛ̭ṇuṣva",
+      "words": [
+       {
+        "w": "haviḥ",
+        "gloss": "oblation",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "kṛṇuṣva",
+        "gloss": "make",
+        "gram": "2 sg. impv. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "su̱bhago̱",
+      "words": [
+       {
+        "w": "su-bhagaḥ",
+        "gloss": "fortunate",
+        "gram": "bahuvrīhi, m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yathāsa̭si̱",
+      "words": [
+       {
+        "w": "yathā",
+        "gloss": "so that",
+        "gram": "ind."
+       },
+       {
+        "w": "asasi",
+        "gloss": "you may be",
+        "gram": "2 sg. subj. √as"
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇa̱spate̱rava̱",
+      "words": [
+       {
+        "w": "brahmaṇaspateḥ",
+        "gloss": "of Brahmaṇaspati",
+        "gram": "m. gen. sg."
+       },
+       {
+        "w": "avaḥ",
+        "gloss": "help",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̭ṇīmahe",
+      "words": [
+       {
+        "w": "vṛṇīmahe",
+        "gloss": "we choose",
+        "gram": "1 pl. pres. mid. √vṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे वीर, यज्ञ करो, आगे बढ़ो; उत्साही के लिए अपना मन कल्याणकारी बनाओ, बाधाओं के संहार में। हवि अर्पित करो, जिससे तुम भाग्यवान् हो; हम ब्रह्मणस्पति की सहायता का वरण करते हैं।",
+  "english": "Sacrifice, O hero; go forth; make your mind good, of the zealous, in the smiting of obstacles. Make the oblation, so that you may be fortunate; we choose the help of Brahmaṇaspati.",
+  "text_flags": [],
+  "notes": "manāyataḥ is uncertain (read as genitive 'of the zealous', possibly 'being zealous' qualifying the addressee). vṛtra is read as 'obstacle' not as a name.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.026.2a",
+   "002.026.2b"
+  ],
+  "lines_deva": [
+   "यज॑स्व वीर॒ प्र वि॑हि मनाय॒तो भ॒द्रं मन॑: कृणुष्व वृत्र॒तूर्ये॑",
+   "ह॒विष्कृ॑णुष्व सु॒भगो॒ यथास॑सि॒ ब्रह्म॑ण॒स्पते॒रव॒ आ वृ॑णीमहे"
+  ],
+  "lines_iast": [
+   "yaja̭sva vīra̱ pra vi̭hi manāya̱to bha̱draṃ mana̭: kṛṇuṣva vṛtra̱tūryḙ",
+   "ha̱viṣkṛ̭ṇuṣva su̱bhago̱ yathāsa̭si̱ brahma̭ṇa̱spate̱rava̱ ā vṛ̭ṇīmahe"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ijjanḙna̱",
+      "words": [
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "janena",
+        "gloss": "with the people",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱śā",
+      "words": [
+       {
+        "w": "viśā",
+        "gloss": "with the clan",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "janma̭nā̱",
+      "words": [
+       {
+        "w": "janmanā",
+        "gloss": "by birth",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "sa",
+        "gloss": "he",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pu̱trairvāja̭ṃ",
+      "words": [
+       {
+        "w": "putraiḥ",
+        "gloss": "with sons",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "vājam",
+        "gloss": "prize",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "bharate̱",
+      "words": [
+       {
+        "w": "bharate",
+        "gloss": "he carries off",
+        "gram": "3 sg. pres. mid. √bhṛ"
+       }
+      ]
+     },
+     {
+      "src": "dhanā̱",
+      "words": [
+       {
+        "w": "dhanā",
+        "gloss": "wealth",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "nṛbhi̭:",
+      "words": [
+       {
+        "w": "nṛbhiḥ",
+        "gloss": "with men",
+        "gram": "m. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "de̱vānā̱ṃ",
+      "words": [
+       {
+        "w": "devānām",
+        "gloss": "of the gods",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "yaḥ",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pi̱tara̭mā̱vivā̭sati",
+      "words": [
+       {
+        "w": "pitaram",
+        "gloss": "father",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "āvivāsati",
+        "gloss": "he honours",
+        "gram": "3 sg. pres. ā-√vivas"
+       }
+      ]
+     },
+     {
+      "src": "śra̱ddhāma̭nā",
+      "words": [
+       {
+        "w": "śraddhā-manāḥ",
+        "gloss": "faithful-minded",
+        "gram": "bahuvrīhi, m. nom. sg. (agreeing with yaḥ)"
+       }
+      ]
+     },
+     {
+      "src": "ha̱viṣā̱",
+      "words": [
+       {
+        "w": "haviṣā",
+        "gloss": "with oblation",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇa̱spati̭m",
+      "words": [
+       {
+        "w": "brahmaṇaspatim",
+        "gloss": "Brahmaṇaspati",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वही जन के साथ, वही कुल के साथ, वही जन्म से, वही पुत्रों के साथ पुरस्कार और धन मनुष्यों के साथ ले जाता है; जो श्रद्धापूर्ण मन वाला होकर देवों के पिता ब्रह्मणस्पति की हवि द्वारा सेवा करता है।",
+  "english": "He indeed, with the people, with the clan, by birth, with sons, carries off the prize and wealth with men; he who, faithful-minded, honours with an oblation the father of the gods, Brahmaṇaspati.",
+  "text_flags": [],
+  "notes": "śraddhāmanā is taken as an instrumental form agreeing loosely with haviṣā ('faithful-minded'); it may instead refer to the worshipper. 'father of the gods' is the text's own apposition. śraddhāmanā is read as nom. sg. śraddhā-manāḥ agreeing with yaḥ (visarga lost before h).",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "002.026.3a",
+   "002.026.3b"
+  ],
+  "lines_deva": [
+   "स इज्जने॑न॒ स वि॒शा स जन्म॑ना॒ स पु॒त्रैर्वाजं॑ भरते॒ धना॒ नृभि॑:",
+   "दे॒वानां॒ यः पि॒तर॑मा॒विवा॑सति श्र॒द्धाम॑ना ह॒विषा॒ ब्रह्म॑ण॒स्पति॑म्"
+  ],
+  "lines_iast": [
+   "sa ijjanḙna̱ sa vi̱śā sa janma̭nā̱ sa pu̱trairvāja̭ṃ bharate̱ dhanā̱ nṛbhi̭:",
+   "de̱vānā̱ṃ yaḥ pi̱tara̭mā̱vivā̭sati śra̱ddhāma̭nā ha̱viṣā̱ brahma̭ṇa̱spati̭m"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yo",
+      "words": [
+       {
+        "w": "yaḥ",
+        "gloss": "who",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭smai",
+      "words": [
+       {
+        "w": "asmai",
+        "gloss": "for him",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "ha̱vyairghṛ̱tava̭dbhi̱ravi̭dha̱t",
+      "words": [
+       {
+        "w": "havyaiḥ",
+        "gloss": "with oblations",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "ghṛtavadbhiḥ",
+        "gloss": "with ghee",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "avidhat",
+        "gloss": "served",
+        "gram": "3 sg. impf. √vidh"
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "prā̱cā",
+      "words": [
+       {
+        "w": "prācā",
+        "gloss": "on the forward path",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "na̭yati̱",
+      "words": [
+       {
+        "w": "nayati",
+        "gloss": "he leads",
+        "gram": "3 sg. pres. √nī"
+       }
+      ]
+     },
+     {
+      "src": "brahma̭ṇa̱spati̭:",
+      "words": [
+       {
+        "w": "brahmaṇaspatiḥ",
+        "gloss": "Brahmaṇaspati",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "u̱ru̱ṣyatī̱maṃha̭so̱",
+      "words": [
+       {
+        "w": "uruṣyati",
+        "gloss": "he protects",
+        "gram": "3 sg. pres. √uruṣ"
+       },
+       {
+        "w": "īm",
+        "gloss": "him",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "aṃhasaḥ",
+        "gloss": "from distress",
+        "gram": "n. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "rakṣa̭tī",
+      "words": [
+       {
+        "w": "rakṣati",
+        "gloss": "he guards",
+        "gram": "3 sg. pres. √rakṣ"
+       }
+      ]
+     },
+     {
+      "src": "ri̱ṣo̱ṃ3",
+      "words": [
+       {
+        "w": "riṣaḥ",
+        "gloss": "from injury",
+        "gram": "f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "'hości̭dasmā",
+      "words": [
+       {
+        "w": "aṃhoḥ",
+        "gloss": "from narrowness",
+        "gram": "n. abl. sg."
+       },
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "asmai",
+        "gloss": "for him",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "uru̱cakri̱radbhṷtaḥ",
+      "words": [
+       {
+        "w": "urucakriḥ",
+        "gloss": "wide-working",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "adbhutaḥ",
+        "gloss": "wondrous",
+        "gram": "m. nom. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जिसने इसके लिए घी वाली हवियों से सेवा की, उसे ब्रह्मणस्पति आगे की ओर ले चलता है। वह उसे संकट से बचाता है, हानि से रक्षा करता है, और संकीर्णता से भी; उसके लिए वह विस्तृत कर्म वाला अद्भुत है।",
+  "english": "Whoever served him with oblations rich in ghee, Brahmaṇaspati leads him forth, forwards. He protects him from distress, guards him from injury, and even from narrowness; for him he is wide-working and wondrous.",
+  "text_flags": [
+   {
+    "src": "ri̱ṣo̱ṃ3 'hości̭dasmā",
+    "suggest": "ri̱ṣo̱ 'ṃhości̭dasmā",
+    "why": "stray ṃ3: the expected text is riṣo 'ṃhościd asmā (aṃhoḥ cit asmai), split across two printed tokens"
+   }
+  ],
+  "notes": "The two tokens ri̱ṣo̱ṃ3 'hości̭dasmā are read as riṣaḥ aṃhoḥ cit asmai; the reading of 'aṃhoḥ cit' as 'even from narrowness' follows this correction. 'urucakriḥ' is read as 'wide-working'.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "002.026.4a",
+   "002.026.4b"
+  ],
+  "lines_deva": [
+   "यो अ॑स्मै ह॒व्यैर्घृ॒तव॑द्भि॒रवि॑ध॒त् प्र तं प्रा॒चा न॑यति॒ ब्रह्म॑ण॒स्पति॑:",
+   "उ॒रु॒ष्यती॒मंह॑सो॒ रक्ष॑ती रि॒षों॒३ ऽहोश्चि॑दस्मा उरु॒चक्रि॒रद्भु॑तः"
+  ],
+  "lines_iast": [
+   "yo a̭smai ha̱vyairghṛ̱tava̭dbhi̱ravi̭dha̱t pra taṃ prā̱cā na̭yati̱ brahma̭ṇa̱spati̭:",
+   "u̱ru̱ṣyatī̱maṃha̭so̱ rakṣa̭tī ri̱ṣo̱ṃ3 'hości̭dasmā uru̱cakri̱radbhṷtaḥ"
+  ],
+  "uncertain": []
+ }
+]

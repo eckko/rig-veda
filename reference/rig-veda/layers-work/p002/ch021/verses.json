@@ -1,0 +1,1050 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vi̱śva̱jitḙ",
+      "words": [
+       {
+        "w": "viśva-jite",
+        "gloss": "to the all-conquering",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhana̱jitḙ",
+      "words": [
+       {
+        "w": "dhana-jite",
+        "gloss": "to the wealth-winner",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "sva̱rjitḙ",
+      "words": [
+       {
+        "w": "svar-jite",
+        "gloss": "to the winner of light",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "satrā̱jitḙ",
+      "words": [
+       {
+        "w": "satrā-jite",
+        "gloss": "to the ever-conquering",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "nṛ̱jita̭",
+      "words": [
+       {
+        "w": "nṛ-jite",
+        "gloss": "to the conqueror of men",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "urvarā̱jitḙ",
+      "words": [
+       {
+        "w": "urvarā-jite",
+        "gloss": "to the winner of fertile land",
+        "gram": "m. dat. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱śva̱jitḙ",
+      "words": [
+       {
+        "w": "aśva-jite",
+        "gloss": "to the winner of horses",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "go̱jitḙ",
+      "words": [
+       {
+        "w": "go-jite",
+        "gloss": "to the winner of cattle",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̱bjitḙ",
+      "words": [
+       {
+        "w": "abjite",
+        "gloss": "to the winner of waters",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "bha̱rendrā̭ya̱",
+      "words": [
+       {
+        "w": "bhara",
+        "gloss": "bring",
+        "gram": "2 sg. impv. √bhṛ"
+       },
+       {
+        "w": "indrāya",
+        "gloss": "to Indra",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "soma̭ṃ",
+      "words": [
+       {
+        "w": "somam",
+        "gloss": "Soma",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yaja̱tāya̭",
+      "words": [
+       {
+        "w": "yajatāya",
+        "gloss": "to the worshipful",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "harya̱tam",
+      "words": [
+       {
+        "w": "haryatam",
+        "gloss": "desirable",
+        "gram": "m. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सबको जीतने वाले, धन जीतने वाले, प्रकाश जीतने वाले, सदा विजयी, मनुष्यों को जीतने वाले, उपजाऊ भूमि जीतने वाले, अश्व जीतने वाले, गौएँ जीतने वाले, जल जीतने वाले, पूजनीय इन्द्र के लिए प्रिय सोम लाओ।",
+  "english": "For Indra, the worshipful, who conquers all, wins wealth, wins the light, is ever victorious, conquers men, wins fertile land, wins horses, wins cattle and wins waters, bring the desirable Soma.",
+  "text_flags": [],
+  "notes": "Line 1 is a string of datives in -jit; the first-line token nṛjita is nṛjite (final e before a vowel), not a typo. svar 'light' (also sun or heaven). Lines 1 and 2 form one sentence; the datives are all epithets of Indra, named in indrāya.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "002.021.1a",
+   "002.021.1b"
+  ],
+  "lines_deva": [
+   "वि॒श्व॒जिते॑ धन॒जिते॑ स्व॒र्जिते॑ सत्रा॒जिते॑ नृ॒जित॑ उर्वरा॒जिते॑",
+   "अ॒श्व॒जिते॑ गो॒जिते॑ अ॒ब्जिते॑ भ॒रेन्द्रा॑य॒ सोमं॑ यज॒ताय॑ हर्य॒तम्"
+  ],
+  "lines_iast": [
+   "vi̱śva̱jitḙ dhana̱jitḙ sva̱rjitḙ satrā̱jitḙ nṛ̱jita̭ urvarā̱jitḙ",
+   "a̱śva̱jitḙ go̱jitḙ a̱bjitḙ bha̱rendrā̭ya̱ soma̭ṃ yaja̱tāya̭ harya̱tam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱bhi̱bhuvḙ'bhibha̱ṅgāya̭",
+      "words": [
+       {
+        "w": "abhibhuve",
+        "gloss": "to the overpowering",
+        "gram": "m. dat. sg."
+       },
+       {
+        "w": "abhibhaṅgāya",
+        "gloss": "to the breaker",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "vanva̱te",
+      "words": [
+       {
+        "w": "vanvate",
+        "gloss": "to the conquering",
+        "gram": "m. dat. sg. pres. part. √van"
+       }
+      ]
+     },
+     {
+      "src": "'ṣā̭ḻahāya̱",
+      "words": [
+       {
+        "w": "aṣāḻhāya",
+        "gloss": "to the unconquered",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "saha̭mānāya",
+      "words": [
+       {
+        "w": "sahamānāya",
+        "gloss": "to the overcoming",
+        "gram": "m. dat. sg. pres. part. mid. √sah"
+       }
+      ]
+     },
+     {
+      "src": "ve̱dhasḙ",
+      "words": [
+       {
+        "w": "vedhase",
+        "gloss": "to the ordainer",
+        "gram": "m. dat. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tu̱vi̱graye̱",
+      "words": [
+       {
+        "w": "tuvi-graye",
+        "gloss": "to the mighty",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "vahna̭ye",
+      "words": [
+       {
+        "w": "vahnaye",
+        "gloss": "to the carrier",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "du̱ṣṭarī̭tave",
+      "words": [
+       {
+        "w": "duṣṭarītave",
+        "gloss": "to the hard to withstand",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "satrā̱sāhe̱",
+      "words": [
+       {
+        "w": "satrā-sāhe",
+        "gloss": "to the ever-overcoming",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "nama̱",
+      "words": [
+       {
+        "w": "namaḥ",
+        "gloss": "homage",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "indrā̭ya",
+      "words": [
+       {
+        "w": "indrāya",
+        "gloss": "to Indra",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "vocata",
+      "words": [
+       {
+        "w": "vocata",
+        "gloss": "speak",
+        "gram": "2 pl. aor. impv. √vac"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अभिभूत करने वाले, तोड़ने वाले, विजय करने वाले, अजेय, पराभूत करने वाले, विधाता, बलशाली, वाहक, दुर्धर्ष और सदा विजयी इन्द्र के लिए नमस्कार कहो।",
+  "english": "Speak homage to Indra: to the overpowering one, the breaker, the conqueror, the unconquered, the overcoming one, the ordainer, the mighty one, the carrier, the one hard to withstand, the ever-overcoming.",
+  "text_flags": [
+   {
+    "src": "'ṣā̭ḻahāya̱",
+    "suggest": "'ṣāḻhāya",
+    "why": "possible: the printed ळह (ḻa-ha without virama) is probably the edition's way of writing ḻh; the word is aṣāḻha 'unconquered'"
+   }
+  ],
+  "notes": "Uncertain epithets: tuvigra (taken as 'mighty'; the exact sense of the second member is unclear), vahni 'carrier' (of the chariot or of the offering, not stated), duṣṭarītu (taken as 'hard to withstand'), vedhas 'ordainer' (also 'worshipper, devout'). The printed token 'ṣāḻahāya is aṣāḻhāya with the virama missing after ḻ; see text_flags. abhibhuve'bhibhaṅgāya has avagraha after e.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.021.2a",
+   "002.021.2b"
+  ],
+  "lines_deva": [
+   "अ॒भि॒भुवे॑ऽभिभ॒ङ्गाय॑ वन्व॒ते ऽषा॑ळहाय॒ सह॑मानाय वे॒धसे॑",
+   "तु॒वि॒ग्रये॒ वह्न॑ये दु॒ष्टरी॑तवे सत्रा॒साहे॒ नम॒ इन्द्रा॑य वोचत"
+  ],
+  "lines_iast": [
+   "a̱bhi̱bhuvḙ'bhibha̱ṅgāya̭ vanva̱te 'ṣā̭ḻahāya̱ saha̭mānāya ve̱dhasḙ",
+   "tu̱vi̱graye̱ vahna̭ye du̱ṣṭarī̭tave satrā̱sāhe̱ nama̱ indrā̭ya vocata"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa̱trā̱sā̱ho",
+      "words": [
+       {
+        "w": "satrā-sāhaḥ",
+        "gloss": "ever-overcoming",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭nabha̱kṣo",
+      "words": [
+       {
+        "w": "jana-bhakṣaḥ",
+        "gloss": "sharer among the peoples",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ja̭naṃsa̱haścyava̭no",
+      "words": [
+       {
+        "w": "janaṃ-sahaḥ",
+        "gloss": "overcoming peoples",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cyavanaḥ",
+        "gloss": "the shaker",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yu̱dhmo",
+      "words": [
+       {
+        "w": "yudhmaḥ",
+        "gloss": "warrior",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "anu̱",
+      "words": [
+       {
+        "w": "anu",
+        "gloss": "according to",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "joṣa̭mukṣi̱taḥ",
+      "words": [
+       {
+        "w": "joṣam",
+        "gloss": "pleasure",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ukṣitaḥ",
+        "gloss": "grown strong",
+        "gram": "m. nom. sg. ppp. √ukṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vṛ̱ta̱ṃca̱yaḥ",
+      "words": [
+       {
+        "w": "vṛtam-cayaḥ",
+        "gloss": "gatherer of the enclosed",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sahṷrirvi̱kṣvā̭ri̱ta",
+      "words": [
+       {
+        "w": "sahuriḥ",
+        "gloss": "overcoming",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "vikṣu",
+        "gloss": "among the clans",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "āritaḥ",
+        "gloss": "approached",
+        "gram": "m. nom. sg. ppp."
+       }
+      ]
+     },
+     {
+      "src": "indra̭sya",
+      "words": [
+       {
+        "w": "indrasya",
+        "gloss": "of Indra",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "voca̱ṃ",
+      "words": [
+       {
+        "w": "vocam",
+        "gloss": "I will proclaim",
+        "gram": "1 sg. aor. subj. √vac"
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̱tāni̭",
+      "words": [
+       {
+        "w": "kṛtāni",
+        "gloss": "done",
+        "gram": "n. acc. pl. ppp. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "vī̱ryā̭",
+      "words": [
+       {
+        "w": "vīryā",
+        "gloss": "heroic deeds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सदा पराभूत करने वाला, जनों में भाग लेने वाला, जनों को वश में करने वाला, कँपा देने वाला, योद्धा, प्रसन्नता के अनुसार बलवान् हुआ, घेरे हुए को इकट्ठा करने वाला, विजयी, कुलों में निकट पहुँचा हुआ — इन्द्र के किए हुए वीर कर्म मैं आगे घोषित करूँगा।",
+  "english": "Ever-overcoming, sharer among the peoples, overcoming peoples, the shaker, the warrior, grown strong at pleasure, gatherer of the enclosed, the overcoming one, approached among the clans — I will proclaim forth the heroic deeds done by Indra.",
+  "text_flags": [],
+  "notes": "Many epithets are uncertain. janabhakṣa 'sharer among the peoples' (also 'enjoyer of peoples'); anu joṣam ukṣitaḥ 'grown strong at pleasure' (ukṣ 'sprinkle, grow strong'); vṛtaṃcayaḥ is unclear (vṛta 'enclosed, covered' + caya 'gatherer'); vikṣv āritaḥ 'approached among the clans' is doubtful (the form āritaḥ is unclear). The Hindi renders the epithets in the same order. The deeds named in the last clause (vīryā) are not described here.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.021.3a",
+   "002.021.3b"
+  ],
+  "lines_deva": [
+   "स॒त्रा॒सा॒हो ज॑नभ॒क्षो ज॑नंस॒हश्च्यव॑नो यु॒ध्मो अनु॒ जोष॑मुक्षि॒तः",
+   "वृ॒तं॒च॒यः सहु॑रिर्वि॒क्ष्वा॑रि॒त इन्द्र॑स्य वोचं॒ प्र कृ॒तानि॑ वी॒र्या॑"
+  ],
+  "lines_iast": [
+   "sa̱trā̱sā̱ho ja̭nabha̱kṣo ja̭naṃsa̱haścyava̭no yu̱dhmo anu̱ joṣa̭mukṣi̱taḥ",
+   "vṛ̱ta̱ṃca̱yaḥ sahṷrirvi̱kṣvā̭ri̱ta indra̭sya voca̱ṃ pra kṛ̱tāni̭ vī̱ryā̭"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱nā̱nu̱do",
+      "words": [
+       {
+        "w": "anānudaḥ",
+        "gloss": "not driven back",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̭ṣa̱bho",
+      "words": [
+       {
+        "w": "vṛṣabhaḥ",
+        "gloss": "bull",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dodha̭to",
+      "words": [
+       {
+        "w": "dodhataḥ",
+        "gloss": "of the shaking one",
+        "gram": "m. gen. sg. pres. part. int. √dhū"
+       }
+      ]
+     },
+     {
+      "src": "va̱dho",
+      "words": [
+       {
+        "w": "vadhaḥ",
+        "gloss": "slayer",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ga̭mbhī̱ra",
+      "words": [
+       {
+        "w": "gambhīraḥ",
+        "gloss": "deep",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ṛ̱ṣvo",
+      "words": [
+       {
+        "w": "ṛṣvaḥ",
+        "gloss": "lofty",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "asa̭maṣṭakāvyaḥ",
+      "words": [
+       {
+        "w": "asamaṣṭa-kāvyaḥ",
+        "gloss": "of unequalled poetic skill",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ra̱dhra̱co̱daḥ",
+      "words": [
+       {
+        "w": "radhra-codaḥ",
+        "gloss": "urging on the devoted",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "śnatha̭no",
+      "words": [
+       {
+        "w": "śnathanaḥ",
+        "gloss": "piercing",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vīḻi̱taspṛ̱thurindra̭:",
+      "words": [
+       {
+        "w": "vīḻitaḥ",
+        "gloss": "firm",
+        "gram": "m. nom. sg. ppp."
+       },
+       {
+        "w": "pṛthuḥ",
+        "gloss": "broad",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "suya̱jña",
+      "words": [
+       {
+        "w": "su-yajñaḥ",
+        "gloss": "of good sacrifice",
+        "gram": "m. nom. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "u̱ṣasa̱:",
+      "words": [
+       {
+        "w": "uṣasaḥ",
+        "gloss": "dawns",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sva̭rjanat",
+      "words": [
+       {
+        "w": "svaḥ",
+        "gloss": "light",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "janat",
+        "gloss": "he begot",
+        "gram": "3 sg. aor. √jan"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "न हटाया जाने वाला, वृषभ, काँपने वाले का वधकर्ता, गम्भीर, ऊँचा, अनुपम काव्य-कौशल वाला, समर्पित को प्रेरित करने वाला, भेदने वाला, दृढ़ और विशाल इन्द्र, उत्तम यज्ञ वाला — उसने उषाओं और प्रकाश को उत्पन्न किया।",
+  "english": "Not driven back, the bull, the slayer of the shaking one, deep, lofty, of unequalled poetic skill, urging on the devoted, piercing, firm and broad — Indra, of good sacrifice, begot the dawns and the light.",
+  "text_flags": [],
+  "notes": "Obscure verse. dodhato vadhaḥ: dodhataḥ taken as genitive 'of the shaking one' (intensive participle of √dhū), vadhaḥ 'slayer'; as an alternative both words could be epithets ('shaking, smiting'). asamaṣṭakāvya is doubtful (asamaṣṭa 'unequalled' is uncertain). radhra 'devoted' is doubtful. vīḻitaspṛthuḥ split vīḻitaḥ pṛthuḥ (the printed -s before p is taken as sandhi). suyajñaḥ may agree with Indra ('of good sacrifice') or mean 'well worshipped'. svar 'light' (also sun, heaven).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.021.4a",
+   "002.021.4b"
+  ],
+  "lines_deva": [
+   "अ॒ना॒नु॒दो वृ॑ष॒भो दोध॑तो व॒धो ग॑म्भी॒र ऋ॒ष्वो अस॑मष्टकाव्यः",
+   "र॒ध्र॒चो॒दः श्नथ॑नो वीळि॒तस्पृ॒थुरिन्द्र॑: सुय॒ज्ञ उ॒षस॒: स्व॑र्जनत्"
+  ],
+  "lines_iast": [
+   "a̱nā̱nu̱do vṛ̭ṣa̱bho dodha̭to va̱dho ga̭mbhī̱ra ṛ̱ṣvo asa̭maṣṭakāvyaḥ",
+   "ra̱dhra̱co̱daḥ śnatha̭no vīḻi̱taspṛ̱thurindra̭: suya̱jña u̱ṣasa̱: sva̭rjanat"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ya̱jñena̭",
+      "words": [
+       {
+        "w": "yajñena",
+        "gloss": "by sacrifice",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "gā̱tuma̱pturo̭",
+      "words": [
+       {
+        "w": "gātum",
+        "gloss": "way",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "apturaḥ",
+        "gloss": "swift",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vividrire̱",
+      "words": [
+       {
+        "w": "vividrire",
+        "gloss": "they found",
+        "gram": "3 pl. pf. mid. √vid"
+       }
+      ]
+     },
+     {
+      "src": "dhiyo̭",
+      "words": [
+       {
+        "w": "dhiyaḥ",
+        "gloss": "thoughts",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "hinvā̱nā",
+      "words": [
+       {
+        "w": "hinvānāḥ",
+        "gloss": "urging on",
+        "gram": "m. nom. pl. pres. part. mid. √hi"
+       }
+      ]
+     },
+     {
+      "src": "u̱śijo̭",
+      "words": [
+       {
+        "w": "uśijaḥ",
+        "gloss": "eager ones",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "manī̱ṣiṇa̭:",
+      "words": [
+       {
+        "w": "manīṣiṇaḥ",
+        "gloss": "wise",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱bhi̱svarā̭",
+      "words": [
+       {
+        "w": "abhi-svarā",
+        "gloss": "with chant",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni̱ṣadā̱",
+      "words": [
+       {
+        "w": "niṣadā",
+        "gloss": "by sitting down",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "gā",
+      "words": [
+       {
+        "w": "gāḥ",
+        "gloss": "cows",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭va̱syava̱",
+      "words": [
+       {
+        "w": "avasyavaḥ",
+        "gloss": "seeking help",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "indrḙ",
+      "words": [
+       {
+        "w": "indre",
+        "gloss": "in Indra",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "hinvā̱nā",
+      "words": [
+       {
+        "w": "hinvānāḥ",
+        "gloss": "urging on",
+        "gram": "m. nom. pl. pres. part. mid. √hi"
+       }
+      ]
+     },
+     {
+      "src": "dravi̭ṇānyāśata",
+      "words": [
+       {
+        "w": "draviṇāni",
+        "gloss": "riches",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "āśata",
+        "gloss": "they gained",
+        "gram": "3 pl. aor. mid. √aś"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "यज्ञ से तेज चलने वालों ने मार्ग पाया, विचारों को प्रेरित करते हुए, उत्साही बुद्धिमान् जनों ने। उच्च स्वर से गान करके और बैठकर, सहायता चाहने वालों ने इन्द्र में प्रेरित करते हुए गौएँ और धन प्राप्त किए।",
+  "english": "By sacrifice the swift ones found the way, urging on thoughts, the eager, the wise. With chant and by sitting down, seeking help, urging on in Indra, they gained cows and riches.",
+  "text_flags": [],
+  "notes": "Uncertain: aptur 'swift' (literally water-crossing); abhisvarā 'with chant' and niṣadā 'by sitting down' are doubtful; the object of hinvānāḥ in line 2 is not stated ('urging on' is left without object); gāḥ is taken as object of āśata with draviṇāni, but it could belong to the first clause. The pair of participles hinvānāḥ occurs in both lines.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.021.5a",
+   "002.021.5b"
+  ],
+  "lines_deva": [
+   "य॒ज्ञेन॑ गा॒तुम॒प्तुरो॑ विविद्रिरे॒ धियो॑ हिन्वा॒ना उ॒शिजो॑ मनी॒षिण॑:",
+   "अ॒भि॒स्वरा॑ नि॒षदा॒ गा अ॑व॒स्यव॒ इन्द्रे॑ हिन्वा॒ना द्रवि॑णान्याशत"
+  ],
+  "lines_iast": [
+   "ya̱jñena̭ gā̱tuma̱pturo̭ vividrire̱ dhiyo̭ hinvā̱nā u̱śijo̭ manī̱ṣiṇa̭:",
+   "a̱bhi̱svarā̭ ni̱ṣadā̱ gā a̭va̱syava̱ indrḙ hinvā̱nā dravi̭ṇānyāśata"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "indra̱",
+      "words": [
+       {
+        "w": "indra",
+        "gloss": "Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śreṣṭhā̭ni̱",
+      "words": [
+       {
+        "w": "śreṣṭhāni",
+        "gloss": "best",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dravi̭ṇāni",
+      "words": [
+       {
+        "w": "draviṇāni",
+        "gloss": "riches",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dhehi̱",
+      "words": [
+       {
+        "w": "dhehi",
+        "gloss": "place",
+        "gram": "2 sg. impv. √dhā"
+       }
+      ]
+     },
+     {
+      "src": "citti̱ṃ",
+      "words": [
+       {
+        "w": "cittim",
+        "gloss": "insight",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dakṣa̭sya",
+      "words": [
+       {
+        "w": "dakṣasya",
+        "gloss": "of skill",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "subhaga̱tvama̱sme",
+      "words": [
+       {
+        "w": "su-bhagatvam",
+        "gloss": "good fortune",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "asme",
+        "gloss": "in us",
+        "gram": "1 pl. dat./loc. pron. (Vedic)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "poṣa̭ṃ",
+      "words": [
+       {
+        "w": "poṣam",
+        "gloss": "increase",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "rayī̱ṇāmari̭ṣṭiṃ",
+      "words": [
+       {
+        "w": "rayīṇām",
+        "gloss": "of riches",
+        "gram": "m. gen. pl."
+       },
+       {
+        "w": "ariṣṭim",
+        "gloss": "freedom from harm",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ta̱nūnā̭ṃ",
+      "words": [
+       {
+        "w": "tanūnām",
+        "gloss": "of bodies",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "svā̱dmāna̭ṃ",
+      "words": [
+       {
+        "w": "svādmānam",
+        "gloss": "sweetness",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vā̱caḥ",
+      "words": [
+       {
+        "w": "vācaḥ",
+        "gloss": "of speech",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "sṷdina̱tvamahnā̭m",
+      "words": [
+       {
+        "w": "su-dinatvam",
+        "gloss": "fairness of days",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ahnām",
+        "gloss": "of days",
+        "gram": "n. gen. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र, हममें सर्वश्रेष्ठ धन, कौशल की समझ और सौभाग्य स्थापित करो; धनों की वृद्धि, शरीरों की अक्षतता, वाणी की मधुरता और दिनों की सुन्दरता दो।",
+  "english": "Indra, place in us the best riches, insight of skill and good fortune: increase of riches, freedom from harm of bodies, sweetness of speech and fairness of days.",
+  "text_flags": [],
+  "notes": "cittiṃ dakṣasya 'insight of skill' is literal; dakṣa also 'strength, ability'. ariṣṭi 'freedom from harm' (a-riṣṭi). sudinatva 'fairness of days' is literal (su-dina 'good day'). The line 2 accusatives continue the object list of dhehi.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "002.021.6a",
+   "002.021.6b"
+  ],
+  "lines_deva": [
+   "इन्द्र॒ श्रेष्ठा॑नि॒ द्रवि॑णानि धेहि॒ चित्तिं॒ दक्ष॑स्य सुभग॒त्वम॒स्मे",
+   "पोषं॑ रयी॒णामरि॑ष्टिं त॒नूनां॑ स्वा॒द्मानं॑ वा॒चः सु॑दिन॒त्वमह्ना॑म्"
+  ],
+  "lines_iast": [
+   "indra̱ śreṣṭhā̭ni̱ dravi̭ṇāni dhehi̱ citti̱ṃ dakṣa̭sya subhaga̱tvama̱sme",
+   "poṣa̭ṃ rayī̱ṇāmari̭ṣṭiṃ ta̱nūnā̭ṃ svā̱dmāna̭ṃ vā̱caḥ sṷdina̱tvamahnā̭m"
+  ],
+  "uncertain": []
+ }
+]

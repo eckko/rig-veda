@@ -1,0 +1,11 @@
+chunk 1: 13 units, 17 patches applied (17 changes logged), 5 issues without patch, 0 patches failed
+  MANUAL unit 1 [minor] text_flags / payo̱ṃ: The flag is real (stray anusvāra: payo 'ṃśoḥ intended), but 'suggest: payaḥ' replaces the whole token; the correction is to move the ṃ: payo̱ + 'ṃśoḥ.
+         suggested fix: suggest 'payo' for this token and 'ṃśoḥ for the next
+  MANUAL unit 2 [minor] gram / tā (refrain, also units 3 and 4): yastākṛṇoḥ = yaḥ + tāḥ + akṛṇoḥ; the visarga of tāḥ drops before a, so w 'tā' / 'n. acc. pl.' is most likely f. acc. pl. tāḥ (neuter pl. is tāni). The translation also supplies the noun 'deeds', which is not in the Sanskrit. The note flags uncertainty, but the form label should be reconsidered and the supplied noun kept out of the gloss.
+         suggested fix: w 'tāḥ', gram 'pron. f. acc. pl.' (human decision on 'those deeds' vs 'those things')
+  MANUAL unit 3 [minor] english / minan tat apāḥ: The second 'tat' is glossed 'that' but is rendered in neither English nor Hindi (the translation reads 'diminishing the forms, working'). The gram 'ind.' for it is also wrong for a pronoun/adverb. The split is admitted a guess, so either translate it or say it is left untranslated in notes.
+         suggested fix: append to notes: 'second tat left unrendered (adverbial, thereupon?)'
+  MANUAL unit 5 [minor] english / made the earth to be seen together with heaven: 'together with heaven' renders the dative dive as an instrumental 'with'; gloss says 'for heaven' and the note admits 'for the sight of heaven'. English/Hindi contradict the gloss.
+         suggested fix: e.g. 'made the earth to be seen for heaven' (needs a human decision)
+  MANUAL unit 13 [minor] gram / śravasyāḥ: Labelled 'f. nom. pl.' but it describes the speakers ('we'); the gender label is unsupported (the form is a nom. pl. in -āḥ of an adjective/denominative); the translation 'desiring glory' is fine.
+         suggested fix: 'nom. pl. (uncertain)'

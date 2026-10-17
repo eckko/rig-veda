@@ -1,0 +1,9 @@
+chunk 1: 11 units, 9 patches applied (9 changes logged), 4 issues without patch, 0 patches failed
+  MANUAL unit 4 [minor] gram / adardhar: Label 'redup.' is vague; intensive imperfect.
+         suggested fix: 3 sg. impf. intens. √dhṛ
+  MANUAL unit 4 [minor] text_flags / vyṛ1tū~radardhararamatiḥ: The digit 1 is indeed the svarita mark, but the suggestion 'vyṛtūnadardhararamatiḥ' silently undoes the sandhi (ṛtūm̐r + adardhar is the printed form). Suggest 'vyṛtū~radardhararamatiḥ' (digit removed only).
+         suggested fix: vyṛtū~radardhararamatiḥ
+  MANUAL unit 6 [minor] gram / apaḥ: 'n. acc. pl.' is not a possible form of apas (n.) 'work' (acc. pl. apāṃsi; apaḥ is acc. sg.), and the translation 'all altered works' pairs it with vikṛtam (sg.) and śaśvān (m. pl.). Alternatively apaḥ is f. acc. pl. 'waters', which the notes mention. The agreement is unresolved; label 'acc. (n. sg. 'work' or f. pl. 'waters')' and lower confidence in the 'works' reading. No patch.
+         suggested fix: gram: acc. sg. n. (apas 'work') or f. acc. pl. (ap 'waters')
+  MANUAL unit 7 [minor] split / dhanvānvā: The simpler reading dhanvān + vā ('or') is possible and the Devanagari is unaccented (a dhanvā anu ā reading would normally show accents). The unit's own note admits the construction is unclear; mention dhanvān vā as the alternative. No patch.
+         suggested fix: append alternative

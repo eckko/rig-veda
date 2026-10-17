@@ -1,0 +1,9 @@
+chunk 1: 9 units, 16 patches applied (16 changes logged), 4 issues without patch, 0 patches failed
+  MANUAL unit 2 [minor] split / arṇaḥ-vṛtam: The first member of the compound is the stem arṇas (arṇo-vṛtam by sandhi), not the case form arṇaḥ; dictionary-style stem would be arṇas-vṛtam. Left unpatched in case the checker keys on w.
+         suggested fix: arṇas-vṛtam
+  MANUAL unit 5 [minor] gram / guhat: "m. acc. sg." is impossible for guhat (the participle would be guhantam, or neuter guhat against masculine rayim). The notes leave open verb vs participle, so gram should too.
+         suggested fix: 3 sg. inj. √guh, or n. pres. part. (uncertain)
+  MANUAL unit 7 [minor] gram / nanamaḥ: "3 sg." cannot end in -aḥ (3 sg. would end -t/-ti); the form is 2 sg. or a noun. The notes admit the form is unclear, but gram and the translation "bends" commit to a 3 sg. verb. Should read as uncertain.
+         suggested fix: verb form unclear (-aḥ is not 3 sg.)
+  MANUAL unit 8 [minor] hindi / अन्न: iṣ is "refreshment" in English and gloss; अन्न (food) is a different word (anna).
+         suggested fix: ताज़गी (applied in the patch above)

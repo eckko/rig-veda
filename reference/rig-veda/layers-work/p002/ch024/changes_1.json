@@ -1,0 +1,257 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "इस भेंट को स्वीकार करो, जो तुम स्वामी हो; इस नई महान् स्तुति से हम तुम्हारी सेवा करें। जिससे, हे बृहस्पति, उदार तुम्हारा मित्र हमारे लिए स्तुति करे; और तुम हमारी बुद्धि को सफल करो।",
+  "new": "इस भेंट को स्वीकार करो, जो तुम शासन करते हो; इस नई महान् स्तुति से हम तुम्हारी सेवा करें। जिससे, हे बृहस्पति, उदार तुम्हारा मित्र हमारे लिए स्तुति करे; और तुम हमारी बुद्धि को सफल करो।",
+  "why": "reviewer (minor): \"स्वामी\" (lord) is not in ya īśiṣe; English has \"you who rule\"."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "इस भेंट को स्वीकार करो, जो तुम शासन करते हो; इस नई महान् स्तुति से हम तुम्हारी सेवा करें। जिससे, हे बृहस्पति, उदार तुम्हारा मित्र हमारे लिए स्तुति करे; और तुम हमारी बुद्धि को सफल करो।",
+  "new": "इस भेंट को स्वीकार करो, जो तुम शासन करते हो; इस नई महान् स्तुति से हम तुम्हारी सेवा करें। जिससे, हे बृहस्पति, उदार तुम्हारा मित्र हमारे लिए स्तुति करे; और तुम हमारी बुद्धि को सफल करोगे।",
+  "why": "reviewer (minor): Hindi imperative but the English and the verb (sīṣadhaḥ, subjunctive) have \"you shall bring\"; make them agree."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "That which was to be done for the most divine of the gods, they loosened; the firm things yielded, the things made firm. He drove out the cows, split Vala with the sacred word, hid the darkness and made heaven's light visible.",
+  "new": "That which was to be done for the most divine of the gods, they loosened; the firm things yielded, the things made firm. He drove out the cows, split Vala with the sacred utterance, hid the darkness and made heaven's light visible.",
+  "why": "reviewer (minor): brahman (n.) is fixed as prayer / sacred utterance in the glossary, not \"sacred word\"."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "brahmaṇā",
+  "old": "with the sacred word",
+  "new": "with the sacred utterance",
+  "why": "reviewer (minor): Same as above."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "देवों में सबसे देवतुल्य के लिए जो करना था उसे उन्होंने ढीला किया; दृढ़ वस्तुएँ झुक गईं, दृढ़ की हुई वस्तुएँ भी। उसने गायों को बाहर हाँका, ब्रह्म से वल को चीर दिया, अन्धकार को छिपाया और स्वर्ग का प्रकाश प्रकट कर दिया।",
+  "new": "देवों में सबसे दिव्य के लिए जो करना था उसे उन्होंने ढीला किया; दृढ़ वस्तुएँ झुक गईं, दृढ़ की हुई वस्तुएँ भी। उसने गायों को बाहर हाँका, ब्रह्म से वल को चीर दिया, अन्धकार को छिपाया और स्वर्ग का प्रकाश प्रकट कर दिया।",
+  "why": "reviewer (minor): \"देवतुल्य\" (godlike) is not \"most divine\" (devatama)."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Brahmaṇaspati with might split open the stone-mouthed well streaming honey, towards which he went. Just that all the seers of heaven's light drank; together they poured out much of the spring full of water.",
+  "new": "Brahmaṇaspati with might split open the stone-mouthed well streaming honey. Just that all the seers of heaven's light drank; together they poured out much of the spring full of water.",
+  "why": "reviewer (error): Invented clause. The relative clause is abhi yam ojasā atṛṇat \"which he split open with might\"; there is no verb \"went\" and abhi is a preverb of atṛṇat. The line already says \"split open\"."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "ब्रह्मणस्पति ने बल से पत्थर के मुँह वाले, मधु की धारा बहाने वाले कुएँ को, जिसके विरुद्ध वह गया, चीर डाला। उसी को स्वर्ग का प्रकाश देखने वाले सब ने पिया; उन्होंने मिलकर जल से भरे स्रोत को बहुत उँडेला।",
+  "new": "ब्रह्मणस्पति ने बल से पत्थर के मुँह वाले, मधु की धारा बहाने वाले कुएँ को चीर डाला। उसी को स्वर्ग का प्रकाश देखने वाले सब ने पिया; उन्होंने मिलकर जल से भरे स्रोत को बहुत उँडेला।",
+  "why": "reviewer (error): Same invented clause in Hindi."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Brahmaṇaspati with might split open the stone-mouthed well streaming honey. Just that all the seers of heaven's light drank; together they poured out much of the spring full of water.",
+  "new": "Brahmaṇaspati with might split open the stone-mouthed well streaming honey. Just that all the seers of heaven's light drank; together they poured out abundantly the spring full of water.",
+  "why": "reviewer (minor): \"much of\" (partitive) is not in the text; bahu is adverbial (\"abundantly\")."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "carataḥ",
+  "old": "m. nom. du. pres. part. √car",
+  "new": "m. gen. sg. or acc. pl. pres. part. √car (not nom. du.)",
+  "why": "reviewer (error): \"m. nom. du. pres. part.\" is impossible: a nom. du. of a participle ends in -antau or Vedic -antā; carataḥ is gen./abl. sg. or acc. pl. The Hindi \"दोनों\" and English \"the two moving\" rest on this label (the dual can only come from ayatantā)."
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "ud-īyuḥ",
+  "old": "3 pl. opt./impf. ud-√i",
+  "new": "3 pl. pf. ud-√i",
+  "why": "reviewer (minor): īyuḥ is the 3 pl. perfect of √i (īyuḥ), not an optative/imperfect; the note's \"opt. or impf.\" is a guess. Translation (went up) unchanged."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "The truth-keeping seers, having looked upon the falsehoods, again took their stand from there on the great paths. They, with their arms, the fire blown in the stone: there is indeed no stranger; for they have abandoned him.",
+  "new": "The order-keeping seers, having looked upon the falsehoods, again took their stand from there on the great paths. They, with their arms, the fire blown in the stone: there is indeed no stranger; for they have abandoned him.",
+  "why": "reviewer (minor): ṛta = order in the glossary, so ṛtāvan = possessing/keeping order, not \"truth\"."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "सत्य वाले कवि असत्यों को देखकर फिर वहाँ से आकर महान् मार्गों पर खड़े हुए। उन्होंने भुजाओं से पत्थर में धौंकी गई अग्नि को; सचमुच कोई पराया नहीं है; क्योंकि उन्होंने उसे छोड़ दिया।",
+  "new": "ऋत वाले कवि असत्यों को देखकर फिर वहाँ से आकर महान् मार्गों पर खड़े हुए। उन्होंने भुजाओं से पत्थर में धौंकी गई अग्नि को; सचमुच कोई पराया नहीं है; क्योंकि उन्होंने उसे छोड़ दिया।",
+  "why": "reviewer (minor): ṛta is ऋत in Hindi."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "ṛtāvānaḥ",
+  "old": "keepers of truth",
+  "new": "keepers of order",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Where Brahmaṇaspati wishes, there he reaches with the swift bow whose string is truth. His are the straight arrows with which he shoots, those having the ear as their source, to be seen of the one who watches men.",
+  "new": "Where Brahmaṇaspati wishes, there he reaches with the swift bow whose string is order. His are the straight arrows with which he shoots, those having the ear as their source, to be seen of the one who watches men.",
+  "why": "reviewer (minor): ṛta = order."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "जहाँ ब्रह्मणस्पति चाहता है, वहाँ वह सत्य की डोरी वाले शीघ्र धनुष से पहुँच जाता है। उसके सीधे बाण हैं जिनसे वह चलाता है, मनुष्यों को देखने वाले के देखने के लिए, कान जिनका उद्गम है।",
+  "new": "जहाँ ब्रह्मणस्पति चाहता है, वहाँ वह ऋत की डोरी वाले शीघ्र धनुष से पहुँच जाता है। उसके सीधे बाण हैं जिनसे वह चलाता है, मनुष्यों को देखने वाले के देखने के लिए, कान जिनका उद्गम है।",
+  "why": "reviewer (minor): ṛta is ऋत."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "ṛta-jyena",
+  "old": "with truth as bowstring",
+  "new": "with order as bowstring",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "जहाँ ब्रह्मणस्पति चाहता है, वहाँ वह ऋत की डोरी वाले शीघ्र धनुष से पहुँच जाता है। उसके सीधे बाण हैं जिनसे वह चलाता है, मनुष्यों को देखने वाले के देखने के लिए, कान जिनका उद्गम है।",
+  "new": "जहाँ ब्रह्मणस्पति चाहता है, वहाँ वह ऋत की डोरी वाले शीघ्र धनुष से पहुँच जाता है। उसके सीधे बाण हैं जिनसे वह चलाता है, मनुष्यों को देखने वाले द्वारा देखे जाने के लिए, कान जिनका उद्गम है।",
+  "why": "reviewer (minor): English says \"to be seen of the one who watches men\" (gloss: \"to be seen\"), Hindi says \"for the watcher's seeing\"; the translations disagree (active vs passive). Align Hindi to English/gloss; \"of\" should also be \"by\"."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Where Brahmaṇaspati wishes, there he reaches with the swift bow whose string is order. His are the straight arrows with which he shoots, those having the ear as their source, to be seen of the one who watches men.",
+  "new": "Where Brahmaṇaspati wishes, there he reaches with the swift bow whose string is order. His are the straight arrows with which he shoots, those having the ear as their source, to be seen by the one who watches men.",
+  "why": "reviewer (minor): Archaic \"of\" for agent."
+ },
+ {
+  "n": "9",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "src",
+    "suggest": "suggest",
+    "why": "why"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (error): Template placeholder left in text_flags; no real flag is recorded and the unit shows no typo."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "वह इकट्ठा करने वाला, वह अलग ले चलने वाला, पुरोहित, वह भली प्रकार स्तुत, वह युद्ध में ब्रह्मणस्पति है। जब तीक्ष्ण दृष्टि वाला बुद्धि से पुरस्कार और धन ले जाता है, तब ही सूर्य तपता है, तपाने वाला व्यर्थ।",
+  "new": "वह इकट्ठा करने वाला, वह अलग ले चलने वाला, आगे रखा हुआ, वह भली प्रकार स्तुत, वह युद्ध में ब्रह्मणस्पति है। जब तीक्ष्ण दृष्टि वाला बुद्धि से पुरस्कार और धन ले जाता है, तब ही सूर्य तपता है, तपाने वाला व्यर्थ।",
+  "why": "reviewer (minor): English renders purohita \"one placed in front\"; Hindi gives the later technical sense \"house priest\". Keep literal."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "व्यापक, प्रबल, प्रथम, दानशील बृहस्पति के भली प्रकार दिए जाने योग्य सिद्ध करने योग्य दान; ये प्राप्त लाभ उस वांछित पुरस्कार-विजेता के हैं, जिससे दोनों प्रकार के जन और कुल भोग करते हैं।",
+  "new": "व्यापक, प्रबल, प्रथम, दानशील बृहस्पति के भली प्रकार दिए हुए, पाने योग्य दान; ये प्राप्त लाभ उस वांछित पुरस्कार-विजेता के हैं, जिससे दोनों प्रकार के जन और कुल भोग करते हैं।",
+  "why": "reviewer (minor): Hindi does not match the English/gloss: suvidatrāṇi \"well bestowed\" vs \"योग्य दिए जाने\", rādhyā \"to be won\" vs \"सिद्ध करने योग्य\". Also \"gifts\"/\"दान\" is a supplied head noun (the neuter adjectives have no stated noun); note it."
+ },
+ {
+  "n": "11",
+  "field": "word.gram",
+  "word": "mahām",
+  "old": "f. acc. sg.",
+  "new": "m. nom. sg. (sandhi form of mahān)",
+  "why": "reviewer (minor): mahām is not \"f. acc. sg.\" (the verb and subject are masculine; a feminine accusative has no function here). It is the Vedic sandhi form of m. nom. sg. mahān before u, predicative with the subject."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "All is true, O bounteous two, of you two; even the waters violate your ordinance. O Indra and Brahmaṇaspati, come towards our oblation and food like two prize-winners yoked together.",
+  "new": "All is true, O bounteous two, of you two; not even the waters violate your ordinance. O Indra and Brahmaṇaspati, come towards our oblation and food like two prize-winners yoked together.",
+  "why": "reviewer (error): Negation lost: cana with the clause means \"not even the waters violate your ordinance\" (the Hindi has नहीं, so Hindi and English contradict each other)."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "All is true, O bounteous two, of you two; not even the waters violate your ordinance. O Indra and Brahmaṇaspati, come towards our oblation and food like two prize-winners yoked together.",
+  "new": "All is true, O bountiful two, of you two; not even the waters violate your ordinance. O Indra and Brahmaṇaspati, come towards our oblation and food like two prize-winners yoked together.",
+  "why": "reviewer (minor): maghavan is fixed as \"bountiful\"."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "maghavānā",
+  "old": "O bounteous two",
+  "new": "O bountiful two",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "और सबसे शीघ्र चलने वाले वाहक सुनते हैं; सभा का कवि बुद्धि से धन ले जाता है। दृढ़ से द्वेष करने वाला, इच्छा के अनुसार ऋण लेने वाला, वही पुरस्कार-विजेता संग्राम में ब्रह्मणस्पति है।",
+  "new": "और सबसे शीघ्र चलने वाले वाहक सुनते हैं; सभा का प्रेरित जन बुद्धि से धन ले जाता है। दृढ़ से द्वेष करने वाला, इच्छा के अनुसार ऋण लेने वाला, वही पुरस्कार-विजेता संग्राम में ब्रह्मणस्पति है।",
+  "why": "reviewer (minor): vipra is \"inspired one\" (English); kavi is fixed as \"seer\", so Hindi कवि for vipra clashes with the glossary."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "The true wrath of Brahmaṇaspati, as of one about to do a great deed, came about according to his will. He who drove out the cows apportioned them to heaven; like a great stream he ran with force in different directions.",
+  "new": "The true wrath of Brahmaṇaspati, as of one about to do a great deed, came about according to his will. He who drove out the cows apportioned them to heaven; like a great stream he ran apart with force.",
+  "why": "reviewer (minor): pṛthak is glossed \"apart\"; \"in different directions\" adds. Hindi अलग-अलग is closer."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "O Brahmaṇaspati, may we every day be charioteers of the well reined, vigorous wealth. Join heroes among heroes to us, since you, ruling, come with the sacred word to my call.",
+  "new": "O Brahmaṇaspati, may we every day be charioteers of the well reined, vigorous wealth. Join heroes among heroes to us, since you, ruling, come with the sacred utterance to my call.",
+  "why": "reviewer (minor): brahman = prayer / sacred utterance."
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "brahmaṇā",
+  "old": "with the sacred word",
+  "new": "with the sacred utterance",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "15",
+  "field": "word.gram",
+  "word": "me",
+  "old": "pron. 1 sg.",
+  "new": "pron. 1 sg. gen. (enclitic)",
+  "why": "reviewer (minor): Case missing; me havam is the enclitic genitive."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "O Brahmaṇaspati, you are the controller of this; take heed of the well spoken word and quicken our offspring. All that is good which the gods favour; rich in heroes, may we speak greatly at the rite.",
+  "new": "O Brahmaṇaspati, you are the controller of this; take heed of the well spoken word and quicken our offspring. All that is good which the gods favour; rich in heroes, may we speak greatly in the rite.",
+  "why": "reviewer (minor): Refrain wording fixed in the glossary is \"in the rite\"."
+ },
+ {
+  "n": "16",
+  "field": "word.gloss",
+  "word": "vidathe",
+  "old": "at the rite",
+  "new": "in the rite",
+  "why": "reviewer (minor): Same (gloss \"at the rite\")."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "O Brahmaṇaspati, you are the controller of this; take heed of the well spoken word and quicken our offspring. All that is good which the gods favour; rich in heroes, may we speak greatly in the rite.",
+  "new": "O Brahmaṇaspati, you are the controller of this; take heed of the well spoken word and quicken offspring. All that is good which the gods favour; rich in heroes, may we speak greatly in the rite.",
+  "why": "reviewer (minor): \"our\" is not in the text (tanayam alone); Hindi has no \"our\"."
+ },
+ {
+  "n": "16",
+  "field": "word.w",
+  "word": "sū-ktasya",
+  "old": "sū-ktasya",
+  "new": "su-uktasya",
+  "why": "reviewer (minor): su + ukta gives sūkta; \"sū-ktasya\" is not a dictionary-style split."
+ }
+]

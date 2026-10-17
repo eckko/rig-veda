@@ -1,0 +1,65 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "सत्य को रचनेवाले देव के लिए, प्रेरक इन्द्र के लिए, जो अहि का हनन करनेवाला है, जल रुके नहीं। प्रतिदिन जलों का अक्तु चलता है; इनका पहला प्रवाह कितनी दूर तक है?",
+  "new": "ऋत करनेवाले देव के लिए, प्रेरक के लिए, अहि का हनन करनेवाले इन्द्र के लिए जल नहीं रुके। प्रतिदिन जलों का अक्तु चलता है; इनका पहला प्रवाह कितनी दूर तक है?",
+  "why": "reviewer (error): Reads as a prohibition ('let the waters not rest'); English says 'did not come to rest', and ramanta is a past injunctive/impf. Also the Hindi fuses savitre into Indra ('प्रेरक इन्द्र ... जो अहि का हनन करनेवाला है'), whereas English has three separate datives."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "जो यहाँ वृत्र के लिए सिन ले आता, उसे जाननेवाले की माता ने प्रकट कर दिया। मार्गों को काटती हुई गरजती धाराएँ प्रतिदिन उसके आनन्द के अनुसार लक्ष्य की ओर जाती हैं।",
+  "new": "जो यहाँ वृत्र के लिए सिन ले आता, उसे जाननेवाले की माता ने प्रकट कर दिया। मार्गों को काटती हुई गरजनेवालियाँ प्रतिदिन उसके आनन्द के अनुसार लक्ष्य की ओर जाती हैं।",
+  "why": "reviewer (minor): 'धाराएँ' (streams) is an interpretation; dhunayaḥ is 'roaring ones'."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "हे बृहस्पति, तपते हुए पत्थर के समान, असुर के वृकद्वरस वीरों को बींध दो। जैसे तुमने पहले भी साहस से मारा था, वैसे ही, हे इन्द्र, हमारे शत्रु को मारो।",
+  "new": "हे बृहस्पति, ताप से, मानो पत्थर से, असुर के वृकद्वरस वीरों को बींध दो। जैसे तुमने पहले भी साहस से मारा था, वैसे ही, हे इन्द्र, हमारे शत्रु को मारो।",
+  "why": "reviewer (minor): Hindi 'like a burning stone' differs from English 'with burning, as it were with a stone' (tapuṣā aśnā iva)."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "न कुछ मुझे थकाए, न शिथिल करे, न सुस्त बनाए; और हम सोम के विषय में यह न कहें कि मत निचोड़ो। जो मेरी इच्छा पूरी करे, जो दे, जो ध्यान दे, जो गायों के साथ मुझ सोम निचोड़नेवाले के पास आए।",
+  "new": "न कुछ मुझे थकाए, न शिथिल करे, न सुस्त बनाए; और हम सोम के विषय में यह न कहें कि मत निचोड़ो। जो मुझे तृप्त करे, जो दे, जो ध्यान दे, जो गायों के साथ मुझ सोम निचोड़नेवाले के पास आए।",
+  "why": "reviewer (minor): 'इच्छा' (desire) is added; pṛṇāt is 'satisfies/fills'; English says 'satisfies me'."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "May nothing exhaust me, nor tire me, nor make me slack; and may we not say, 'Do not press Soma.' Whoever satisfies me, whoever gives, whoever takes notice, whoever comes to me, the presser, with cows.",
+  "new": "May it not exhaust me, nor tire me, nor make me slack; and may we not say, 'Do not press Soma.' Whoever satisfies me, whoever gives, whoever takes notice, whoever comes to me, the presser, with cows.",
+  "why": "reviewer (minor): 'nothing' is an unmarked subject; the verbs are bare 3 sg. subjunctives."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "न कुछ मुझे थकाए, न शिथिल करे, न सुस्त बनाए; और हम सोम के विषय में यह न कहें कि मत निचोड़ो। जो मुझे तृप्त करे, जो दे, जो ध्यान दे, जो गायों के साथ मुझ सोम निचोड़नेवाले के पास आए।",
+  "new": "वह मुझे न थकाए, न शिथिल करे, न सुस्त बनाए; और हम सोम के विषय में यह न कहें कि मत निचोड़ो। जो मुझे तृप्त करे, जो दे, जो ध्यान दे, जो गायों के साथ मुझ सोम निचोड़नेवाले के पास आए।",
+  "why": "reviewer (minor): Same unmarked subject 'कुछ'."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "हे शूर, हमारे अपने वीरों के साथ, वीरों के साथ वे वीरतापूर्ण कार्य करो जो तुम्हारे करने योग्य हैं। जो अनुधूपित लोग बहुत समय तक रहे, उन्हें मारकर उनके धन हमारे लिए ले आओ।",
+  "new": "हे शूर, हमारे अपने योद्धाओं के साथ, वीरों के साथ वे वीरतापूर्ण कार्य करो जो तुम्हारे करने योग्य हैं। जो अनुधूपित लोग बहुत समय तक रहे, उन्हें मारकर उनके धन हमारे लिए ले आओ।",
+  "why": "reviewer (minor): satvabhiḥ is 'warriors' (English, gloss), śūraiḥ 'heroes'; Hindi uses 'वीरों' for both."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "Yearning for favour, I address that troop of yours, the Maruts, the divine people, with a song and homage, so that we may obtain day by day wealth with all heroes, attended by offspring, renowned.",
+  "new": "Yearning for favour, I address that troop of yours, the Maruts, the divine people, with a hymn and homage, so that we may obtain day by day wealth with all heroes, attended by offspring, renowned.",
+  "why": "reviewer (minor): Glossary: gir = hymn/praise."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "सुख की इच्छा करता हुआ मैं गीत और नमस्कार के साथ तुम्हारे उस मरुतों के दल के, उस दिव्य जन के पास स्तुति करता हूँ, जिससे हम प्रतिदिन सब वीरों से युक्त, सन्तान से युक्त, यशस्वी धन पाएँ।",
+  "new": "कृपा की इच्छा करता हुआ मैं स्तुति और नमस्कार के साथ तुम्हारे उस मरुतों के दल को, उस दिव्य जन को संबोधित करता हूँ, जिससे हम प्रतिदिन सब वीरों से युक्त, सन्तान से युक्त, यशस्वी धन पाएँ।",
+  "why": "reviewer (minor): 'गीत' (song) deviates from gir = hymn; 'स्तुति करता हूँ' renders upa bruve, which English gives as 'address', and repeats the idea of the hymn."
+ }
+]

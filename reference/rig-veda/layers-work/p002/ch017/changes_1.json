@@ -1,0 +1,124 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "उसके लिए वह नया स्तोत्र अंगिरसों की तरह गाओ, जब उसके बल पहले की तरह उठते हैं; जब सोम के मद में उसने बल से सब घिरे हुए, दृढ़ किए हुए गोष्ठों को गतिमान किया।",
+  "new": "उसके लिए वह नई स्तुति अंगिरसों की तरह गाओ, जब उसके बल पहले की तरह उठते हैं; जब सोम के मद में उसने बल से सब घिरे हुए, दृढ़ किए हुए गोष्ठों को गतिमान किया।",
+  "why": "reviewer (minor): Hindi stoma/praise is स्तुति/स्तोम in the fixed renderings; \"स्तोत्र\" (a later genre term) disagrees with English \"praise\"."
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Sing to him that new praise, as the Aṅgirases did, when his strengths rise up as of old; when, in the exhilaration of Soma, by might he set in motion all the cow-pens, enclosed and made firm.",
+  "new": "Sing to him that new praise, like the Aṅgirases, when his strengths rise up as of old; when, in the exhilaration of Soma, by might he set in motion all the cow-pens, enclosed and made firm.",
+  "why": "reviewer (minor): aṅgirasvat is \"like the Aṅgirases\"; \"did\" turns it into a clause not in the text."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "उसके लिए वह नई स्तुति अंगिरसों की तरह गाओ, जब उसके बल पहले की तरह उठते हैं; जब सोम के मद में उसने बल से सब घिरे हुए, दृढ़ किए हुए गोष्ठों को गतिमान किया।",
+  "new": "उसके लिए वह नई स्तुति अङ्गिरसों की तरह गाओ, जब उसके बल पहले की तरह उठते हैं; जब सोम के मद में उसने बल से सब घिरे हुए, दृढ़ किए हुए गोष्ठों को गतिमान किया।",
+  "why": "reviewer (minor): Glossary spelling is अङ्गिरस्."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "उसके लिए वह नई स्तुति अङ्गिरसों की तरह गाओ, जब उसके बल पहले की तरह उठते हैं; जब सोम के मद में उसने बल से सब घिरे हुए, दृढ़ किए हुए गोष्ठों को गतिमान किया।",
+  "new": "उसके लिए वह नई स्तुति अङ्गिरसों की तरह गाओ, जब उसके बल पहले की तरह उठते हैं; जब सोम के मद में उसने बल से सब घिरे हुए, दृढ़ किए हुए गोबाड़ों को गतिमान किया।",
+  "why": "reviewer (minor): gotra is a different word from goṣṭha; English says cow-pens."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "śuṣmā",
+  "old": "n. nom. pl.",
+  "new": "m. nom. pl.",
+  "why": "reviewer (minor): A neuter plural would be śuṣmāṇi; śuṣmā here is m. nom. pl. (śuṣmāḥ before y)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "तब तूने अपना पहला महान् वीर कार्य किया, जब उसके आगे तूने प्रार्थना से बल को प्रेरित किया। रथ पर खड़े, हरे घोड़ों वाले से हटाए गए तेज चलने वाले साथ-साथ और अलग-अलग निकल पड़ते हैं।",
+  "new": "तब तूने अपना पहला महान् वीर कार्य किया, जब उसके आगे तूने प्रार्थना से बल को प्रेरित किया। रथ पर खड़े, भूरे-पीले घोड़ों वाले से हटाए गए तेज चलने वाले साथ-साथ और अलग-अलग निकल पड़ते हैं।",
+  "why": "reviewer (error): हरे means green; harya-aśva is tawny-horsed (English and gloss say tawny)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "तब तूने अपना पहला महान् वीर कार्य किया, जब उसके आगे तूने प्रार्थना से बल को प्रेरित किया। रथ पर खड़े, भूरे-पीले घोड़ों वाले से हटाए गए तेज चलने वाले साथ-साथ और अलग-अलग निकल पड़ते हैं।",
+  "new": "तब तूने अपना पहला महान् वीर कार्य किया, जब उसके आगे तूने ब्रह्म से बल को प्रेरित किया। रथ पर खड़े, भूरे-पीले घोड़ों वाले से हटाए गए तेज चलने वाले साथ-साथ और अलग-अलग निकल पड़ते हैं।",
+  "why": "reviewer (minor): Glossary fixes brahman (n.) in Hindi as ब्रह्म."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Then he who by his might grew over all beings, acting as ruler, of full vigour; then the carrier stretched out the two worlds with light, and stitching the darknesses he wrapped up the agitated ones.",
+  "new": "Then he who by his might grew over all beings, acting as ruler, of full vigour; then the carrier stretched out the two worlds with light, and stitching, he wrapped up the agitated darknesses together.",
+  "why": "reviewer (error): Draft contradicts itself: gram and notes make dudhitā an adjective of tamāṃsi (agitated darknesses), but both translations make \"the agitated ones\" a second object."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "तब जिसने अपने बल से सब भुवनों के ऊपर बढ़कर, स्वामी के समान कार्य करते हुए, पूर्ण बल के साथ वृद्धि पाई; फिर वहन करने वाले ने ज्योति से दोनों लोकों को फैलाया, और अन्धकारों को सिलते हुए उन हिलाए हुओं को लपेट लिया।",
+  "new": "तब जिसने अपने बल से सब भुवनों के ऊपर बढ़कर, स्वामी के समान कार्य करते हुए, पूर्ण बल के साथ वृद्धि पाई; फिर वहन करने वाले ने ज्योति से दोनों लोकों को फैलाया, और सिलते हुए उसने हिलाए हुए अन्धकारों को एक साथ लपेट लिया।",
+  "why": "reviewer (error): Same contradiction in the Hindi."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "dṛṃhat",
+  "old": "3 sg. impf. √dṛṃh",
+  "new": "3 sg. inj. √dṛṃh",
+  "why": "reviewer (minor): No augment: injunctive form, not an imperfect."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "हे इन्द्र, उदार तुझको हम बुलाएँ; हे इन्द्र, तू कार्यों और पुरस्कारों का देने वाला है। हे इन्द्र, अद्भुत सहायता से हमारी रक्षा कर; हे वृषभ इन्द्र, हमें अधिक समृद्ध बना।",
+  "new": "हे इन्द्र, उदार तुझको हम बुलाएँ; हे इन्द्र, तू कार्यों और पुरस्कारों का देने वाला है। हे इन्द्र, अद्भुत सहायता से हमारी सहायता कर; हे वृषभ इन्द्र, हमें अधिक समृद्ध बना।",
+  "why": "reviewer (minor): aviḍḍhi is \"help\" (English, gloss); रक्षा (protect) is stronger and differs from सहायता used for avas elsewhere."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond them; the share is ours. May we, rich in heroes, speak mightily in the rite.",
+  "new": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond them; the share is ours. May we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (error): Glossary fixes the refrain as \"speak greatly in the rite\"."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में प्रबल रूप से बोलें।",
+  "new": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Same: bṛhat = greatly."
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "bṛhat",
+  "old": "mightily",
+  "new": "greatly",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "Refrain: the identical verse ends each of the hymns 2.16 to 2.19. Readings uncertain: mā ati dhak (do not burn beyond/past; the object is not stated) and bhago naḥ ('the share is ours' taken with bhaga as 'share'; bhaga could also be the god Bhaga, 'Bhaga is ours'). dakṣiṇā taken as the bountiful gift; bṛhat taken adverbially ('mightily'). Hindi भाग for bhaga.",
+  "new": "Refrain: the identical verse ends each of the hymns 2.16 to 2.19. Readings uncertain: mā ati dhak (do not burn beyond/past; the object is not stated) and bhago naḥ ('the share is ours' taken with bhaga as 'share'; bhaga could also be the god Bhaga, 'Bhaga is ours'). dakṣiṇā taken as the bountiful gift; bṛhat taken adverbially ('greatly'). Hindi भाग for bhaga.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond them; the share is ours. May we, rich in heroes, speak greatly in the rite.",
+  "new": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond; the share is ours. May we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): Glossary fixes mā ati dhak = \"do not burn beyond\"; \"them\" is an unmarked addition."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "new": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; परे तक न जला; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Adds \"उन्हें\" and turns \"burn beyond\" into \"burn and go past\"."
+ }
+]

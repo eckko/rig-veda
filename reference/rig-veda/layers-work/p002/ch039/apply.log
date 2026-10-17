@@ -1,0 +1,5 @@
+chunk 1: 8 units, 8 patches applied (8 changes logged), 2 issues without patch, 0 patches failed
+  MANUAL unit 1 [minor] english / reciting hymns: ukthaśāsā: English renders uktha as 'hymns' (the glossary's word for manman/gir) while the Hindi keeps 'उक्थ'. Inconsistent; needs a glossary entry for uktha. No patch.
+         suggested fix: glossary decision (uktha)
+  MANUAL unit 2 [minor] hindi / अभीष्ट के पास जाते हो: English 'attend the boon' (√sac, accompany) is rendered in Hindi as 'go to what is desired': the verb sense and the word vara (boon, not अभीष्ट) differ. The notes flag the phrase as tentative. Suggest Hindi follow the English more closely. No patch.
+         suggested fix: तुम दोनों वर का साथ देते हो

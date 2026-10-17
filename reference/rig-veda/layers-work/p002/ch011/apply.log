@@ -1,0 +1,13 @@
+chunk 1: 22 units, 50 patches applied (50 changes logged), 6 issues without patch, 0 patches failed
+  MANUAL unit 13 [minor] gloss / te / ta: The second te is glossed "those (nom. pl.)", which makes "those ... who" a doubled relative with no support. All three te/ta are most naturally the enclitic "your/yours" (te is printed ta before a vowel). English "May we be yours, those, O Indra, who" is unnatural. No patch.
+         suggested fix: May we be yours, yours, O Indra, who ... by your help ...
+  MANUAL unit 15 [minor] hindi / हमें युद्धों में भली-भाँति तुमने बढ़ाया: Hindi makes asmān the object of avardhayaḥ, while English leaves "Us, well, in battles" without a verb and the note says asmān has no clear verb. The two must agree. No patch.
+         suggested fix: state the same construction in English, Hindi and notes
+  MANUAL unit 16 [minor] english / with hymns; ... vā: The word vā (gloss "or") has no rendering in English or Hindi (Hindi has "अथवा" hanging between hymns and favour). No patch.
+         suggested fix: render vā in both or explain in the notes
+  MANUAL unit 18 [minor] gram / abhinat: Labelled "you split, 2 sg." here but "split, 3 sg." in unit 2, with the same form; for the root-class verb the 2 sg. would be abhinaḥ, so abhinat is 3 sg. (Vedic person shift within the address). No patch: decide once and apply to both units.
+         suggested fix: 3 sg. in both units, with the shift noted
+  MANUAL unit 18 [minor] english / Vṛtra, Dānu, Aurṇavābha: Presented as three separate victims; dānum aurṇavābham may be one adversary ("Dānu Aurṇavābha"). A count taken as fact. No patch.
+         suggested fix: keep the list but state in notes that dānum aurṇavābham could be one name
+  MANUAL unit 22 [minor] english / may Bhaga not burn past us: The glossary gives the same refrain line (2.16-19 verse 9) as bhaga = share (not the god), mā ati dhak = "do not burn beyond"; but the same glossary lists Bhaga among names that stay names. Draft takes the god. Needs a decision, applied to all occurrences of this line. No patch.
+         suggested fix: keep consistent with the glossary decision on bhaga in this refrain

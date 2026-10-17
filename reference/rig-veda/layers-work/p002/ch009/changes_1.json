@@ -1,0 +1,88 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "होता, जानता हुआ, दीप्तिमान्, चमकता हुआ, अत्यन्त कुशल, होता के आसन पर बैठ गया है; अविनाशी व्रत वाला और सावधान, सर्वश्रेष्ठ, हज़ारों का वहन करने वाला, उज्ज्वल जिह्वा वाला अग्नि।",
+  "new": "होता, जानता हुआ, दीप्तिमान्, चमकता हुआ, अत्यन्त कुशल, होता के आसन पर बैठ गया है; अहिंसित व्रत वाला और सावधान, सर्वश्रेष्ठ, हज़ारों का वहन करने वाला, उज्ज्वल जिह्वा वाला अग्नि।",
+  "why": "reviewer (minor): adabdha = unharmed (English \"unharmed\", and unit 6 Hindi अहिंसित); अविनाशी (imperishable) is a different sense."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "You are the envoy; you also are our protector; you, O bull, are the leader to the better. O Agni, not neglecting, shining, be watchful as guardian of our child, of our offspring, of our selves.",
+  "new": "You are the messenger; you also are our protector; you, O bull, are the leader to the better. O Agni, not neglecting, shining, be watchful as guardian of our child, of our offspring, of our selves.",
+  "why": "reviewer (minor): Glossary: dūta = messenger."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "dūtaḥ",
+  "old": "envoy",
+  "new": "messenger",
+  "why": "reviewer (minor): Glossary: dūta = messenger."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "You are the messenger; you also are our protector; you, O bull, are the leader to the better. O Agni, not neglecting, shining, be watchful as guardian of our child, of our offspring, of our selves.",
+  "new": "You are the messenger; you also are our protector; you, O bull, are the leader to better fortune. O Agni, not neglecting, shining, be watchful as guardian of our child, of our offspring, of our selves.",
+  "why": "reviewer (minor): Glossary: vasyas = better fortune."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "vasyaḥ",
+  "old": "better thing",
+  "new": "better fortune",
+  "why": "reviewer (minor): Glossary: vasyas = better fortune."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "तुम दूत हो, तुम ही हमारे रक्षक हो; हे वृषभ, तुम श्रेष्ठतर की ओर ले जाने वाले नेता हो। हे अग्नि, हमारी सन्तान की, हमारी संतति की, हमारे शरीरों की उपेक्षा न करते हुए, दीप्त होते हुए, रक्षक के रूप में जागरूक रहो।",
+  "new": "तुम दूत हो, तुम ही हमारे रक्षक हो; हे वृषभ, तुम बेहतर सौभाग्य की ओर ले जाने वाले नेता हो। हे अग्नि, हमारी सन्तान की, हमारी संतति की, हमारे शरीरों की उपेक्षा न करते हुए, दीप्त होते हुए, रक्षक के रूप में जागरूक रहो।",
+  "why": "reviewer (minor): Align with vasyas = better fortune."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "तुम दूत हो, तुम ही हमारे रक्षक हो; हे वृषभ, तुम बेहतर सौभाग्य की ओर ले जाने वाले नेता हो। हे अग्नि, हमारी सन्तान की, हमारी संतति की, हमारे शरीरों की उपेक्षा न करते हुए, दीप्त होते हुए, रक्षक के रूप में जागरूक रहो।",
+  "new": "तुम दूत हो, तुम भी हमारे रक्षक हो; हे वृषभ, तुम बेहतर सौभाग्य की ओर ले जाने वाले नेता हो। हे अग्नि, हमारी सन्तान की, हमारी संतति की, हमारे शरीरों की उपेक्षा न करते हुए, दीप्त होते हुए, रक्षक के रूप में जागरूक रहो।",
+  "why": "reviewer (minor): \"ही\" (emphasis) is added; English has \"also\" (u)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हे अग्नि, हम तुम्हारी सर्वोच्च उत्पत्ति में उपासना करें; हम निम्नतर सहस्थान में स्तोत्रों से उपासना करें। जिस योनि से तुम ऊपर उठे, उसकी मैं उपासना करता हूँ; प्रज्वलित तुममें आहुतियाँ अर्पित की जाती हैं।",
+  "new": "हे अग्नि, हम तुम्हारी सर्वोच्च उत्पत्ति में उपासना करें; हम निम्नतर सहस्थान में स्तोमों से उपासना करें। जिस योनि से तुम ऊपर उठे, उसकी मैं उपासना करता हूँ; प्रज्वलित तुममें आहुतियाँ अर्पित की जाती हैं।",
+  "why": "reviewer (minor): Glossary: stoma = praise (स्तोम); stomaiḥ is rendered \"with praises\" in English."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हे अग्नि, हम तुम्हारी सर्वोच्च उत्पत्ति में उपासना करें; हम निम्नतर सहस्थान में स्तोमों से उपासना करें। जिस योनि से तुम ऊपर उठे, उसकी मैं उपासना करता हूँ; प्रज्वलित तुममें आहुतियाँ अर्पित की जाती हैं।",
+  "new": "हे अग्नि, हम तुम्हारी सर्वोच्च उत्पत्ति में उपासना करें; हम निम्नतर सहस्थान में स्तोमों से उपासना करें। जिस योनि से तुम ऊपर उठे, उसकी मैं उपासना करता हूँ; प्रज्वलित तुममें हवियाँ अर्पित की जाती हैं।",
+  "why": "reviewer (minor): Glossary: havis = oblation (हवि); English has \"oblations\"."
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "yoneḥ ud ārithāḥ: the printed token yonerudārithā is read as yoneḥ ud ārithāḥ; ārithāḥ is taken as a 2 sg. middle aorist of √ṛ with ud, 'you rose up'; the form is not certain. yaje taṃ: 'that' is taken as the source (yoni). juhure is a perfect with present sense 'are offered'. janmann: locative of janman.",
+  "new": "yoneḥ ud ārithāḥ: the printed token yonerudārithā is read as yoneḥ ud ārithāḥ; ārithāḥ is taken as a 2 sg. middle aorist of √ṛ with ud, 'you rose up'; the form is not certain. yaje taṃ: 'that' is taken as the source (yoni). juhure is a perfect with present sense 'are offered'. janmann: locative of janman. tam is masculine accusative and could also be Agni himself ('I worship him'); the translation takes it as the source (yoni).",
+  "why": "reviewer (minor): tam (m. acc.) can equally refer to Agni (\"I worship you\"); the draft fixes it to the source (yoni) without saying the alternative."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "हे अद्भुत कर्म करने वाले, प्रतिदिन उत्पन्न होते हुए तुम्हारा दोनों प्रकार का धन क्षीण नहीं होता। हे अग्नि, अपने स्तोता को समृद्धि से भरपूर करो; उसे उत्तम सन्तान वाले धन का स्वामी बनाओ।",
+  "new": "हे अद्भुत कर्म करने वाले, प्रतिदिन उत्पन्न होते हुए तुम्हारा दोनों प्रकार का धन क्षीण नहीं होता। हे अग्नि, स्तोता को समृद्धि से भरपूर करो; उसे उत्तम सन्तान वाले धन का स्वामी बनाओ।",
+  "why": "reviewer (minor): \"अपने\" is not in the text (jaritāram only)."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "वह शक्तिशाली, अपनी सेना के साथ, हमारे प्रति अत्यन्त उदार, यजन करने वाला, देवों का सर्वश्रेष्ठ यजन करने वाला है; कल्याण के लिए। अहिंसित, रक्षक और हमारा संरक्षक, हे अग्नि, तेजस्विता से और धन से युक्त होकर चमको।",
+  "new": "वह शक्तिशाली, अपनी सेना के साथ, हमारे प्रति अत्यन्त उदार, यजन करने वाला, देवों का सर्वश्रेष्ठ यजन करने वाला; कल्याण के लिए। अहिंसित, रक्षक और हमारा संरक्षक, हे अग्नि, तेजस्विता से और धन से युक्त होकर चमको।",
+  "why": "reviewer (minor): Hindi supplies a copula \"है\" that English does not and the note does not mention (svasti has no verb)."
+ }
+]

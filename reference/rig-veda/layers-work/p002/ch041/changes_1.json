@@ -1,0 +1,211 @@
+[
+ {
+  "n": "1",
+  "field": "english",
+  "old": "O Vāyu, those thousandfold chariots of yours: come with them, O lord of teams, for the drinking of Soma.",
+  "new": "O Vāyu, those thousandfold chariots of yours: come with them, O possessor of teams, for the drinking of Soma.",
+  "why": "reviewer (minor): 'lord' is not in niyut-vān (gloss: possessing teams); keep literal."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "niyutvān",
+  "old": "m. voc. sg.",
+  "new": "m. nom. sg. (used as vocative)",
+  "why": "reviewer (minor): The vocative of -vant stems ends in -van; niyutvān is the nominative form used in address."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "O Vāyu, lord of teams, come; this bright one has been offered to you. You will go to the house of the one who presses.",
+  "new": "O Vāyu, possessor of teams, come; this bright one has been offered to you. You will go to the house of the one who presses.",
+  "why": "reviewer (minor): Same as unit 1: 'lord' is added."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "niyutvān",
+  "old": "m. voc. sg.",
+  "new": "m. nom. sg. (used as vocative)",
+  "why": "reviewer (minor): Same as unit 1."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हे इन्द्र और वायु, नियुत वालो, हे नरो, आओ और आज उस चमकीले, दूध से मिले हुए का पान करो।",
+  "new": "हे इन्द्र और वायु, नियुत वालो, हे नरो, आओ और आज चमकीले, दूध से मिले हुए का पान करो।",
+  "why": "reviewer (minor): 'उस' (that) is not in śukrasya; English has 'the bright one'."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "rājānau",
+  "old": "m. voc. du.",
+  "new": "m. nom./voc. du.",
+  "why": "reviewer (minor): gram says voc. du. but the translation and notes take the word as nominative (with āsāte); the form serves for both."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "वे दोनों सम्राट्, घृत की आहुति वाले, आदित्य, दानु के स्वामी, सीधे मार्ग वाले का अनुसरण करते हैं।",
+  "new": "वे दोनों सम्राट्, घृत की आहुति वाले, आदित्य, दानु के स्वामी, अकुटिल का अनुसरण करते हैं।",
+  "why": "reviewer (error): Hindi adds 'मार्ग' (path); anavahvaram is 'unswerving' (English has no noun)."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Bring to us, O Aśvins, that wealth tawny to behold, finding wide space, O you two Dhiṣṇyas.",
+  "new": "You two, O Aśvins, bring to us wealth tawny to behold, finding wide space, O you two Dhiṣṇyas.",
+  "why": "reviewer (minor): tā (those two = you two) is dropped from English and 'that' is added; Hindi has 'वे तुम दोनों'."
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "11",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "तुममें, हे सरस्वती, उस देवी में, सब आयु स्थित हैं। शुनहोत्र के यज्ञों में आनन्द लो; हे देवी, हमें सन्तान प्रदान करो।",
+  "new": "तुममें, हे सरस्वती, देवी में, सब आयु स्थित हैं। शुनहोत्र के यज्ञों में आनन्द लो; हे देवी, हमें सन्तान प्रदान करो।",
+  "why": "reviewer (minor): 'उस' (that) is not in devyām; English has 'in the goddess'."
+ },
+ {
+  "n": "18",
+  "field": "word.w",
+  "word": "ṛtā-vari",
+  "old": "ṛtā-vari",
+  "new": "ṛtāvari",
+  "why": "reviewer (minor): The hyphenated split 'ṛtā-vari' is not a real division (voc. of ṛtāvarī); w should be the inflected word."
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "20",
+  "field": "hindi",
+  "old": "आज द्यावापृथिवी हमारे इस सिद्ध, आकाश को छूने वाले यज्ञ को देवों तक पहुँचाएँ।",
+  "new": "आज द्यावापृथिवी हमारे इस सिद्ध, द्युलोक को छूने वाले यज्ञ को देवों तक पहुँचाएँ।",
+  "why": "reviewer (minor): divi-spṛś is 'touching heaven' (English); 'आकाश' is not the fixed Hindi for heaven (द्युलोक)."
+ },
+ {
+  "n": "20",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ },
+ {
+  "n": "21",
+  "field": "word.gloss",
+  "word": "|",
+  "old": "pause mark",
+  "new": "half-verse divider",
+  "why": "reviewer (minor): Glossary fixes gloss 'half-verse divider' for the bare '|' token (draft: 'pause mark')."
+ }
+]

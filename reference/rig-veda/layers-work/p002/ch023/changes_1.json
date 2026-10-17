@@ -1,0 +1,327 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे बृहस्पति, देव भी तुम्हारी असुर-शक्ति से प्रज्ञावान् होकर यज्ञ के योग्य भाग को प्राप्त हुए हैं। किरणों के समान और प्रकाश से सूर्य के समान तुम सब ब्रह्म-वचनों के महान् जनक हो।",
+  "new": "हे बृहस्पति, देव भी तुम्हारी प्रभु-शक्ति से प्रज्ञावान् होकर यज्ञ के योग्य भाग को प्राप्त हुए हैं। किरणों के समान और प्रकाश से सूर्य के समान तुम सब ब्रह्म-वचनों के महान् जनक हो।",
+  "why": "reviewer (minor): English and gloss say \"lordly power\"; the glossary renders asura as lord, and \"असुर-शक्ति\" invites the later demon sense."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "Even the gods, wise through your lordly power, O Bṛhaspati, have attained their share fit for sacrifice. Like the rays, like the sun with its light, you are the great begetter of all the sacred utterances.",
+  "new": "Even the gods, wise through your lordly power, O Bṛhaspati, have attained the share fit for sacrifice. Like the rays, like the sun with its light, you are the great begetter of all the sacred utterances.",
+  "why": "reviewer (minor): \"their\" is supplied (bhāgam is just \"share\"; Hindi has none)."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Having driven away slanders and darknesses, you mount the light-filled chariot of ṛta — O Bṛhaspati, the fearsome one that harms the foes, slays the Rakṣases, splits the cattle-pen and finds the light.",
+  "new": "Having driven away slanders and darknesses, you mount the light-filled chariot of order — O Bṛhaspati, the fearsome one that harms the foes, slays the Rakṣases, splits the cattle-pen and finds the light.",
+  "why": "reviewer (minor): Glossary: ṛta = order (ऋत in Hindi). Same in the gloss of ṛtasya."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "ṛtasya",
+  "old": "of ṛta",
+  "new": "of order",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "न संकट, न कष्ट कहीं से उसे घेरता है, न शत्रु और न छल करने वाले उसे पार कर पाते हैं। हे ब्रह्मणस्पति, तुम जिसकी उत्तम रक्षक होकर रक्षा करते हो, उससे सब हानियों को दूर हटाते हो।",
+  "new": "न संकट, न कष्ट कहीं से, न शत्रु और न छल करने वाले उसे पार कर चुके हैं। हे ब्रह्मणस्पति, तुम जिसकी उत्तम रक्षक होकर रक्षा करते हो, उससे सब हानियों को दूर हटाते हो।",
+  "why": "reviewer (minor): \"घेरता है\" is an added verb for aṃhaḥ/duritam; English and the notes let the single verb titiruḥ (have overcome) govern the whole line, and the tense of \"पार कर पाते हैं\" does not match \"have overcome\"."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "तुम हमारे रक्षक, मार्ग बनाने वाले और सब कुछ देखने वाले हो; तुम्हारे व्रत के लिए हम विचारों से स्तुति करते हैं। हे बृहस्पति, जो हमारे विरुद्ध कुटिलता रखता है, उसे उसकी अपनी जलती हुई दुर्दशा कुचल दे।",
+  "new": "तुम हमारे रक्षक, मार्ग बनाने वाले और दूर तक देखने वाले हो; तुम्हारे व्रत के लिए हम विचारों से स्तुति करते हैं। हे बृहस्पति, जो हमारे विरुद्ध कुटिलता रखता है, उसे उसकी अपनी जलती हुई दुर्दशा कुचल दे।",
+  "why": "reviewer (minor): vicakṣaṇa is \"far-seeing\" in the English and gloss; Hindi says \"all-seeing\"."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "You are our guardian, maker of the path, far-seeing; for your ordinance we praise with our thoughts. O Bṛhaspati, whoever has set crookedness against us, may his own burning evil crush him.",
+  "new": "You are our guardian, maker of the path, far-seeing; for your ordinance we praise with thoughts. O Bṛhaspati, whoever has set crookedness against us, may his own burning evil crush him.",
+  "why": "reviewer (minor): \"our\" is not in the text (matibhiḥ only)."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "अथवा जो शत्रुतापूर्ण मनुष्य हम निर्दोषों को सताए, वह सानुक भेड़िया हो — हे बृहस्पति, उसे मार्ग से हटा दो और इस देवों के भोज के लिए हमारा मार्ग सुगम करो।",
+  "new": "अथवा जो शत्रुतापूर्ण मनुष्य हम निर्दोषों को सताए, या सानुक भेड़िया — हे बृहस्पति, उसे मार्ग से हटा दो और इस देवों के भोज के लिए हमारा मार्ग सुगम करो।",
+  "why": "reviewer (error): \"हो\" turns the apposition (martaḥ sānuko vṛkaḥ) into a wish \"let him be a sānuka wolf\"; English keeps an apposition. Addition and change of sense."
+ },
+ {
+  "n": "7",
+  "field": "notes",
+  "old": "sānukaḥ is an unclear epithet (left untranslated). The first line is a relative clause with a loosely attached 'wolf'; the translation keeps it as an apposition. deva-vīti 'feast of the gods' (also 'invitation of the gods'); asyai refers to an unstated noun and is rendered 'this'.",
+  "new": "sānukaḥ is an unclear epithet (left untranslated). The first line is a relative clause with a loosely attached 'wolf'; the translation keeps it as an apposition. deva-vīti 'feast of the gods' (also 'invitation of the gods'); asyai (f. dat.) agrees with devavītaye and is rendered 'this'.",
+  "why": "reviewer (minor): asyai is f. dat. and agrees directly with devavītaye (\"this feast of the gods\"); there is no unstated noun."
+ },
+ {
+  "n": "8",
+  "field": "word.w",
+  "word": "avaspartaḥ",
+  "old": "avaspartaḥ",
+  "new": "avaspartar",
+  "why": "reviewer (error): The printed word is avaspartar, the vocative of the tṛ-stem; avaspartaḥ is the nominative and does not occur in the line."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "By you, O Brahmaṇaspati, good strengthener, may we receive the desirable human goods. Those that are far from us or near, and the hostile ones that are against us — crush them, without possessions.",
+  "new": "By you, O Brahmaṇaspati, good strengthener, may we receive the desirable human wealth. Those that are far from us or near, and the hostile ones that are against us — crush them, without possessions.",
+  "why": "reviewer (minor): vasu is rendered \"wealth\" elsewhere in the mandala (ch022 kāmyaṃ vasu); \"goods\" is inconsistent. Same in the gloss."
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "vasu",
+  "old": "goods",
+  "new": "wealth",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "हे ब्रह्मणस्पति, तुम्हारे सहारे, उत्तम बढ़ाने वाले, हम मनुष्यों की प्रिय सम्पत्तियाँ प्राप्त करें। जो हमसे दूर या निकट हैं, और जो शत्रुतापूर्ण शक्तियाँ हमारे विरुद्ध हैं, उन्हें कुचल दो, उन्हें सम्पत्तिहीन करके।",
+  "new": "हे ब्रह्मणस्पति, तुम्हारे सहारे, उत्तम बढ़ाने वाले, हम मनुष्यों की प्रिय सम्पत्तियाँ प्राप्त करें। जो हमसे दूर या निकट हैं, और जो शत्रुतापूर्ण हमारे विरुद्ध हैं, उन्हें कुचल दो, उन्हें सम्पत्तिहीन करके।",
+  "why": "reviewer (minor): \"शक्तियाँ\" (powers) is added; arātayaḥ are hostile ones (glossary: hostile one / ill-will)."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "हे ब्रह्मणस्पति, तुम्हारे सहारे, उत्तम बढ़ाने वाले, हम मनुष्यों की प्रिय सम्पत्तियाँ प्राप्त करें। जो हमसे दूर या निकट हैं, और जो शत्रुतापूर्ण हमारे विरुद्ध हैं, उन्हें कुचल दो, उन्हें सम्पत्तिहीन करके।",
+  "new": "हे ब्रह्मणस्पति, तुम्हारे सहारे, उत्तम बढ़ाने वाले, हम मनुष्यों की प्रिय सम्पत्तियाँ प्राप्त करें। जो हमसे दूर या निकट हैं, और जो शत्रुतापूर्ण हमारे विरुद्ध हैं, उन्हें कुचल दो, उन सम्पत्तिहीनों को।",
+  "why": "reviewer (minor): English has \"crush them, without possessions\" (apposition); \"करके\" (by making them) adds a causative."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "हे बृहस्पति, तुम जैसे परिपूर्ण करने वाले, विजयी सखा के साथ हम सर्वोत्तम जीवन-शक्ति धारण करें। छल करने की इच्छा वाला निन्दक हम पर अधिकार न करे; उत्तम स्तुति करते हुए हम अपने विचारों से आगे बढ़ें।",
+  "new": "हे बृहस्पति, परिपूर्ण करने वाले, विजयी साथी तुम्हारे साथ हम सर्वोत्तम जीवन-शक्ति धारण करें। छल करने की इच्छा वाला निन्दक हम पर अधिकार न करे; उत्तम स्तुति करते हुए हम अपने विचारों से आगे बढ़ें।",
+  "why": "reviewer (error): \"तुम जैसे\" (like you) is not in the text: tvayā ... papriṇā sasninā yujā are all about Bṛhaspati (\"with you, the bounteous, winning ally\"); the English is right. \"सखा\" also does not match \"ally\" (yujā)."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "With you, O Bṛhaspati, the bounteous, winning ally, may we hold the highest vigour. Let not the slanderer who wishes to deceive have power over us; praising well, may we advance with our thoughts.",
+  "new": "With you, O Bṛhaspati, the bounteous, winning ally, we hold the highest vigour. Let not the slanderer who wishes to deceive have power over us; praising well, may we advance with our thoughts.",
+  "why": "reviewer (minor): dhīmahe is a present (gram says \"pres.\"), not an optative (dhīmahi); \"may we\" is an addition in English and Hindi."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "हे बृहस्पति, परिपूर्ण करने वाले, विजयी साथी तुम्हारे साथ हम सर्वोत्तम जीवन-शक्ति धारण करें। छल करने की इच्छा वाला निन्दक हम पर अधिकार न करे; उत्तम स्तुति करते हुए हम अपने विचारों से आगे बढ़ें।",
+  "new": "हे बृहस्पति, परिपूर्ण करने वाले, विजयी साथी तुम्हारे साथ हम सर्वोत्तम जीवन-शक्ति धारण करते हैं। छल करने की इच्छा वाला निन्दक हम पर अधिकार न करे; उत्तम स्तुति करते हुए हम अपने विचारों से आगे बढ़ें।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "With you, O Bṛhaspati, the bounteous, winning ally, we hold the highest vigour. Let not the slanderer who wishes to deceive have power over us; praising well, may we advance with our thoughts.",
+  "new": "With you, O Bṛhaspati, the bounteous, winning ally, we hold the highest vigour. Let not the slanderer who wishes to deceive have power over us; praising well, may we advance with thoughts.",
+  "why": "reviewer (minor): \"our\" is not in the text."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "हे बृहस्पति, परिपूर्ण करने वाले, विजयी साथी तुम्हारे साथ हम सर्वोत्तम जीवन-शक्ति धारण करते हैं। छल करने की इच्छा वाला निन्दक हम पर अधिकार न करे; उत्तम स्तुति करते हुए हम अपने विचारों से आगे बढ़ें।",
+  "new": "हे बृहस्पति, परिपूर्ण करने वाले, विजयी साथी तुम्हारे साथ हम सर्वोत्तम जीवन-शक्ति धारण करते हैं। छल करने की इच्छा वाला निन्दक हम पर अधिकार न करे; उत्तम स्तुति करते हुए हम विचारों से आगे बढ़ें।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "अनुत्तेजित न होने वाला, वृषभ, युद्ध में जाने वाला, शत्रु को तपाने वाला और संग्रामों में विजयी — हे ब्रह्मणस्पति, तुम सत्य हो, प्रतिशोध लेने वाले हो, उग्र और बल में हर्षित होने वाले का भी दमन करने वाले हो।",
+  "new": "न हटाया जाने वाला, वृषभ, युद्ध में जाने वाला, शत्रु को तपाने वाला और संग्रामों में विजयी — हे ब्रह्मणस्पति, तुम सत्य हो, प्रतिशोध लेने वाले हो, उग्र और बल में हर्षित होने वाले का भी दमन करने वाले हो।",
+  "why": "reviewer (error): Garbled and not what anānuda means; English and gloss say \"not driven back\" (ch021 unit 4 uses \"न हटाया जाने वाला\")."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "जो देवहीन मन से हानि करना चाहता है, उग्र बनकर अपने को मानता हुआ शासकों को मारना चाहता है — हे बृहस्पति, उसका शस्त्र हमें न पहुँचे; उस दुष्ट और धृष्ट के क्रोध को हम दबा दें।",
+  "new": "जो देवहीन मन से हानि करना चाहता है, उग्र, अपने को वैसा मानता हुआ, शिक्षा देने वालों को मारना चाहता है — हे बृहस्पति, उसका शस्त्र हमें न पहुँचे; उस दुष्ट और धृष्ट के क्रोध को हम दबा दें।",
+  "why": "reviewer (error): English says \"instructors\" (the notes admit śāsām is a guess); Hindi says \"rulers/commanders\", a different guess. The two translations must match."
+ },
+ {
+  "n": "12",
+  "field": "english",
+  "old": "He who with a godless mind wishes to harm, fierce and thinking himself so, wishes to strike the instructors — O Bṛhaspati, let not his weapon reach us; we lay down the wrath of the evil-doer, the insolent one.",
+  "new": "He who with a godless mind wishes to harm, fierce and thinking himself so, wishes to strike the instructors — O Bṛhaspati, let not his weapon reach us; let us lay down the wrath of the evil-doer, the insolent one.",
+  "why": "reviewer (minor): Mood mismatch: Hindi has the optative \"दबा दें\" (let us) but English has an indicative; karma here is an injunctive/subjunctive form, so both should say \"let us\"."
+ },
+ {
+  "n": "12",
+  "field": "word.gloss",
+  "word": "karma",
+  "old": "we lay",
+  "new": "let us lay",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "13",
+  "field": "english",
+  "old": "To be invoked in battles, to be approached with homage, the goer into the prize-contests, winner of every treasure — Bṛhaspati has torn apart all the hostile, deceitful foes, as one tears apart chariots.",
+  "new": "To be invoked in battles, to be approached with homage, the goer among the prizes, winner of every treasure — Bṛhaspati has torn apart all the hostile, deceitful foes, as one tears apart chariots.",
+  "why": "reviewer (minor): Glossary: vāja = prize(s); \"contests\" (and Hindi संग्राम) is added."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "युद्धों में आह्वान करने योग्य, नमस्कार से पास पहुँचने योग्य, पुरस्कार-संग्रामों में जाने वाला, हर धन को जीतने वाला बृहस्पति — उसने सब शत्रुतापूर्ण, छल करने वाले शत्रुओं को रथों के समान तोड़ डाला है।",
+  "new": "युद्धों में आह्वान करने योग्य, नमस्कार से पास पहुँचने योग्य, पुरस्कारों में जाने वाला, हर धन को जीतने वाला बृहस्पति — उसने सब शत्रुतापूर्ण, छल करने वाले शत्रुओं को रथों के समान तोड़ डाला है।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "13",
+  "field": "word.gloss",
+  "word": "vājeṣu",
+  "old": "in the prize-contests",
+  "new": "in the prizes",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "With your sharpest scorcher burn the Rakṣases who have set you, whose valour is seen, to scorn. Make manifest that of yours which is praiseworthy; O Bṛhaspati, scatter the slanderers.",
+  "new": "With your sharpest scorcher burn the Rakṣases who have set you, whose heroic deeds are seen, to scorn. Make manifest that of yours which is praiseworthy; O Bṛhaspati, scatter the slanderers.",
+  "why": "reviewer (minor): Glossary: vīrya = heroic deeds. Same in gloss and Hindi."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "अपने सबसे तीक्ष्ण तापक से राक्षसों को जलाओ, जिन्होंने तुम्हें, जिसका पराक्रम देखा गया है, निन्दा के लिए रखा है। तुम्हारा जो स्तुत्य है, उसे प्रकट करो; हे बृहस्पति, निन्दकों को तितर-बितर कर दो।",
+  "new": "अपने सबसे तीक्ष्ण तापक से राक्षसों को जलाओ, जिन्होंने तुम्हें, जिसके वीर कार्य देखे गए हैं, निन्दा के लिए रखा है। तुम्हारा जो स्तुत्य है, उसे प्रकट करो; हे बृहस्पति, निन्दकों को तितर-बितर कर दो।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "dṛṣṭa-vīryam",
+  "old": "of seen valour",
+  "new": "of seen heroic deeds",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "15",
+  "field": "hindi",
+  "old": "हे बृहस्पति, जो कुछ स्वामी अधिक योग्य है, वह मनुष्यों में तेज और संकल्प के साथ दीप्त होता है। हे ऋत से उत्पन्न, जो बल से चमका है, वह अद्भुत धन हममें स्थापित करो।",
+  "new": "हे बृहस्पति, जो कुछ स्वामी दूसरों से बढ़कर पाने योग्य है, वह मनुष्यों में तेज और संकल्प के साथ दीप्त होता है। हे ऋत से उत्पन्न, जो बल से चमका है, वह अद्भुत धन हममें स्थापित करो।",
+  "why": "reviewer (error): arhāt is \"deserves\"; Hindi \"स्वामी अधिक योग्य है\" (the lord is more worthy) changes the sense and no longer matches the English \"what the lord deserves beyond others\"."
+ },
+ {
+  "n": "15",
+  "field": "english",
+  "old": "O Bṛhaspati, what the lord deserves beyond others shines brilliantly, with resolve, among the peoples. That which has shone from strength, O you born of ṛta, that wonderful wealth place in us.",
+  "new": "O Bṛhaspati, what the lord deserves beyond others shines brilliantly, with resolve, among the peoples. That which has shone from strength, O you born of order, that wonderful wealth place in us.",
+  "why": "reviewer (minor): Glossary: ṛta = order."
+ },
+ {
+  "n": "15",
+  "field": "word.gloss",
+  "word": "ṛta-prajāta",
+  "old": "O born of ṛta",
+  "new": "O born of order",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "16",
+  "field": "hindi",
+  "old": "हमें उन चोरों के हाथ न सौंपना जो छल के स्थान पर निर्दयी और ठग बनकर अन्नों के लिए लालायित रहते हैं। देवों का ओहते; हृदय में शाखा; हे बृहस्पति, दूसरे लोग सामों को नहीं जानते।",
+  "new": "हमें न चोरों के लिए, जो छल के स्थान पर निर्दयी और ठग बनकर अन्नों के लिए लालायित रहते हैं। देवों का ओहते; हृदय में शाखा; हे बृहस्पति, दूसरे लोग सामों को नहीं जानते।",
+  "why": "reviewer (error): \"सौंपना\" (do not hand over) completes the verbless clause with a verb the text does not have; English and the notes deliberately leave it unfinished."
+ },
+ {
+  "n": "16",
+  "field": "english",
+  "old": "Not to the thieves, who ruthless and deceitful are greedy for food in the place of deceit. Of the gods ohate; a branch in the heart; O Bṛhaspati, others do not know the sāmans.",
+  "new": "Not us, to the thieves, who ruthless and deceitful are greedy for food in the place of deceit. Of the gods ohate; a branch in the heart; O Bṛhaspati, others do not know the sāmans.",
+  "why": "reviewer (minor): naḥ (\"us\") is dropped; Hindi has it."
+ },
+ {
+  "n": "17",
+  "field": "hindi",
+  "old": "क्योंकि सब भुवनों से ऊपर, हर साम से, कवि त्वष्टा ने तुम्हें उत्पन्न किया। वह ऋण-वसूल करने वाला, प्रतिशोधी ब्रह्मणस्पति, छल का संहारक, महान् ऋत के धारण करने वाले में है।",
+  "new": "क्योंकि सब प्राणियों में से, हर साम से, कवि त्वष्टा ने तुम्हें उत्पन्न किया। वह ऋण-वसूल करने वाला, प्रतिशोधी ब्रह्मणस्पति, छल का संहारक, महान् ऋत के धारण करने वाले में है।",
+  "why": "reviewer (minor): English (and gloss) say \"out of all beings\"; Hindi says \"above all worlds\", a different rendering (the notes mention \"above\" only as an alternative)."
+ },
+ {
+  "n": "17",
+  "field": "english",
+  "old": "For the seer Tvaṣṭṛ begot you out of all beings, from each song. He, the debt-collector, the avenger, Brahmaṇaspati, the slayer of deceit, is in the upholder of the great ṛta.",
+  "new": "For the seer Tvaṣṭṛ begot you out of all beings, from each song. He, the debt-collector, the avenger, Brahmaṇaspati, the slayer of deceit, is in the upholder of the great order.",
+  "why": "reviewer (minor): Glossary: ṛta = order."
+ },
+ {
+  "n": "17",
+  "field": "word.gloss",
+  "word": "ṛtasya",
+  "old": "of ṛta",
+  "new": "of order",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "18",
+  "field": "hindi",
+  "old": "तुम्हारे तेज के लिए पर्वत खुल गया, जब तुमने, हे अङ्गिरस्, गौओं के बाड़े को छोड़ दिया। हे बृहस्पति, इन्द्र को साथी बनाकर तुमने अन्धकार से घिरे जलों के प्रवाह को बाहर निकाल दिया।",
+  "new": "तुम्हारे तेज के लिए पर्वत खुल गया, जब तुमने, हे अङ्गिरस्, गौओं के बाड़े को छोड़ दिया। हे बृहस्पति, इन्द्र को साथी बनाकर तुमने जलों के अन्धकार से घिरे प्रवाह को बाहर निकाल दिया।",
+  "why": "reviewer (minor): parīvṛtam agrees with arṇavam (flood), as the English and notes say; the Hindi order attaches \"enveloped in darkness\" to the waters."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "O Brahmaṇaspati, you are the guide of this; heed the hymn and quicken our offspring. All that is good which the gods favour. Rich in heroes, may we speak loudly at the rite.",
+  "new": "O Brahmaṇaspati, you are the guide of this; heed the hymn and quicken our offspring. All that is good which the gods favour. May we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (error): Glossary fixes one refrain wording: \"may we, rich in heroes, speak greatly in the rite\". Draft has \"loudly\" and \"at\"."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "हे ब्रह्मणस्पति, तुम इसके नियन्ता हो; सूक्त पर ध्यान दो और हमारी सन्तान को जीवन दो। वह सब कल्याणकारी है जिसकी देव रक्षा करते हैं। उत्तम वीरों से युक्त होकर हम यज्ञ में ऊँचे स्वर से बोलें।",
+  "new": "हे ब्रह्मणस्पति, तुम इसके नियन्ता हो; सूक्त पर ध्यान दो और हमारी सन्तान को जीवन दो। वह सब कल्याणकारी है जिसकी देव रक्षा करते हैं। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Same (\"ऊँचे स्वर से\" = loudly is not in bṛhat)."
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "bṛhat",
+  "old": "loudly",
+  "new": "greatly",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "19",
+  "field": "word.gloss",
+  "word": "vidathe",
+  "old": "at the rite",
+  "new": "in the rite",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "19",
+  "field": "english",
+  "old": "O Brahmaṇaspati, you are the guide of this; heed the hymn and quicken our offspring. All that is good which the gods favour. May we, rich in heroes, speak greatly in the rite.",
+  "new": "O Brahmaṇaspati, you are the guide of this; heed the hymn and quicken offspring. All that is good which the gods favour. May we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): \"our\" is supplied (tanayam only); same \"हमारी\" in Hindi."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "हे ब्रह्मणस्पति, तुम इसके नियन्ता हो; सूक्त पर ध्यान दो और हमारी सन्तान को जीवन दो। वह सब कल्याणकारी है जिसकी देव रक्षा करते हैं। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "new": "हे ब्रह्मणस्पति, तुम इसके नियन्ता हो; सूक्त पर ध्यान दो और सन्तान को जीवन दो। वह सब कल्याणकारी है जिसकी देव रक्षा करते हैं। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "19",
+  "field": "hindi",
+  "old": "हे ब्रह्मणस्पति, तुम इसके नियन्ता हो; सूक्त पर ध्यान दो और सन्तान को जीवन दो। वह सब कल्याणकारी है जिसकी देव रक्षा करते हैं। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "new": "हे ब्रह्मणस्पति, तुम इसके नियन्ता हो; सूक्त पर ध्यान दो और सन्तान को जीवन दो। वह सब कल्याणकारी है जिसकी देव सहायता करते हैं। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): avanti is \"favour/help\" in the English and gloss; \"रक्षा\" is a different word."
+ }
+]

@@ -1,0 +1,230 @@
+[
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "joṣiṣat",
+  "old": "3 sg. fut./aor. √juṣ",
+  "new": "3 sg. aor. subj. √juṣ",
+  "why": "reviewer (minor): joṣiṣat is an s-aorist subjunctive; Vedic has no future of this shape ('fut.' is wrong)."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "mantram",
+  "old": "hymn",
+  "new": "mantra",
+  "why": "reviewer (minor): The gloss says 'hymn' but the English and Hindi say 'mantra'; glossary reserves hymn for manman/gir."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "May we speak forth this mantra, well fashioned for his own heart; perhaps he will take notice of it. Apāṃ Napāt, the lord, by the greatness of his lordship has begotten all beings.",
+  "new": "May we speak forth this mantra, well fashioned for his own heart; perhaps he will take notice of it. Apāṃ Napāt, the lord, by the greatness of his lordship has begotten all worlds.",
+  "why": "reviewer (minor): bhuvana is 'world' in 2.33.9; keep one rendering across the hymn group."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "इस मंत्र को, जो उसके अपने हृदय के लिए भली-भाँति गढ़ा गया है, हम बोलें; शायद वह इसे जान ले। जल का पुत्र, स्वामी, अपने प्रभुत्व की महिमा से सब प्राणियों को उत्पन्न कर चुका है।",
+  "new": "इस मंत्र को, जो उसके अपने हृदय के लिए भली-भाँति गढ़ा गया है, हम बोलें; शायद वह इसे जान ले। जल का पुत्र, स्वामी, अपने प्रभुत्व की महिमा से सब लोकों को उत्पन्न कर चुका है।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "bhuvanā",
+  "old": "beings",
+  "new": "worlds",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Some go together, others go up; the rivers fill the same reservoir. Around him, the bright and shining Apāṃ Napāt, the bright waters stand.",
+  "new": "Some go together, others go near; the rivers fill the same reservoir. Around him, the bright and shining Apāṃ Napāt, the bright waters stand.",
+  "why": "reviewer (minor): upa yanti is 'go near, go to'; 'up' disagrees with the Hindi 'पास जाती हैं' and with the preposition."
+ },
+ {
+  "n": "3",
+  "field": "word.gloss",
+  "word": "upa",
+  "old": "up",
+  "new": "near",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "उस युवा के चारों ओर नहीं मुस्कुराती हुई युवतियाँ, शुद्ध की जाती हुई, जल के रूप में जाती हैं। वह उज्ज्वल बलवान के साथ हमारे लिए प्रचुरता से चमका है, बिना ईंधन के, घी में लिपटा हुआ, जलों में।",
+  "new": "उस युवा के चारों ओर नहीं मुस्कुराती हुई युवतियाँ, शुद्ध की जाती हुई, जल के रूप में जाती हैं। वह उज्ज्वलों और बलवानों के साथ हमारे लिए प्रचुरता से चमका है, बिना ईंधन के, घी में लिपटा हुआ, जलों में।",
+  "why": "reviewer (minor): śukrebhiḥ śikvabhiḥ are plural ('with bright, strong ones'); the Hindi singular disagrees with the English."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "dhayati",
+  "old": "3 sg. pres. √dhā",
+  "new": "3 sg. pres. √dhe",
+  "why": "reviewer (minor): The root of dhayati 'sucks, drinks' is √dhe, not √dhā."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "Here protect the birth of the horse and of this one and of heaven; protect the patrons from deceit, from harm, from contacts. In the raw ones, in the forts, the beyond, the not to be forgotten; may hostile powers not reach, nor falsehoods.",
+  "new": "Here protect the birth of the horse and of this one and heaven's light; protect the patrons from deceit, from harm, from contacts. In the raw ones, in the forts, the beyond, the not to be forgotten; may hostile powers not reach, nor falsehoods.",
+  "why": "reviewer (minor): Glossary: svar = (heaven's) light. The English also treats svar as a genitive ('of heaven') while gram labels it acc. sg."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "यहाँ घोड़े के जन्म की और इसके तथा स्वर् की रक्षा करो; छल से, हानि से, संपर्कों से संरक्षकों की रक्षा करो। कच्चों में, दुर्गों में, परम, न भूलने योग्य; शत्रुता और असत्य न पहुँचें।",
+  "new": "यहाँ घोड़े के जन्म की और इसके तथा स्वर्ग के प्रकाश की रक्षा करो; छल से, हानि से, संपर्कों से संरक्षकों की रक्षा करो। कच्चों में, दुर्गों में, परम, न भूलने योग्य; शत्रुता और असत्य न पहुँचें।",
+  "why": "reviewer (minor): Same: left untranslated in Hindi."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "svar",
+  "old": "heaven",
+  "new": "heaven's light",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "जिसके अपने घर में सरलता से दुही जाने वाली गाय अपनी शक्ति से भर गई है, वह उत्तम अन्न खाता है। वह जल का पुत्र, जलों के भीतर बल देता हुआ, धन देने के लिए उपासक के लिए चमकता है। जो जलों में पवित्र, दिव्य, ऋत का पालक, निरंतर विशाल रूप से प्रकाशित होता है। उसकी शाखाएँ ही अन्य प्राणी हैं; वे और वनस्पतियाँ संतानों के साथ उत्पन्न होते हैं।",
+  "new": "जिसके अपने घर में भली प्रकार दूध देने वाली गाय अपनी शक्ति से भर गई है, वह उत्तम अन्न खाता है। वह जल का पुत्र, जलों के भीतर बल देता हुआ, धन देने के लिए उपासक के लिए चमकता है। जो जलों में पवित्र, दिव्य, ऋत का पालक, निरंतर विशाल रूप से प्रकाशित होता है। उसकी शाखाएँ ही अन्य प्राणी हैं; वे और वनस्पतियाँ संतानों के साथ उत्पन्न होते हैं।",
+  "why": "reviewer (error): sudughā is active 'good-milking' (as fixed in the review of 2.3 unit 6), not passive 'easily milked'."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "He in whose own house the easily milked cow has swelled with her own power, the excellent one eats food. He, Apāṃ Napāt, invigorating within the waters, shines forth for the worshipper for the giving of wealth. He who in the waters, pure and divine, keeping to order, unceasing, shines out widely. Branches indeed are his other beings; they are born forth, and plants, with their offspring.",
+  "new": "He in whose own house the good-milking cow has swelled with her own power, the excellent one eats food. He, Apāṃ Napāt, invigorating within the waters, shines forth for the worshipper for the giving of wealth. He who in the waters, pure and divine, keeping to order, unceasing, shines out widely. Branches indeed are his other beings; they are born forth, and plants, with their offspring.",
+  "why": "reviewer (error): Same."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "sudughā",
+  "old": "easy to milk",
+  "new": "good-milking",
+  "why": "reviewer (error): Same."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "He in whose own house the good-milking cow has swelled with her own power, the excellent one eats food. He, Apāṃ Napāt, invigorating within the waters, shines forth for the worshipper for the giving of wealth. He who in the waters, pure and divine, keeping to order, unceasing, shines out widely. Branches indeed are his other beings; they are born forth, and plants, with their offspring.",
+  "new": "He in whose own house the good-milking cow has swelled with her own power, the excellent one eats food. He, Apāṃ Napāt, invigorating within the waters, shines forth for the worshipper for the giving of wealth. He who in the waters, pure and divine, keeping to order, unceasing, shines out widely. Branches indeed are his other worlds; they are born forth, and plants, with their offspring.",
+  "why": "reviewer (minor): bhuvana = world (2.33.9); 'other worlds' is also the natural sense of 'branches indeed are his other worlds'."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "जिसके अपने घर में भली प्रकार दूध देने वाली गाय अपनी शक्ति से भर गई है, वह उत्तम अन्न खाता है। वह जल का पुत्र, जलों के भीतर बल देता हुआ, धन देने के लिए उपासक के लिए चमकता है। जो जलों में पवित्र, दिव्य, ऋत का पालक, निरंतर विशाल रूप से प्रकाशित होता है। उसकी शाखाएँ ही अन्य प्राणी हैं; वे और वनस्पतियाँ संतानों के साथ उत्पन्न होते हैं।",
+  "new": "जिसके अपने घर में भली प्रकार दूध देने वाली गाय अपनी शक्ति से भर गई है, वह उत्तम अन्न खाता है। वह जल का पुत्र, जलों के भीतर बल देता हुआ, धन देने के लिए उपासक के लिए चमकता है। जो जलों में पवित्र, दिव्य, ऋत का पालक, निरंतर विशाल रूप से प्रकाशित होता है। उसकी शाखाएँ ही अन्य लोक हैं; वे और वनस्पतियाँ संतानों के साथ उत्पन्न होते हैं।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "bhuvanāni",
+  "old": "beings",
+  "new": "worlds",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "7",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "apsva1ntarva̭su̱deyā̭ya",
+    "suggest": "apsvantarvasudeyāya",
+    "why": "stray digit 1 after 'apsva' (accent or footnote mark)"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (minor): '१' in the Devanagari is the independent svarita sign written after a semivowel; it is accent notation, not a stray digit or footnote."
+ },
+ {
+  "n": "11",
+  "field": "word.w",
+  "word": "haviḥ-bhiḥ",
+  "old": "haviḥ-bhiḥ",
+  "new": "havirbhiḥ",
+  "why": "reviewer (minor): Invented segmentation: the inflected form is havirbhiḥ (inst. pl. of havis), as printed."
+ },
+ {
+  "n": "11",
+  "field": "english",
+  "old": "For him, the nearest of many, for friendship, may we serve with sacrifices, with obeisance, with oblations. I cleanse his ridge, I wish to offer with splinters, I place with foods, I praise round about with verses.",
+  "new": "For him, the nearest of many, for friendship, may we serve with sacrifices, with obeisance, with oblations. I cleanse the ridge, I wish to offer with splinters, I place with foods, I praise round about with verses.",
+  "why": "reviewer (minor): 'his' is not in the text; the notes themselves say the referent of sānu is not stated."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "उसके लिए, बहुतों में निकटतम के लिए, मित्रता हेतु हम यज्ञों से, प्रणाम से, हवियों से सेवा करें। मैं उसकी चोटी को शुद्ध करता हूँ, काष्ठ-खंडों से अर्पण करना चाहता हूँ, अन्नों के साथ रखता हूँ, ऋचाओं से चारों ओर वंदना करता हूँ।",
+  "new": "उसके लिए, बहुतों में निकटतम के लिए, मित्रता हेतु हम यज्ञों से, प्रणाम से, हवियों से सेवा करें। मैं चोटी को शुद्ध करता हूँ, काष्ठ-खंडों से अर्पण करना चाहता हूँ, अन्नों के साथ रखता हूँ, ऋचाओं से चारों ओर वंदना करता हूँ।",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "12",
+  "field": "hindi",
+  "old": "उस वृषभ ने उन (जलों) में गर्भ उत्पन्न किया; वही बालक उन्हें पीता है; वे उसे चाटती हैं। वह जल का पुत्र, न मुरझाए रंग वाला, यहाँ मानो दूसरे के शरीर में सक्रिय हुआ है।",
+  "new": "उस वृषभ ने उनमें गर्भ उत्पन्न किया; वही बालक उन्हें पीता है; वे उसे चाटती हैं। वह जल का पुत्र, न मुरझाए रंग वाला, यहाँ मानो दूसरे के शरीर में सक्रिय हुआ है।",
+  "why": "reviewer (minor): Bracketed interpretation in the Hindi; the line has only tāsu ('in them'), and the notes say the referent is not stated."
+ },
+ {
+  "n": "12",
+  "field": "word.gram",
+  "word": "dhayati",
+  "old": "3 sg. pres. √dhā",
+  "new": "3 sg. pres. √dhe",
+  "why": "reviewer (minor): Root is √dhe, not √dhā."
+ },
+ {
+  "n": "13",
+  "field": "hindi",
+  "old": "इस परम स्थान में खड़े हुए, अटूट (धाराओं) के साथ सदा चमकते हुए को, जल, पुत्र के लिए घी और अन्न ले जाती हुई, तीव्र धाराएँ अपने वस्त्रों के साथ स्वयं चारों ओर उड़ती हैं।",
+  "new": "इस परम स्थान में खड़े हुए, अटूटों के साथ सदा चमकते हुए को, जल, पुत्र के लिए घी और अन्न ले जाती हुई, तीव्र धाराएँ अपने वस्त्रों के साथ स्वयं चारों ओर उड़ती हैं।",
+  "why": "reviewer (minor): Bracketed interpretation in the Hindi; also 'जल, पुत्र के लिए' is garbled by the comma."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "I have offered, O Agni, a good dwelling for the people, and I have offered a good hymn for the generous patrons. All that is good which the gods favour; may we speak greatly at the rite, rich in heroes.",
+  "new": "I have offered, O Agni, a good dwelling for the people, and I have offered a good hymn for the generous patrons. All that is good which the gods favour; may we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): Refrain must have one wording in every hymn: 'may we, rich in heroes, speak greatly in the rite'."
+ },
+ {
+  "n": "14",
+  "field": "hindi",
+  "old": "हे अग्नि, मैंने जन के लिए उत्तम निवास प्रस्तुत किया है, और उदार दाताओं के लिए उत्तम स्तुति प्रस्तुत की है। वह सब कल्याण है जिसे देव अपनाते हैं; हम उत्तम वीरों से युक्त होकर यज्ञ में बड़ी वाणी बोलें।",
+  "new": "हे अग्नि, मैंने जन के लिए उत्तम निवास प्रस्तुत किया है, और उदार दाताओं के लिए उत्तम स्तुति प्रस्तुत की है। वह सब कल्याण है जिसे देव अपनाते हैं; हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): 'बड़ी वाणी' adds a noun and differs from the Hindi used in 2.33.15; use one Hindi wording."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "vidathe",
+  "old": "at the rite",
+  "new": "in the rite",
+  "why": "reviewer (minor): Fixed rendering 'in the rite'."
+ },
+ {
+  "n": "14",
+  "field": "english",
+  "old": "I have offered, O Agni, a good dwelling for the people, and I have offered a good hymn for the generous patrons. All that is good which the gods favour; may we, rich in heroes, speak greatly in the rite.",
+  "new": "I have offered, O Agni, a good dwelling for the people, and I have offered a good hymn for the bountiful. All that is good which the gods favour; may we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): maghavan = bountiful in the fixed renderings; 'patron' is reserved for sūri."
+ },
+ {
+  "n": "14",
+  "field": "word.gloss",
+  "word": "maghavadbhyaḥ",
+  "old": "for the generous patrons",
+  "new": "for the bountiful",
+  "why": "reviewer (minor): Same."
+ }
+]

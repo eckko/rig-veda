@@ -1,0 +1,74 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "अब मैं इस महान् के महान् और सच्चे कार्य, उस सत्य के कर्म, अवश्य कहूँगा। त्रिकद्रुकों में उसने निचोड़े हुए इस सोम को पिया; उसके मद में इन्द्र ने अहि को मारा।",
+  "new": "अब मैं इस महान् के महान् और सच्चे कृत्य, उस सत्य के कृत्य, अवश्य कहूँगा। त्रिकद्रुकों में उसने निचोड़े हुए इस सोम को पिया; उसके मद में इन्द्र ने अहि को मारा।",
+  "why": "reviewer (minor): karaṇāni is rendered 'deeds'; the notes say Hindi uses कृत्य, but the Hindi has कार्य (reserved for apas) and कर्म (reserved for karma = action). Use कृत्य as the notes state."
+ },
+ {
+  "n": "1",
+  "field": "notes",
+  "old": "trikadruka: a word of uncertain sense, kept as a name ('the Trikadrukas'). 'asya' with sutasya read as 'of this (Soma)'. The Hindi uses कृत्य for 'deeds' of the true one.",
+  "new": "trikadruka: a word of uncertain sense, kept as a name ('the Trikadrukas'). 'asya' with sutasya read as 'of this (Soma)'. The Hindi uses कृत्य for 'deeds' of the true one. 'Soma' is supplied in the translation: the line has only 'of this pressed (drink)' (sutasya asya) and 'its' exhilaration.",
+  "why": "reviewer (minor): 'Soma' is not in the line; supplied noun is presented as plain translation, so the notes should say so."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "ā",
+  "old": "forth",
+  "new": "preverb with apṛṇat",
+  "why": "reviewer (minor): 'ā' is glossed 'forth' and the note takes it with dyām; the idiom is ā ... apṛṇat ('filled'), as both translations treat it. Gloss and note contradict the translation."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "avaṃśe: 'without a support' (locative of a rare word); sense uncertain. 'bṛhantam ā' taken with 'dyām'.",
+  "new": "avaṃśe: 'without a support' (locative of a rare word); sense uncertain. 'bṛhantam ā' taken with 'dyām'. Correction: ā is a preverb with apṛṇat (ā ... apṛṇat, 'filled'), not with dyām; bṛhantam agrees with dyām.",
+  "why": "reviewer (minor): The note 'bṛhantam ā taken with dyām' disagrees with the translation."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "उसने अपनी महिमा से ऊपर बहने वाली नदी को छोड़ा; वज्र से उषा के रथ को चूर-चूर कर दिया। वह धीमों को तेज़ वालों से काटता गया। सोम के मद में इन्द्र ने वे कार्य किए।",
+  "new": "उसने अपनी महिमा से ऊपर बहने वाली नदी को छोड़ा; वज्र से उषा के शकट को चूर-चूर कर दिया। वह धीमों को तेज़ वालों से काटता गया। सोम के मद में इन्द्र ने वे कार्य किए।",
+  "why": "reviewer (minor): anas is a cart/wagon ('cart' in the English); 'रथ' is the chariot (ratha) and blurs two different words."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Having strewn them over with sleep, you slew Cumuri and Dhuni, the Dasyu, and you helped Dabhīti. Even the staff-bearer found gold here. In the exhilaration of Soma, Indra did those deeds.",
+  "new": "Having strewn over with sleep, you slew Cumuri and Dhuni, the Dasyu, and you helped Dabhīti. Even the staff-bearer found gold here. In the exhilaration of Soma, Indra did those deeds.",
+  "why": "reviewer (minor): 'them' (the object of abhyupya) is not in the line, nor in the Hindi."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Now may that bountiful gift of yours, Indra, yield a boon in return for the singer. Give to the praisers; let our share not burn away. May we, rich in heroes, speak loudly at the rite.",
+  "new": "Now may that bountiful gift of yours, Indra, yield a boon in return for the singer. Give to the praisers; do not burn beyond; the share is ours. May we, rich in heroes, speak loudly at the rite.",
+  "why": "reviewer (minor): Fixed rendering in the glossary for this refrain pāda: bhaga = share, mā ati dhak = 'do not burn beyond'."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "हे इन्द्र, अब तेरी वह उदार दक्षिणा गायक के लिए वर के बदले फलित हो। स्तोताओं को दे; हमारा भाग न जल जाए। उत्तम वीरों से युक्त होकर हम यज्ञ में ऊँचे स्वर से बोलें।",
+  "new": "हे इन्द्र, अब तेरी वह उदार दक्षिणा गायक के लिए वर के बदले फलित हो। स्तोताओं को दे; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है। उत्तम वीरों से युक्त होकर हम यज्ञ में ऊँचे स्वर से बोलें।",
+  "why": "reviewer (minor): Same, aligned with the Hindi used for the same pāda in ch016."
+ },
+ {
+  "n": "10",
+  "field": "english",
+  "old": "Now may that bountiful gift of yours, Indra, yield a boon in return for the singer. Give to the praisers; do not burn beyond; the share is ours. May we, rich in heroes, speak loudly at the rite.",
+  "new": "Now may that bountiful gift of yours, Indra, yield a boon in return for the singer. Give to the praisers; do not burn beyond; the share is ours. May we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): The one wording for this refrain is 'may we, rich in heroes, speak greatly in the rite'."
+ },
+ {
+  "n": "10",
+  "field": "word.gloss",
+  "word": "bṛhat",
+  "old": "loudly",
+  "new": "greatly",
+  "why": "reviewer (minor): Same."
+ }
+]

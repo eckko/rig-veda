@@ -1,0 +1,162 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "पुरस्कार की कामना करने वाले के समान अब अग्नि के रथों की, योगों (जुती हुई टोलियों) की स्तुति करो, जो अत्यन्त यशस्वी और उदार हैं।",
+  "new": "पुरस्कार की कामना करने वाले के समान अब रथों की, टोलियों की स्तुति करो, अत्यन्त यशस्वी, उदार अग्नि के।",
+  "why": "reviewer (minor): Bracketed gloss in Hindi (not allowed); also the relative clause \"जो ... हैं\" attaches to the chariots/teams, whereas yaśastamasya mīḻhuṣaḥ are genitives agreeing with agneḥ (as English and the note say)."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "He who is a good leader to the giver, unageing, making the foe grow old, fair-faced, offered to.",
+  "new": "He who is a good leader to the giver, unageing, making the foe grow old, fair-faced, to whom offering is made.",
+  "why": "reviewer (minor): \"offered to\" is not a complete rendering of āhutaḥ (ā-√hu, ppp.)."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "āhutaḥ",
+  "old": "offered to",
+  "new": "to whom offering is made",
+  "why": "reviewer (minor): Same as above."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "āhutaḥ could also be rendered 'invoked'. arim: 'foe' (ari, also 'stranger'); jarayan is the causative of √jṝ, 'making decay'. The relative yaḥ continues the sentence of verse 1 (Agni).",
+  "new": "āhutaḥ (short u) is from ā-√hu 'pour in, offer'; 'invoked' would need āhūtaḥ. arim: 'foe' (ari, also 'stranger'); jarayan is the causative of √jṝ, 'making decay'. The relative yaḥ continues the sentence of verse 1 (Agni).",
+  "why": "reviewer (minor): The printed vowel is short (āhutaḥ, ā-√hu); \"invoked\" belongs to āhūta (ā-√hve) with a long ū, which is not the printed form."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "dameṣu",
+  "old": "n. loc. pl.",
+  "new": "m. loc. pl.",
+  "why": "reviewer (minor): dama (house) is masculine in the Ṛgveda, not neuter."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "praśasyate",
+  "old": "3 sg. pass. pra-√śaṃs",
+  "new": "3 sg. pres. pass. pra-√śaṃs",
+  "why": "reviewer (minor): Tense missing."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "जो सूर्य के समान अपनी किरण से प्रकट होकर चमकता है, विचित्र (तेजस्वी), ज्वाला से, अजर (शिखाओं) को सजाता हुआ।",
+  "new": "जो स्वर्ग के प्रकाश के समान तेज से प्रकट होकर चमकता है, उज्ज्वल, ज्वाला से, अजरों से सजता हुआ।",
+  "why": "reviewer (error): Two bracketed interpretations in the Hindi; \"अजर (शिखाओं) को\" is accusative while ajaraiḥ is instrumental (English has \"with\"); \"अपनी किरण\" and \"सूर्य\" do not follow the glossary or add \"अपनी\"."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Who shines forth like the sun with his light, bright, with his flame, adorning with the unageing ones.",
+  "new": "Who shines forth like heaven's light with radiance, bright, with flame, adorning with the unageing ones.",
+  "why": "reviewer (minor): Glossary: svar = (heaven's) light, not \"sun\"; \"his\" is not in the text."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "svaḥ",
+  "old": "sun",
+  "new": "heaven's light",
+  "why": "reviewer (minor): Glossary: svar = (heaven's) light."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "bhānunā",
+  "old": "with light",
+  "new": "with radiance",
+  "why": "reviewer (minor): Align with the English \"with radiance\"."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "atri-vat",
+  "old": "like Atri",
+  "new": "Atri",
+  "why": "reviewer (error): See split."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "atri-vat",
+  "old": "ind. (uncertain)",
+  "new": "m. acc. sg.",
+  "why": "reviewer (error): See split."
+ },
+ {
+  "n": "5",
+  "field": "word.w",
+  "word": "atri-vat",
+  "old": "atri-vat",
+  "new": "atrim",
+  "why": "reviewer (error): See split."
+ },
+ {
+  "n": "5",
+  "field": "word.gloss",
+  "word": "nu",
+  "old": "now",
+  "new": "after",
+  "why": "reviewer (error): See split."
+ },
+ {
+  "n": "5",
+  "field": "word.gram",
+  "word": "nu",
+  "old": "ind.",
+  "new": "ind. (with acc.)",
+  "why": "reviewer (error): See split."
+ },
+ {
+  "n": "5",
+  "field": "word.w",
+  "word": "nu",
+  "old": "nu",
+  "new": "anu",
+  "why": "reviewer (error): See split."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "Like Atri, now, the hymns have strengthened Agni, the sovereign rule. He has taken on all splendours.",
+  "new": "After Atri, the hymns have strengthened Agni, the sovereign rule. He has taken on all splendours.",
+  "why": "reviewer (error): Follows the invented split."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "अत्रि के समान अब स्वराज्य, अग्नि को स्तोत्रों ने बढ़ाया है। उसने सब शोभाएँ धारण की हैं।",
+  "new": "अत्रि के पीछे स्वराज्य, अग्नि को स्तोत्रों ने बढ़ाया है। उसने सब शोभाएँ धारण की हैं।",
+  "why": "reviewer (error): Follows the invented split."
+ },
+ {
+  "n": "5",
+  "field": "notes",
+  "old": "The first token is doubtful and the reading 'like Atri, now' is tentative. svarājyam: taken as a noun 'sovereignty, self-rule' in apposition to agnim; the construction is uncertain. viśvāḥ adhi śriyaḥ dadhe: 'he has set (taken) all splendours upon himself'; the subject is Agni, not stated.",
+  "new": "atrim anu: 'after Atri' (anu with the accusative atrim); the printed text is sound, and the sense of the phrase is still tentative. svarājyam: taken as a noun 'sovereignty, self-rule' in apposition to agnim; the construction is uncertain. viśvāḥ adhi śriyaḥ dadhe: 'he has set (taken) all splendours upon himself'; the subject is Agni, not stated.",
+  "why": "reviewer (minor): Note repeats the wrong reading."
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "ariṣyantaḥ",
+  "old": "m. nom. pl. pres. part. √riṣ",
+  "new": "m. nom. pl. fut. part. a-√riṣ",
+  "why": "reviewer (minor): ariṣyant is the future participle (a-√riṣ, \"not about to be harmed\"), not a present participle."
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "vayam",
+  "old": "nom. pl.",
+  "new": "nom. pl. pron. (1st person)",
+  "why": "reviewer (minor): Gender-neutral pronoun, label incomplete."
+ }
+]

@@ -1,0 +1,67 @@
+[
+ {
+  "n": "2",
+  "field": "english",
+  "old": "For the obedience of all, the god, upright, broad-handed, stretches forth with both arms. Even the waters, bent down, are in his ordinance; even this wind comes to rest in its circuit.",
+  "new": "For the obedience of all, the god, upright, broad-handed, stretches forth with both arms. Even the waters, bent down, are in his ordinance; even this wind comes to rest in the circuit.",
+  "why": "reviewer (minor): 'its' is not in the text (parijman only)."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "सब की आज्ञा-पालन के लिए, देव ऊपर उठा हुआ, चौड़े हाथों वाला, दोनों भुजाओं से आगे बढ़ता है। जल भी उसके व्रत में झुके हुए हैं; यह वायु भी अपने परिभ्रमण में विश्राम करती है।",
+  "new": "सब की आज्ञा-पालन के लिए, देव ऊपर उठा हुआ, चौड़े हाथों वाला, दोनों भुजाओं से आगे बढ़ता है। जल भी उसके व्रत में झुके हुए हैं; यह वायु भी परिभ्रमण में विश्राम करता है।",
+  "why": "reviewer (minor): Same added 'अपने'; also वायु is masculine in Hindi, so 'करती' is wrong."
+ },
+ {
+  "n": "4",
+  "field": "word.w",
+  "word": "adardhaḥ",
+  "old": "adardhaḥ",
+  "new": "adardhar",
+  "why": "reviewer (error): The printed token ends ...dhararamatiḥ, i.e. adardhar + aramatiḥ. A visarga form adardhaḥ before a- would be adardho 'ramatiḥ, so the verb must end in r: adardhar, 3 sg. imperfect of the intensive of √dhṛ (dardharti). The split word does not match the printed text."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "नाना प्रकार के निवास, घर, सारा जीवन फैला हुआ है; स्रोत अग्नि की ज्वाला है। माता ने पुत्र के लिए श्रेष्ठ भाग रखा है, उसके चिह्न का अनुसरण करते हुए, सविता द्वारा भेजा गया।",
+  "new": "नाना प्रकार के निवास, घर, सारा जीवन फैला हुआ है; स्रोत अग्नि की ज्वाला है। माता ने पुत्र के लिए ज्येष्ठ भाग रखा है, उसके चिह्न का अनुसरण करते हुए, सविता द्वारा भेजा गया।",
+  "why": "reviewer (minor): jyeṣṭha is 'foremost/eldest' (English 'foremost'); 'श्रेष्ठ' means best, a different sense."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "Yādrādhya, a form not understood; Varuṇa, the watery womb, unsharpened, darting in a wink. All the mārtāṇḍa, the animal, has gone to the pen; Savitṛ has apportioned the births in their places.",
+  "new": "Yādrādhya; Varuṇa, the watery womb, unsharpened, darting in a wink. All the mārtāṇḍa, the animal, has gone to the pen; Savitṛ has apportioned the births in their places.",
+  "why": "reviewer (minor): Editorial comment inside the translation; interpretations belong in notes (the notes already say it)."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "याद्राध्य, जिसका रूप अस्पष्ट है; वरुण, जल-सम्बन्धी योनि को, बिना तेज़ किए, पलक झपकते में काँपता हुआ। सब मार्ताण्ड, पशु बाड़े में चला गया है; सविता ने जन्मों को स्थानों के अनुसार बाँट दिया।",
+  "new": "याद्राध्य; वरुण, जल-सम्बन्धी योनि को, बिना तेज़ किए, पलक झपकते में काँपता हुआ। सब मार्ताण्ड, पशु बाड़े में चला गया है; सविता ने जन्मों को स्थानों के अनुसार बाँट दिया।",
+  "why": "reviewer (minor): Same: comment inside the Hindi."
+ },
+ {
+  "n": "8",
+  "field": "word.gram",
+  "word": "apyam",
+  "old": "f. acc. sg.",
+  "new": "acc. sg. (m./n. form; agreement with yonim irregular)",
+  "why": "reviewer (minor): Labelled f. acc. sg., but -am cannot be feminine (apyām would); it also disagrees with unit 7 (n. acc.) and with the m. label of aniśitam. The agreement with yonim (f.) is irregular and should be said."
+ },
+ {
+  "n": "10",
+  "field": "hindi",
+  "old": "भग, धी और पुरन्धि को, पुरस्कार के लिए प्रयास करते हुए; नराशंस और गनास्पति हमारी रक्षा करें। वांछित के आगमन पर, धनों के मिलन में, हम देव सविता के प्रिय हों।",
+  "new": "भग, धी और पुरन्धि को, पुरस्कार के लिए प्रयास करते हुए; नराशंस और ग्नास्पति हमारी रक्षा करें। वांछित के आगमन पर, धनों के मिलन में, हम देव सविता के प्रिय हों।",
+  "why": "reviewer (minor): Wrong Devanagari for gnāspati (conjunct missing)."
+ },
+ {
+  "n": "11",
+  "field": "hindi",
+  "old": "वह कामना योग्य दान, जो तुम्हारे द्वारा हमें दिया गया, द्युलोक से, जलों से, पृथ्वी से हमारे पास आ गया है, ताकि वह स्तुति करने वालों, मित्र और दूर-दूर तक प्रशंसा करने वाले गायक के लिए कल्याणकारी हो, हे सविता।",
+  "new": "वह कामना योग्य दान, जो तुम्हारे द्वारा हमें दिया गया, द्युलोक से, जलों से, पृथ्वी से हमारे पास आ गया है, ताकि वह स्तुति करने वालों, मित्र और दूर-दूर तक प्रशंसित गायक के लिए कल्याणकारी हो, हे सविता।",
+  "why": "reviewer (error): Hindi has the active sense (praising widely) while the English and the notes say passive 'praised widely' and claim the Hindi follows it. Align with the English."
+ }
+]

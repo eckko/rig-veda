@@ -1,0 +1,47 @@
+[
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "jātau",
+  "old": "m. nom. du. ppp. √jan",
+  "new": "m. acc. du. ppp. √jan",
+  "why": "reviewer (minor): gram says nom. du. but the notes (and the translation 'the gods made you ...') take jātau as accusative in apposition with gopau; -au is nom./acc. alike, so the label contradicts the draft's own analysis."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "juṣante",
+  "old": "3 pl. pres. mid. √juṣ",
+  "new": "3 pl. mid. (impf./inj.) √juṣ",
+  "why": "reviewer (minor): After the split is corrected to juṣanta the tense label 'pres.' is wrong (juṣanta is the -anta injunctive/imperfect form). Apply this patch before the w patch below."
+ },
+ {
+  "n": "2",
+  "field": "word.w",
+  "word": "juṣante",
+  "old": "juṣante",
+  "new": "juṣanta",
+  "why": "reviewer (error): Printed 'juṣante̱mau' (no hiatus) is juṣanta + imau (a+i = e); compare the hiatus form 'ma̭ i̱maṃ' (me imam) in 2.41.13. The split 'juṣante' + 'imau' does not reproduce the sandhi."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हे सोम और पूषन्, अन्तरिक्ष के मापक, सात चक्रों वाले, सबको प्रेरित न करने वाले, अलग-अलग दिशाओं में घूमने वाले, मन से जोड़े जाते हुए, पाँच रस्सियों वाले उस रथ को, हे बैलो, तुम दोनों गति देते हो।",
+  "new": "हे सोम और पूषन्, अन्तरिक्ष के मापक, सात चक्रों वाले, सबको प्रेरित न करने वाले, अलग-अलग दिशाओं में घूमने वाले, मन से जोड़े जाते हुए, पाँच रस्सियों वाले उस रथ को, हे दोनों बैलो, तुम दोनों गति देते हो।",
+  "why": "reviewer (minor): vṛṣaṇā is dual (English 'you two bulls'); Hindi 'हे बैलो' is plural."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "सबको प्रेरित करने वाला पूषन् धी को प्रेरित करे; धन का स्वामी सोम धन प्रदान करे। अनिन्दित देवी अदिति रक्षा करे; हम उत्तम वीरों से युक्त होकर यज्ञ में महान् वचन बोलें।",
+  "new": "सबको प्रेरित करने वाला पूषन् धी को प्रेरित करे; धन का स्वामी सोम धन प्रदान करे। अबाधित देवी अदिति रक्षा करे; हम उत्तम वीरों से युक्त होकर यज्ञ में महान् वचन बोलें।",
+  "why": "reviewer (error): anarvā glossed and translated 'unassailed' in English; Hindi 'अनिन्दित' means 'unblamed', a different sense."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "सबको प्रेरित करने वाला पूषन् धी को प्रेरित करे; धन का स्वामी सोम धन प्रदान करे। अबाधित देवी अदिति रक्षा करे; हम उत्तम वीरों से युक्त होकर यज्ञ में महान् वचन बोलें।",
+  "new": "सबको प्रेरित करने वाला पूषन् धी को प्रेरित करे; धन का स्वामी सोम धन प्रदान करे। अबाधित देवी अदिति रक्षा करे; हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Hindi refrain adds the noun 'वचन' (words) that is not in bṛhad vadema; 'speak greatly' has no object."
+ }
+]

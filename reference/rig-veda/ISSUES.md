@@ -43,3 +43,9 @@
 ## Layer pilot (RV 2.1-2.3), open minor review items not yet settled
 - ch002 units 3, 5, 6, 9: bracketed supplied nouns / "famous" / vṛjana rendering (use "enclosures") / bṛhat-diveṣu split still as drafted; garbled note on nyerire in unit 3.
 - Layers are AI drafts, drafted by fable, reviewed by sonnet (reviewer possibly weaker than drafter). Part 002 layer files are written only when all 43 chapters are done.
+
+## Layers for part 002 (Maṇḍala 2), status 2026-10-17
+- All 43 sūktas (822 lines) have -sandhi, -hindi and -english files (text/p002-*.md). They are AI DRAFTS: drafted and reviewed by separate sonnet agents (pilot 2.1-2.3 drafted by fable), reviews applied, but no human has read them.
+- Reviewer patches applied mechanically; 116 reviewer items without a machine patch are listed in layers-work/OPEN_REVIEW_ITEMS.tsv (15 were errors; 8 of those were fixed by hand, 7 are marked "OPEN" in the unit notes and confidence set to low).
+- 2.35: S1 merges two verses into 2.35.7 (lines 7a-d, real 2.35.7 and 2.35.8); the numbering of 2.35.8-14 is off by one against the print edition (already logged above). The layers keep text/ IDs and were not split.
+- Recurring weak points: the refrain "bṛhad vadema vidathe suvīrāḥ" and some Hindi renderings still vary between chunks; many verses of 2.4, 2.5, 2.13, 2.24, 2.28-2.30, 2.34 are low confidence because the Sanskrit is obscure.

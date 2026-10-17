@@ -1,0 +1,80 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "हे व्रत धारण करनेवाले, हे वेगवान् आदित्यो, अपराध को मुझसे दूर कर दो, जैसे गुप्त रूप से प्रसव करनेवाली स्त्री करती है। हे वरुण, हे मित्र, हे देवो, भलाई को जाननेवाला मैं सुननेवाले तुम सबको सहायता के लिए पुकारता हूँ।",
+  "new": "हे व्रत धारण करनेवाले, हे वेगवान् आदित्यो, अपराध को मुझसे दूर कर दो, गुप्त रूप से प्रसव करनेवाली स्त्री के समान। हे वरुण, हे मित्र, हे देवो, भलाई को जाननेवाला मैं सुननेवाले तुम सबको सहायता के लिए पुकारता हूँ।",
+  "why": "reviewer (minor): Added verb 'करती है'; the simile is only 'like a rahasū' (English has no verb)."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "हे व्रत धारण करनेवाले, हे वेगवान् आदित्यो, अपराध को मुझसे दूर कर दो, गुप्त रूप से प्रसव करनेवाली स्त्री के समान। हे वरुण, हे मित्र, हे देवो, भलाई को जाननेवाला मैं सुननेवाले तुम सबको सहायता के लिए पुकारता हूँ।",
+  "new": "हे व्रत धारण करनेवाले, हे स्फूर्तिमान् आदित्यो, अपराध को मुझसे दूर कर दो, गुप्त रूप से प्रसव करनेवाली स्त्री के समान। हे वरुण, हे मित्र, हे देवो, भलाई को जाननेवाला मैं सुननेवाले तुम सबको सहायता के लिए पुकारता हूँ।",
+  "why": "reviewer (minor): English and gloss say 'vigorous' (iṣira); 'वेगवान्' is 'swift'."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "अब हम तुम्हारे लिए बाद के से क्या करें, पुराने से क्या करें, हे वसुओ, बन्धुता से क्या करें? हे मित्र और वरुण, हे अदिति, हे इन्द्र, हे मरुतो, तुम हमें कल्याण प्रदान करो।",
+  "new": "अब हम तुम्हारे लिए बाद वाले से क्या करें, पुराने से क्या करें, हे वसुओ, बन्धुता से क्या करें? हे मित्र और वरुण, हे अदिति, हे इन्द्र, हे मरुतो, तुम हमें कल्याण प्रदान करो।",
+  "why": "reviewer (minor): Ungrammatical Hindi for apareṇa ('with the later one')."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Hey, O gods, you are indeed kinsmen; so be gracious to me, who entreat. May your chariot, the madhyamavāṭ, not be without ...; and may we not grow weary among kinsmen such as you.",
+  "new": "Hey, O gods, you are indeed kinsmen; be gracious to me, who entreat. May your chariot, the madhyamavāṭ, not be without ...; and may we not grow weary among kinsmen such as you.",
+  "why": "reviewer (minor): 'so' is not in the Sanskrit (te mṛḷata); te is a resumptive 'they/those'."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "अरे देवो, तुम ही तो बन्धु हो; इसलिए मुझ याचक पर कृपा करो। तुम्हारा रथ मध्यम-वाहक होकर बिना ... न हो, और तुम्हारे जैसे बन्धुओं में हम थकें नहीं।",
+  "new": "अरे देवो, तुम ही तो बन्धु हो; मुझ याचक पर कृपा करो। तुम्हारा रथ मध्यम-वाहक होकर बिना ... न हो, और तुम्हारे जैसे बन्धुओं में हम थकें नहीं।",
+  "why": "reviewer (minor): 'इसलिए' is an added causal link."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "मैं अकेला तुम्हारे प्रति बहुत अपराध कर चुका हूँ, क्योंकि उसने मुझे पिता के समान जुआरी की तरह दण्ड दिया है। हे देवो, फंदे दूर रहें, बुराइयाँ दूर रहें; मुझे पुत्र के कारण पक्षी की तरह न पकड़ो।",
+  "new": "मैं अकेला तुम्हारे प्रति बहुत अपराध कर चुका हूँ, क्योंकि पिता के समान उसने मुझ जुआरी को दण्ड दिया है। हे देवो, फंदे दूर रहें, बुराइयाँ दूर रहें; मुझे पुत्र के कारण पक्षी की तरह न पकड़ो।",
+  "why": "reviewer (error): Garbled and does not match the Sanskrit: mā ... kitavam are both accusative ('me, the gambler') and pitā iva is the subject. The English 'as a father chastises a gambler' also changes the construction."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "I alone have transgressed against you with much offence, since he has chastised me as a father chastises a gambler. O gods, far be the snares, far be the evils; do not seize me over my son as one seizes a bird.",
+  "new": "I alone have transgressed against you with much offence, since, like a father, he has chastised me, the gambler. O gods, far be the snares, far be the evils; do not seize me over my son as one seizes a bird.",
+  "why": "reviewer (error): mā kitavam = 'me, the gambler' (both acc.); 'pitā iva' is a nominative simile."
+ },
+ {
+  "n": "5",
+  "field": "english",
+  "old": "I alone have transgressed against you with much offence, since, like a father, he has chastised me, the gambler. O gods, far be the snares, far be the evils; do not seize me over my son as one seizes a bird.",
+  "new": "I alone have transgressed against you with much offence, since, like a father, he has chastised me, the gambler. O gods, far be the snares, far be the evils; do not seize me over the son as one seizes a bird.",
+  "why": "reviewer (minor): 'my' is not in the text (putre only)."
+ },
+ {
+  "n": "7",
+  "field": "english",
+  "old": "O Varuṇa, may I not meet with the lack of a bounteous, dear friend who gives abundantly. O king, may I not fall away from wealth that is easy to hold. May we, rich in heroes, speak greatly in the rite.",
+  "new": "O Varuṇa, may I not meet with the lack of a bountiful, dear friend who gives abundantly. O king, may I not fall away from wealth that is easy to hold. May we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): Glossary: maghavan/maghonī = bountiful."
+ },
+ {
+  "n": "7",
+  "field": "word.gloss",
+  "word": "maghonaḥ",
+  "old": "of the bounteous one",
+  "new": "of the bountiful one",
+  "why": "reviewer (minor): Same: bountiful."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे वरुण, मैं उदार, प्रिय और बहुत देनेवाले बन्धु की कमी न पाऊँ। हे राजन्, सरलता से सँभाली जानेवाली सम्पत्ति से मैं दूर न होऊँ। हम उत्तम वीरों से युक्त होकर यज्ञ में ऊँचे स्वर से बोलें।",
+  "new": "हे वरुण, मैं उदार, प्रिय और बहुत देनेवाले मित्र की कमी न पाऊँ। हे राजन्, सरलता से सँभाली जानेवाली सम्पत्ति से मैं दूर न होऊँ। हम उत्तम वीरों से युक्त होकर यज्ञ में ऊँचे स्वर से बोलें।",
+  "why": "reviewer (minor): English and gloss say 'friend' (āpi)."
+ }
+]

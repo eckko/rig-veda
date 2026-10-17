@@ -1,0 +1,90 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "हे द्यावापृथिवी, ऋत के अनुसार चलने वाले और जीतने की इच्छा करने वाले मुझ की इस वाणी के रक्षक बनो। जिन दोनों की आयु अधिक लंबी है, हे स्तुत दोनों, धन की इच्छा वाला मैं तुम दोनों महान् को धारण करता हूँ।",
+  "new": "हे द्यावापृथिवी, मुझ ऋत के अनुसार चलने वाले और जीतने की इच्छा करने वाले की इस वाणी के रक्षक बनो। जिन दोनों की आयु अधिक लंबी है, हे स्तुत दोनों, धन की इच्छा वाला मैं तुम दोनों महान् को धारण करता हूँ।",
+  "why": "reviewer (minor): Ungrammatical Hindi: 'मुझ की'; the participial phrases belong to the genitive 'of me'."
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "O Heaven and Earth, be helpers of this speech of mine, of me who follow the order and wish to win. You two, whose lifetime is longer, O praised ones, I, desiring wealth, hold to you two, the great ones.",
+  "new": "O Heaven and Earth, be helpers of this speech of mine, of me who follow the order and wish to win. You two, whose lifetime is longer, O praised ones, I, desiring wealth, hold you two, the great ones.",
+  "why": "reviewer (minor): dadhe is 'I place/hold'; 'hold to' adds a preposition not in the line and does not match the Hindi 'धारण करता हूँ' or the gloss."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "ṛtāyataḥ",
+  "old": "acting by the order, devoted to order",
+  "new": "following the order",
+  "why": "reviewer (minor): 'acting by the order' is not the sense of ṛtāyant (following / devoted to the order); it also differs from the English 'who follow the order'."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "guhyāḥ",
+  "old": "f./m. nom. pl.",
+  "new": "m. nom. pl.",
+  "why": "reviewer (minor): guhyāḥ agrees with ripaḥ, which is masculine; 'f./m.' is wrong."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हमें छिपे हुए धोखेबाज़ दिन में हानि न पहुँचाएँ; हमें इन दुष्ट अनिष्ट करने वालों के हाथ न सौंपो। हमारी मित्रताओं को हमसे अलग न करो; हमारे उस विषय को जानो; कृपालु मन से हम तुमसे वही माँगते हैं।",
+  "new": "हमें छिपे हुए धोखेबाज़ दिन में हानि न पहुँचाएँ; हमें इन दुष्ट अनिष्ट करने वालों को न सौंपो। हमारी मित्रताओं को हमसे अलग न करो; हमारे उस विषय को जानो; कृपालु मन से हम तुमसे वही माँगते हैं।",
+  "why": "reviewer (minor): 'के हाथ' (into the hands of) is added; duścunābhyaḥ is a plain dative/ablative 'to'."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हमें छिपे हुए धोखेबाज़ दिन में हानि न पहुँचाएँ; हमें इन दुष्ट अनिष्ट करने वालों को न सौंपो। हमारी मित्रताओं को हमसे अलग न करो; हमारे उस विषय को जानो; कृपालु मन से हम तुमसे वही माँगते हैं।",
+  "new": "हमें छिपे हुए धोखेबाज़ जीवन के दिन में हानि न पहुँचाएँ; हमें इन दुष्ट अनिष्ट करने वालों को न सौंपो। हमारी मित्रताओं को हमसे अलग न करो; हमारे उस विषय को जानो; कृपालु मन से हम तुमसे वही माँगते हैं।",
+  "why": "reviewer (minor): āyoḥ is dropped in the Hindi although the English has 'day of life'."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "Let not hidden deceivers harm us on the day of life; do not give us over to these evil-bringing ones. Do not part us from our friendships; know that wish of ours. With a kindly mind, that is what we ask of you.",
+  "new": "Let not hidden deceivers harm us on the day of life; do not give us over to these evil-bringing ones. Do not part us from our friendships; know that wish of ours. With a mind seeking favour, that is what we ask of you.",
+  "why": "reviewer (minor): sumnāyant is 'seeking favour' (sumna = favour in the fixed renderings); 'kindly' blurs it."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हमें छिपे हुए धोखेबाज़ जीवन के दिन में हानि न पहुँचाएँ; हमें इन दुष्ट अनिष्ट करने वालों को न सौंपो। हमारी मित्रताओं को हमसे अलग न करो; हमारे उस विषय को जानो; कृपालु मन से हम तुमसे वही माँगते हैं।",
+  "new": "हमें छिपे हुए धोखेबाज़ जीवन के दिन में हानि न पहुँचाएँ; हमें इन दुष्ट अनिष्ट करने वालों को न सौंपो। हमारी मित्रताओं को हमसे अलग न करो; हमारे उस विषय को जानो; कृपा चाहने वाले मन से हम तुमसे वही माँगते हैं।",
+  "why": "reviewer (minor): Same: sumnāyant, glossary sumna = favour."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "sumnāyatā",
+  "old": "with kindly intent",
+  "new": "seeking favour",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "अक्रुद्ध मन से तत्काल तत्परता से सुनने को ले आओ, जो दुही जाती हुई, भरी हुई, कभी न घटने वाली गाय के समान है। हे बहुत पुकारे गए, पैरों से तीव्र और वाणी से पुरस्कार जीतने वाले तुम्हें मैं सदा प्रेरित करता हूँ।",
+  "new": "अक्रुद्ध मन से तत्पर श्रवण को ले आओ, दुही जाती हुई, भरी हुई, कभी न घटने वाली गाय को। हे बहुत पुकारे गए, पैरों से तीव्र और वाणी से पुरस्कार जीतने वाले तुम्हें मैं सदा प्रेरित करता हूँ।",
+  "why": "reviewer (error): Two additions: 'तत्काल' (immediately) is not in the text, and 'के समान' turns the cow apposition into a simile, although the English (and the notes) take it as apposition (duhānāṃ dhenuṃ pipyuṣīm asaścatam are accusatives of śruṣṭim)."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "puruhūta",
+  "old": "m. voc. sg. bahuvrīhi",
+  "new": "m. voc. sg. compound (puru-hūta)",
+  "why": "reviewer (minor): puru-hūta (puru + ppp. hūta) is not a bahuvrīhi; it is a compound of adverbial first member with a participle ('much-invoked')."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "हे राका, तुम्हारी जो सुंदर रूप वाली कृपाएँ हैं, जिनसे तुम उपासक को धन देती हो, उन्हीं के साथ आज प्रसन्न मन से हमारे पास आओ, हे सौभाग्यवती, हज़ार गुना पोषण देती हुई।",
+  "new": "हे राका, तुम्हारी जो सुंदर रूप वाली कृपाएँ हैं, जिनसे तुम उपासक को धन देती हो, उनके साथ आज प्रसन्न मन से हमारे पास आओ, हे सौभाग्यवती, हज़ार गुना पोषण देती हुई।",
+  "why": "reviewer (minor): 'उन्हीं' (only those) adds emphasis not in tābhiḥ."
+ }
+]

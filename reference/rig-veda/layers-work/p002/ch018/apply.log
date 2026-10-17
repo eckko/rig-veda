@@ -1,0 +1,3 @@
+chunk 1: 9 units, 20 patches applied (20 changes logged), 1 issues without patch, 0 patches failed
+  MANUAL unit 2 [minor] split / sā: w "sā" is a feminine form but labelled m. nom. sg. "he" (same problem as 2.17.6); w should be saḥ if masculine. Needs a decision.
+         suggested fix: w saḥ, or gloss "she"

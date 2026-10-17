@@ -1,0 +1,76 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "सीधा वक्ता विरोधियों को जीत ले; देवों को चाहने वाला देवों को न चाहने वाले पर प्रबल हो। उत्तम सहायक युद्धों में दुर्जय को जीत ले; यजमान यज्ञ न करने वाले के भोग का विभाग कर ले।",
+  "new": "ईमानदार वक्ता विरोधियों को जीत ले; देवों को चाहने वाला देवों को न चाहने वाले पर प्रबल हो। उत्तम सहायक युद्धों में दुर्जय को जीत ले; यजमान यज्ञ न करने वाले के भोग का विभाग कर ले।",
+  "why": "reviewer (minor): English and gloss say \"honest\" (ṛju \"straight, honest\"); Hindi \"सीधा\" (straight/simple) differs."
+ },
+ {
+  "n": "3",
+  "field": "word.gram",
+  "word": "śraddhā-manāḥ",
+  "old": "bahuvrīhi, m. inst. sg. (agreeing with haviṣā)",
+  "new": "bahuvrīhi, m. nom. sg. (agreeing with yaḥ)",
+  "why": "reviewer (error): \"inst. sg. agreeing with haviṣā\" is wrong: an s-stem instrumental would be -manasā; the printed śraddhāmanā is the nom. sg. m. śraddhā-manāḥ (visarga lost before h), agreeing with yaḥ: \"who, faithful-minded, honours ... with an oblation\". The English \"an oblation given in faith\" and Hindi \"श्रद्धापूर्ण मन से हवि\" follow the wrong case."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "He indeed, with the people, with the clan, by birth, with sons, carries off the prize and wealth with men; he who honours the father of the gods, Brahmaṇaspati, with an oblation given in faith.",
+  "new": "He indeed, with the people, with the clan, by birth, with sons, carries off the prize and wealth with men; he who, faithful-minded, honours with an oblation the father of the gods, Brahmaṇaspati.",
+  "why": "reviewer (error): \"given in faith\" is not in the text; see gram."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "वही जन के साथ, वही कुल के साथ, वही जन्म से, वही पुत्रों के साथ पुरस्कार और धन मनुष्यों के साथ ले जाता है; जो देवों के पिता ब्रह्मणस्पति की श्रद्धापूर्ण मन से हवि द्वारा सेवा करता है।",
+  "new": "वही जन के साथ, वही कुल के साथ, वही जन्म से, वही पुत्रों के साथ पुरस्कार और धन मनुष्यों के साथ ले जाता है; जो श्रद्धापूर्ण मन वाला होकर देवों के पिता ब्रह्मणस्पति की हवि द्वारा सेवा करता है।",
+  "why": "reviewer (error): Same."
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "śraddhāmanā is taken as an instrumental form agreeing loosely with haviṣā ('faithful-minded'); it may instead refer to the worshipper. 'father of the gods' is the text's own apposition.",
+  "new": "śraddhāmanā is taken as an instrumental form agreeing loosely with haviṣā ('faithful-minded'); it may instead refer to the worshipper. 'father of the gods' is the text's own apposition. śraddhāmanā is read as nom. sg. śraddhā-manāḥ agreeing with yaḥ (visarga lost before h).",
+  "why": "reviewer (minor): The note offers the instrumental reading as primary; revise to say the nominative agreeing with yaḥ is the reading and that the draft's earlier instrumental was rejected."
+ },
+ {
+  "n": "4",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "src",
+    "suggest": "suggest",
+    "why": "why"
+   },
+   {
+    "src": "src",
+    "suggest": "suggest",
+    "why": "why"
+   }
+  ],
+  "new": [
+   {
+    "src": "ri̱ṣo̱ṃ3 'hości̭dasmā",
+    "suggest": "ri̱ṣo̱ 'ṃhości̭dasmā",
+    "why": "stray ṃ3: the expected text is riṣo 'ṃhościd asmā (aṃhoḥ cit asmai), split across two printed tokens"
+   }
+  ],
+  "why": "reviewer (error): text_flags holds two template placeholders ({\"src\":\"src\",\"suggest\":\"suggest\",\"why\":\"why\"} twice) and no real flag, although the note admits the printed tokens are corrupt: ri̱ṣo̱ṃ3 'hości̭dasmā should be riṣo 'ṃhościd asmā (aṃhoḥ split across tokens, stray 3)."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "Whoever served him with oblations rich in ghee, Brahmaṇaspati leads him forward on the forward path. He protects him from distress, guards him from injury, and even from narrowness; for him he is wide-working and wondrous.",
+  "new": "Whoever served him with oblations rich in ghee, Brahmaṇaspati leads him forth, forwards. He protects him from distress, guards him from injury, and even from narrowness; for him he is wide-working and wondrous.",
+  "why": "reviewer (minor): \"path\" is not in the text; prācā is an adverbial instrumental \"forward\"."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "जिसने इसके लिए घी वाली हवियों से सेवा की, उसे ब्रह्मणस्पति आगे के मार्ग से ले चलता है। वह उसे संकट से बचाता है, हानि से रक्षा करता है, और संकीर्णता से भी; उसके लिए वह विस्तृत कर्म वाला अद्भुत है।",
+  "new": "जिसने इसके लिए घी वाली हवियों से सेवा की, उसे ब्रह्मणस्पति आगे की ओर ले चलता है। वह उसे संकट से बचाता है, हानि से रक्षा करता है, और संकीर्णता से भी; उसके लिए वह विस्तृत कर्म वाला अद्भुत है।",
+  "why": "reviewer (minor): Same (\"मार्ग\" added)."
+ }
+]

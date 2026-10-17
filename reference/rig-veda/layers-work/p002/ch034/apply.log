@@ -1,0 +1,9 @@
+chunk 1: 15 units, 19 patches applied (19 changes logged), 4 issues without patch, 0 patches failed
+  MANUAL unit 2 [error] english / When Rudra, the bull, begot you: gram says ajani is 3 sg. aor. PASSIVE ('was born'), the gloss says 'was born, begot', and vaḥ is glossed acc. pl. ('you'); a passive cannot take 'you' as object. The translation (and Hindi) picks the active 'begot', which the notes admit is 'taken from the sense of the line'.
+         suggested fix: Make gram, gloss, vo and both translations agree: either passive ('when Rudra, the bull, was born / begotten for you, O Maruts ... in the bright udder of Pṛśni' with vaḥ dat./gen.) or defend 'begot' in notes; no patch because it is a decision.
+  MANUAL unit 8 [minor] english / for the share: ā (glossed 'hither') is untranslated in English while Hindi has 'यहाँ'; the two translations disagree.
+         suggested fix: Treat ā the same way in both (leave it out of Hindi or render in both).
+  MANUAL unit 9 [error] gram / vadhaḥ: 'm. inst. pl.' is impossible: an instrumental plural ends in -aiḥ, never -aḥ. vadhaḥ can only be nom. sg. m. of vadha, or acc. sg. of the neuter vadhas/vadhar; so 'with weapons' has no grammatical basis.
+         suggested fix: Relabel gram (e.g. 'n. acc. sg. vadhas or m. nom. sg.') and revise the English/Hindi ('with weapons') accordingly; needs a human decision.
+  MANUAL unit 9 [minor] gram / aśasaḥ: Gloss is singular 'the accursed one', but gram says 'm. acc. pl.' (or gen. sg.); the labels and the translation contradict each other.
+         suggested fix: Choose one analysis and state it in gram and notes.

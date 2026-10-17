@@ -1,0 +1,7 @@
+chunk 1: 6 units, 8 patches applied (8 changes logged), 3 issues without patch, 0 patches failed
+  MANUAL unit 1 [minor] text_flags / śrava̱sya1:: Same as 2.8.4: the digit is the Vaidika notation, not a stray mark; the flag is self-contradictory ("stray ... independent svarita") and proposes dropping the notation. Not a typo.
+         suggested fix: drop the flag or reword as "notation, not a typo"
+  MANUAL unit 3 [error] split / śiriṇāyāṃ + cit: Token "śiri̭ṇāyāṃ" contains only śiriṇāyām; the word cit is wrongly listed under it as well, so cit appears twice, and in the next token it stands after aktunā although it is printed first (cid aktunā).
+         suggested fix: token 1: śiriṇāyām only; token 2: cit, aktunā (in that order)
+  MANUAL unit 4 [minor] hindi / सब भुवनों के सामने: English "all beings" vs Hindi भुवन (worlds); bhuvana should be rendered the same in both. No patch.
+         suggested fix: choose "worlds" (or beings) in both

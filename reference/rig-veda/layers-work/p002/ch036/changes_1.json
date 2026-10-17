@@ -1,0 +1,59 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "यज्ञों से संयुक्त, चितकबरी (मादाओं) और भालों से युक्त, यात्रा में उज्ज्वल और आभूषणों में प्रिय, बर्हि पर बैठकर, हे भरत के पुत्रो, हे द्युलोक के पुरुषो, पोता के कार्य से सोम पियो।",
+  "new": "यज्ञों से संयुक्त, चितकबरियों और भालों से युक्त, यात्रा में उज्ज्वल और आभूषणों में प्रिय, बर्हि पर बैठकर, हे भरत के पुत्रो, हे द्युलोक के पुरुषो, पोता के कार्य से सोम पियो।",
+  "why": "reviewer (minor): Bracketed interpretation '(मादाओं)' (females) is not in the text and is forbidden inside translations; English has no such addition."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "मानो घर में हों, सहज बुलाए जाने वाले होकर हमारे पास आओ, बर्हि पर बैठो और आनन्द लो। फिर, हे त्वष्टा, रस का सेवन करते हुए देवों और पत्नियों के साथ प्रसन्न हो, तू जिसके साथ आनन्दित गण है।",
+  "new": "मानो घर में हों, सहज बुलाए जाने वाले होकर हमारे पास अवश्य आओ, बर्हि पर बैठो और आनन्द लो। फिर, हे त्वष्टा, रस का सेवन करते हुए देवों और पत्नियों के साथ प्रसन्न हो, तू जिसके साथ आनन्दित गण है।",
+  "why": "reviewer (minor): 'hi' (indeed) is rendered in English ('Come to us indeed') but dropped in the Hindi."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "मानो घर में हों, सहज बुलाए जाने वाले होकर हमारे पास अवश्य आओ, बर्हि पर बैठो और आनन्द लो। फिर, हे त्वष्टा, रस का सेवन करते हुए देवों और पत्नियों के साथ प्रसन्न हो, तू जिसके साथ आनन्दित गण है।",
+  "new": "मानो घर में हों, सहज बुलाए जाने वाले होकर हमारे पास अवश्य आओ, बर्हि पर बैठो और आनन्द लो। फिर, हे त्वष्टा, रस का सेवन करते हुए देवों और पत्नियों के साथ प्रसन्न हो, आनन्दित गण से युक्त।",
+  "why": "reviewer (minor): Mis-parses the bahuvrīhi sumadgaṇaḥ ('having a joyful host'); the Hindi reads as a clause 'with whom there is a joyful host'."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "यहाँ देवों को ले आ और यज्ञ कर, हे प्रेरित, उत्सुक होकर; हे होता, तीन योनियों में बैठ। आगे रखे हुए सोम-मधु का सेवन कर, अग्नीध्र के कार्य से पी, अपने भाग से तृप्त हो।",
+  "new": "यहाँ देवों को ले आ और यज्ञ कर, हे विप्र, उत्सुक होकर; हे होता, तीन योनियों में बैठ। आगे रखे हुए सोम-मधु का सेवन कर, अग्नीध्र के कार्य से पी, अपने भाग से तृप्त हो।",
+  "why": "reviewer (minor): 'प्रेरित' means 'impelled/sent'; English and gloss say 'inspired one' (vipra), a different sense. Use a plain Hindi transliteration of the word to avoid a wrong sense."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "vipra 'inspired one' is a plain vocative; no deity is named in the verse. 'three wombs' (yoniṣu triṣu) is literal; the three places are not named. 'ṣadā' in the printed text is sada with lengthened final vowel. prasthitam somyam madhu: 'set forth' for pra-sthita is literal. agnīdhrāt: ablative of the Agnīdhra's office, kept as 'office' like hotrāt; the cup reading is not applied. tṛpṇuhi with genitive bhāgasya 'be satisfied with your share'.",
+  "new": "vipra 'inspired one' is a plain vocative; no deity is named in the verse. 'three wombs' (yoniṣu triṣu) is literal; the three places are not named. 'ṣadā' in the printed text is sada with lengthened final vowel. prasthitam somyam madhu: 'set forth' for pra-sthita is literal. agnīdhrāt: ablative of the Agnīdhra's office, kept as 'office' like hotrāt; the cup reading is not applied. tṛpṇuhi with genitive bhāgasya 'be satisfied with your share'. prati vīhi: prati is a preverb with vīhi ('partake'); not rendered separately.",
+  "why": "reviewer (minor): 'prati' is glossed 'toward' but is dropped in both translations. Acceptable as a preverb idiom, but say so in notes."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "यह वही तुम्हारे शरीर का पुरुषार्थ बढ़ाने वाला, बल और ओज, प्राचीन काल से भुजाओं में रखा गया है। तुम्हारे लिए निचोड़ा गया है, हे मघवन्, तुम्हारे लिए लाया गया है; तुम इसे ब्राह्मण से तृप्त होकर पियो।",
+  "new": "यह वही तुम्हारे शरीर का पुरुषार्थ बढ़ाने वाला, बल और ओज, प्राचीन काल से भुजाओं में रखा गया है। तुम्हारे लिए निचोड़ा गया है, हे मघवन्, तुम्हारे लिए लाया गया है; तुम इसे ब्राह्मण से तृप्ति तक पियो।",
+  "why": "reviewer (minor): Hindi takes tṛpat as a participle ('satisfied') while English and gloss take it as adverb 'to satisfaction'; align with the gloss."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "यह वही तुम्हारे शरीर का पुरुषार्थ बढ़ाने वाला, बल और ओज, प्राचीन काल से भुजाओं में रखा गया है। तुम्हारे लिए निचोड़ा गया है, हे मघवन्, तुम्हारे लिए लाया गया है; तुम इसे ब्राह्मण से तृप्ति तक पियो।",
+  "new": "यह वही तुम्हारे शरीर का पौरुष बढ़ाने वाला, बल और ओज, प्राचीन काल से भुजाओं में रखा गया है। तुम्हारे लिए निचोड़ा गया है, हे मघवन्, तुम्हारे लिए लाया गया है; तुम इसे ब्राह्मण से तृप्ति तक पियो।",
+  "why": "reviewer (minor): पुरुषार्थ is a loaded later technical term (the four aims); nṛmṇa = manly power."
+ },
+ {
+  "n": "6",
+  "field": "word.gram",
+  "word": "āvṛtam",
+  "old": "m. acc. sg.",
+  "new": "acc. sg. (stem and gender uncertain)",
+  "why": "reviewer (minor): Gender 'm.' is asserted for a form the notes call uncertain; the stem (āvṛta / āvṛt) is not settled."
+ }
+]

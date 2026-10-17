@@ -1,0 +1,116 @@
+[
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "vājinaḥ",
+  "old": "m. gen. pl.",
+  "new": "m. nom. pl. or gen. sg. (not gen. pl.)",
+  "why": "reviewer (error): -aḥ cannot be genitive plural (that is vājinām). It is nom./acc. pl. or gen./abl. sg.; the draft's 'of the prize-winners' rests on an impossible label. Nom. pl. 'we prize-winners' (with śakema) is one real option, gen. sg. 'of the prize-winner' another; needs a human choice."
+ },
+ {
+  "n": "2",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "tsapta",
+    "suggest": "sapta",
+    "why": "the t is a Vedic sandhi insertion after n before s (yasmin tsapta); not an error"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (minor): Not a typo (the flag says 'not an error'); the inserted t is regular Vedic sandhi."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "जिसमें, यज्ञ के नेता में, सात रश्मियाँ फैली हुई हैं। मनु के समान दिव्य आठवाँ पोता उस सब को प्रेरित करता है।",
+  "new": "जिसमें, यज्ञ के नेता में, सात लगामें फैली हुई हैं। मनु के समान दिव्य आठवाँ पोता उस सब को प्रेरित करता है।",
+  "why": "reviewer (minor): English and notes read raśmi as 'rein'; रश्मि in Hindi means ray."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "या उसने दौड़ लगाई है, या जब उसने उसके पीछे प्रार्थनाएँ कहीं; वह पक्षी का ही है। जैसे नेमि चक्र को, वैसे वह सब ज्ञानों को घेरने वाला हुआ।",
+  "new": "या उसने दौड़ लगाई है, या जब उसने उसके पीछे ब्रह्म कहे; वह पक्षी का ही है। जैसे नेमि चक्र को, वैसे वह सब ज्ञानों को घेरने वाला हुआ।",
+  "why": "reviewer (minor): Glossary: brahman (n.) is ब्रह्म in Hindi."
+ },
+ {
+  "n": "3",
+  "field": "english",
+  "old": "Either he has run, or when he spoke the prayers after him, that is indeed the bird's. Like a felly the wheel, he was around all the wisdoms.",
+  "new": "Either he has run, or when he spoke the prayers after him, that is indeed the bird's. He was around all the wisdoms, like a felly the wheel.",
+  "why": "reviewer (minor): Garbled order; the simile follows the clause (nemiś cakram iva abhavat)."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "For together with the bright one the bright director has been born, by power. Knowing his firm ordinances, he climbs along them like a branch.",
+  "new": "For together with the bright one the bright Praśāstṛ priest has been born, by power. Knowing his firm ordinances, he climbs along them like a branch.",
+  "why": "reviewer (minor): Glossary: Praśāstṛ priest (the draft's own note concedes this)."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "praśāstā",
+  "old": "director",
+  "new": "Praśāstṛ priest",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "क्योंकि उज्ज्वल के साथ उज्ज्वल निर्देशक सामर्थ्य से उत्पन्न हुआ है। जानने वाला उसके दृढ़ व्रतों के साथ-साथ शाखा की भाँति ऊपर चढ़ता है।",
+  "new": "क्योंकि उज्ज्वल के साथ उज्ज्वल प्रशास्ता संकल्प से उत्पन्न हुआ है। जानने वाला उसके दृढ़ व्रतों के साथ-साथ शाखा की भाँति ऊपर चढ़ता है।",
+  "why": "reviewer (minor): Praśāstṛ priest (प्रशास्ता) and kratu = resolve (संकल्प) per glossary."
+ },
+ {
+  "n": "4",
+  "field": "english",
+  "old": "For together with the bright one the bright Praśāstṛ priest has been born, by power. Knowing his firm ordinances, he climbs along them like a branch.",
+  "new": "For together with the bright one the bright Praśāstṛ priest has been born, by resolve. Knowing his firm ordinances, he climbs along them like a branch.",
+  "why": "reviewer (minor): Glossary: kratu = resolve."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "kratunā",
+  "old": "by power",
+  "new": "by resolve",
+  "why": "reviewer (minor): Glossary: kratu = resolve."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "वे दूध देने वाली गायें, मिलती हुई, उसके रंग के पीछे चलीं, जो नेष्टा का है। क्या वे बहनें, जो इस के पास गईं, तीन से श्रेष्ठ की ओर गईं?",
+  "new": "वे दूध देने वाली गायें, मिलती हुई, उसके रंग के पीछे चलीं, नेष्टा के। क्या वे बहनें, जो इस के पास गईं, तीन से श्रेष्ठ की ओर गईं?",
+  "why": "reviewer (minor): 'जो ... है' adds a relative clause; the text has only neṣṭuḥ (genitive)."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "वे दूध देने वाली गायें, मिलती हुई, उसके रंग के पीछे चलीं, नेष्टा के। क्या वे बहनें, जो इस के पास गईं, तीन से श्रेष्ठ की ओर गईं?",
+  "new": "वे दूध देने वाली गायें, मिलती हुई, उसके रंग के पीछे चलीं, नेष्टा के। निश्चय ही वे बहनें, जो इसके पास गईं, तीन से श्रेष्ठ की ओर।",
+  "why": "reviewer (error): Hindi turns kuvit into a question and adds a second verb 'गईं'; English reads 'Indeed, the sisters who went to this one, from the three to the better'. The two layers disagree and the Hindi adds a verb."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "So that, knowing, he may make things fit for all the adorable ones. This, O Agni, is also in you, the sacrifice that we have made.",
+  "new": "So that, knowing, he may act fittingly for all the adorable ones. This, O Agni, is also in you, the sacrifice that we have made.",
+  "why": "reviewer (error): 'things' is an added object (the notes admit it is not in the text)."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "जिससे जानने वाला सब पूजनीय देवों के लिए उचित व्यवस्था करे। हे अग्नि, यह भी तुझमें है, वह यज्ञ जो हमने किया है।",
+  "new": "जिससे जानने वाला सब पूजनीयों के लिए उचित रूप से करे। हे अग्नि, यह भी तुझमें है, वह यज्ञ जो हमने किया है।",
+  "why": "reviewer (error): 'देवों' and 'व्यवस्था' are additions: viśvebhyo yajatebhyaḥ is 'for all the adorable ones'; aram karat has no object."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "जिससे जानने वाला सब पूजनीयों के लिए उचित रूप से करे। हे अग्नि, यह भी तुझमें है, वह यज्ञ जो हमने किया है।",
+  "new": "जिससे जानने वाला सब पूजनीयों के लिए उचित रूप से करे। हे अग्नि, यह भी तुममें है, वह यज्ञ जो हमने किया है।",
+  "why": "reviewer (minor): Register inconsistent with तुम used elsewhere in the chapter."
+ }
+]

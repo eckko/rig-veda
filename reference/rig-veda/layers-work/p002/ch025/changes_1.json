@@ -1,0 +1,59 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "अग्नि को प्रज्वलित करता हुआ वह विरोधियों को जीत ले; जिसने ब्रह्म रचा है और जिसने हवि दी है वही बढ़े। जात के साथ वह जात से आगे बढ़ जाता है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "new": "अग्नि को प्रज्वलित करता हुआ वह विरोधियों को जीत ले; जिसने ब्रह्म रचा है और जिसने हवि दी है वही बढ़े। उत्पन्न के साथ वह उत्पन्न से आगे बढ़ जाता है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "why": "reviewer (minor): \"जात\" in modern Hindi also means caste; use the plain participle for jāta \"born\"."
+ },
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "अग्नि को प्रज्वलित करता हुआ वह विरोधियों को जीत ले; जिसने ब्रह्म रचा है और जिसने हवि दी है वही बढ़े। उत्पन्न के साथ वह उत्पन्न से आगे बढ़ जाता है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "new": "अग्नि को प्रज्वलित करता हुआ वह विरोधियों को जीत ले; जिसने ब्रह्म रचा है और जिसकी हवि दी गई है वही बढ़े। उत्पन्न के साथ वह उत्पन्न से आगे बढ़ जाता है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "why": "reviewer (minor): English says \"whose oblation is given\" (rāta-havya, passive) but Hindi has the active \"who has given\"; make them agree."
+ },
+ {
+  "n": "1",
+  "field": "english",
+  "old": "Kindling Agni, he shall overcome the hostile; he who has made the sacred word, whose oblation is given, shall thrive. With the born he rushes forth beyond the born, whomever Brahmaṇaspati makes his companion.",
+  "new": "Kindling Agni, he shall overcome the hostile; he who has made the sacred utterance, whose oblation is given, shall thrive. With the born he rushes forth beyond the born, whomever Brahmaṇaspati makes his companion.",
+  "why": "reviewer (minor): brahman = prayer / sacred utterance in the glossary."
+ },
+ {
+  "n": "1",
+  "field": "word.gloss",
+  "word": "kṛta-brahmā",
+  "old": "who has made the sacred word",
+  "new": "who has made the sacred utterance",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "नदी की तरह उमड़ने वाला, बलवान्, उबलता हुआ, साँड की तरह निर्बलों की ओर बल से जाना चाहता है। अग्नि के प्रसार की तरह वह लौटाया जाने योग्य नहीं है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "new": "नदी की तरह उमड़ने वाला, बलवान्, उग्र होता हुआ, साँड की तरह निर्बलों की ओर बल से जाना चाहता है। अग्नि के प्रसार की तरह वह लौटाया जाने योग्य नहीं है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "why": "reviewer (minor): \"boiling\" does not render ṛghāyataḥ \"storming\" (English)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "नदी की तरह उमड़ने वाला, बलवान्, उग्र होता हुआ, साँड की तरह निर्बलों की ओर बल से जाना चाहता है। अग्नि के प्रसार की तरह वह लौटाया जाने योग्य नहीं है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "new": "नदी की तरह उमड़ने वाला, बलवान्, उग्र होता हुआ, साँड की तरह नपुंसक किए हुओं की ओर बल से जाना चाहता है। अग्नि के प्रसार की तरह वह लौटाया जाने योग्य नहीं है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "why": "reviewer (minor): vadhrīn is \"the emasculated\" (English, gloss); \"निर्बल\" (weak) is an interpretation."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "उसकी ओर दिव्य, अक्षय धाराएँ बहती हैं; वह योद्धाओं के साथ सबसे पहले गायों में जाता है। अटल बल वाला वह बल से मारता है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "new": "उसकी ओर दिव्य और अक्षय बहती हैं; वह योद्धाओं के साथ सबसे पहले गायों में जाता है। अटल बल वाला वह बल से मारता है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "why": "reviewer (error): \"धाराएँ\" (streams) is an addition; the note even says \"streams is not added\" and the English has only \"the heavenly unfailing ones\"."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "उसकी ओर दिव्य और अक्षय बहती हैं; वह योद्धाओं के साथ सबसे पहले गायों में जाता है। अटल बल वाला वह बल से मारता है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "new": "उसकी ओर दिव्य और अक्षय बहती हैं; वह योद्धाओं के साथ सबसे पहले गायों में जाता है। अनाक्रान्त बल वाला वह बल से मारता है, जिस-जिस को ब्रह्मणस्पति अपना साथी बनाता है।",
+  "why": "reviewer (minor): \"अटल\" (unshaken) is not \"unassailed\" (anibhṛṣṭa)."
+ }
+]

@@ -1,0 +1,1039 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "somā̭pūṣaṇā̱",
+      "words": [
+       {
+        "w": "soma-pūṣaṇā",
+        "gloss": "Soma and Pūṣan",
+        "gram": "m. voc. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "jana̭nā",
+      "words": [
+       {
+        "w": "jananā",
+        "gloss": "begetters",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "rayī̱ṇāṃ",
+      "words": [
+       {
+        "w": "rayīṇām",
+        "gloss": "of riches",
+        "gram": "m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "jana̭nā",
+      "words": [
+       {
+        "w": "jananā",
+        "gloss": "begetters",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "di̱vo",
+      "words": [
+       {
+        "w": "divaḥ",
+        "gloss": "of heaven",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "jana̭nā",
+      "words": [
+       {
+        "w": "jananā",
+        "gloss": "begetters",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vyāḥ",
+      "words": [
+       {
+        "w": "pṛthivyāḥ",
+        "gloss": "of earth",
+        "gram": "f. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "jā̱tau",
+      "words": [
+       {
+        "w": "jātau",
+        "gloss": "born",
+        "gram": "m. acc. du. ppp. √jan"
+       }
+      ]
+     },
+     {
+      "src": "viśva̭sya̱",
+      "words": [
+       {
+        "w": "viśvasya",
+        "gloss": "of all",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhuva̭nasya",
+      "words": [
+       {
+        "w": "bhuvanasya",
+        "gloss": "of the world",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "go̱pau",
+      "words": [
+       {
+        "w": "gopau",
+        "gloss": "two guardians",
+        "gram": "m. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "de̱vā",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "gods",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̭kṛṇvanna̱mṛta̭sya̱",
+      "words": [
+       {
+        "w": "akṛṇvan",
+        "gloss": "made",
+        "gram": "3 pl. impf. √kṛ"
+       },
+       {
+        "w": "amṛtasya",
+        "gloss": "of immortality",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "nābhi̭m",
+      "words": [
+       {
+        "w": "nābhim",
+        "gloss": "navel",
+        "gram": "f. acc. sg."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे सोम और पूषन्, तुम दोनों धनों के जनक हो, द्युलोक के जनक हो, पृथिवी के जनक हो; उत्पन्न हुए तुम दोनों को, जो सम्पूर्ण भुवन के रक्षक हैं, देवों ने अमृत की नाभि बनाया।",
+  "english": "O Soma and Pūṣan, begetters of riches, begetters of heaven, begetters of earth: born, you two guardians of the whole world, the gods made you the navel of immortality.",
+  "text_flags": [],
+  "notes": "Somāpūṣaṇā taken as vocative dual; it could also be nominative. jātau gopau are taken as two accusatives in apposition (the two, born, as guardians) with nābhim a second predicate object of akṛṇvan; the syntax of pāda b is loose.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "002.040.1a",
+   "002.040.1b"
+  ],
+  "lines_deva": [
+   "सोमा॑पूषणा॒ जन॑ना रयी॒णां जन॑ना दि॒वो जन॑ना पृथि॒व्याः",
+   "जा॒तौ विश्व॑स्य॒ भुव॑नस्य गो॒पौ दे॒वा अ॑कृण्वन्न॒मृत॑स्य॒ नाभि॑म्"
+  ],
+  "lines_iast": [
+   "somā̭pūṣaṇā̱ jana̭nā rayī̱ṇāṃ jana̭nā di̱vo jana̭nā pṛthi̱vyāḥ",
+   "jā̱tau viśva̭sya̱ bhuva̭nasya go̱pau de̱vā a̭kṛṇvanna̱mṛta̭sya̱ nābhi̭m"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "i̱mau",
+      "words": [
+       {
+        "w": "imau",
+        "gloss": "these two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "de̱vau",
+      "words": [
+       {
+        "w": "devau",
+        "gloss": "gods",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "jāya̭mānau",
+      "words": [
+       {
+        "w": "jāyamānau",
+        "gloss": "being born",
+        "gram": "m. nom. du. pres. part. pass. √jan"
+       }
+      ]
+     },
+     {
+      "src": "juṣante̱mau",
+      "words": [
+       {
+        "w": "juṣanta",
+        "gloss": "they delight in, welcome",
+        "gram": "3 pl. mid. (impf./inj.) √juṣ"
+       },
+       {
+        "w": "imau",
+        "gloss": "these two",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "tamā̭ṃsi",
+      "words": [
+       {
+        "w": "tamāṃsi",
+        "gloss": "darknesses",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "gūhatā̱majṷṣṭā",
+      "words": [
+       {
+        "w": "gūhatām",
+        "gloss": "let them hide",
+        "gram": "3 du. impv. √guh"
+       },
+       {
+        "w": "ajuṣṭā",
+        "gloss": "unwelcome",
+        "gram": "n. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā̱bhyāmindra̭:",
+      "words": [
+       {
+        "w": "ābhyām",
+        "gloss": "by these two",
+        "gram": "m. inst. du."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱kvamā̱māsva̱ntaḥ",
+      "words": [
+       {
+        "w": "pakvam",
+        "gloss": "ripe",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āmāsu",
+        "gloss": "in the raw ones",
+        "gram": "f. loc. pl."
+       },
+       {
+        "w": "antaḥ",
+        "gloss": "within",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "so̭māpū̱ṣabhyā̭ṃ",
+      "words": [
+       {
+        "w": "soma-pūṣabhyām",
+        "gloss": "with Soma and Pūṣan",
+        "gram": "m. inst. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "janadu̱sriyā̭su",
+      "words": [
+       {
+        "w": "janat",
+        "gloss": "generated",
+        "gram": "3 sg. aor. inj. √jan"
+       },
+       {
+        "w": "usriyāsu",
+        "gloss": "in the cows",
+        "gram": "f. loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वे इन दोनों देवों को उत्पन्न होते समय अपनाते हैं; ये दोनों अप्रिय अन्धकारों को छिपा दें। इन दोनों से, सोम और पूषन् के साथ, इन्द्र ने कच्चियों के भीतर पके को उत्पन्न किया, गौओं में।",
+  "english": "They delight in these two gods as they are born; may these two hide the unwelcome darknesses. With these two, with Soma and Pūṣan, Indra generated the ripe within the raw ones, in the cows.",
+  "text_flags": [],
+  "notes": "juṣante is 3 pl. with no expressed subject; the sense \"they welcome these two gods as they are born\" is the most natural, but the subject is not stated. gūhatām read as 3 du. imperative (\"let them hide\"); an injunctive/past sense is possible. In pāda b pakvam and āmāsu are neuter/feminine adjectives with no noun expressed; usriyāsu is \"in the (bright) cows\". The common understanding that ripe milk is meant is not stated in the verse and is not translated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "002.040.2a",
+   "002.040.2b"
+  ],
+  "lines_deva": [
+   "इ॒मौ दे॒वौ जाय॑मानौ जुषन्ते॒मौ तमां॑सि गूहता॒मजु॑ष्टा",
+   "आ॒भ्यामिन्द्र॑: प॒क्वमा॒मास्व॒न्तः सो॑मापू॒षभ्यां॑ जनदु॒स्रिया॑सु"
+  ],
+  "lines_iast": [
+   "i̱mau de̱vau jāya̭mānau juṣante̱mau tamā̭ṃsi gūhatā̱majṷṣṭā",
+   "ā̱bhyāmindra̭: pa̱kvamā̱māsva̱ntaḥ so̭māpū̱ṣabhyā̭ṃ janadu̱sriyā̭su"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "somā̭pūṣaṇā̱",
+      "words": [
+       {
+        "w": "soma-pūṣaṇā",
+        "gloss": "Soma and Pūṣan",
+        "gram": "m. voc. du. dvandva"
+       }
+      ]
+     },
+     {
+      "src": "raja̭so",
+      "words": [
+       {
+        "w": "rajasaḥ",
+        "gloss": "of the realm of space",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱māna̭ṃ",
+      "words": [
+       {
+        "w": "vimānam",
+        "gloss": "measure, measuring-out",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sa̱ptaca̭kra̱ṃ",
+      "words": [
+       {
+        "w": "sapta-cakram",
+        "gloss": "seven-wheeled",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ratha̱mavi̭śvaminvam",
+      "words": [
+       {
+        "w": "ratham",
+        "gloss": "chariot",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "a-viśvam-invam",
+        "gloss": "not impelling everything",
+        "gram": "m. acc. sg. (uncertain)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vi̱ṣū̱vṛta̱ṃ",
+      "words": [
+       {
+        "w": "viṣūvṛtam",
+        "gloss": "turning in different directions",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mana̭sā",
+      "words": [
+       {
+        "w": "manasā",
+        "gloss": "by the mind",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yu̱jyamā̭na̱ṃ",
+      "words": [
+       {
+        "w": "yujyamānam",
+        "gloss": "being yoked",
+        "gram": "m. acc. sg. pres. part. pass. √yuj"
+       }
+      ]
+     },
+     {
+      "src": "taṃ",
+      "words": [
+       {
+        "w": "tam",
+        "gloss": "that",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ji̭nvatho",
+      "words": [
+       {
+        "w": "jinvathaḥ",
+        "gloss": "you two quicken",
+        "gram": "2 du. pres. √jinv"
+       }
+      ]
+     },
+     {
+      "src": "vṛṣaṇā̱",
+      "words": [
+       {
+        "w": "vṛṣaṇā",
+        "gloss": "bulls",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "pañca̭raśmim",
+      "words": [
+       {
+        "w": "pañca-raśmim",
+        "gloss": "five-reined",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे सोम और पूषन्, अन्तरिक्ष के मापक, सात चक्रों वाले, सबको प्रेरित न करने वाले, अलग-अलग दिशाओं में घूमने वाले, मन से जोड़े जाते हुए, पाँच रस्सियों वाले उस रथ को, हे दोनों बैलो, तुम दोनों गति देते हो।",
+  "english": "O Soma and Pūṣan, you two bulls quicken that chariot, the measure of the realm of space, seven-wheeled, not impelling everything, turning in different directions, being yoked by the mind, five-reined.",
+  "text_flags": [],
+  "notes": "Obscure verse. aviśvaminvam is uncertain (a-viśva-minva \"not impelling everything\", or a different analysis). viṣūvṛtam \"turning in different directions\" is a literal reading. rajasaḥ vimānam could also be \"measurer of the dusky region\". The chariot is not identified.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.040.3a",
+   "002.040.3b"
+  ],
+  "lines_deva": [
+   "सोमा॑पूषणा॒ रज॑सो वि॒मानं॑ स॒प्तच॑क्रं॒ रथ॒मवि॑श्वमिन्वम्",
+   "वि॒षू॒वृतं॒ मन॑सा यु॒ज्यमा॑नं॒ तं जि॑न्वथो वृषणा॒ पञ्च॑रश्मिम्"
+  ],
+  "lines_iast": [
+   "somā̭pūṣaṇā̱ raja̭so vi̱māna̭ṃ sa̱ptaca̭kra̱ṃ ratha̱mavi̭śvaminvam",
+   "vi̱ṣū̱vṛta̱ṃ mana̭sā yu̱jyamā̭na̱ṃ taṃ ji̭nvatho vṛṣaṇā̱ pañca̭raśmim"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "di̱vya1nyaḥ",
+      "words": [
+       {
+        "w": "divi",
+        "gloss": "in heaven",
+        "gram": "f. loc. sg."
+       },
+       {
+        "w": "anyaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sada̭naṃ",
+      "words": [
+       {
+        "w": "sadanam",
+        "gloss": "seat",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca̱kra",
+      "words": [
+       {
+        "w": "cakre",
+        "gloss": "has made",
+        "gram": "3 sg. pf. mid. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "u̱ccā",
+      "words": [
+       {
+        "w": "uccā",
+        "gloss": "high up",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pṛ̭thi̱vyāma̱nyo",
+      "words": [
+       {
+        "w": "pṛthivyām",
+        "gloss": "on the earth",
+        "gram": "f. loc. sg."
+       },
+       {
+        "w": "anyaḥ",
+        "gloss": "the other",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "adhya̱ntari̭kṣe",
+      "words": [
+       {
+        "w": "adhi",
+        "gloss": "upon, in",
+        "gram": "ind."
+       },
+       {
+        "w": "antarikṣe",
+        "gloss": "in the atmosphere",
+        "gram": "n. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tāva̱smabhya̭ṃ",
+      "words": [
+       {
+        "w": "tau",
+        "gloss": "those two",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "asmabhyam",
+        "gloss": "for us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "puru̱vāra̭ṃ",
+      "words": [
+       {
+        "w": "puru-vāram",
+        "gloss": "much desired",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "puru̱kṣuṃ",
+      "words": [
+       {
+        "w": "puru-kṣum",
+        "gloss": "abounding",
+        "gram": "m. acc. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "rā̱yaspoṣa̱ṃ",
+      "words": [
+       {
+        "w": "rāyaḥ-poṣam",
+        "gloss": "increase of wealth",
+        "gram": "m. acc. sg. tat-puruṣa"
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind. (prefix)"
+       }
+      ]
+     },
+     {
+      "src": "ṣya̭tā̱ṃ",
+      "words": [
+       {
+        "w": "ṣyatām",
+        "gloss": "let them release",
+        "gram": "3 du. impv. √so"
+       }
+      ]
+     },
+     {
+      "src": "nābhi̭ma̱sme",
+      "words": [
+       {
+        "w": "nābhim",
+        "gloss": "navel",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "asme",
+        "gloss": "in us",
+        "gram": "loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "एक ने द्युलोक में ऊँचा आसन बनाया है, दूसरे ने पृथिवी पर, अन्तरिक्ष में। वे दोनों हमारे लिए बहुत वांछित, बहुत समृद्ध, धन की वृद्धि को, नाभि को, हमारे भीतर खोल दें।",
+  "english": "One has made his seat high up in heaven, the other on the earth, in the atmosphere. May those two release for us the much desired, abounding increase of wealth, the navel, in us.",
+  "text_flags": [],
+  "notes": "The token \"di̱vya1nyaḥ\" carries a printed accent digit (1); the Devanagari reads divy anyaḥ. Two gods, three places: the distribution of heaven, earth and atmosphere between the two is not clear, and adhy antarikṣe may go with pṛthivyām (earth and the atmosphere above). vi ṣyatām is vi + √so (syatām, with ṣ by sandhi). nābhim and its relation to the other accusatives is unclear.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.040.4a",
+   "002.040.4b"
+  ],
+  "lines_deva": [
+   "दि॒व्य१न्यः सद॑नं च॒क्र उ॒च्चा पृ॑थि॒व्याम॒न्यो अध्य॒न्तरि॑क्षे",
+   "ताव॒स्मभ्यं॑ पुरु॒वारं॑ पुरु॒क्षुं रा॒यस्पोषं॒ वि ष्य॑तां॒ नाभि॑म॒स्मे"
+  ],
+  "lines_iast": [
+   "di̱vya1nyaḥ sada̭naṃ ca̱kra u̱ccā pṛ̭thi̱vyāma̱nyo adhya̱ntari̭kṣe",
+   "tāva̱smabhya̭ṃ puru̱vāra̭ṃ puru̱kṣuṃ rā̱yaspoṣa̱ṃ vi ṣya̭tā̱ṃ nābhi̭ma̱sme"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "viśvā̭nya̱nyo",
+      "words": [
+       {
+        "w": "viśvāni",
+        "gloss": "all",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "anyaḥ",
+        "gloss": "one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhuva̭nā",
+      "words": [
+       {
+        "w": "bhuvanā",
+        "gloss": "beings",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ja̱jāna̱",
+      "words": [
+       {
+        "w": "jajāna",
+        "gloss": "has begotten",
+        "gram": "3 sg. pf. √jan"
+       }
+      ]
+     },
+     {
+      "src": "viśva̭ma̱nyo",
+      "words": [
+       {
+        "w": "viśvam",
+        "gloss": "everything",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "anyaḥ",
+        "gloss": "the other",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭bhi̱cakṣā̭ṇa",
+      "words": [
+       {
+        "w": "abhicakṣāṇaḥ",
+        "gloss": "looking upon",
+        "gram": "m. nom. sg. pres. part. mid. abhi-√cakṣ"
+       }
+      ]
+     },
+     {
+      "src": "eti",
+      "words": [
+       {
+        "w": "eti",
+        "gloss": "goes",
+        "gram": "3 sg. pres. √i"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "somā̭pūṣaṇā̱vava̭ta̱ṃ",
+      "words": [
+       {
+        "w": "soma-pūṣaṇau",
+        "gloss": "Soma and Pūṣan",
+        "gram": "m. voc. du. dvandva"
+       },
+       {
+        "w": "avatam",
+        "gloss": "help",
+        "gram": "2 du. impv. √av"
+       }
+      ]
+     },
+     {
+      "src": "dhiya̭ṃ",
+      "words": [
+       {
+        "w": "dhiyam",
+        "gloss": "thought",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "me",
+      "words": [
+       {
+        "w": "me",
+        "gloss": "my",
+        "gram": "gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "yu̱vābhyā̱ṃ",
+      "words": [
+       {
+        "w": "yuvābhyām",
+        "gloss": "with you two",
+        "gram": "inst. du."
+       }
+      ]
+     },
+     {
+      "src": "viśvā̱:",
+      "words": [
+       {
+        "w": "viśvāḥ",
+        "gloss": "all",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "pṛta̭nā",
+      "words": [
+       {
+        "w": "pṛtanā",
+        "gloss": "battles",
+        "gram": "f. acc. pl. (as printed)"
+       }
+      ]
+     },
+     {
+      "src": "jayema",
+      "words": [
+       {
+        "w": "jayema",
+        "gloss": "may we win",
+        "gram": "1 pl. opt. √ji"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "एक ने सब भुवनों को उत्पन्न किया है, दूसरा सबको देखता हुआ चलता है। हे सोम और पूषन्, मेरी धी की रक्षा करो; तुम दोनों के साथ हम सब युद्धों को जीतें।",
+  "english": "One has begotten all beings; the other goes looking upon everything. O Soma and Pūṣan, help my thought; with you two may we win all the battles.",
+  "text_flags": [],
+  "notes": "pṛtanā after viśvāḥ is printed with final -ā; it is taken as accusative plural (pṛtanāḥ) and rendered \"battles\". Not changed in src.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "002.040.5a",
+   "002.040.5b"
+  ],
+  "lines_deva": [
+   "विश्वा॑न्य॒न्यो भुव॑ना ज॒जान॒ विश्व॑म॒न्यो अ॑भि॒चक्षा॑ण एति",
+   "सोमा॑पूषणा॒वव॑तं॒ धियं॑ मे यु॒वाभ्यां॒ विश्वा॒: पृत॑ना जयेम"
+  ],
+  "lines_iast": [
+   "viśvā̭nya̱nyo bhuva̭nā ja̱jāna̱ viśva̭ma̱nyo a̭bhi̱cakṣā̭ṇa eti",
+   "somā̭pūṣaṇā̱vava̭ta̱ṃ dhiya̭ṃ me yu̱vābhyā̱ṃ viśvā̱: pṛta̭nā jayema"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dhiya̭ṃ",
+      "words": [
+       {
+        "w": "dhiyam",
+        "gloss": "thought",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pū̱ṣā",
+      "words": [
+       {
+        "w": "pūṣā",
+        "gloss": "Pūṣan",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ji̭nvatu",
+      "words": [
+       {
+        "w": "jinvatu",
+        "gloss": "let him quicken",
+        "gram": "3 sg. impv. √jinv"
+       }
+      ]
+     },
+     {
+      "src": "viśvami̱nvo",
+      "words": [
+       {
+        "w": "viśvam-invaḥ",
+        "gloss": "all-impelling",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ra̱yiṃ",
+      "words": [
+       {
+        "w": "rayim",
+        "gloss": "wealth",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "somo̭",
+      "words": [
+       {
+        "w": "somaḥ",
+        "gloss": "Soma",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "rayi̱pati̭rdadhātu",
+      "words": [
+       {
+        "w": "rayi-patiḥ",
+        "gloss": "lord of wealth",
+        "gram": "m. nom. sg. tat-puruṣa"
+       },
+       {
+        "w": "dadhātu",
+        "gloss": "let him bestow",
+        "gram": "3 sg. impv. √dhā"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ava̭tu",
+      "words": [
+       {
+        "w": "avatu",
+        "gloss": "let her help",
+        "gram": "3 sg. impv. √av"
+       }
+      ]
+     },
+     {
+      "src": "de̱vyadi̭tirana̱rvā",
+      "words": [
+       {
+        "w": "devī",
+        "gloss": "goddess",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "aditiḥ",
+        "gloss": "Aditi",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "anarvā",
+        "gloss": "unassailed",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "bṛ̱had",
+      "words": [
+       {
+        "w": "bṛhat",
+        "gloss": "greatly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭dema",
+      "words": [
+       {
+        "w": "vadema",
+        "gloss": "may we speak",
+        "gram": "1 pl. opt. √vad"
+       }
+      ]
+     },
+     {
+      "src": "vi̱dathḙ",
+      "words": [
+       {
+        "w": "vidathe",
+        "gloss": "in the rite",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱vīrā̭:",
+      "words": [
+       {
+        "w": "su-vīrāḥ",
+        "gloss": "rich in heroes",
+        "gram": "m. nom. pl. bahuvrīhi"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "सबको प्रेरित करने वाला पूषन् धी को प्रेरित करे; धन का स्वामी सोम धन प्रदान करे। अबाधित देवी अदिति रक्षा करे; हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "english": "May Pūṣan, who impels everything, quicken the thought; may Soma, lord of wealth, bestow wealth. May the goddess Aditi, unassailed, help; may we, rich in heroes, speak greatly in the rite.",
+  "text_flags": [],
+  "notes": "anarvā is read as \"unassailed\" (a-arvan); other senses (\"without horse\", \"not hostile\") are possible. bṛhat vadema is rendered \"speak greatly\"; \"speak loudly\" is an alternative. Refrain also found in the following hymns.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "002.040.6a",
+   "002.040.6b"
+  ],
+  "lines_deva": [
+   "धियं॑ पू॒षा जि॑न्वतु विश्वमि॒न्वो र॒यिं सोमो॑ रयि॒पति॑र्दधातु",
+   "अव॑तु दे॒व्यदि॑तिरन॒र्वा बृ॒हद् व॑देम वि॒दथे॑ सु॒वीरा॑:"
+  ],
+  "lines_iast": [
+   "dhiya̭ṃ pū̱ṣā ji̭nvatu viśvami̱nvo ra̱yiṃ somo̭ rayi̱pati̭rdadhātu",
+   "ava̭tu de̱vyadi̭tirana̱rvā bṛ̱had va̭dema vi̱dathḙ su̱vīrā̭:"
+  ],
+  "uncertain": []
+ }
+]

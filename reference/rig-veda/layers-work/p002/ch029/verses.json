@@ -1,0 +1,1486 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "dhṛta̭vratā̱",
+      "words": [
+       {
+        "w": "dhṛta-vratāḥ",
+        "gloss": "firm in ordinance",
+        "gram": "m. voc. pl. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ādi̭tyā̱",
+      "words": [
+       {
+        "w": "ādityāḥ",
+        "gloss": "O Ādityas",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "iṣi̭rā",
+      "words": [
+       {
+        "w": "iṣirāḥ",
+        "gloss": "vigorous",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ā̱re",
+      "words": [
+       {
+        "w": "āre",
+        "gloss": "far",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mat",
+      "words": [
+       {
+        "w": "mat",
+        "gloss": "from me",
+        "gram": "abl. sg. (aham)"
+       }
+      ]
+     },
+     {
+      "src": "ka̭rta",
+      "words": [
+       {
+        "w": "karta",
+        "gloss": "make",
+        "gram": "2 pl. impv. √kṛ"
+       }
+      ]
+     },
+     {
+      "src": "raha̱sūri̱vāga̭:",
+      "words": [
+       {
+        "w": "rahasūḥ",
+        "gloss": "woman bearing in secret",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "āgaḥ",
+        "gloss": "offence",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śṛ̱ṇva̱to",
+      "words": [
+       {
+        "w": "śṛṇvataḥ",
+        "gloss": "hearing",
+        "gram": "m. acc. pl. pres. part. √śru"
+       }
+      ]
+     },
+     {
+      "src": "vo̱",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "you",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "varṷṇa̱",
+      "words": [
+       {
+        "w": "varuṇa",
+        "gloss": "O Varuṇa",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "mitra̱",
+      "words": [
+       {
+        "w": "mitra",
+        "gloss": "O Mitra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "devā̭",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "O gods",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "bha̱drasya̭",
+      "words": [
+       {
+        "w": "bhadrasya",
+        "gloss": "of the good",
+        "gram": "n. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱dvā~",
+      "words": [
+       {
+        "w": "vidvān",
+        "gloss": "knowing",
+        "gram": "m. nom. sg. pf. part. √vid"
+       }
+      ]
+     },
+     {
+      "src": "ava̭se",
+      "words": [
+       {
+        "w": "avase",
+        "gloss": "for help",
+        "gram": "n. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "huve",
+      "words": [
+       {
+        "w": "huve",
+        "gloss": "I call",
+        "gram": "1 sg. pres. mid. √hū"
+       }
+      ]
+     },
+     {
+      "src": "vaḥ",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "you",
+        "gram": "acc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे व्रत धारण करनेवाले, हे स्फूर्तिमान् आदित्यो, अपराध को मुझसे दूर कर दो, गुप्त रूप से प्रसव करनेवाली स्त्री के समान। हे वरुण, हे मित्र, हे देवो, भलाई को जाननेवाला मैं सुननेवाले तुम सबको सहायता के लिए पुकारता हूँ।",
+  "english": "O Ādityas, firm in ordinance and vigorous, put the offence far from me, like a woman who gives birth in secret. Knowing what is good, I call on you who hear, O Varuṇa, O Mitra, O gods, for help.",
+  "text_flags": [],
+  "notes": "'dhṛtavratā' is the bahuvrīhi 'having firm ordinances'. 'iṣirāḥ' rendered 'vigorous' (also 'swift, fresh'). 'rahasūr iva āgaḥ': the simile is obscure to the drafter (rahasū, a woman who bears in secret); only the literal words are given and the point of comparison is not explained. 'vidvān' printed with a nasal sign (vidvā~): Vedic sandhi before avase. 'śṛṇvataḥ vaḥ' taken as accusative 'you who hear'. 'bhadrasya vidvān' taken as 'knowing the good'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.029.1a",
+   "002.029.1b"
+  ],
+  "lines_deva": [
+   "धृत॑व्रता॒ आदि॑त्या॒ इषि॑रा आ॒रे मत् क॑र्त रह॒सूरि॒वाग॑:",
+   "शृ॒ण्व॒तो वो॒ वरु॑ण॒ मित्र॒ देवा॑ भ॒द्रस्य॑ वि॒द्वाँ अव॑से हुवे वः"
+  ],
+  "lines_iast": [
+   "dhṛta̭vratā̱ ādi̭tyā̱ iṣi̭rā ā̱re mat ka̭rta raha̱sūri̱vāga̭:",
+   "śṛ̱ṇva̱to vo̱ varṷṇa̱ mitra̱ devā̭ bha̱drasya̭ vi̱dvā~ ava̭se huve vaḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "yū̱yaṃ",
+      "words": [
+       {
+        "w": "yūyam",
+        "gloss": "you",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dḙvā̱:",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "O gods",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "prama̭tiryū̱yamojo̭",
+      "words": [
+       {
+        "w": "pra-matiḥ",
+        "gloss": "forethought",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "yūyam",
+        "gloss": "you",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "ojaḥ",
+        "gloss": "strength",
+        "gram": "n. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "yū̱yaṃ",
+      "words": [
+       {
+        "w": "yūyam",
+        "gloss": "you",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "dveṣā̭ṃsi",
+      "words": [
+       {
+        "w": "dveṣāṃsi",
+        "gloss": "hatreds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sanu̱taryṷyota",
+      "words": [
+       {
+        "w": "sanutaḥ",
+        "gloss": "far away",
+        "gram": "ind."
+       },
+       {
+        "w": "yuyota",
+        "gloss": "keep away",
+        "gram": "2 pl. impv. √yu"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱bhi̱kṣa̱ttāro̭",
+      "words": [
+       {
+        "w": "abhi-kṣattāraḥ",
+        "gloss": "overpowering ones",
+        "gram": "m. voc. pl. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "a̱bhi",
+      "words": [
+       {
+        "w": "abhi",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̱",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kṣama̭dhvama̱dyā",
+      "words": [
+       {
+        "w": "kṣamadhvam",
+        "gloss": "be forbearing",
+        "gram": "2 pl. impv. mid. √kṣam"
+       },
+       {
+        "w": "adya",
+        "gloss": "today",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̭",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "mṛ̱ḻaya̭tāpa̱raṃ",
+      "words": [
+       {
+        "w": "mṛḻayata",
+        "gloss": "be gracious",
+        "gram": "2 pl. impv. √mṛḍ"
+       },
+       {
+        "w": "aparam",
+        "gloss": "afterwards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ca̭",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे देवो, तुम पूर्वविचार हो, तुम बल हो; तुम द्वेषों को दूर रखो। हे अभिभूत करनेवालो, क्षमाशील बनो, और आज तथा आगे भी हम पर कृपा करो।",
+  "english": "You, O gods, are forethought; you are strength; keep the hatreds far away. O overpowering ones, be forbearing, and today and afterwards be gracious to us.",
+  "text_flags": [],
+  "notes": "'abhikṣattāraḥ' is unclear to the drafter; rendered 'overpowering ones' (a derivation from abhi-√kṣad or abhi-kṣatṛ); it may be a nominative qualifying yūyam. 'pramatiḥ' rendered 'forethought'. 'sanutaḥ' taken as 'far away, aside'; 'yuyota' as impv. of √yu 'keep off'. The two verbs 'kṣamadhvam' and 'mṛḻayata' are imperatives.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.029.2a",
+   "002.029.2b"
+  ],
+  "lines_deva": [
+   "यू॒यं दे॑वा॒: प्रम॑तिर्यू॒यमोजो॑ यू॒यं द्वेषां॑सि सनु॒तर्यु॑योत",
+   "अ॒भि॒क्ष॒त्तारो॑ अ॒भि च॒ क्षम॑ध्वम॒द्या च॑ नो मृ॒ळय॑ताप॒रं च॑"
+  ],
+  "lines_iast": [
+   "yū̱yaṃ dḙvā̱: prama̭tiryū̱yamojo̭ yū̱yaṃ dveṣā̭ṃsi sanu̱taryṷyota",
+   "a̱bhi̱kṣa̱ttāro̭ a̱bhi ca̱ kṣama̭dhvama̱dyā ca̭ no mṛ̱ḻaya̭tāpa̱raṃ ca̭"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "kimū̱",
+      "words": [
+       {
+        "w": "kim",
+        "gloss": "what",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ū",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nu",
+      "words": [
+       {
+        "w": "nu",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭:",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "for you",
+        "gram": "dat./gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛṇavā̱māpa̭reṇa̱",
+      "words": [
+       {
+        "w": "kṛṇavāma",
+        "gloss": "shall we do",
+        "gram": "1 pl. subj. √kṛ"
+       },
+       {
+        "w": "apareṇa",
+        "gloss": "with the later",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "kiṃ",
+      "words": [
+       {
+        "w": "kim",
+        "gloss": "what",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sanḙna",
+      "words": [
+       {
+        "w": "sanena",
+        "gloss": "with the old",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vasava̱",
+      "words": [
+       {
+        "w": "vasavaḥ",
+        "gloss": "O Vasus",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "āpyḙna",
+      "words": [
+       {
+        "w": "āpyena",
+        "gloss": "with kinship",
+        "gram": "n. inst. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "yū̱yaṃ",
+      "words": [
+       {
+        "w": "yūyam",
+        "gloss": "you",
+        "gram": "nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "no̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "mitrāvaruṇādite",
+      "words": [
+       {
+        "w": "mitrā-varuṇā",
+        "gloss": "O Mitra and Varuṇa",
+        "gram": "m. voc. du. dvandva"
+       },
+       {
+        "w": "adite",
+        "gloss": "O Aditi",
+        "gram": "f. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sva̱stimi̭ndrāmaruto",
+      "words": [
+       {
+        "w": "svastim",
+        "gloss": "well-being",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "indra",
+        "gloss": "O Indra",
+        "gram": "m. voc. sg."
+       },
+       {
+        "w": "marutaḥ",
+        "gloss": "O Maruts",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "dadhāta",
+      "words": [
+       {
+        "w": "dadhāta",
+        "gloss": "grant",
+        "gram": "2 pl. impv. √dhā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब हम तुम्हारे लिए बाद वाले से क्या करें, पुराने से क्या करें, हे वसुओ, बन्धुता से क्या करें? हे मित्र और वरुण, हे अदिति, हे इन्द्र, हे मरुतो, तुम हमें कल्याण प्रदान करो।",
+  "english": "What then shall we do for you with the later, what with the old, O Vasus, what with kinship? You, O Mitra and Varuṇa, O Aditi, O Indra, O Maruts, grant us well-being.",
+  "text_flags": [],
+  "notes": "The first line is difficult: 'kim ū nu vaḥ kṛṇavāma apareṇa kiṃ sanena ... āpyena' is rendered literally as a question; vaḥ may be 'for you' or 'your'. 'indrāmarutaḥ' is split as indra + marutaḥ with a lengthened final vowel (possibly a dvandva 'Indra and the Maruts'); uncertain. 'mitrāvaruṇādite' is split mitrā-varuṇā + adite; 'adite' could also be read with ca; uncertain.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.029.3a",
+   "002.029.3b"
+  ],
+  "lines_deva": [
+   "किमू॒ नु व॑: कृणवा॒माप॑रेण॒ किं सने॑न वसव॒ आप्ये॑न",
+   "यू॒यं नो॑ मित्रावरुणादिते च स्व॒स्तिमि॑न्द्रामरुतो दधात"
+  ],
+  "lines_iast": [
+   "kimū̱ nu va̭: kṛṇavā̱māpa̭reṇa̱ kiṃ sanḙna vasava̱ āpyḙna",
+   "yū̱yaṃ no̭ mitrāvaruṇādite ca sva̱stimi̭ndrāmaruto dadhāta"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "ha̱ye",
+      "words": [
+       {
+        "w": "haye",
+        "gloss": "hey",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dḙvā",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "O gods",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "yū̱yamidā̱paya̭:",
+      "words": [
+       {
+        "w": "yūyam",
+        "gloss": "you",
+        "gram": "nom. pl."
+       },
+       {
+        "w": "it",
+        "gloss": "indeed",
+        "gram": "ind."
+       },
+       {
+        "w": "āpayaḥ",
+        "gloss": "kinsmen",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "stha̱",
+      "words": [
+       {
+        "w": "stha",
+        "gloss": "you are",
+        "gram": "2 pl. pres. √as"
+       }
+      ]
+     },
+     {
+      "src": "te",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "mṛ̭ḻata̱",
+      "words": [
+       {
+        "w": "mṛḻata",
+        "gloss": "be gracious",
+        "gram": "2 pl. impv. √mṛḍ"
+       }
+      ]
+     },
+     {
+      "src": "nādha̭mānāya̱",
+      "words": [
+       {
+        "w": "nādhamānāya",
+        "gloss": "to one entreating",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "mahya̭m",
+      "words": [
+       {
+        "w": "mahyam",
+        "gloss": "to me",
+        "gram": "dat. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vo̱",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "your",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "ratho̭",
+      "words": [
+       {
+        "w": "rathaḥ",
+        "gloss": "chariot",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "madhyama̱vāḻṛ̱te",
+      "words": [
+       {
+        "w": "madhyama-vāṭ",
+        "gloss": "unclear",
+        "gram": "m. nom. sg. (uncertain)"
+       },
+       {
+        "w": "ṛte",
+        "gloss": "without",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bhū̱nmā",
+      "words": [
+       {
+        "w": "bhūt",
+        "gloss": "may it be",
+        "gram": "3 sg. aor. inj. √bhū"
+       },
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yu̱ṣmāva̭tsvā̱piṣṷ",
+      "words": [
+       {
+        "w": "yuṣmāvatsu",
+        "gloss": "among those like you",
+        "gram": "m. loc. pl."
+       },
+       {
+        "w": "āpiṣu",
+        "gloss": "among kinsmen",
+        "gram": "m. loc. pl."
+       }
+      ]
+     },
+     {
+      "src": "śramiṣma",
+      "words": [
+       {
+        "w": "śramiṣma",
+        "gloss": "may we tire",
+        "gram": "1 pl. aor. √śram"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अरे देवो, तुम ही तो बन्धु हो; मुझ याचक पर कृपा करो। तुम्हारा रथ मध्यम-वाहक होकर बिना ... न हो, और तुम्हारे जैसे बन्धुओं में हम थकें नहीं।",
+  "english": "Hey, O gods, you are indeed kinsmen; be gracious to me, who entreat. May your chariot, the madhyamavāṭ, not be without ...; and may we not grow weary among kinsmen such as you.",
+  "text_flags": [],
+  "notes": "The line 'mā vo ratho madhyamavāḻ ṛte bhūt' is not understood by the drafter: madhyamavāṭ (perhaps a chariot-draught in the middle) and the construction with ṛte 'without' are uncertain, so the translation breaks off at the unclear point. 'te' in the first line is taken as 'they', resumptive; uncertain. 'yuṣmāvatsu' taken as 'among those like you'. OPEN (reviewer error, not settled): translation incomplete: madhyamavāṭ untranslated, sentence breaks off",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.029.4a",
+   "002.029.4b"
+  ],
+  "lines_deva": [
+   "ह॒ये दे॑वा यू॒यमिदा॒पय॑: स्थ॒ ते मृ॑ळत॒ नाध॑मानाय॒ मह्य॑म्",
+   "मा वो॒ रथो॑ मध्यम॒वाळृ॒ते भू॒न्मा यु॒ष्माव॑त्स्वा॒पिषु॑ श्रमिष्म"
+  ],
+  "lines_iast": [
+   "ha̱ye dḙvā yū̱yamidā̱paya̭: stha̱ te mṛ̭ḻata̱ nādha̭mānāya̱ mahya̭m",
+   "mā vo̱ ratho̭ madhyama̱vāḻṛ̱te bhū̱nmā yu̱ṣmāva̭tsvā̱piṣṷ śramiṣma"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̱",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "against you",
+        "gram": "acc./dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "eko̭",
+      "words": [
+       {
+        "w": "ekaḥ",
+        "gloss": "alone",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "mimaya̱",
+      "words": [
+       {
+        "w": "mimaya",
+        "gloss": "I have transgressed",
+        "gram": "1 sg. pf. pra-√mī (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "bhūryāgo̱",
+      "words": [
+       {
+        "w": "bhūri",
+        "gloss": "much",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āgaḥ",
+        "gloss": "offence",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "yanmā̭",
+      "words": [
+       {
+        "w": "yat",
+        "gloss": "because",
+        "gram": "ind."
+       },
+       {
+        "w": "mā",
+        "gloss": "me",
+        "gram": "acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pi̱teva̭",
+      "words": [
+       {
+        "w": "pitā",
+        "gloss": "father",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kita̱vaṃ",
+      "words": [
+       {
+        "w": "kitavam",
+        "gloss": "gambler",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "śa̭śā̱sa",
+      "words": [
+       {
+        "w": "śaśāsa",
+        "gloss": "has chastised",
+        "gram": "3 sg. pf. √śās"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ā̱re",
+      "words": [
+       {
+        "w": "āre",
+        "gloss": "far",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pāśā̭",
+      "words": [
+       {
+        "w": "pāśāḥ",
+        "gloss": "snares",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "ā̱re",
+      "words": [
+       {
+        "w": "āre",
+        "gloss": "far",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "a̱ghāni̭",
+      "words": [
+       {
+        "w": "aghāni",
+        "gloss": "evils",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "devā̱",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "O gods",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mādhi̭",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "me",
+        "gram": "acc. sg."
+       },
+       {
+        "w": "adhi",
+        "gloss": "over",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pu̱tre",
+      "words": [
+       {
+        "w": "putre",
+        "gloss": "son",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vimi̭va",
+      "words": [
+       {
+        "w": "vim",
+        "gloss": "bird",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "grabhīṣṭa",
+      "words": [
+       {
+        "w": "grabhīṣṭa",
+        "gloss": "seize",
+        "gram": "2 pl. inj. aor. √grabh"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "मैं अकेला तुम्हारे प्रति बहुत अपराध कर चुका हूँ, क्योंकि पिता के समान उसने मुझ जुआरी को दण्ड दिया है। हे देवो, फंदे दूर रहें, बुराइयाँ दूर रहें; मुझे पुत्र के कारण पक्षी की तरह न पकड़ो।",
+  "english": "I alone have transgressed against you with much offence, since, like a father, he has chastised me, the gambler. O gods, far be the snares, far be the evils; do not seize me over the son as one seizes a bird.",
+  "text_flags": [],
+  "notes": "'ekaḥ ... mimaya' is read as 'I alone have transgressed' (1 sg. pf.), but 'ekaḥ' could mean 'one of you' and mimaya may be differently analysed; the subject of śaśāsa ('he') is not stated. 'mā mādhi putre vimiva grabhīṣṭa' is read as mā mā adhi putre vim iva grabhīṣṭa; 'vimiva' as 'vim iva' (bird acc.) is a conjecture, as is the sense 'over the son'; 'pitā iva kitavam' is rendered 'as a father a gambler'. Both lines are uncertain in construction.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.029.5a",
+   "002.029.5b"
+  ],
+  "lines_deva": [
+   "प्र व॒ एको॑ मिमय॒ भूर्यागो॒ यन्मा॑ पि॒तेव॑ कित॒वं श॑शा॒स",
+   "आ॒रे पाशा॑ आ॒रे अ॒घानि॑ देवा॒ मा माधि॑ पु॒त्रे विमि॑व ग्रभीष्ट"
+  ],
+  "lines_iast": [
+   "pra va̱ eko̭ mimaya̱ bhūryāgo̱ yanmā̭ pi̱teva̭ kita̱vaṃ śa̭śā̱sa",
+   "ā̱re pāśā̭ ā̱re a̱ghāni̭ devā̱ mā mādhi̭ pu̱tre vimi̭va grabhīṣṭa"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱rvāñco̭",
+      "words": [
+       {
+        "w": "arvāñcaḥ",
+        "gloss": "turned towards us",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "a̱dyā",
+      "words": [
+       {
+        "w": "adya",
+        "gloss": "today",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "bha̭vatā",
+      "words": [
+       {
+        "w": "bhavata",
+        "gloss": "be",
+        "gram": "2 pl. impv. √bhū"
+       }
+      ]
+     },
+     {
+      "src": "yajatrā̱",
+      "words": [
+       {
+        "w": "yajatrāḥ",
+        "gloss": "O worthy of worship",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vo̱",
+      "words": [
+       {
+        "w": "vaḥ",
+        "gloss": "your",
+        "gram": "gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "hārdi̱",
+      "words": [
+       {
+        "w": "hārdi",
+        "gloss": "heart",
+        "gram": "n. loc. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "bhaya̭māno",
+      "words": [
+       {
+        "w": "bhayamānaḥ",
+        "gloss": "fearing",
+        "gram": "m. nom. sg. pres. part. mid. √bhī"
+       }
+      ]
+     },
+     {
+      "src": "vyayeyam",
+      "words": [
+       {
+        "w": "vyayeyam",
+        "gloss": "may I come",
+        "gram": "1 sg. opt. vi-√i (uncertain)"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "trādhva̭ṃ",
+      "words": [
+       {
+        "w": "trādhvam",
+        "gloss": "protect",
+        "gram": "2 pl. impv. mid. √trā"
+       }
+      ]
+     },
+     {
+      "src": "no",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "devā",
+      "words": [
+       {
+        "w": "devāḥ",
+        "gloss": "O gods",
+        "gram": "m. voc. pl."
+       }
+      ]
+     },
+     {
+      "src": "ni̱juro̱",
+      "words": [
+       {
+        "w": "nijuraḥ",
+        "gloss": "from the harm",
+        "gram": "m. abl. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "vṛka̭sya̱",
+      "words": [
+       {
+        "w": "vṛkasya",
+        "gloss": "of the wolf",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "trādhva̭ṃ",
+      "words": [
+       {
+        "w": "trādhvam",
+        "gloss": "protect",
+        "gram": "2 pl. impv. mid. √trā"
+       }
+      ]
+     },
+     {
+      "src": "ka̱rtāda̭va̱pado̭",
+      "words": [
+       {
+        "w": "kartāt",
+        "gloss": "from the pit",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "avapadaḥ",
+        "gloss": "from falling",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "yajatrāḥ",
+      "words": [
+       {
+        "w": "yajatrāḥ",
+        "gloss": "O worthy of worship",
+        "gram": "m. voc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे यजन के योग्य देवो, आज हमारी ओर मुख करो। भय खाता हुआ मैं तुम्हारे हृदय तक आ जाऊँ। हे देवो, भेड़िये की हानि से हमारी रक्षा करो; हे यजन के योग्य देवो, गड्ढे से और गिरने से रक्षा करो।",
+  "english": "Be turned towards us today, O worthy of worship; fearing, may I come to your heart. Protect us, O gods, from the harm of the wolf; protect us from the pit and from falling, O worthy of worship.",
+  "text_flags": [],
+  "notes": "'ā vo hārdi bhayamāno vyayeyam' is uncertain: 'hārdi' (taken as 'heart') and the verb vyayeyam (vi-√i? 'may I come/flee') are not clearly understood; the translation is tentative. 'nijuraḥ' rendered 'from the harm' (uncertain). 'kartāt avapadaḥ' taken as 'from the pit, from falling'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.029.6a",
+   "002.029.6b"
+  ],
+  "lines_deva": [
+   "अ॒र्वाञ्चो॑ अ॒द्या भ॑वता यजत्रा॒ आ वो॒ हार्दि॒ भय॑मानो व्ययेयम्",
+   "त्राध्वं॑ नो देवा नि॒जुरो॒ वृक॑स्य॒ त्राध्वं॑ क॒र्ताद॑व॒पदो॑ यजत्राः"
+  ],
+  "lines_iast": [
+   "a̱rvāñco̭ a̱dyā bha̭vatā yajatrā̱ ā vo̱ hārdi̱ bhaya̭māno vyayeyam",
+   "trādhva̭ṃ no devā ni̱juro̱ vṛka̭sya̱ trādhva̭ṃ ka̱rtāda̭va̱pado̭ yajatrāḥ"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "māhaṃ",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "aham",
+        "gloss": "I",
+        "gram": "nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱ghono̭",
+      "words": [
+       {
+        "w": "maghonaḥ",
+        "gloss": "of the bountiful one",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "varuṇa",
+      "words": [
+       {
+        "w": "varuṇa",
+        "gloss": "O Varuṇa",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pri̱yasya̭",
+      "words": [
+       {
+        "w": "priyasya",
+        "gloss": "dear",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "bhūri̱dāvna̱",
+      "words": [
+       {
+        "w": "bhūri-dāvnaḥ",
+        "gloss": "giving abundantly",
+        "gram": "m. gen. sg. bahuvrīhi"
+       }
+      ]
+     },
+     {
+      "src": "ā",
+      "words": [
+       {
+        "w": "ā",
+        "gloss": "towards",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̭da̱ṃ",
+      "words": [
+       {
+        "w": "vidam",
+        "gloss": "may I find",
+        "gram": "1 sg. aor. subj. √vid"
+       }
+      ]
+     },
+     {
+      "src": "śūna̭mā̱peḥ",
+      "words": [
+       {
+        "w": "śūnam",
+        "gloss": "lack",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āpeḥ",
+        "gloss": "of a friend",
+        "gram": "m. gen. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "mā",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rā̱yo",
+      "words": [
+       {
+        "w": "rāyaḥ",
+        "gloss": "from wealth",
+        "gram": "m. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "rā̭jan",
+      "words": [
+       {
+        "w": "rājan",
+        "gloss": "O king",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "tsu̱yamā̱dava̭",
+      "words": [
+       {
+        "w": "su-yamāt",
+        "gloss": "easy to hold",
+        "gram": "m. abl. sg."
+       },
+       {
+        "w": "ava",
+        "gloss": "away",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sthāṃ",
+      "words": [
+       {
+        "w": "sthām",
+        "gloss": "may I fall",
+        "gram": "1 sg. aor. opt. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "bṛ̱had",
+      "words": [
+       {
+        "w": "bṛhat",
+        "gloss": "greatly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭dema",
+      "words": [
+       {
+        "w": "vadema",
+        "gloss": "may we speak",
+        "gram": "1 pl. opt. √vad"
+       }
+      ]
+     },
+     {
+      "src": "vi̱dathḙ",
+      "words": [
+       {
+        "w": "vidathe",
+        "gloss": "in the rite",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱vīrā̭:",
+      "words": [
+       {
+        "w": "su-vīrāḥ",
+        "gloss": "rich in heroes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे वरुण, मैं उदार, प्रिय और बहुत देनेवाले मित्र की कमी न पाऊँ। हे राजन्, सरलता से सँभाली जानेवाली सम्पत्ति से मैं दूर न होऊँ। हम उत्तम वीरों से युक्त होकर यज्ञ में ऊँचे स्वर से बोलें।",
+  "english": "O Varuṇa, may I not meet with the lack of a bountiful, dear friend who gives abundantly. O king, may I not fall away from wealth that is easy to hold. May we, rich in heroes, speak greatly in the rite.",
+  "text_flags": [],
+  "notes": "'rājan tsuyamād': the printed t is a Vedic inserted consonant after rājan before su-; no error assumed. 'maghonaḥ priyasya bhūridāvnaḥ āpeḥ' is read together as 'of a bounteous, dear, abundantly giving friend'. 'rāyaḥ suyamāt' construction is uncertain (both abl.); 'ava sthām' is rendered 'fall away'. 'bṛhat vadema' is rendered 'speak greatly' (possibly 'loudly'). Verse identical to RV 2.28.11.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "002.029.7a",
+   "002.029.7b"
+  ],
+  "lines_deva": [
+   "माहं म॒घोनो॑ वरुण प्रि॒यस्य॑ भूरि॒दाव्न॒ आ वि॑दं॒ शून॑मा॒पेः",
+   "मा रा॒यो रा॑जन् त्सु॒यमा॒दव॑ स्थां बृ॒हद् व॑देम वि॒दथे॑ सु॒वीरा॑:"
+  ],
+  "lines_iast": [
+   "māhaṃ ma̱ghono̭ varuṇa pri̱yasya̭ bhūri̱dāvna̱ ā vi̭da̱ṃ śūna̭mā̱peḥ",
+   "mā rā̱yo rā̭jan tsu̱yamā̱dava̭ sthāṃ bṛ̱had va̭dema vi̱dathḙ su̱vīrā̭:"
+  ],
+  "uncertain": []
+ }
+]

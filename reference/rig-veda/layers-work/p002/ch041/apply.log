@@ -1,0 +1,9 @@
+chunk 1: 21 units, 27 patches applied (27 changes logged), 4 issues without patch, 0 patches failed
+  MANUAL unit 6 [minor] english / lords of the dānu: 'dānu' is left as an untranslated Sanskrit word in both translations; render with a plain word (the notes already say 'a fluid or gift') or accept as a flagged leave. Needs a human decision.
+         suggested fix: decide: e.g. 'lords of the fluid' (Hindi 'द्रव') or keep dānu
+  MANUAL unit 7 [minor] hindi / पुरुषों के पीने योग्य के पास: Hindi 'what men may drink' (passive potential) differs from English 'the drink of men' and from the gloss; align one reading (the notes mention both 'to be drunk by men' and 'protecting men').
+         suggested fix: align Hindi with the English or the notes
+  MANUAL unit 9 [minor] gloss / dhiṣṇyā / O you two Dhiṣṇyas: dhiṣṇyā is treated as a name ('Dhiṣṇyas') while the notes call it an uncertain epithet ('attentive, bountiful'); a name in the translation is a firmer reading than the notes support. Hindi 'हे धिष्ण्यो' is plural for a dual.
+         suggested fix: keep as epithet or mark clearly as uncertain; no change made
+  MANUAL unit 19 [minor] split / yuvāmidā: 'idā' is a Vedic adverb ('now, here') and may be the intended word (yuvām + idā) rather than id + ā; the English renders 'indeed' and 'here' for the two particles. Please check; no patch.
+         suggested fix: yuvām + idā 'now'? (verify)

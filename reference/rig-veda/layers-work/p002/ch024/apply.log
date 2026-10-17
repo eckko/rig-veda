@@ -1,0 +1,17 @@
+chunk 1: 16 units, 34 patches applied (34 changes logged), 8 issues without patch, 0 patches failed
+  MANUAL unit 1 [error] split / sota (sa + u + ta): The printed sota is sa + uta (sa uta). The draft splits it into sa + u + ta and glosses u "and" and ta "also"; ta is not a word. The note itself says "sa before uta", so draft and note disagree. Replace the two words u and ta by one word uta "also".
+         suggested fix: sa + uta (uta = "also")
+  MANUAL unit 2 [minor] hindi / जो झुकने योग्य और दूसरे थे: Hindi renders nantvā ("to be bent") plus anyā, English only "bent down the others"; the two translations disagree and Hindi is garbled. Align on one reading (nantvā is flagged unclear in the note).
+         suggested fix: Make Hindi and English say the same thing about nantvā anyā, e.g. Hindi "जिसने बल से दूसरों को झुका दिया" if nantvā is left unrendered and noted.
+  MANUAL unit 4 [minor] split / madhu-dhāram + abhi: The word abhi belongs to the token madhudhārama̱bhi (end of line a), but the draft lists it under the next token yamoja̱sātṛ̭ṇat; the token madhudhāram+abhi is therefore incomplete and the next token has an extra word. Move abhi to the earlier token and gloss it as the preverb of atṛṇat ("upon, over"), not "towards".
+         suggested fix: move abhi to token madhudhārama̱bhi
+  MANUAL unit 5 [error] gram / vayunā: vayunā is not an instrumental (inst. sg. would be vayunena); it is n. nom./acc. pl. of vayuna ("pattern, way, design"), and the relative yā (n. pl.) agrees with it: "which patterns Brahmaṇaspati made". The draft translation ("which Brahmaṇaspati made with insight") rests on a wrong case. No patch: gloss and both translations need a decision.
+         suggested fix: vayunā n. acc. pl. "ways/designs"; English e.g. "the ways that Brahmaṇaspati made"
+  MANUAL unit 5 [minor] split / duraḥ: duraḥ is part of the printed token śa̱radbhi̱rduro̭, but the draft puts it under the token varanta (and gives the token śaradbhirduro only śaradbhiḥ). Word-to-token assignment is shifted by one word.
+         suggested fix: move duraḥ to token śa̱radbhi̱rduro̭
+  MANUAL unit 5 [minor] english / those some beings: "those some beings" is ungrammatical and bhuvanā is glossed "beings, worlds" while the Hindi has भुवन (worlds).
+         suggested fix: those several worlds that were to come to be (and gloss "worlds")
+  MANUAL unit 7 [error] split / su + u (ṣo): The printed ṣo cannot come from su + u (that gives ṣū); it is saḥ + u (cf. sota in unit 1 of ch024): naki ṣo = nakiḥ ṣaḥ u asti. The draft invents su "indeed" + u "and".
+         suggested fix: replace su+u by sa "he" + u "and"
+  MANUAL unit 13 [minor] gram / vaśaḥ: "m. acc. sg." does not fit the form: the acc. sg. of vaśa is vaśam, and vaśaḥ is nom. sg. (or acc. pl.). Check against the printed text; no patch because the construction with anu is unsettled.
+         suggested fix: m. nom. sg. (or acc. pl.)

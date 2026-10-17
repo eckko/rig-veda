@@ -1,0 +1,65 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "हे अग्नि, इस स्तुति से हम तुम्हारी सेवा करें, हे बल के पुत्र; घोड़े को चाहता है; इस सुन्दर सूक्त से, हे सुजात।",
+  "new": "हे अग्नि, इससे हम तुम्हारी पूजा करें, हे बल के पुत्र; घोड़े को चाहता है; इस सुन्दर सूक्त से, हे सुजात।",
+  "why": "reviewer (error): 'स्तुति' is supplied (notes: the noun is not stated; English says only 'With this'); also vidhema is 'worship' in English but 'सेवा' here, while saparyema 'serve' becomes 'पूजें' in unit 3: the two verbs are swapped."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "हे धन देने वाले, स्तुतियों से प्रसन्न होने वाले, धन चाहने वाले उस तुमको हम सेवा करते हुए स्तुतियों से पूजें।",
+  "new": "हे धन देने वाले, स्तुतियों से प्रसन्न होने वाले, धन चाहने वाले उस तुमको हम स्तुतियों से सेवा करें, सेवा करने वाले होकर।",
+  "why": "reviewer (minor): saparyema/saparyavaḥ are 'serve', 'we who serve' in English; Hindi uses 'पूजें' for the finite verb, swapping with unit 2."
+ },
+ {
+  "n": "4",
+  "field": "text_flags",
+  "old": [
+   {
+    "src": "yuyodhya1smad",
+    "suggest": "yuyodhi asmat",
+    "why": "the digit 1 inside the word looks like a footnote or note marker; the word is yuyodhy asmat by sandhi"
+   }
+  ],
+  "new": [],
+  "why": "reviewer (minor): Not a real typo and the explanation is wrong: the digit 1 is a printed Vedic svara/sandhi mark (y standing for i), not a footnote marker. The reading yuyodhi asmat is right, but this is not a text flag."
+ },
+ {
+  "n": "4",
+  "field": "notes",
+  "old": "The printed yuyodhya1smad contains a digit 1 in the middle of the word, which looks like a footnote marker; it is read as yuyodhi asmat (yuyodhy asmat). sūri is rendered 'patron'; maghavan is taken as an epithet 'bountiful' (it is also a name-like epithet of Indra, not used here as a name).",
+  "new": "The printed yuyodhya1smad contains a digit 1 in the middle of the word, which looks like a footnote marker; it is read as yuyodhi asmat (yuyodhy asmat). sūri is rendered 'patron'; maghavan is taken as an epithet 'bountiful' (it is also a name-like epithet of Indra, not used here as a name). Correction: the digit 1 is the printed Vedic svara/sandhi mark for y replacing i, not a footnote marker; the text is yuyodhy asmat (= yuyodhi asmat).",
+  "why": "reviewer (minor): Note calls the digit a footnote marker."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "हे सबसे युवा, हे दूत, हमारी स्तुति से, स्तुति करने वाले और सहायता चाहने वाले के पास, हे सर्वश्रेष्ठ यजन करने वाले, हे होता, आओ।",
+  "new": "हे सबसे युवा, हे दूत, हमारी स्तुति से, स्तुति करने वाले और सहायता चाहने वाले के लिए, हे सर्वश्रेष्ठ यजन करने वाले, हे होता, आओ।",
+  "why": "reviewer (minor): 'के पास' (near/to) is an addition; īḻānāya avasyave are datives."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे अग्नि, तुम दोनों जन्मों को जानने वाले होकर, हे कवि, दूत की भाँति बीच में जाते हो, बन्धुओं के समान मित्रवत्।",
+  "new": "हे अग्नि, तुम दोनों जन्मों को जानने वाले होकर, हे कवि, दूत के रूप में बीच में जाते हो, बन्धुओं के समान मित्रवत्।",
+  "why": "reviewer (error): 'भाँति' (like) is not in the text: dūtaḥ is nominative 'as a messenger' (English); iva belongs only to janyā iva."
+ },
+ {
+  "n": "8",
+  "field": "english",
+  "old": "You, the knowing one, gladden and worship in due order, O discerning one; and sit on this sacred grass.",
+  "new": "You, the knowing one, gladden and worship in due order, O discerning one; and sit on this barhis.",
+  "why": "reviewer (minor): Mandala 2 decisions in the glossary: barhis = barhis."
+ },
+ {
+  "n": "8",
+  "field": "word.gloss",
+  "word": "barhiṣi",
+  "old": "on the sacred grass",
+  "new": "on the barhis",
+  "why": "reviewer (minor): Same."
+ }
+]

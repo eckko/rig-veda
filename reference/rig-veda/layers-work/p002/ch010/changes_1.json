@@ -1,0 +1,59 @@
+[
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "चित्र-तेज वाला अग्नि मेरा आह्वान सुने, सब स्तुतियों से, वह अमर और विवेकशील। काले दोनों रथ को ढोते हैं, अथवा लाल दोनों, अथवा अरुण दोनों; विविध प्रकार से धारण किया गया उसने किया।",
+  "new": "उज्ज्वल तेज वाला अग्नि मेरा आह्वान सुने, सब स्तुतियों से, वह अमर और विवेकशील। काले दोनों रथ को ढोते हैं, अथवा लाल दोनों, अथवा अरुण दोनों; विविध प्रकार से धारण किया गया उसने किया।",
+  "why": "reviewer (minor): \"चित्र-तेज\" is not natural Hindi and citra is \"bright\" in English (and in 2.8)."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "उज्ज्वल तेज वाला अग्नि मेरा आह्वान सुने, सब स्तुतियों से, वह अमर और विवेकशील। काले दोनों रथ को ढोते हैं, अथवा लाल दोनों, अथवा अरुण दोनों; विविध प्रकार से धारण किया गया उसने किया।",
+  "new": "उज्ज्वल तेज वाला अग्नि मेरा आह्वान सुने, सब स्तुतियों से, वह अमर और विवेकशील। दोनों काले रथ को ढोते हैं, अथवा दोनों लाल, अथवा दोनों अरुण; विविध प्रकार से धारण किया गया उसने किया।",
+  "why": "reviewer (minor): Word order \"काले दोनों\" is unidiomatic; should be \"दोनों काले\"."
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "tsūṣutam: the printed token begins with t (ajanayan tsū-); this is probably the euphonic t inserted between n and s, not a separate word; not verified. sūṣutam is read as 'well-born, easily delivered'; uncertain. uttānāyām: 'outstretched' (a female figure; not identified). śiriṇāyām: the meaning is not clear to me (perhaps 'night' or a similar word); left untranslated. The second half is tentative. cit is taken twice, once with śiriṇāyām, once with aktunā; rendered 'also'.",
+  "new": "tsūṣutam: the printed token begins with t (ajanayan tsū-); this is probably the euphonic t inserted between n and s, not a separate word; not verified. sūṣutam is read as 'well-born, easily delivered'; uncertain. uttānāyām: 'outstretched' (a female figure; not identified). śiriṇāyām: the meaning is not clear to me (perhaps 'night' or a similar word); left untranslated. The second half is tentative. cit occurs once (śiriṇāyāṃ cid aktunā) and is rendered 'as well'; its attachment is uncertain.",
+  "why": "reviewer (minor): There is a single printed cit (śiriṇāyāṃ cid aktunā)."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "फैली हुई में उन्होंने उत्तम रीति से उत्पन्न हुए को जन्म दिया; अग्नि अनेक रूपों वाली स्त्रियों में गर्भ हुआ। शिरिणा में रात्रि के द्वारा भी, महिमाओं से अनावृत, प्रबुद्ध वह निवास करता है।",
+  "new": "फैली हुई में उन्होंने उत्तम रीति से उत्पन्न हुए को जन्म दिया; अग्नि अनेक रूपों वालियों में गर्भ हुआ। शिरिणा में रात्रि के द्वारा भी, महिमाओं से अनावृत, प्रबुद्ध वह निवास करता है।",
+  "why": "reviewer (error): \"स्त्रियों\" (women) is an addition; purupeśāsu is only \"in the many-formed (fem.) ones\", as the English says."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "फैली हुई में उन्होंने उत्तम रीति से उत्पन्न हुए को जन्म दिया; अग्नि अनेक रूपों वालियों में गर्भ हुआ। शिरिणा में रात्रि के द्वारा भी, महिमाओं से अनावृत, प्रबुद्ध वह निवास करता है।",
+  "new": "फैली हुई में उन्होंने उत्तम रीति से उत्पन्न हुए को जन्म दिया; अग्नि अनेक रूपों वालियों में गर्भ हुआ। शिरिणा में रात्रि के द्वारा भी, शक्तियों से अनावृत, प्रबुद्ध वह निवास करता है।",
+  "why": "reviewer (minor): English and gloss have \"powers\" (mahobhiḥ)."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "जानने योग्य, चुनी हुई वस्तु से भाग को जीतता हुआ; तुम्हें दूत मानने वाले हम मनु के समान बोलें। न्यूनता रहित, मधु से मिश्रित अग्नि को, चम्मच से, वाणी से, धन जीतने वाला मैं बार-बार पुकारता हूँ।",
+  "new": "जानने योग्य, चयन से भाग को जीतता हुआ; तुम्हें दूत मानने वाले हम मनु के समान बोलें। न्यूनता रहित, मधु से मिश्रित अग्नि को, चम्मच से, वाणी से, धन जीतने वाला मैं बार-बार पुकारता हूँ।",
+  "why": "reviewer (minor): \"वस्तु\" and \"चुनी हुई\" are added; English has \"with choice\" (vareṇa)."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "To be known, overcoming the share with choice; having you as envoy, may we speak like Manu. The not deficient, honey-mingling Agni, with the ladle, with speech, winning wealth, I call again and again.",
+  "new": "To be known, overcoming the share with choice; having you as messenger, may we speak like Manu. The not deficient, honey-mingling Agni, with the ladle, with speech, winning wealth, I call again and again.",
+  "why": "reviewer (minor): Glossary: dūta = messenger."
+ },
+ {
+  "n": "6",
+  "field": "word.gloss",
+  "word": "tvā-dūtāsaḥ",
+  "old": "having you as envoy",
+  "new": "having you as messenger",
+  "why": "reviewer (minor): Glossary: dūta = messenger."
+ }
+]

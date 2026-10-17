@@ -1,0 +1,9 @@
+chunk 1: 6 units, 12 patches applied (12 changes logged), 4 issues without patch, 0 patches failed
+  MANUAL unit 2 [minor] english / of our child, of our offspring, of our selves: tane is labelled dat. but all three are rendered as genitives; Hindi renders tanūnām as शरीरों (bodies), English as "selves", gloss says both. The three do not agree.
+         suggested fix: pick one rendering of tanū- for English, Hindi and gloss, and state the case of tane in the note
+  MANUAL unit 4 [minor] english / best worshipper: yajīyān is a comparative ("better at worshipping"); Hindi adds "बनकर" and श्रेष्ठ; the English "best" and the gram "compar." disagree. No patch: needs a decision.
+         suggested fix: as the better worshipper (and Hindi श्रेष्ठतर)
+  MANUAL unit 4 [minor] english / lord of wealth of riches: rayi-patiḥ rayīṇām is rendered with "wealth" and "riches" for the same word rayi, a doubling in English and Hindi (धनपति ... धनों).
+         suggested fix: the lord of riches
+  MANUAL unit 6 [error] split / saḥ + inaḥ + anīkena: Sandhi does not fit: saḥ + inaḥ + anīkena would give sa ino 'nīkena. The printed sainānīkena (ai ... ā) points to sa + ena(ā) + anīkena (a+e = ai; ā+a = ā), "he, with this host". "inaḥ" (mighty one) is invented; the English and Hindi "the mighty one / शक्तिशाली" rest on it. No patch because the replacement form (ena / enā) needs a decision.
+         suggested fix: saḥ [he] + enā [with this, inst. pron.] + anīkena [with the host]; English "He, with this host"; Hindi "वह इस सेना के साथ"

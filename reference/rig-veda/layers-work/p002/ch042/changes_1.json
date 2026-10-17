@@ -1,0 +1,45 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "पुकारता हुआ, अपनी जाति की घोषणा करता हुआ वह अपनी वाणी को ऐसे छोड़ता है जैसे नाविक नाव को। हे पक्षी, तुम शुभ लक्षण वाले हो जाओ; कोई भी अभिभूत करने वाली, सर्वव्यापी शक्ति तुम्हें न पाए।",
+  "new": "पुकारता हुआ, अपनी जाति की घोषणा करता हुआ वह अपनी वाणी को ऐसे छोड़ता है जैसे नाविक नाव को। हे पक्षी, तुम शुभ लक्षण वाले हो जाओ; कोई भी अभिभूत करने वाली, सर्वव्यापिनी तुम्हें न पाए।",
+  "why": "reviewer (error): Hindi adds the noun 'शक्ति' (power); the text has only the feminine pronoun kā with two adjectives and the notes say the noun is unknown."
+ },
+ {
+  "n": "1",
+  "field": "word.gram",
+  "word": "bhavāsi",
+  "old": "2 sg. opt. √bhū",
+  "new": "2 sg. subj. √bhū",
+  "why": "reviewer (minor): bhavāsi is the subjunctive (bhavā-si), not an optative; the draft itself labels bhavāti as subj. in 2.41.11."
+ },
+ {
+  "n": "2",
+  "field": "hindi",
+  "old": "तुम्हें न बाज़ मार गिराए, न सुपर्ण, और न बाण वाला वीर धनुर्धर तुम्हें पाए। पितरों की दिशा के साथ-साथ पुकारते हुए, शुभ लक्षण वाले, कल्याणकारी वचन बोलने वाले, यहाँ बोलो।",
+  "new": "तुम्हें न बाज़ मार गिराए, न सुन्दर पंखों वाला पक्षी, और न बाण वाला वीर धनुर्धर तुम्हें पाए। पितरों की दिशा के साथ-साथ पुकारते हुए, शुभ लक्षण वाले, कल्याणकारी वचन बोलने वाले, यहाँ बोलो।",
+  "why": "reviewer (minor): Hindi leaves suparṇa untranslated while English says 'fair-winged bird'."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "घरों के दक्षिण की ओर से पुकारो, हे शुभ लक्षण वाले, कल्याणकारी वचन बोलने वाले पक्षी। न चोर हम पर अधिकार करे, न बुरी बात कहने वाला; हम उत्तम वीरों से युक्त होकर यज्ञ में महान् वचन बोलें।",
+  "new": "घरों की दाहिनी ओर से पुकारो, हे शुभ लक्षण वाले, कल्याणकारी वचन बोलने वाले पक्षी। न चोर हम पर अधिकार करे, न बुरी बात कहने वाला; हम उत्तम वीरों से युक्त होकर यज्ञ में महान् वचन बोलें।",
+  "why": "reviewer (minor): Notes say the literal 'right side' is used; Hindi 'दक्षिण' reads as 'south'."
+ },
+ {
+  "n": "3",
+  "field": "notes",
+  "old": "dakṣiṇataḥ is \"from the right\" or \"from the south\"; the more literal \"right side\" is used. śakunte is taken as a feminine vocative (śakunti); it could be a masculine form of the same bird. na̭: in line 2 is naḥ (colon = visarga).",
+  "new": "dakṣiṇataḥ is \"from the right\" or \"from the south\"; the more literal \"right side\" is used. śakunte is taken as a feminine vocative (śakunti); it could be a masculine form of the same bird. na̭: in line 2 is naḥ (colon = visarga). ava kranda: the preverb ava ('down') is not rendered separately in the translation.",
+  "why": "reviewer (minor): ava is not rendered in either translation (nothing dropped): note that 'ava kranda' is rendered simply 'cry out' and ava is left unrendered."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "घरों की दाहिनी ओर से पुकारो, हे शुभ लक्षण वाले, कल्याणकारी वचन बोलने वाले पक्षी। न चोर हम पर अधिकार करे, न बुरी बात कहने वाला; हम उत्तम वीरों से युक्त होकर यज्ञ में महान् वचन बोलें।",
+  "new": "घरों की दाहिनी ओर से पुकारो, हे शुभ लक्षण वाले, कल्याणकारी वचन बोलने वाले पक्षी। न चोर हम पर अधिकार करे, न बुरी बात कहने वाला; हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Hindi refrain adds the noun 'वचन' (words) that is not in bṛhad vadema; 'speak greatly' has no object."
+ }
+]

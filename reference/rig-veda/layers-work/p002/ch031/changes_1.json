@@ -1,0 +1,37 @@
+[
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "और वे दोनों देवियाँ, सौभाग्यशाली, एक-दूसरे को देखनेवाली, उषा और रात्रि, जो गतिशील जीवों को प्रेरित करती हैं। जब मैं हे पृथ्वी, तुम दोनों की नए वचन से स्तुति करता हूँ, तब स्थिर का जीवन-बल, तिगुने जीवन-बलवाली, आच्छादन के लिए।",
+  "new": "और वे दोनों देवियाँ, सौभाग्यशाली, एक-दूसरे को देखनेवाली, उषा और रात्रि, जो गतिशील जीवों को प्रेरित करती हैं। जब मैं हे पृथ्वी, तुम दोनों की नए वचन से स्तुति करता हूँ, स्थिर का जीवन-बल, तिगुने जीवन-बलवाली, आच्छादन के लिए।",
+  "why": "reviewer (minor): 'तब' (then) is not in the Sanskrit."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "And we long for your praise, like the eager ones: Ahi Budhnya, Aja Ekapād, and Trita, Ṛbhukṣan, Savitṛ has taken delight; the offspring of the waters, of swift impulse, with thought in the work.",
+  "new": "And we long for your praise, like the eager ones: Ahi Budhnya, Aja Ekapād, and Trita, Ṛbhukṣan, Savitṛ has taken delight; Apāṃ Napāt, of swift impulse, with thought in the work.",
+  "why": "reviewer (error): Glossary: names stay names (Apāṃ Napāt). The draft's own notes call Apām Napāt a name but then translate it."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "और जैसे उत्सुक जन चाहते हैं, वैसे हम तुम्हारी स्तुति चाहते हैं: अहि बुध्न्य, अज एकपाद और। त्रित, ऋभुक्षा, सविता ने आनन्द ग्रहण किया है; जलों के पुत्र, तीव्र प्रेरणावाले, बुद्धि से कार्य में।",
+  "new": "और जैसे उत्सुक जन चाहते हैं, वैसे हम तुम्हारी स्तुति चाहते हैं: अहि बुध्न्य, अज एकपाद और। त्रित, ऋभुक्षा, सविता ने आनन्द ग्रहण किया है; अपां नपात्, तीव्र प्रेरणावाले, धी से कार्य में।",
+  "why": "reviewer (error): Same name issue; and dhī = thought (धी) per glossary, 'बुद्धि' deviates."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "और जैसे उत्सुक जन चाहते हैं, वैसे हम तुम्हारी स्तुति चाहते हैं: अहि बुध्न्य, अज एकपाद और। त्रित, ऋभुक्षा, सविता ने आनन्द ग्रहण किया है; अपां नपात्, तीव्र प्रेरणावाले, धी से कार्य में।",
+  "new": "और जैसे उत्सुक जन चाहते हैं, वैसे हम तुम्हारी स्तुति चाहते हैं: अहि बुध्न्य, अज एकपाद और त्रित, ऋभुक्षा, सविता ने आनन्द ग्रहण किया है; अपां नपात्, तीव्र प्रेरणावाले, धी से कार्य में।",
+  "why": "reviewer (minor): A full stop in the middle of the list ('और।'); the English has 'Aja Ekapād, and Trita'."
+ },
+ {
+  "n": "6",
+  "field": "notes",
+  "old": "'budhnyo3' is printed with a pluti sign (vocative/calling length). Ahi Budhnya, Aja Ekapād, Trita, Ṛbhukṣan, Apām Napāt and Āśuhemā are taken as names; 'uśijām' as 'of the eager ones' (a class of priests in later usage). 'canaḥ dadhe' (to take delight) is the drafter's reading; 'tritaḥ ṛbhukṣāḥ savitā canaḥ dadhe' may take a different grouping of subjects. 'apām napāt' rendered as 'offspring of the waters'; 'śami' uncertain ('work, effort').",
+  "new": "'budhnyo3' is printed with a pluti sign (vocative/calling length). Ahi Budhnya, Aja Ekapād, Trita, Ṛbhukṣan, Apāṃ Napāt is taken as a name and āśuhemā as its epithet 'of swift impulse'; 'uśijām' as 'of the eager ones' (a class of priests in later usage). 'canaḥ dadhe' (to take delight) is the drafter's reading; 'tritaḥ ṛbhukṣāḥ savitā canaḥ dadhe' may take a different grouping of subjects. 'apām napāt' rendered as 'offspring of the waters'; 'śami' uncertain ('work, effort').",
+  "why": "reviewer (minor): Notes say Āśuhemā is a name but the translation ('of swift impulse') and the gloss ('bahuvrīhi') treat it as an epithet of Apāṃ Napāt."
+ }
+]

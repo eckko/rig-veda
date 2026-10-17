@@ -1,0 +1,145 @@
+[
+ {
+  "n": "2",
+  "field": "english",
+  "old": "He is fully equal to this: first, he second, and also third; he is the Hotṛ priest of man. Others begot the embryo of another; he, the noble bull, is accompanied by others.",
+  "new": "He is fully sufficient for him: first, he second, and also third; he is the Hotṛ priest of man. Others begot the embryo of another; he, the noble bull, is accompanied by others.",
+  "why": "reviewer (minor): asmā glossed \"to him\"; English \"to this\" and Hindi \"उसके लिए\" disagree; ch016 unit 6 has \"fully sufficient for him\"."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "Unclear verse; literal rendering only. sāsmā read as sa + asmai (see 2.17.6); 'is fully equal' supplies the verb for aram; prathamam, dvitīyam, tṛtīyam taken as adverbial 'first, second, third'. manuṣaḥ 'of man' (or 'of Manu'). anyasyāḥ garbham: 'embryo' is literal, the referent is not stated; jenya 'noble' (or 'genuine'). The subject (he) is not named.",
+  "new": "Unclear verse; literal rendering only. sāsmā read as sa + asmai (see 2.17.6); 'is fully sufficient' supplies the verb for aram; prathamam, dvitīyam, tṛtīyam taken as adverbial 'first, second, third'. manuṣaḥ 'of man' (or 'of Manu'). anyasyāḥ garbham: 'embryo' is literal, the referent is not stated; jenya 'noble' (or 'genuine'). The subject (he) is not named.",
+  "why": "reviewer (minor): Keep the note in step with the translation."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "He is fully sufficient for him: first, he second, and also third; he is the Hotṛ priest of man. Others begot the embryo of another; he, the noble bull, is accompanied by others.",
+  "new": "He is fully sufficient for him: first, he second, and also third; he is the Hotṛ priest of man. Others begot the embryo of another; he, the noble bull, keeps company with others.",
+  "why": "reviewer (minor): sacate is middle (\"keeps company with\", Hindi रहता है); the passive \"is accompanied\" differs from the Hindi."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "sacate",
+  "old": "he is accompanied",
+  "new": "he keeps company",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "अब मैं इन्द्र के दोनों हरे घोड़ों को रथ में जोड़ूँगा, उसके आने के लिए, नए सुकथित वचन के साथ। बहुत से प्रेरित कवि यहाँ तुझे न रोकें, और दूसरे यजमान भी नहीं।",
+  "new": "अब मैं इन्द्र के दोनों भूरे-पीले घोड़ों को रथ में जोड़ूँगा, उसके आने के लिए, नए सुकथित वचन के साथ। बहुत से प्रेरित कवि यहाँ तुझे न रोकें, और दूसरे यजमान भी नहीं।",
+  "why": "reviewer (error): हरे means green; harī = the two tawny horses (English, gloss and glossary)."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "हे इन्द्र, दो हरे घोड़ों के साथ आ; चार के साथ आ; छह के साथ आ, बुलाया जाता हुआ; आठ और दस के साथ सोम पीने के लिए आ। यह निचोड़ा गया है, हे उदार; हानियाँ न कर।",
+  "new": "हे इन्द्र, दो भूरे-पीले घोड़ों के साथ आ; चार के साथ आ; छह के साथ आ, बुलाया जाता हुआ; आठ और दस के साथ सोम पीने के लिए आ। यह निचोड़ा गया है, हे उदार; हानियाँ न कर।",
+  "why": "reviewer (error): हरे = green; the horses are tawny."
+ },
+ {
+  "n": "4",
+  "field": "word.gloss",
+  "word": "kaḥ",
+  "old": "do make",
+  "new": "make",
+  "why": "reviewer (minor): \"do make\" is wrong: the mā is separate, kaḥ is the 2 sg. injunctive \"make\"."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "बीस के साथ, तीस के साथ आ; इधर आ, चालीस हरे घोड़ों से जुतकर आ; पचास के साथ, उत्तम रथों के साथ, हे इन्द्र, आ; साठ और सत्तर के साथ सोम पीने के लिए आ।",
+  "new": "बीस के साथ, तीस के साथ आ; इधर आ, चालीस भूरे-पीले घोड़ों से जुतकर आ; पचास के साथ, उत्तम रथों के साथ, हे इन्द्र, आ; साठ और सत्तर के साथ सोम पीने के लिए आ।",
+  "why": "reviewer (error): हरे = green; the horses are tawny."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "अस्सी के साथ, नब्बे के साथ आ; इधर आ, सौ के साथ, हरे घोड़ों द्वारा ढोया जाता हुआ। हे इन्द्र, यह सोम शुनहोत्रों के बीच तेरे लिए, तेरी चाह से, आनन्द के लिए चारों ओर उँडेला गया है।",
+  "new": "अस्सी के साथ, नब्बे के साथ आ; इधर आ, सौ के साथ, भूरे-पीले घोड़ों द्वारा ढोया जाता हुआ। हे इन्द्र, यह सोम शुनहोत्रों के बीच तेरे लिए, तेरी चाह से, आनन्द के लिए चारों ओर उँडेला गया है।",
+  "why": "reviewer (error): हरे = green; the horses are tawny."
+ },
+ {
+  "n": "6",
+  "field": "english",
+  "old": "Come with eighty, with ninety; come hither with a hundred, carried by tawny horses. For this Soma, Indra, among the Śunahotras, is poured round for you, in longing for you, for exhilaration.",
+  "new": "Come with eighty, with ninety; come hither with a hundred, carried by tawny horses. For this Soma, Indra, is poured round for you among the Śunahotras, in longing for you, for exhilaration.",
+  "why": "reviewer (minor): The \"For\" is detached from the verb and the sentence reads as a fragment."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "अस्सी के साथ, नब्बे के साथ आ; इधर आ, सौ के साथ, भूरे-पीले घोड़ों द्वारा ढोया जाता हुआ। हे इन्द्र, यह सोम शुनहोत्रों के बीच तेरे लिए, तेरी चाह से, आनन्द के लिए चारों ओर उँडेला गया है।",
+  "new": "अस्सी के साथ, नब्बे के साथ आ; इधर आ, सौ के साथ, भूरे-पीले घोड़ों द्वारा ढोया जाता हुआ। हे इन्द्र, यह सोम शुनहोत्रों के बीच तेरे लिए, तेरी चाह से, मद के लिए चारों ओर उँडेला गया है।",
+  "why": "reviewer (minor): mada is \"exhilaration\" (मद in 2.16); आनन्द is a different word."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे इन्द्र, मेरी प्रार्थना की ओर आ; दोनों हरे घोड़ों को, सबको, रथ के जुए में लगा। तू बहुत स्थानों में बुलाए जाने योग्य हुआ है; हे शूर, इस सवन में आनन्दित हो।",
+  "new": "हे इन्द्र, मेरी ब्रह्म की ओर आ; दोनों हरे घोड़ों को, सबको, रथ के जुए में लगा। तू बहुत स्थानों में बुलाए जाने योग्य हुआ है; हे शूर, इस सवन में आनन्दित हो।",
+  "why": "reviewer (minor): Glossary fixes brahman (n.) in Hindi as ब्रह्म."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे इन्द्र, मेरी ब्रह्म की ओर आ; दोनों हरे घोड़ों को, सबको, रथ के जुए में लगा। तू बहुत स्थानों में बुलाए जाने योग्य हुआ है; हे शूर, इस सवन में आनन्दित हो।",
+  "new": "हे इन्द्र, मेरी ब्रह्म की ओर आ; दोनों भूरे-पीले घोड़ों को, सबको, रथ के जुए में लगा। तू बहुत स्थानों में बुलाए जाने योग्य हुआ है; हे शूर, इस सवन में आनन्दित हो।",
+  "why": "reviewer (error): हरे = green; the horses are tawny."
+ },
+ {
+  "n": "7",
+  "field": "hindi",
+  "old": "हे इन्द्र, मेरी ब्रह्म की ओर आ; दोनों भूरे-पीले घोड़ों को, सबको, रथ के जुए में लगा। तू बहुत स्थानों में बुलाए जाने योग्य हुआ है; हे शूर, इस सवन में आनन्दित हो।",
+  "new": "हे इन्द्र, मेरी ब्रह्म की ओर आ; दोनों भूरे-पीले घोड़ों को, सबको, रथ के जुए में लगा। क्योंकि तू बहुत स्थानों में बुलाए जाने योग्य हुआ है; हे शूर, इस सवन में आनन्दित हो।",
+  "why": "reviewer (minor): hi (\"For\") is rendered in the English and glossed, but dropped in the Hindi."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond them; the share is ours. May we, rich in heroes, speak mightily in the rite.",
+  "new": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond them; the share is ours. May we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (error): Glossary fixes the refrain as \"speak greatly in the rite\"."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में प्रबल रूप से बोलें।",
+  "new": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Same: bṛhat = greatly."
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "bṛhat",
+  "old": "mightily",
+  "new": "greatly",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "Refrain: the identical verse ends each of the hymns 2.16 to 2.19. Readings uncertain: mā ati dhak (do not burn beyond/past; the object is not stated) and bhago naḥ ('the share is ours' taken with bhaga as 'share'; bhaga could also be the god Bhaga, 'Bhaga is ours'). dakṣiṇā taken as the bountiful gift; bṛhat taken adverbially ('mightily'). Hindi भाग for bhaga.",
+  "new": "Refrain: the identical verse ends each of the hymns 2.16 to 2.19. Readings uncertain: mā ati dhak (do not burn beyond/past; the object is not stated) and bhago naḥ ('the share is ours' taken with bhaga as 'share'; bhaga could also be the god Bhaga, 'Bhaga is ours'). dakṣiṇā taken as the bountiful gift; bṛhat taken adverbially ('greatly'). Hindi भाग for bhaga.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond them; the share is ours. May we, rich in heroes, speak greatly in the rite.",
+  "new": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond; the share is ours. May we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): Glossary fixes mā ati dhak = \"do not burn beyond\"; \"them\" is an unmarked addition."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "new": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; परे तक न जला; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Adds \"उन्हें\" and turns \"burn beyond\" into \"burn and go past\"."
+ }
+]

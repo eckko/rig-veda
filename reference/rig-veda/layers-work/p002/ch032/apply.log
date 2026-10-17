@@ -1,0 +1,7 @@
+chunk 1: 8 units, 12 patches applied (12 changes logged), 3 issues without patch, 0 patches failed
+  MANUAL unit 1 [error] gram / mahaḥ: Not an accusative dual: a dual would end in -ī/-ā (or -āntau), never -aḥ. mahaḥ can only be gen./abl. sg. of mah, nom./acc. sg. of mahas 'greatness', or acc. pl.; so the translation 'you two, the great ones' has no grammatical support (the gloss 'the great two' too).
+         suggested fix: Relabel gram as 'form uncertain (not dual)' and rework 'vām maho dadhe' (e.g. maho as 'greatness' or a gen., object of dadhe unclear); needs a human decision.
+  MANUAL unit 1 [minor] english / te idaṃ pura: 'te', 'idam' and 'pura' are not rendered in either translation although the notes list them as the unclear part; nothing should be dropped silently.
+         suggested fix: Render them literally (e.g. 'those two ... this ... before') or state in notes that they are left untranslated.
+  MANUAL unit 2 [error] english / know that wish of ours: 'wish' (and Hindi 'विषय') is an unsupported addition: the line has viddhi tasya naḥ only (a genitive 'of that', 'of us'); nothing about a wish is in the text.
+         suggested fix: Drop the invented noun, e.g. keep the genitives literal ('take note of that, of us') and explain in notes. Hindi 'हमारे उस विषय को जानो' needs the same repair.

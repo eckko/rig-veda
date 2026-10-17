@@ -1,0 +1,9 @@
+chunk 1: 9 units, 17 patches applied (17 changes logged), 4 issues without patch, 0 patches failed
+  MANUAL unit 3 [minor] text_flags / sadhrya1kpṛthak: The 1 is not clearly a typo: digits after a syllable are svara/pluti marks in this edition (cf. tanvī3, tanvo3 left unflagged in 2.16 and 2.17.7). The flag treats 1 as stray but 3 as fine; either drop the flag or flag both. The word split sadhryak / pṛthak is right.
+         suggested fix: drop the text_flag, keep the note
+  MANUAL unit 4 [minor] hindi / सब भुवनों: English renders bhuvanā "beings", Hindi "worlds"; the two disagree (rodasī is separately "the two worlds"). Decide one rendering.
+         suggested fix: सब प्राणियों or English "worlds"
+  MANUAL unit 6 [minor] split / sā: w "sā" is the feminine nominative form but is labelled m. nom. sg. "he". If sa+asmā is meant, w should be saḥ (as elsewhere); if feminine, the gloss is wrong. Needs a decision.
+         suggested fix: w saḥ, or gloss "she"
+  MANUAL unit 7 [minor] english / Make a perception known: "known" (and Hindi "प्रकट") is an addition: kṛdhi praketam is "make a perception".
+         suggested fix: Make a perception;

@@ -1,0 +1,1640 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "grāvā̭ṇeva̱",
+      "words": [
+       {
+        "w": "grāvāṇā",
+        "gloss": "pressing stones",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "tadidartha̭ṃ",
+      "words": [
+       {
+        "w": "tat",
+        "gloss": "that",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "it",
+        "gloss": "very",
+        "gram": "ind."
+       },
+       {
+        "w": "artham",
+        "gloss": "purpose",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jarethe̱",
+      "words": [
+       {
+        "w": "jarethe",
+        "gloss": "you two sound",
+        "gram": "2 du. pres. mid. √jṝ"
+       }
+      ]
+     },
+     {
+      "src": "gṛdhrḙva",
+      "words": [
+       {
+        "w": "gṛdhrā",
+        "gloss": "vultures",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vṛ̱kṣaṃ",
+      "words": [
+       {
+        "w": "vṛkṣam",
+        "gloss": "tree",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ni̭dhi̱manta̱maccha̭",
+      "words": [
+       {
+        "w": "nidhi-mantam",
+        "gloss": "having a store",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "accha",
+        "gloss": "toward",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "bra̱hmāṇḙva",
+      "words": [
+       {
+        "w": "brahmāṇā",
+        "gloss": "Brahman priests",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̱datha̭",
+      "words": [
+       {
+        "w": "vidathe",
+        "gloss": "in the rite",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "uktha̱śāsā̭",
+      "words": [
+       {
+        "w": "uktha-śāsā",
+        "gloss": "reciting hymns",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "dū̱teva̱",
+      "words": [
+       {
+        "w": "dūtā",
+        "gloss": "messengers",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "havyā̱",
+      "words": [
+       {
+        "w": "havyā",
+        "gloss": "to be invoked",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "janyā̭",
+      "words": [
+       {
+        "w": "janyā",
+        "gloss": "belonging to the people",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "puru̱trā",
+      "words": [
+       {
+        "w": "puru-trā",
+        "gloss": "in many places",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जैसे दो निचोड़ने के पत्थर, वैसे तुम दोनों उसी प्रयोजन के लिए ध्वनि करते हो; जैसे दो गिद्ध निधि वाले वृक्ष की ओर। जैसे दो ब्रह्मा यज्ञ में उक्थ का पाठ करने वाले, जैसे दो दूत, बुलाने योग्य, जनों के, बहुत स्थानों में।",
+  "english": "Like two pressing stones you sound to that very purpose; like two vultures toward the tree that has a store. Like two Brahman priests in the rite, reciting hymns; like two messengers, to be invoked, belonging to the people, in many places.",
+  "text_flags": [],
+  "notes": "The two addressees are not named in the verse (the Aśvins are named in verses 7 and 8, not applied here). 'tat id artham jarethe' is tentative: jarethe 'you two sound' (√jṝ), artham 'purpose, aim'. nidhimantam 'having a store' (nidhi 'store, treasure'; whether a nest or treasure is meant is not stated). janyā 'belonging to the people' tentative; 'havyā janyā' could be taken as qualifying the Aśvins directly.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "002.039.1a",
+   "002.039.1b"
+  ],
+  "lines_deva": [
+   "ग्रावा॑णेव॒ तदिदर्थं॑ जरेथे॒ गृध्रे॑व वृ॒क्षं नि॑धि॒मन्त॒मच्छ॑",
+   "ब्र॒ह्माणे॑व वि॒दथ॑ उक्थ॒शासा॑ दू॒तेव॒ हव्या॒ जन्या॑ पुरु॒त्रा"
+  ],
+  "lines_iast": [
+   "grāvā̭ṇeva̱ tadidartha̭ṃ jarethe̱ gṛdhrḙva vṛ̱kṣaṃ ni̭dhi̱manta̱maccha̭",
+   "bra̱hmāṇḙva vi̱datha̭ uktha̱śāsā̭ dū̱teva̱ havyā̱ janyā̭ puru̱trā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "prā̱ta̱ryāvā̭ṇā",
+      "words": [
+       {
+        "w": "prātaḥ-yāvāṇā",
+        "gloss": "going at dawn",
+        "gram": "tat-puruṣa; m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ra̱thyḙva",
+      "words": [
+       {
+        "w": "rathyā",
+        "gloss": "charioteers",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vī̱rā",
+      "words": [
+       {
+        "w": "vīrā",
+        "gloss": "heroes",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "'jeva̭",
+      "words": [
+       {
+        "w": "ajā",
+        "gloss": "goats",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ya̱mā",
+      "words": [
+       {
+        "w": "yamā",
+        "gloss": "twins",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "vara̱mā",
+      "words": [
+       {
+        "w": "varam",
+        "gloss": "choice, boon",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "toward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̭cethe",
+      "words": [
+       {
+        "w": "sacethe",
+        "gloss": "you two attend",
+        "gram": "2 du. pres. mid. √sac"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "menḙ",
+      "words": [
+       {
+        "w": "mene",
+        "gloss": "two women",
+        "gram": "f. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "iva",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ta̱nvā̱3",
+      "words": [
+       {
+        "w": "tanvā",
+        "gloss": "with the body",
+        "gram": "f. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "śumbha̭māne̱",
+      "words": [
+       {
+        "w": "śumbhamāne",
+        "gloss": "adorning",
+        "gram": "f. nom. du. pres. part. mid. √śumbh"
+       }
+      ]
+     },
+     {
+      "src": "dampa̭tīva",
+      "words": [
+       {
+        "w": "dampatī",
+        "gloss": "husband and wife",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "kratu̱vidā̱",
+      "words": [
+       {
+        "w": "kratu-vidā",
+        "gloss": "knowing resolve",
+        "gram": "tat-puruṣa; m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "janḙṣu",
+      "words": [
+       {
+        "w": "janeṣu",
+        "gloss": "among the people",
+        "gram": "m. loc. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "प्रातःकाल चलने वाले, जैसे दो रथ-चालक, वीर, जैसे दो बकरे, जुड़वाँ, तुम दोनों अभीष्ट के पास जाते हो। जैसे दो स्त्रियाँ शरीर से सजती हुईं, जैसे पति-पत्नी, संकल्प जानने वाले, जनों के बीच।",
+  "english": "Going at dawn, like two charioteers, heroes, like two goats, twins, you two attend the boon. Like two women adorning themselves with the body, like a married pair knowing resolve among the people.",
+  "text_flags": [
+   {
+    "src": "ta̱nvā̱3",
+    "suggest": "tanvā",
+    "why": "digit 3 is a pluti/accent numeral carried into the transliteration, not a letter"
+   }
+  ],
+  "notes": "Low: varam ā sacethe 'attend the boon' is tentative (vara 'choice, boon'; 'follow the best' possible). rathyā 'charioteers' tentative (rathya: of the chariot). ajā 'goats' vs 'driving' (√aj) is a possible alternative; yamā 'twins'. 'tanvā śumbhamāne' 'adorning themselves with the body' tentative; kratuvidā 'knowing skill' (kratu 'skill, resolve'). Whether 'dampatī' means a pair of house-lords or a married pair is not decided; rendered 'a married pair'.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.039.2a",
+   "002.039.2b"
+  ],
+  "lines_deva": [
+   "प्रा॒त॒र्यावा॑णा र॒थ्ये॑व वी॒रा ऽजेव॑ य॒मा वर॒मा स॑चेथे",
+   "मेने॑ इव त॒न्वा॒३ शुम्भ॑माने॒ दम्प॑तीव क्रतु॒विदा॒ जने॑षु"
+  ],
+  "lines_iast": [
+   "prā̱ta̱ryāvā̭ṇā ra̱thyḙva vī̱rā 'jeva̭ ya̱mā vara̱mā sa̭cethe",
+   "menḙ iva ta̱nvā̱3 śumbha̭māne̱ dampa̭tīva kratu̱vidā̱ janḙṣu"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "śṛṅgḙva",
+      "words": [
+       {
+        "w": "śṛṅgā",
+        "gloss": "horns",
+        "gram": "n. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "1 pl. dat."
+       }
+      ]
+     },
+     {
+      "src": "pratha̱mā",
+      "words": [
+       {
+        "w": "prathamā",
+        "gloss": "foremost",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ga̭ntama̱rvāk",
+      "words": [
+       {
+        "w": "gantam",
+        "gloss": "come",
+        "gram": "2 du. aor. imper. √gam"
+       },
+       {
+        "w": "arvāk",
+        "gloss": "hitherward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cha̱phāvi̭va̱",
+      "words": [
+       {
+        "w": "śaphau",
+        "gloss": "hooves",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "jarbhṷrāṇā̱",
+      "words": [
+       {
+        "w": "jarbhurāṇā",
+        "gloss": "quivering, darting",
+        "gram": "m. nom. du. pres. part. mid."
+       }
+      ]
+     },
+     {
+      "src": "taro̭bhiḥ",
+      "words": [
+       {
+        "w": "tarobhiḥ",
+        "gloss": "with speeds",
+        "gram": "n. inst. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ca̱kra̱vā̱keva̱",
+      "words": [
+       {
+        "w": "cakravākā",
+        "gloss": "cakravāka birds",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prati̱",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "toward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vasto̭rusrā̱",
+      "words": [
+       {
+        "w": "vastoḥ",
+        "gloss": "at dawn",
+        "gram": "ind."
+       },
+       {
+        "w": "usrā",
+        "gloss": "bright ones",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "'rvāñcā̭",
+      "words": [
+       {
+        "w": "arvāñcā",
+        "gloss": "turned hither",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "yātaṃ",
+      "words": [
+       {
+        "w": "yātam",
+        "gloss": "come",
+        "gram": "2 du. imper. √yā"
+       }
+      ]
+     },
+     {
+      "src": "ra̱thyḙva",
+      "words": [
+       {
+        "w": "rathyā",
+        "gloss": "charioteers",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śakrā",
+      "words": [
+       {
+        "w": "śakrā",
+        "gloss": "mighty",
+        "gram": "m. voc. du."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जैसे दो सींग, हमारे लिए सबसे आगे इस ओर आओ; जैसे दो खुर, वेगों से काँपते हुए। जैसे दो चक्रवाक, प्रातःकाल के प्रति, हे उज्ज्वल दोनों, इस ओर मुड़कर आओ, जैसे दो रथ-चालक, हे शक्तिशाली दोनों।",
+  "english": "Like two horns, foremost, come hither to us; like two hooves, quivering with speed. Like two cakravāka birds at dawn, bright ones, turned hither, come like two charioteers, O mighty ones.",
+  "text_flags": [],
+  "notes": "The comparisons are literal and the point of each simile is not interpreted. prati vastoḥ 'at dawn' tentative (each dawn); usrā read as 'bright ones' (usra), may also be 'cows'. jarbhurāṇā 'quivering, darting' tentative. cakravāka: a bird name, kept untranslated.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.039.3a",
+   "002.039.3b"
+  ],
+  "lines_deva": [
+   "शृङ्गे॑व नः प्रथ॒मा ग॑न्तम॒र्वाक् छ॒फावि॑व॒ जर्भु॑राणा॒ तरो॑भिः",
+   "च॒क्र॒वा॒केव॒ प्रति॒ वस्तो॑रुस्रा॒ ऽर्वाञ्चा॑ यातं र॒थ्ये॑व शक्रा"
+  ],
+  "lines_iast": [
+   "śṛṅgḙva naḥ pratha̱mā ga̭ntama̱rvāk cha̱phāvi̭va̱ jarbhṷrāṇā̱ taro̭bhiḥ",
+   "ca̱kra̱vā̱keva̱ prati̱ vasto̭rusrā̱ 'rvāñcā̭ yātaṃ ra̱thyḙva śakrā"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nā̱veva̭",
+      "words": [
+       {
+        "w": "nāvā",
+        "gloss": "boats",
+        "gram": "f. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "1 pl. acc."
+       }
+      ]
+     },
+     {
+      "src": "pārayataṃ",
+      "words": [
+       {
+        "w": "pārayatam",
+        "gloss": "carry across",
+        "gram": "2 du. imper. caus. √pṛ"
+       }
+      ]
+     },
+     {
+      "src": "yu̱geva̱",
+      "words": [
+       {
+        "w": "yugā",
+        "gloss": "yokes",
+        "gram": "n. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nabhyḙva",
+      "words": [
+       {
+        "w": "nabhyā",
+        "gloss": "naves",
+        "gram": "f. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "1 pl. dat."
+       }
+      ]
+     },
+     {
+      "src": "upa̱dhīva̭",
+      "words": [
+       {
+        "w": "upadhī",
+        "gloss": "supports",
+        "gram": "f. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pra̱dhīva̭",
+      "words": [
+       {
+        "w": "pradhī",
+        "gloss": "rims",
+        "gram": "f. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śvānḙva",
+      "words": [
+       {
+        "w": "śvānā",
+        "gloss": "dogs",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no̱",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "1 pl. gen."
+       }
+      ]
+     },
+     {
+      "src": "ari̭ṣaṇyā",
+      "words": [
+       {
+        "w": "ariṣaṇyā",
+        "gloss": "unharming",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "ta̱nūnā̱ṃ",
+      "words": [
+       {
+        "w": "tanūnām",
+        "gloss": "of bodies",
+        "gram": "f. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "khṛga̭leva",
+      "words": [
+       {
+        "w": "khṛgalā",
+        "gloss": "khṛgalas",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vi̱srasa̭:",
+      "words": [
+       {
+        "w": "visrasaḥ",
+        "gloss": "from falling apart",
+        "gram": "f. abl. sg."
+       }
+      ]
+     },
+     {
+      "src": "pātama̱smān",
+      "words": [
+       {
+        "w": "pātam",
+        "gloss": "protect",
+        "gram": "2 du. imper. √pā"
+       },
+       {
+        "w": "asmān",
+        "gloss": "us",
+        "gram": "1 pl. acc."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जैसे दो नावें, हमें पार लगाओ, जैसे दो जुए, जैसे दो नाभियाँ, हमारे लिए, जैसे दो उपधि, जैसे दो प्रधि। जैसे दो कुत्ते, हमारे शरीरों के हानि न करने वाले, जैसे दो खृगल, बिखरने से हमारी रक्षा करो।",
+  "english": "Like two boats, carry us across; like two yokes, like two naves, for us, like two upadhis, like two pradhis. Like two dogs, unharming, of our bodies; like two khṛgalas, protect us from falling apart.",
+  "text_flags": [],
+  "notes": "Chariot-part words are uncertain: upadhī, pradhī (rendered 'supports', 'rims' in the word glosses but left as upadhi and pradhi in the translation) and khṛgala (meaning not understood, left untranslated). 'naḥ upadhī iva' reads naḥ as 'for us'. 'ariṣaṇyā tanūnām' read as 'unharming (guardians) of our bodies'; visrasaḥ 'from falling apart' tentative (vi-√sras).",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.039.4a",
+   "002.039.4b"
+  ],
+  "lines_deva": [
+   "ना॒वेव॑ नः पारयतं यु॒गेव॒ नभ्ये॑व न उप॒धीव॑ प्र॒धीव॑",
+   "श्वाने॑व नो॒ अरि॑षण्या त॒नूनां॒ खृग॑लेव वि॒स्रस॑: पातम॒स्मान्"
+  ],
+  "lines_iast": [
+   "nā̱veva̭ naḥ pārayataṃ yu̱geva̱ nabhyḙva na upa̱dhīva̭ pra̱dhīva̭",
+   "śvānḙva no̱ ari̭ṣaṇyā ta̱nūnā̱ṃ khṛga̭leva vi̱srasa̭: pātama̱smān"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "vātḙvāju̱ryā",
+      "words": [
+       {
+        "w": "vātā",
+        "gloss": "winds",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       },
+       {
+        "w": "ajuryā",
+        "gloss": "unageing",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "na̱dyḙva",
+      "words": [
+       {
+        "w": "nadyā",
+        "gloss": "rivers",
+        "gram": "f. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "rī̱tira̱kṣī",
+      "words": [
+       {
+        "w": "rītiḥ",
+        "gloss": "flowing",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "akṣī",
+        "gloss": "eyes",
+        "gram": "n. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "i̭va̱",
+      "words": [
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "cakṣu̱ṣā",
+      "words": [
+       {
+        "w": "cakṣuṣā",
+        "gloss": "with sight",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "yā̭tama̱rvāk",
+      "words": [
+       {
+        "w": "yātam",
+        "gloss": "come",
+        "gram": "2 du. imper. √yā"
+       },
+       {
+        "w": "arvāk",
+        "gloss": "hitherward",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "hastā̭viva",
+      "words": [
+       {
+        "w": "hastau",
+        "gloss": "hands",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ta̱nve̱3",
+      "words": [
+       {
+        "w": "tanve",
+        "gloss": "for the body",
+        "gram": "f. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "śambha̭viṣṭhā̱",
+      "words": [
+       {
+        "w": "śambhaviṣṭhā",
+        "gloss": "most beneficial",
+        "gram": "m. nom. du. superl."
+       }
+      ]
+     },
+     {
+      "src": "pādḙva",
+      "words": [
+       {
+        "w": "pādā",
+        "gloss": "feet",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "no",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "1 pl. acc."
+       }
+      ]
+     },
+     {
+      "src": "nayata̱ṃ",
+      "words": [
+       {
+        "w": "nayatam",
+        "gloss": "lead",
+        "gram": "2 du. imper. √nī"
+       }
+      ]
+     },
+     {
+      "src": "vasyo̱",
+      "words": [
+       {
+        "w": "vasyaḥ",
+        "gloss": "to better fortune",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "accha̭",
+      "words": [
+       {
+        "w": "accha",
+        "gloss": "toward",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जैसे दो वायु, कभी जीर्ण न होने वाले, जैसे दो नदियाँ, प्रवाह, जैसे दो आँखें, दृष्टि के साथ इस ओर आओ। जैसे दो हाथ, शरीर के लिए अत्यन्त कल्याणकारी, जैसे दो पैर, हमें बेहतर सौभाग्य की ओर ले चलो।",
+  "english": "Like two winds, unageing; like two rivers, a flowing; like two eyes, with sight come hither. Like two hands, most beneficial for the body; like two feet, lead us to better fortune.",
+  "text_flags": [
+   {
+    "src": "tanve̱3",
+    "suggest": "tanve",
+    "why": "digit 3 is a pluti/accent numeral carried into the transliteration, not a letter"
+   }
+  ],
+  "notes": "rītiḥ 'flowing' (f. nom. sg.) next to a dual simile is unusual and its link to 'nadyā iva' is unclear (possibly 'like two rivers, a stream'). vasyaḥ rendered 'better fortune' following the earlier chunks' gloss (vasyas 'better, abundance').",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "002.039.5a",
+   "002.039.5b"
+  ],
+  "lines_deva": [
+   "वाते॑वाजु॒र्या न॒द्ये॑व री॒तिर॒क्षी इ॑व॒ चक्षु॒षा या॑तम॒र्वाक्",
+   "हस्ता॑विव त॒न्वे॒३ शम्भ॑विष्ठा॒ पादे॑व नो नयतं॒ वस्यो॒ अच्छ॑"
+  ],
+  "lines_iast": [
+   "vātḙvāju̱ryā na̱dyḙva rī̱tira̱kṣī i̭va̱ cakṣu̱ṣā yā̭tama̱rvāk",
+   "hastā̭viva ta̱nve̱3 śambha̭viṣṭhā̱ pādḙva no nayata̱ṃ vasyo̱ accha̭"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "oṣṭhā̭viva̱",
+      "words": [
+       {
+        "w": "oṣṭhau",
+        "gloss": "lips",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "madhvā̱sne",
+      "words": [
+       {
+        "w": "madhu",
+        "gloss": "sweetly",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "āsne",
+        "gloss": "in the mouth",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "vada̭ntā̱",
+      "words": [
+       {
+        "w": "vadantā",
+        "gloss": "speaking",
+        "gram": "m. nom. du. pres. part. √vad"
+       }
+      ]
+     },
+     {
+      "src": "stanā̭viva",
+      "words": [
+       {
+        "w": "stanau",
+        "gloss": "breasts",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pipyataṃ",
+      "words": [
+       {
+        "w": "pipyatam",
+        "gloss": "nourish",
+        "gram": "2 du. imper. √pyā"
+       }
+      ]
+     },
+     {
+      "src": "jī̱vasḙ",
+      "words": [
+       {
+        "w": "jīvase",
+        "gloss": "for living",
+        "gram": "dat. inf. √jīv"
+       }
+      ]
+     },
+     {
+      "src": "naḥ",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "us",
+        "gram": "1 pl. acc."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "nāsḙva",
+      "words": [
+       {
+        "w": "nāsā",
+        "gloss": "nostrils",
+        "gram": "f. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nasta̱nvo̭",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "1 pl. gen."
+       },
+       {
+        "w": "tanvaḥ",
+        "gloss": "bodies",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "rakṣi̱tārā̱",
+      "words": [
+       {
+        "w": "rakṣitārā",
+        "gloss": "protectors",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "karṇā̭viva",
+      "words": [
+       {
+        "w": "karṇau",
+        "gloss": "ears",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "su̱śrutā̭",
+      "words": [
+       {
+        "w": "su-śrutā",
+        "gloss": "well-hearing",
+        "gram": "m. nom. du."
+       }
+      ]
+     },
+     {
+      "src": "bhūtama̱sme",
+      "words": [
+       {
+        "w": "bhūtam",
+        "gloss": "be",
+        "gram": "2 du. imper. √bhū"
+       },
+       {
+        "w": "asme",
+        "gloss": "for us",
+        "gram": "1 pl. dat."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जैसे दो होंठ, मुख में मधुर बोलते हुए, जैसे दो स्तन, जीने के लिए हमें पुष्ट करो। जैसे दो नासिकाएँ, हमारे शरीरों के रक्षक, जैसे दो कान, भली-भाँति सुनने वाले, हमारे लिए हो जाओ।",
+  "english": "Like two lips, speaking sweetly in the mouth; like two breasts, nourish us for living. Like two nostrils, protectors of our bodies; like two ears, good hearers, be for us.",
+  "text_flags": [],
+  "notes": "madhu āsne vadantā 'speaking sweetly (honey) in the mouth' tentative; 'tanvaḥ' read as acc. pl. object of rakṣitārā (gen. sg. possible). suśrutā 'well-hearing' (alternative 'well-heard of'). 'bhūtam asme' 'be so for us' supplies a complement not stated.",
+  "confidence": "medium",
+  "type": "verse",
+  "line_ids": [
+   "002.039.6a",
+   "002.039.6b"
+  ],
+  "lines_deva": [
+   "ओष्ठा॑विव॒ मध्वा॒स्ने वद॑न्ता॒ स्तना॑विव पिप्यतं जी॒वसे॑ नः",
+   "नासे॑व नस्त॒न्वो॑ रक्षि॒तारा॒ कर्णा॑विव सु॒श्रुता॑ भूतम॒स्मे"
+  ],
+  "lines_iast": [
+   "oṣṭhā̭viva̱ madhvā̱sne vada̭ntā̱ stanā̭viva pipyataṃ jī̱vasḙ naḥ",
+   "nāsḙva nasta̱nvo̭ rakṣi̱tārā̱ karṇā̭viva su̱śrutā̭ bhūtama̱sme"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "hastḙva",
+      "words": [
+       {
+        "w": "hastā",
+        "gloss": "hands",
+        "gram": "m. nom. du."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śa̱ktima̱bhi",
+      "words": [
+       {
+        "w": "śaktim",
+        "gloss": "power",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "abhi",
+        "gloss": "toward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sa̭ṃda̱dī",
+      "words": [
+       {
+        "w": "saṃdadī",
+        "gloss": "bestowing",
+        "gram": "du., unclear form"
+       }
+      ]
+     },
+     {
+      "src": "na̱:",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "to us",
+        "gram": "1 pl. dat."
+       }
+      ]
+     },
+     {
+      "src": "kṣāmḙva",
+      "words": [
+       {
+        "w": "kṣāmā",
+        "gloss": "earth",
+        "gram": "f. nom. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "na̱:",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "for us",
+        "gram": "1 pl. dat."
+       }
+      ]
+     },
+     {
+      "src": "sama̭jata̱ṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       },
+       {
+        "w": "ajatam",
+        "gloss": "drive",
+        "gram": "2 du. imper. √aj"
+       }
+      ]
+     },
+     {
+      "src": "rajā̭ṃsi",
+      "words": [
+       {
+        "w": "rajāṃsi",
+        "gloss": "realms",
+        "gram": "n. acc. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "i̱mā",
+      "words": [
+       {
+        "w": "imāḥ",
+        "gloss": "these",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "giro̭",
+      "words": [
+       {
+        "w": "giraḥ",
+        "gloss": "hymns",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "aśvinā",
+      "words": [
+       {
+        "w": "aśvinā",
+        "gloss": "O Aśvins",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "yuṣma̱yantī̱:",
+      "words": [
+       {
+        "w": "yuṣma-yantīḥ",
+        "gloss": "longing for you",
+        "gram": "f. acc. pl. pres. part. denom."
+       }
+      ]
+     },
+     {
+      "src": "kṣṇotrḙṇeva̱",
+      "words": [
+       {
+        "w": "kṣṇotreṇa",
+        "gloss": "with a whetting tool",
+        "gram": "n. inst. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "svadhi̭ti̱ṃ",
+      "words": [
+       {
+        "w": "svadhitim",
+        "gloss": "axe",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śi̭śītam",
+      "words": [
+       {
+        "w": "śiśītam",
+        "gloss": "sharpen",
+        "gram": "2 du. imper. √śā"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "जैसे दो हाथ, शक्ति की ओर हमें देते हुए; जैसे पृथ्वी, हमारे लिए लोकों को साथ हाँको। हे अश्विनौ, तुम्हारी कामना करने वाली इन स्तुतियों को ऐसे तेज़ करो जैसे सान से कुल्हाड़ी को।",
+  "english": "Like two hands, bestowing power upon us; like the earth, drive the realms together for us. O Aśvins, sharpen these hymns that long for you, as one sharpens an axe with a whetting tool.",
+  "text_flags": [],
+  "notes": "Low. 'saṃdadī' unclear (possibly du. of an agent noun 'bestowers' with abhi sam); 'abhi śaktim saṃdadī naḥ' tentative. kṣāmā: nom. sg. 'earth' or du.; 'kṣāmā iva … sam ajatam rajāṃsi' sense unclear (rajas 'realm, airy space'). In line b the object of śiśītam is taken as the hymns; the simile 'as one sharpens an axe' supplies 'one'. Aśvins named here for the first time in the hymn.",
+  "confidence": "low",
+  "type": "verse",
+  "line_ids": [
+   "002.039.7a",
+   "002.039.7b"
+  ],
+  "lines_deva": [
+   "हस्ते॑व श॒क्तिम॒भि सं॑द॒दी न॒: क्षामे॑व न॒: सम॑जतं॒ रजां॑सि",
+   "इ॒मा गिरो॑ अश्विना युष्म॒यन्ती॒: क्ष्णोत्रे॑णेव॒ स्वधि॑तिं॒ सं शि॑शीतम्"
+  ],
+  "lines_iast": [
+   "hastḙva śa̱ktima̱bhi sa̭ṃda̱dī na̱: kṣāmḙva na̱: sama̭jata̱ṃ rajā̭ṃsi",
+   "i̱mā giro̭ aśvinā yuṣma̱yantī̱: kṣṇotrḙṇeva̱ svadhi̭ti̱ṃ saṃ śi̭śītam"
+  ],
+  "uncertain": []
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "e̱tāni̭",
+      "words": [
+       {
+        "w": "etāni",
+        "gloss": "these",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "vāmaśvinā̱",
+      "words": [
+       {
+        "w": "vām",
+        "gloss": "for you two",
+        "gram": "2 du. dat."
+       },
+       {
+        "w": "aśvinā",
+        "gloss": "O Aśvins",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "vardha̭nāni̱",
+      "words": [
+       {
+        "w": "vardhanāni",
+        "gloss": "strengtheners",
+        "gram": "n. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "brahma̱",
+      "words": [
+       {
+        "w": "brahma",
+        "gloss": "sacred utterance",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "stoma̭ṃ",
+      "words": [
+       {
+        "w": "stomam",
+        "gloss": "praise",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "gṛtsama̱dāso̭",
+      "words": [
+       {
+        "w": "gṛtsamadāsaḥ",
+        "gloss": "the Gṛtsamadas",
+        "gram": "m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "akran",
+      "words": [
+       {
+        "w": "akran",
+        "gloss": "have made",
+        "gram": "3 pl. aor. √kṛ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "tāni̭",
+      "words": [
+       {
+        "w": "tāni",
+        "gloss": "those",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "narā",
+      "words": [
+       {
+        "w": "narā",
+        "gloss": "O men",
+        "gram": "m. voc. du."
+       }
+      ]
+     },
+     {
+      "src": "jujuṣā̱ṇopa̭",
+      "words": [
+       {
+        "w": "jujuṣāṇā",
+        "gloss": "enjoying",
+        "gram": "m. voc. du. pf. part. mid. √juṣ"
+       },
+       {
+        "w": "upa",
+        "gloss": "near",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "yātaṃ",
+      "words": [
+       {
+        "w": "yātam",
+        "gloss": "come",
+        "gram": "2 du. imper. √yā"
+       }
+      ]
+     },
+     {
+      "src": "bṛ̱had",
+      "words": [
+       {
+        "w": "bṛhat",
+        "gloss": "greatly",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "va̭dema",
+      "words": [
+       {
+        "w": "vadema",
+        "gloss": "may we speak",
+        "gram": "1 pl. opt. √vad"
+       }
+      ]
+     },
+     {
+      "src": "vi̱dathḙ",
+      "words": [
+       {
+        "w": "vidathe",
+        "gloss": "in the rite",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱vīrā̭:",
+      "words": [
+       {
+        "w": "su-vīrāḥ",
+        "gloss": "rich in heroes",
+        "gram": "bahuvrīhi; m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "ये बढ़ाने वाली वस्तुएँ तुम्हारे लिए, हे अश्विनौ, गृत्समदों ने बनाई हैं: ब्रह्म और स्तोम। हे नरो, उनका सेवन करते हुए पास आओ; हम, उत्तम वीरों से युक्त, यज्ञ में महान् रूप से बोलें।",
+  "english": "These strengtheners for you, O Aśvins, the Gṛtsamadas have made: a sacred utterance, a praise. O men, enjoying them, come near; may we, rich in heroes, speak greatly in the rite.",
+  "text_flags": [],
+  "notes": "brahma stomam in apposition to vardhanāni (the strengtheners); brahma rendered 'sacred utterance' (not in glossary). 'Gṛtsamadas' = the family of Gṛtsamada, kept as a name. 'bṛhat vadema' 'speak greatly/loudly': the adverbial sense is tentative. narā rendered 'O men' (vocative dual).",
+  "confidence": "high",
+  "type": "verse",
+  "line_ids": [
+   "002.039.8a",
+   "002.039.8b"
+  ],
+  "lines_deva": [
+   "ए॒तानि॑ वामश्विना॒ वर्ध॑नानि॒ ब्रह्म॒ स्तोमं॑ गृत्सम॒दासो॑ अक्रन्",
+   "तानि॑ नरा जुजुषा॒णोप॑ यातं बृ॒हद् व॑देम वि॒दथे॑ सु॒वीरा॑:"
+  ],
+  "lines_iast": [
+   "e̱tāni̭ vāmaśvinā̱ vardha̭nāni̱ brahma̱ stoma̭ṃ gṛtsama̱dāso̭ akran",
+   "tāni̭ narā jujuṣā̱ṇopa̭ yātaṃ bṛ̱had va̭dema vi̱dathḙ su̱vīrā̭:"
+  ],
+  "uncertain": []
+ }
+]

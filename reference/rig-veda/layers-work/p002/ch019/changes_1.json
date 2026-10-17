@@ -1,0 +1,117 @@
+[
+ {
+  "n": "1",
+  "field": "hindi",
+  "old": "इस रस में से, इस प्रेरित, निचोड़े गए स्वादिष्ट रस में से आनन्द के लिए पिया गया है; जिसमें प्राचीन काल से बढ़ते हुए इन्द्र ने अपना निवास बनाया है, और प्रार्थना करते हुए पुरुषों ने भी।",
+  "new": "इस रस में से, इस प्रेरित, निचोड़े गए स्वादिष्ट रस में से मद के लिए पिया गया है; जिसमें प्राचीन काल से बढ़ते हुए इन्द्र ने अपना निवास बनाया है, और प्रार्थना करते हुए पुरुषों ने भी।",
+  "why": "reviewer (minor): mada is \"exhilaration\" (मद in 2.16); आनन्द is a different word."
+ },
+ {
+  "n": "2",
+  "field": "english",
+  "old": "Exhilarated by this honey, vajra in hand, Indra cut apart the serpent enclosing the flood, when the refreshments of the rivers strode forth, like birds towards their nests.",
+  "new": "Exhilarated by this honey, vajra in hand, Indra cut apart the serpent enclosing the flood, when the delicacies of the rivers strode forth, like birds towards their nests.",
+  "why": "reviewer (minor): prayas is \"delicacy\" in unit 1 (and iṣ is \"refreshment\" in unit 8); the same word needs one rendering within the chunk."
+ },
+ {
+  "n": "2",
+  "field": "word.gloss",
+  "word": "prayāṃsi",
+  "old": "refreshments",
+  "new": "delicacies",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "2",
+  "field": "notes",
+  "old": "Uncertain: madhvaḥ 'honey' (genitive, 'by this honey'); arṇaḥ-vṛtam 'enclosing the flood' (as a ppp. it could be 'enclosed by the flood'); prayāṃsi nadīnām 'refreshments of the rivers' (the sense is uncertain; 'flows' is an alternative), with ca left over; vayaḥ 'birds'. ahi 'serpent' (no identification).",
+  "new": "Uncertain: madhvaḥ 'honey' (genitive, 'by this honey'); arṇaḥ-vṛtam 'enclosing the flood' (as a ppp. it could be 'enclosed by the flood'); prayāṃsi nadīnām 'delicacies of the rivers' (the sense is uncertain; 'flows' is an alternative), with ca left over; vayaḥ 'birds'. ahi 'serpent' (no identification).",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "2",
+  "field": "word.gram",
+  "word": "vayaḥ",
+  "old": "n. nom. pl.",
+  "new": "m. nom. pl. (stem vi)",
+  "why": "reviewer (minor): vayaḥ \"birds\" is the nom. pl. of masculine vi, not a neuter."
+ },
+ {
+  "n": "3",
+  "field": "hindi",
+  "old": "वह महान् इन्द्र, अहि का वध करने वाला, जलों की धारा को समुद्र की ओर बहा ले गया। उसने सूर्य को उत्पन्न किया, गौओं को पाया; रात के द्वारा उसने दिनों के मार्गों को पूरा किया।",
+  "new": "वह महान् इन्द्र, अहि का वध करने वाला, जलों के प्रवाह को समुद्र की ओर गतिमान किया। उसने सूर्य को उत्पन्न किया, गौओं को पाया; रात के द्वारा उसने दिनों के मार्गों को पूरा किया।",
+  "why": "reviewer (minor): airayat is \"set in motion\" (English, gloss); \"बहा ले गया\" (swept away) changes the sense, and \"धारा\" differs from arṇas \"flood\" (जल-प्रवाह in unit 2). ch017 uses गतिमान किया for √īr."
+ },
+ {
+  "n": "4",
+  "field": "hindi",
+  "old": "वह इन्द्र उपासक मनु को बहुत से प्रतिद्वन्द्वियों से रहित फल देता है और वृत्र को मारता है; जो तुरन्त सूर्य की प्राप्ति के लिए स्पर्धा करते हुए पुरुषों के लिए ढूँढ़ने योग्य हुआ।",
+  "new": "वह इन्द्र उपासक मनु को बहुत सी अप्रतिम वस्तुएँ देता है और वृत्र को मारता है; जो तुरन्त सूर्य की प्राप्ति के लिए स्पर्धा करते हुए पुरुषों के लिए ढूँढ़ने योग्य हुआ।",
+  "why": "reviewer (error): \"फल\" (fruit, reward) is an invented noun; English has \"things\" (the noun is not stated), and \"रहित\" with \"बहुत से प्रतिद्वन्द्वियों\" says \"without many rivals\", not \"many unrivalled\"."
+ },
+ {
+  "n": "5",
+  "field": "hindi",
+  "old": "स्तुत किया जाता हुआ इन्द्र देव सोम निचोड़ने वाले मर्त्य को सूर्य सौंप गया। जब वह उसके लिए छिपा हुआ निन्दनीय धन भाग के समान ले आया, एतश सेवा करते हुए।",
+  "new": "स्तुत किया जाता हुआ इन्द्र देव निचोड़ने वाले मर्त्य को सूर्य सौंप गया। जब वह उसके लिए छिपा हुआ निन्दनीय धन भाग के समान ले आया, एतश सेवा करते हुए।",
+  "why": "reviewer (minor): \"सोम\" is not in the line: sunvate/martyāya have no object (English \"who presses\" is right)."
+ },
+ {
+  "n": "6",
+  "field": "hindi",
+  "old": "उसने उसी दिन सारथी के लिए, कुत्स के लिए, शुष्ण, अशुष और कुयव को वश में किया; और इन्द्र ने दिवोदास के लिए शम्बर के निन्यानवे नगरों को बिखेर दिया।",
+  "new": "उसने उसी दिन सारथी के लिए, कुत्स के लिए, शुष्ण, अशुष और कुयव को वश में किया; और इन्द्र ने दिवोदास के लिए शम्बर के निन्यानवे गढ़ों को बिखेर दिया।",
+  "why": "reviewer (minor): pur is a stronghold (English); नगर (city) changes the sense."
+ },
+ {
+  "n": "8",
+  "field": "hindi",
+  "old": "हे शूर, इस प्रकार गृत्समदों ने तेरे लिए स्तोत्र रचे, सहायता चाहने वालों की तरह मार्गों को गढ़ते हुए। हे इन्द्र, तेरे लिए नई प्रार्थनाएँ करते हुए वे अन्न, बल, उत्तम निवास और कृपा पाएँ।",
+  "new": "हे शूर, इस प्रकार गृत्समदों ने तेरे लिए स्तोत्र रचे, सहायता चाहने वालों की तरह मार्गों को गढ़ते हुए। हे इन्द्र, तेरे लिए नए सिरे से प्रार्थना करते हुए वे ताज़गी, बल, उत्तम निवास और कृपा पाएँ।",
+  "why": "reviewer (minor): navīyaḥ is taken adverbially \"anew\" in English and gloss, but the Hindi makes it an object (\"new prayers\"), the alternative the notes mention."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond them; the share is ours. May we, rich in heroes, speak mightily in the rite.",
+  "new": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond them; the share is ours. May we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (error): Glossary fixes the refrain as \"speak greatly in the rite\"."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में प्रबल रूप से बोलें।",
+  "new": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Same: bṛhat = greatly."
+ },
+ {
+  "n": "9",
+  "field": "word.gloss",
+  "word": "bṛhat",
+  "old": "mightily",
+  "new": "greatly",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "9",
+  "field": "notes",
+  "old": "Refrain: the identical verse ends each of the hymns 2.16 to 2.19. Readings uncertain: mā ati dhak (do not burn beyond/past; the object is not stated) and bhago naḥ ('the share is ours' taken with bhaga as 'share'; bhaga could also be the god Bhaga, 'Bhaga is ours'). dakṣiṇā taken as the bountiful gift; bṛhat taken adverbially ('mightily'). Hindi भाग for bhaga.",
+  "new": "Refrain: the identical verse ends each of the hymns 2.16 to 2.19. Readings uncertain: mā ati dhak (do not burn beyond/past; the object is not stated) and bhago naḥ ('the share is ours' taken with bhaga as 'share'; bhaga could also be the god Bhaga, 'Bhaga is ours'). dakṣiṇā taken as the bountiful gift; bṛhat taken adverbially ('greatly'). Hindi भाग for bhaga.",
+  "why": "reviewer (minor): Same."
+ },
+ {
+  "n": "9",
+  "field": "english",
+  "old": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond them; the share is ours. May we, rich in heroes, speak greatly in the rite.",
+  "new": "Now, Indra, may that bountiful gift of yours yield its choice boon in return to the singer. Help the praisers; do not burn beyond; the share is ours. May we, rich in heroes, speak greatly in the rite.",
+  "why": "reviewer (minor): Glossary fixes mā ati dhak = \"do not burn beyond\"; \"them\" is an unmarked addition."
+ },
+ {
+  "n": "9",
+  "field": "hindi",
+  "old": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "new": "अब, हे इन्द्र, तेरी वह उदार दक्षिणा गायक के लिए बदले में उसका चुना हुआ वर दुहे। स्तोताओं की सहायता कर; परे तक न जला; भाग हमारा है। हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+  "why": "reviewer (minor): Adds \"उन्हें\" and turns \"burn beyond\" into \"burn and go past\"."
+ }
+]

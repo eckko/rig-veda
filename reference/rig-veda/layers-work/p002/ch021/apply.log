@@ -1,0 +1,3 @@
+chunk 1: 6 units, 11 patches applied (11 changes logged), 1 issues without patch, 0 patches failed
+  MANUAL unit 6 [minor] english / fairness of days: "fairness" can read as justice or complexion; su-dina-tva is "the quality of good days". Hindi "सुन्दरता" (beauty) does not match "fairness" either. No patch: a human should pick one wording.
+         suggested fix: the goodness of days (Hindi: दिनों की शुभता)
