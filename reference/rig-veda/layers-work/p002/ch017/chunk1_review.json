@@ -1,0 +1,324 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह नया स्तोत्र",
+     "problem": "Hindi stoma/praise is स्तुति/स्तोम in the fixed renderings; \"स्तोत्र\" (a later genre term) disagrees with English \"praise\".",
+     "fix": "वह नई स्तुति",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह नया स्तोत्र",
+      "new": "वह नई स्तुति"
+     }
+    },
+    {
+     "field": "english",
+     "where": "as the Aṅgirases did",
+     "problem": "aṅgirasvat is \"like the Aṅgirases\"; \"did\" turns it into a clause not in the text.",
+     "fix": "like the Aṅgirases",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "as the Aṅgirases did",
+      "new": "like the Aṅgirases"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अंगिरसों",
+     "problem": "Glossary spelling is अङ्गिरस्.",
+     "fix": "अङ्गिरसों",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अंगिरसों की तरह",
+      "new": "अङ्गिरसों की तरह"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "गोष्ठों",
+     "problem": "gotra is a different word from goṣṭha; English says cow-pens.",
+     "fix": "गोबाड़ों",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "गोष्ठों को",
+      "new": "गोबाड़ों को"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "śuṣmā",
+     "problem": "A neuter plural would be śuṣmāṇi; śuṣmā here is m. nom. pl. (śuṣmāḥ before y).",
+     "fix": "m. nom. pl.",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "śuṣmā",
+      "field": "gram",
+      "value": "m. nom. pl."
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हरे घोड़ों वाले",
+     "problem": "हरे means green; harya-aśva is tawny-horsed (English and gloss say tawny).",
+     "fix": "भूरे-पीले घोड़ों वाले",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हरे घोड़ों वाले",
+      "new": "भूरे-पीले घोड़ों वाले"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रार्थना से",
+     "problem": "Glossary fixes brahman (n.) in Hindi as ब्रह्म.",
+     "fix": "ब्रह्म से",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रार्थना से",
+      "new": "ब्रह्म से"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "sadhrya1kpṛthak",
+     "problem": "The 1 is not clearly a typo: digits after a syllable are svara/pluti marks in this edition (cf. tanvī3, tanvo3 left unflagged in 2.16 and 2.17.7). The flag treats 1 as stray but 3 as fine; either drop the flag or flag both. The word split sadhryak / pṛthak is right.",
+     "fix": "drop the text_flag, keep the note",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "stitching the darknesses he wrapped up the agitated ones",
+     "problem": "Draft contradicts itself: gram and notes make dudhitā an adjective of tamāṃsi (agitated darknesses), but both translations make \"the agitated ones\" a second object.",
+     "fix": "and stitching, he wrapped up the agitated darknesses together",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "and stitching the darknesses he wrapped up the agitated ones",
+      "new": "and stitching, he wrapped up the agitated darknesses together"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अन्धकारों को सिलते हुए उन हिलाए हुओं को लपेट लिया",
+     "problem": "Same contradiction in the Hindi.",
+     "fix": "और सिलते हुए उसने हिलाए हुए अन्धकारों को एक साथ लपेट लिया",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "और अन्धकारों को सिलते हुए उन हिलाए हुओं को लपेट लिया",
+      "new": "और सिलते हुए उसने हिलाए हुए अन्धकारों को एक साथ लपेट लिया"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सब भुवनों",
+     "problem": "English renders bhuvanā \"beings\", Hindi \"worlds\"; the two disagree (rodasī is separately \"the two worlds\"). Decide one rendering.",
+     "fix": "सब प्राणियों or English \"worlds\"",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dṛṃhat",
+     "problem": "No augment: injunctive form, not an imperfect.",
+     "fix": "3 sg. inj. √dṛṃh",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "dṛṃhat",
+      "field": "gram",
+      "value": "3 sg. inj. √dṛṃh"
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "split",
+     "where": "sā",
+     "problem": "w \"sā\" is the feminine nominative form but is labelled m. nom. sg. \"he\". If sa+asmā is meant, w should be saḥ (as elsewhere); if feminine, the gloss is wrong. Needs a decision.",
+     "fix": "w saḥ, or gloss \"she\"",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "Make a perception known",
+     "problem": "\"known\" (and Hindi \"प्रकट\") is an addition: kṛdhi praketam is \"make a perception\".",
+     "fix": "Make a perception;",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हमारी रक्षा कर",
+     "problem": "aviḍḍhi is \"help\" (English, gloss); रक्षा (protect) is stronger and differs from सहायता used for avas elsewhere.",
+     "fix": "हमारी सहायता कर",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हमारी रक्षा कर",
+      "new": "हमारी सहायता कर"
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "speak mightily",
+     "problem": "Glossary fixes the refrain as \"speak greatly in the rite\".",
+     "fix": "speak greatly in the rite",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "speak mightily in the rite",
+      "new": "speak greatly in the rite"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रबल रूप से",
+     "problem": "Same: bṛhat = greatly.",
+     "fix": "महान् रूप से",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रबल रूप से बोलें",
+      "new": "महान् रूप से बोलें"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bṛhat",
+     "problem": "Same.",
+     "fix": "greatly",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "bṛhat",
+      "field": "gloss",
+      "value": "greatly"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bṛhat",
+     "problem": "Same.",
+     "fix": "greatly",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "notes",
+      "old": "('mightily')",
+      "new": "('greatly')"
+     }
+    },
+    {
+     "field": "english",
+     "where": "do not burn beyond them",
+     "problem": "Glossary fixes mā ati dhak = \"do not burn beyond\"; \"them\" is an unmarked addition.",
+     "fix": "do not burn beyond;",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "do not burn beyond them;",
+      "new": "do not burn beyond;"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उन्हें जलाकर आगे न बढ़ जा",
+     "problem": "Adds \"उन्हें\" and turns \"burn beyond\" into \"burn and go past\".",
+     "fix": "परे तक न जला",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उन्हें जलाकर आगे न बढ़ जा",
+      "new": "परे तक न जला"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 9 units. 4 error, 17 minor. Errors: unit 3 Hindi हरे (green) for tawny horses; unit 4 translations contradict the gram/notes on dudhitā (adjective of tamāṃsi); unit 9 refrain \"mightily\" against glossary \"greatly\". Minor: brahman Hindi, गोष्ठ for gotra, stoma/stotra, śuṣmā gender, dṛṃhat tense, unit 3 text_flag on the digit 1 is doubtful, unit 4 bhuvana Hindi/English mismatch, unit 6 sā form. Units 2, 3, 4, 6, 7 low confidence is honest. No regrouping suggested."
+}

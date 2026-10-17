@@ -1,0 +1,1812 @@
+[
+ {
+  "n": "1",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ghā̱",
+      "words": [
+       {
+        "w": "ghā",
+        "gloss": "indeed",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "nva̭sya",
+      "words": [
+       {
+        "w": "nu",
+        "gloss": "now",
+        "gram": "ind."
+       },
+       {
+        "w": "asya",
+        "gloss": "of him",
+        "gram": "pron. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "maha̱to",
+      "words": [
+       {
+        "w": "mahataḥ",
+        "gloss": "of the great",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱hāni̭",
+      "words": [
+       {
+        "w": "mahāni",
+        "gloss": "great",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱tyā",
+      "words": [
+       {
+        "w": "satyā",
+        "gloss": "true",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "sa̱tyasya̱",
+      "words": [
+       {
+        "w": "satyasya",
+        "gloss": "of the true one",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "kara̭ṇāni",
+      "words": [
+       {
+        "w": "karaṇāni",
+        "gloss": "deeds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vocam",
+      "words": [
+       {
+        "w": "vocam",
+        "gloss": "may I proclaim",
+        "gram": "1 sg. aor. subj. pra-√vac"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "trika̭drukeṣvapibat",
+      "words": [
+       {
+        "w": "trikadrukeṣu",
+        "gloss": "at the Trikadrukas",
+        "gram": "m. loc. pl. (uncertain)"
+       },
+       {
+        "w": "apibat",
+        "gloss": "drank",
+        "gram": "3 sg. impf. √pā"
+       }
+      ]
+     },
+     {
+      "src": "su̱tasyā̱sya",
+      "words": [
+       {
+        "w": "sutasya",
+        "gloss": "of the pressed",
+        "gram": "m. gen. sg. ppp. √su"
+       },
+       {
+        "w": "asya",
+        "gloss": "of this",
+        "gram": "pron. m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "made̱",
+      "words": [
+       {
+        "w": "made",
+        "gloss": "in the exhilaration",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ahi̱mindro̭",
+      "words": [
+       {
+        "w": "ahim",
+        "gloss": "the serpent",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "jaghāna",
+      "words": [
+       {
+        "w": "jaghāna",
+        "gloss": "slew",
+        "gram": "3 sg. pf. √han"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अब मैं इस महान् के महान् और सच्चे कार्य, उस सत्य के कर्म, अवश्य कहूँगा। त्रिकद्रुकों में उसने निचोड़े हुए इस सोम को पिया; उसके मद में इन्द्र ने अहि को मारा।",
+  "english": "Now I will indeed proclaim the great and true deeds of this great one, the deeds of the true one. At the Trikadrukas he drank of this pressed Soma; in its exhilaration Indra slew the serpent.",
+  "text_flags": [],
+  "notes": "trikadruka: a word of uncertain sense, kept as a name ('the Trikadrukas'). 'asya' with sutasya read as 'of this (Soma)'. The Hindi uses कृत्य for 'deeds' of the true one.",
+  "confidence": "medium"
+ },
+ {
+  "n": "2",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "a̱va̱ṃśe",
+      "words": [
+       {
+        "w": "avaṃśe",
+        "gloss": "without a support",
+        "gram": "m. loc. sg. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "dyāma̭stabhāyad",
+      "words": [
+       {
+        "w": "dyām",
+        "gloss": "heaven",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "astabhāyat",
+        "gloss": "propped",
+        "gram": "3 sg. impf. caus. √stambh"
+       }
+      ]
+     },
+     {
+      "src": "bṛ̱hanta̱mā",
+      "words": [
+       {
+        "w": "bṛhantam",
+        "gloss": "great",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ā",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "roda̭sī",
+      "words": [
+       {
+        "w": "rodasī",
+        "gloss": "the two worlds",
+        "gram": "f. acc. du."
+       }
+      ]
+     },
+     {
+      "src": "apṛṇada̱ntari̭kṣam",
+      "words": [
+       {
+        "w": "apṛṇat",
+        "gloss": "filled",
+        "gram": "3 sg. impf. √pṛ"
+       },
+       {
+        "w": "antarikṣam",
+        "gloss": "the atmosphere",
+        "gram": "n. acc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhā̭rayat",
+      "words": [
+       {
+        "w": "dhārayat",
+        "gloss": "held",
+        "gram": "3 sg. impf. caus. √dhṛ"
+       }
+      ]
+     },
+     {
+      "src": "pṛthi̱vīṃ",
+      "words": [
+       {
+        "w": "pṛthivīm",
+        "gloss": "the earth",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pa̱pratha̭cca̱",
+      "words": [
+       {
+        "w": "paprathat",
+        "gloss": "spread",
+        "gram": "3 sg. aor. caus. √prath"
+       },
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "soma̭sya̱",
+      "words": [
+       {
+        "w": "somasya",
+        "gloss": "of Soma",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tā",
+        "gloss": "those deeds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mada̱",
+      "words": [
+       {
+        "w": "made",
+        "gloss": "in the exhilaration",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "indra̭ścakāra",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cakāra",
+        "gloss": "did",
+        "gram": "3 sg. pf. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसने बिना आधार के विशाल द्युलोक को थामा, दोनों लोकों और अन्तरिक्ष को भर दिया। उसने पृथिवी को धारण किया और फैलाया। सोम के मद में इन्द्र ने वे कार्य किए।",
+  "english": "Without a support he propped the great heaven; he filled the two worlds and the atmosphere. He held the earth and spread it out. In the exhilaration of Soma, Indra did those deeds.",
+  "text_flags": [],
+  "notes": "avaṃśe: 'without a support' (locative of a rare word); sense uncertain. 'bṛhantam ā' taken with 'dyām'.",
+  "confidence": "medium"
+ },
+ {
+  "n": "3",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sadmḙva̱",
+      "words": [
+       {
+        "w": "sadma",
+        "gloss": "house",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "iva",
+        "gloss": "like",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "prāco̱",
+      "words": [
+       {
+        "w": "prācaḥ",
+        "gloss": "eastward",
+        "gram": "f. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "out",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "mi̭māya̱",
+      "words": [
+       {
+        "w": "mimāya",
+        "gloss": "measured",
+        "gram": "3 sg. pf. vi-√mā"
+       }
+      ]
+     },
+     {
+      "src": "mānai̱rvajrḙṇa̱",
+      "words": [
+       {
+        "w": "mānaiḥ",
+        "gloss": "with measures",
+        "gram": "n. inst. pl."
+       },
+       {
+        "w": "vajreṇa",
+        "gloss": "with the vajra",
+        "gram": "m. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "khānya̭tṛṇanna̱dīnā̭m",
+      "words": [
+       {
+        "w": "khāni",
+        "gloss": "channels",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "atṛṇat",
+        "gloss": "pierced",
+        "gram": "3 sg. impf. √tṛd"
+       },
+       {
+        "w": "nadīnām",
+        "gloss": "of the rivers",
+        "gram": "f. gen. pl."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "vṛthā̭sṛjat",
+      "words": [
+       {
+        "w": "vṛthā",
+        "gloss": "freely",
+        "gram": "ind."
+       },
+       {
+        "w": "asṛjat",
+        "gloss": "released",
+        "gram": "3 sg. impf. √sṛj"
+       }
+      ]
+     },
+     {
+      "src": "pa̱thibhi̭rdīrghayā̱thaiḥ",
+      "words": [
+       {
+        "w": "pathibhiḥ",
+        "gloss": "by paths",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "dīrgha-yāthaiḥ",
+        "gloss": "with long courses",
+        "gram": "bahuvrīhi m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "soma̭sya̱",
+      "words": [
+       {
+        "w": "somasya",
+        "gloss": "of Soma",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tā",
+        "gloss": "those deeds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mada̱",
+      "words": [
+       {
+        "w": "made",
+        "gloss": "in the exhilaration",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "indra̭ścakāra",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cakāra",
+        "gloss": "did",
+        "gram": "3 sg. pf. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसने पूर्व की ओर के प्रदेशों को घर की तरह मापों से नापा; वज्र से नदियों की धाराओं को भेदा। उसने उन्हें स्वतन्त्र रूप से लम्बे मार्गों वाले पथों से छोड़ा। सोम के मद में इन्द्र ने वे कार्य किए।",
+  "english": "He measured out the eastward regions like a house with measures; with the vajra he pierced the channels of the rivers. He released them freely along paths of long courses. In the exhilaration of Soma, Indra did those deeds.",
+  "text_flags": [],
+  "notes": "prācaḥ: 'eastward' or 'forward', taken as a noun 'regions'; the object of 'asṛjat' (them = the rivers) is not stated. 'khāni' (openings, channels) read as the channels of the rivers.",
+  "confidence": "medium"
+ },
+ {
+  "n": "4",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra̭vo̱ḻahṛn",
+      "words": [
+       {
+        "w": "pravoḻhṝn",
+        "gloss": "forward-drivers",
+        "gram": "m. acc. pl. (sense uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "pa̭ri̱gatyā̭",
+      "words": [
+       {
+        "w": "parigatyā",
+        "gloss": "having surrounded",
+        "gram": "abs. pari-√gam"
+       }
+      ]
+     },
+     {
+      "src": "da̱bhīte̱rviśva̭madhā̱gāyṷdhami̱ddhe",
+      "words": [
+       {
+        "w": "dabhīteḥ",
+        "gloss": "of Dabhīti",
+        "gram": "m. gen. sg. (name)"
+       },
+       {
+        "w": "viśvam",
+        "gloss": "all",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "adhāk",
+        "gloss": "burned",
+        "gram": "3 sg. impf. √dah"
+       },
+       {
+        "w": "āyudham",
+        "gloss": "weapon",
+        "gram": "n. acc. sg."
+       },
+       {
+        "w": "iddhe",
+        "gloss": "kindled",
+        "gram": "m. loc. sg. ppp. √idh"
+       }
+      ]
+     },
+     {
+      "src": "a̱gnau",
+      "words": [
+       {
+        "w": "agnau",
+        "gloss": "in the fire",
+        "gram": "m. loc. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "gobhi̱raśvai̭rasṛja̱d",
+      "words": [
+       {
+        "w": "gobhiḥ",
+        "gloss": "with cows",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "aśvaiḥ",
+        "gloss": "with horses",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "asṛjat",
+        "gloss": "joined",
+        "gram": "3 sg. impf. √sṛj"
+       }
+      ]
+     },
+     {
+      "src": "rathḙbhi̱:",
+      "words": [
+       {
+        "w": "rathebhiḥ",
+        "gloss": "with chariots",
+        "gram": "m. inst. pl."
+       }
+      ]
+     },
+     {
+      "src": "soma̭sya̱",
+      "words": [
+       {
+        "w": "somasya",
+        "gloss": "of Soma",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tā",
+        "gloss": "those deeds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mada̱",
+      "words": [
+       {
+        "w": "made",
+        "gloss": "in the exhilaration",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "indra̭ścakāra",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cakāra",
+        "gloss": "did",
+        "gram": "3 sg. pf. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसने आगे ले जाने वालों को घेरकर दभीति के सब शस्त्र को प्रज्वलित अग्नि में जला दिया। उसने गौओं, अश्वों और रथों के साथ जोड़ा। सोम के मद में इन्द्र ने वे कार्य किए।",
+  "english": "Having surrounded the forward-drivers, he burned all the weapon of Dabhīti in the kindled fire. He joined together with cows, horses and chariots. In the exhilaration of Soma, Indra did those deeds.",
+  "text_flags": [],
+  "notes": "pravoḻhṝn: sense uncertain (acc. pl. of an agent noun 'those who drive forward'). The object of 'sam asṛjat' is not stated. Dabhīti is a name.",
+  "confidence": "low"
+ },
+ {
+  "n": "5",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ī̭ṃ",
+      "words": [
+       {
+        "w": "īm",
+        "gloss": "it",
+        "gram": "ind. (part.)"
+       }
+      ]
+     },
+     {
+      "src": "ma̱hīṃ",
+      "words": [
+       {
+        "w": "mahīm",
+        "gloss": "great",
+        "gram": "f. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dhuni̱meto̭raramṇā̱t",
+      "words": [
+       {
+        "w": "dhunim",
+        "gloss": "roaring",
+        "gram": "f. acc. sg."
+       },
+       {
+        "w": "etoḥ",
+        "gloss": "from going",
+        "gram": "abl. inf. √i"
+       },
+       {
+        "w": "aramṇāt",
+        "gloss": "stilled",
+        "gram": "3 sg. impf. √ram"
+       }
+      ]
+     },
+     {
+      "src": "so",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "a̭snā̱tṝna̭pārayat",
+      "words": [
+       {
+        "w": "asnātṝn",
+        "gloss": "non-bathers",
+        "gram": "m. acc. pl."
+       },
+       {
+        "w": "apārayat",
+        "gloss": "carried across",
+        "gram": "3 sg. impf. caus. √pṛ"
+       }
+      ]
+     },
+     {
+      "src": "sva̱sti",
+      "words": [
+       {
+        "w": "svasti",
+        "gloss": "safely",
+        "gram": "ind."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ta",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "they",
+        "gram": "pron. m. nom. pl."
+       }
+      ]
+     },
+     {
+      "src": "u̱tsnāya̭",
+      "words": [
+       {
+        "w": "utsnāya",
+        "gloss": "for the spring",
+        "gram": "m. dat. sg. (form uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "ra̱yima̱bhi",
+      "words": [
+       {
+        "w": "rayim",
+        "gloss": "wealth",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "abhi",
+        "gloss": "toward",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ta̭sthu̱:",
+      "words": [
+       {
+        "w": "tasthuḥ",
+        "gloss": "set out",
+        "gram": "3 pl. pf. √sthā"
+       }
+      ]
+     },
+     {
+      "src": "soma̭sya̱",
+      "words": [
+       {
+        "w": "somasya",
+        "gloss": "of Soma",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tā",
+        "gloss": "those deeds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mada̱",
+      "words": [
+       {
+        "w": "made",
+        "gloss": "in the exhilaration",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "indra̭ścakāra",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cakāra",
+        "gloss": "did",
+        "gram": "3 sg. pf. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसने बहने से उस विशाल गर्जती धारा को रोक दिया; उसने अस्नान करने वालों को कुशलपूर्वक पार करा दिया। वे उत्स के लिए धन की ओर चल पड़े। सोम के मद में इन्द्र ने वे कार्य किए।",
+  "english": "He stilled that great roaring stream from going; he carried the non-bathers across safely. They set out toward wealth, for the spring. In the exhilaration of Soma, Indra did those deeds.",
+  "text_flags": [],
+  "notes": "The referent of 'īm' and of 'mahīm dhunim' (a stream) is not named. utsnāya: form and sense uncertain ('for the spring' is a guess). asnātṝn: 'non-bathers', sense uncertain.",
+  "confidence": "low"
+ },
+ {
+  "n": "6",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "soda̭ñca̱ṃ",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       },
+       {
+        "w": "udañcam",
+        "gloss": "upward-flowing",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "sindhṷmariṇānmahi̱tvā",
+      "words": [
+       {
+        "w": "sindhum",
+        "gloss": "river",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "ariṇāt",
+        "gloss": "released",
+        "gram": "3 sg. impf. √ri"
+       },
+       {
+        "w": "mahitvā",
+        "gloss": "by greatness",
+        "gram": "n. inst. sg."
+       }
+      ]
+     },
+     {
+      "src": "vajre̱ṇāna̭",
+      "words": [
+       {
+        "w": "vajreṇa",
+        "gloss": "with the vajra",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "anaḥ",
+        "gloss": "cart",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "u̱ṣasa̱:",
+      "words": [
+       {
+        "w": "uṣasaḥ",
+        "gloss": "of Dawn",
+        "gram": "f. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "saṃ",
+      "words": [
+       {
+        "w": "sam",
+        "gloss": "together",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "pi̭peṣa",
+      "words": [
+       {
+        "w": "pipeṣa",
+        "gloss": "crushed",
+        "gram": "3 sg. pf. √piṣ"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "a̱ja̱vaso̭",
+      "words": [
+       {
+        "w": "ajavasaḥ",
+        "gloss": "slow ones",
+        "gram": "m. acc. pl. (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "ja̱vinī̭bhirvivṛ̱ścan",
+      "words": [
+       {
+        "w": "javinībhiḥ",
+        "gloss": "with swift ones",
+        "gram": "f. inst. pl."
+       },
+       {
+        "w": "vivṛścan",
+        "gloss": "cutting apart",
+        "gram": "m. nom. sg. pres. part. vi-√vṛśc"
+       }
+      ]
+     },
+     {
+      "src": "tsoma̭sya̱",
+      "words": [
+       {
+        "w": "somasya",
+        "gloss": "of Soma",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tā",
+        "gloss": "those deeds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mada̱",
+      "words": [
+       {
+        "w": "made",
+        "gloss": "in the exhilaration",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "indra̭ścakāra",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cakāra",
+        "gloss": "did",
+        "gram": "3 sg. pf. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "उसने अपनी महिमा से ऊपर बहने वाली नदी को छोड़ा; वज्र से उषा के रथ को चूर-चूर कर दिया। वह धीमों को तेज़ वालों से काटता गया। सोम के मद में इन्द्र ने वे कार्य किए।",
+  "english": "He released the upward-flowing river by his greatness; with the vajra he crushed the cart of Dawn. He cut apart the slow ones with the swift. In the exhilaration of Soma, Indra did those deeds.",
+  "text_flags": [],
+  "notes": "ajavasaḥ and javinībhiḥ: sense uncertain. The printed 'tsomasya' has a euphonic t; the refrain word is somasya.",
+  "confidence": "low"
+ },
+ {
+  "n": "7",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "sa",
+      "words": [
+       {
+        "w": "saḥ",
+        "gloss": "he",
+        "gram": "pron. m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "vi̱dvā~",
+      "words": [
+       {
+        "w": "vidvān",
+        "gloss": "knowing",
+        "gram": "m. nom. sg. pf. part. √vid"
+       }
+      ]
+     },
+     {
+      "src": "a̭pago̱haṃ",
+      "words": [
+       {
+        "w": "apagoham",
+        "gloss": "hiding place",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "ka̱nīnā̭mā̱virbhava̱nnuda̭tiṣṭhat",
+      "words": [
+       {
+        "w": "kanīnām",
+        "gloss": "of the maidens",
+        "gram": "f. gen. pl."
+       },
+       {
+        "w": "āvis",
+        "gloss": "manifest",
+        "gram": "ind."
+       },
+       {
+        "w": "bhavan",
+        "gloss": "becoming",
+        "gram": "m. nom. sg. pres. part. √bhū"
+       },
+       {
+        "w": "ud-atiṣṭhat",
+        "gloss": "rose up",
+        "gram": "3 sg. impf. ud-√sthā"
+       }
+      ]
+     },
+     {
+      "src": "parā̱vṛk",
+      "words": [
+       {
+        "w": "parāvṛk",
+        "gloss": "Parāvṛj",
+        "gram": "m. nom. sg. (name or 'the forsaken')"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "prati̭",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "up",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "śro̱ṇaḥ",
+      "words": [
+       {
+        "w": "śroṇaḥ",
+        "gloss": "the lame one",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "sthā̱dvya1naga̭caṣṭa̱",
+      "words": [
+       {
+        "w": "sthāt",
+        "gloss": "stood",
+        "gram": "3 sg. aor. √sthā"
+       },
+       {
+        "w": "vi",
+        "gloss": "forth",
+        "gram": "ind."
+       },
+       {
+        "w": "anak",
+        "gloss": "blind",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "acaṣṭa",
+        "gloss": "saw",
+        "gram": "3 sg. aor. mid. √cakṣ"
+       }
+      ]
+     },
+     {
+      "src": "soma̭sya̱",
+      "words": [
+       {
+        "w": "somasya",
+        "gloss": "of Soma",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tā",
+        "gloss": "those deeds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mada̱",
+      "words": [
+       {
+        "w": "made",
+        "gloss": "in the exhilaration",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "indra̭ścakāra",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cakāra",
+        "gloss": "did",
+        "gram": "3 sg. pf. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "वह कन्याओं के छिपने के स्थान को जानने वाला, प्रकट होता हुआ, परावृज उठ खड़ा हुआ। लँगड़ा खड़ा हुआ, अन्धे ने देखा। सोम के मद में इन्द्र ने वे कार्य किए।",
+  "english": "Knowing the hiding place of the maidens, becoming manifest, Parāvṛj rose up. The lame one stood up; the blind one saw. In the exhilaration of Soma, Indra did those deeds.",
+  "text_flags": [],
+  "notes": "parāvṛk: taken as the name Parāvṛj (as in 2.13.12), or 'the forsaken one'; uncertain. 'vi anak acaṣṭa' read as 'the blind one saw'. The connection of the first line to the rest is not clear.",
+  "confidence": "low"
+ },
+ {
+  "n": "8",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "bhi̱nad",
+      "words": [
+       {
+        "w": "bhinat",
+        "gloss": "split",
+        "gram": "3 sg. impf. √bhid"
+       }
+      ]
+     },
+     {
+      "src": "va̱lamaṅgi̭robhirgṛṇā̱no",
+      "words": [
+       {
+        "w": "valam",
+        "gloss": "Vala",
+        "gram": "m. acc. sg."
+       },
+       {
+        "w": "aṅgirobhiḥ",
+        "gloss": "by the Aṅgirases",
+        "gram": "m. inst. pl."
+       },
+       {
+        "w": "gṛṇānaḥ",
+        "gloss": "praised",
+        "gram": "m. nom. sg. pres. part. pass. √gṛ"
+       }
+      ]
+     },
+     {
+      "src": "vi",
+      "words": [
+       {
+        "w": "vi",
+        "gloss": "apart",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "parva̭tasya",
+      "words": [
+       {
+        "w": "parvatasya",
+        "gloss": "of the mountain",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṛṃhi̱tānyai̭rat",
+      "words": [
+       {
+        "w": "dṛṃhitāni",
+        "gloss": "firmly fixed",
+        "gram": "n. acc. pl. ppp. √dṛṃh"
+       },
+       {
+        "w": "airat",
+        "gloss": "set in motion",
+        "gram": "3 sg. impf. vi-√īr"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ri̱ṇagrodhā̭ṃsi",
+      "words": [
+       {
+        "w": "riṇak",
+        "gloss": "cleared",
+        "gram": "3 sg. aor. √ric"
+       },
+       {
+        "w": "rodhāṃsi",
+        "gloss": "barriers",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "kṛ̱trimā̭ṇyeṣā̱ṃ",
+      "words": [
+       {
+        "w": "kṛtrimāṇi",
+        "gloss": "built",
+        "gram": "n. acc. pl."
+       },
+       {
+        "w": "eṣām",
+        "gloss": "their",
+        "gram": "pron. m. gen. pl."
+       }
+      ]
+     },
+     {
+      "src": "soma̭sya̱",
+      "words": [
+       {
+        "w": "somasya",
+        "gloss": "of Soma",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tā",
+        "gloss": "those deeds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mada̱",
+      "words": [
+       {
+        "w": "made",
+        "gloss": "in the exhilaration",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "indra̭ścakāra",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cakāra",
+        "gloss": "did",
+        "gram": "3 sg. pf. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "अंगिरसों से स्तुति पाते हुए उसने वल को चीरा; पर्वत के दृढ़ किए हुए स्थानों को खोल दिया। उसने उनके बनाए हुए अवरोधों को हटाया। सोम के मद में इन्द्र ने वे कार्य किए।",
+  "english": "Praised by the Aṅgirases, he split Vala; he burst open the firmly fixed places of the mountain. He cleared their built barriers. In the exhilaration of Soma, Indra did those deeds.",
+  "text_flags": [],
+  "notes": "'vi ... airat' taken as 'burst open'. 'eṣām' (their) refers to the enemies, not named.",
+  "confidence": "medium"
+ },
+ {
+  "n": "9",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "svapnḙnā̱bhyupyā̱",
+      "words": [
+       {
+        "w": "svapnena",
+        "gloss": "by sleep",
+        "gram": "m. inst. sg."
+       },
+       {
+        "w": "abhyupya",
+        "gloss": "having strewn over",
+        "gram": "abs. abhi-√vap (uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "cumṷri̱ṃ",
+      "words": [
+       {
+        "w": "cumurim",
+        "gloss": "Cumuri",
+        "gram": "m. acc. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "dhuni̭ṃ",
+      "words": [
+       {
+        "w": "dhunim",
+        "gloss": "Dhuni",
+        "gram": "m. acc. sg. (name)"
+       }
+      ]
+     },
+     {
+      "src": "ca",
+      "words": [
+       {
+        "w": "ca",
+        "gloss": "and",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "ja̱ghantha̱",
+      "words": [
+       {
+        "w": "jaghantha",
+        "gloss": "you slew",
+        "gram": "2 sg. pf. √han"
+       }
+      ]
+     },
+     {
+      "src": "dasyu̱ṃ",
+      "words": [
+       {
+        "w": "dasyum",
+        "gloss": "the Dasyu",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "pra",
+      "words": [
+       {
+        "w": "pra",
+        "gloss": "forth",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "da̱bhīti̭māvaḥ",
+      "words": [
+       {
+        "w": "dabhītim",
+        "gloss": "Dabhīti",
+        "gram": "m. acc. sg. (name)"
+       },
+       {
+        "w": "āvaḥ",
+        "gloss": "you helped",
+        "gram": "2 sg. impf. √av"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "ra̱mbhī",
+      "words": [
+       {
+        "w": "rambhī",
+        "gloss": "staff-bearer",
+        "gram": "m. nom. sg. (sense uncertain)"
+       }
+      ]
+     },
+     {
+      "src": "ci̱datra̭",
+      "words": [
+       {
+        "w": "cit",
+        "gloss": "even",
+        "gram": "ind."
+       },
+       {
+        "w": "atra",
+        "gloss": "here",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vivide̱",
+      "words": [
+       {
+        "w": "vivide",
+        "gloss": "found",
+        "gram": "3 sg. pf. mid. √vid"
+       }
+      ]
+     },
+     {
+      "src": "hira̭ṇya̱ṃ",
+      "words": [
+       {
+        "w": "hiraṇyam",
+        "gloss": "gold",
+        "gram": "n. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "soma̭sya̱",
+      "words": [
+       {
+        "w": "somasya",
+        "gloss": "of Soma",
+        "gram": "m. gen. sg."
+       }
+      ]
+     },
+     {
+      "src": "tā",
+      "words": [
+       {
+        "w": "tā",
+        "gloss": "those deeds",
+        "gram": "n. acc. pl."
+       }
+      ]
+     },
+     {
+      "src": "mada̱",
+      "words": [
+       {
+        "w": "made",
+        "gloss": "in the exhilaration",
+        "gram": "m. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "indra̭ścakāra",
+      "words": [
+       {
+        "w": "indraḥ",
+        "gloss": "Indra",
+        "gram": "m. nom. sg."
+       },
+       {
+        "w": "cakāra",
+        "gloss": "did",
+        "gram": "3 sg. pf. √kṛ"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "नींद डालकर तू ने चुमुरि और धुनि दस्यु को मारा, और दभीति की सहायता की। लाठी वाले ने भी यहाँ सोना पाया। सोम के मद में इन्द्र ने वे कार्य किए।",
+  "english": "Having strewn them over with sleep, you slew Cumuri and Dhuni, the Dasyu, and you helped Dabhīti. Even the staff-bearer found gold here. In the exhilaration of Soma, Indra did those deeds.",
+  "text_flags": [],
+  "notes": "abhyupya: sense uncertain ('having cast into sleep'). The verse changes from second to third person. rambhī: 'staff-bearer', sense uncertain.",
+  "confidence": "low"
+ },
+ {
+  "n": "10",
+  "lines": [
+   {
+    "tokens": [
+     {
+      "src": "nū̱naṃ",
+      "words": [
+       {
+        "w": "nūnam",
+        "gloss": "now",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "sā",
+      "words": [
+       {
+        "w": "sā",
+        "gloss": "that",
+        "gram": "pron. f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "te̱",
+      "words": [
+       {
+        "w": "te",
+        "gloss": "your",
+        "gram": "pron. 2 sg. gen."
+       }
+      ]
+     },
+     {
+      "src": "prati̱",
+      "words": [
+       {
+        "w": "prati",
+        "gloss": "in return",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "vara̭ṃ",
+      "words": [
+       {
+        "w": "varam",
+        "gloss": "boon",
+        "gram": "m. acc. sg."
+       }
+      ]
+     },
+     {
+      "src": "jari̱tre",
+      "words": [
+       {
+        "w": "jaritre",
+        "gloss": "for the singer",
+        "gram": "m. dat. sg."
+       }
+      ]
+     },
+     {
+      "src": "dṷhī̱yadi̭ndra̱",
+      "words": [
+       {
+        "w": "duhīyat",
+        "gloss": "may it yield",
+        "gram": "3 sg. opt. pass. √duh"
+       },
+       {
+        "w": "indra",
+        "gloss": "Indra",
+        "gram": "m. voc. sg."
+       }
+      ]
+     },
+     {
+      "src": "dakṣi̭ṇā",
+      "words": [
+       {
+        "w": "dakṣiṇā",
+        "gloss": "gift",
+        "gram": "f. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "ma̱ghonī̭",
+      "words": [
+       {
+        "w": "maghonī",
+        "gloss": "bountiful",
+        "gram": "f. nom. sg."
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "tokens": [
+     {
+      "src": "śikṣā̭",
+      "words": [
+       {
+        "w": "śikṣā",
+        "gloss": "give",
+        "gram": "2 sg. impv. √śikṣ"
+       }
+      ]
+     },
+     {
+      "src": "sto̱tṛbhyo̱",
+      "words": [
+       {
+        "w": "stotṛbhyaḥ",
+        "gloss": "to the praisers",
+        "gram": "m. dat. pl."
+       }
+      ]
+     },
+     {
+      "src": "māti̭",
+      "words": [
+       {
+        "w": "mā",
+        "gloss": "not",
+        "gram": "ind."
+       },
+       {
+        "w": "ati",
+        "gloss": "beyond",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "dha̱gbhago̭",
+      "words": [
+       {
+        "w": "dhak",
+        "gloss": "burn",
+        "gram": "3 sg. aor. inj. √dah (uncertain)"
+       },
+       {
+        "w": "bhagaḥ",
+        "gloss": "share",
+        "gram": "m. nom. sg."
+       }
+      ]
+     },
+     {
+      "src": "no",
+      "words": [
+       {
+        "w": "naḥ",
+        "gloss": "our",
+        "gram": "pron. 1 pl. gen."
+       }
+      ]
+     },
+     {
+      "src": "bṛ̱had",
+      "words": [
+       {
+        "w": "bṛhat",
+        "gloss": "loudly",
+        "gram": "ind."
+       }
+      ]
+     },
+     {
+      "src": "va̭dema",
+      "words": [
+       {
+        "w": "vadema",
+        "gloss": "may we speak",
+        "gram": "1 pl. opt. √vad"
+       }
+      ]
+     },
+     {
+      "src": "vi̱dathḙ",
+      "words": [
+       {
+        "w": "vidathe",
+        "gloss": "at the rite",
+        "gram": "n. loc. sg."
+       }
+      ]
+     },
+     {
+      "src": "su̱vīrā̭:",
+      "words": [
+       {
+        "w": "suvīrāḥ",
+        "gloss": "rich in heroes",
+        "gram": "m. nom. pl."
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "hindi": "हे इन्द्र, अब तेरी वह उदार दक्षिणा गायक के लिए वर के बदले फलित हो। स्तोताओं को दे; हमारा भाग न जल जाए। उत्तम वीरों से युक्त होकर हम यज्ञ में ऊँचे स्वर से बोलें।",
+  "english": "Now may that bountiful gift of yours, Indra, yield a boon in return for the singer. Give to the praisers; let our share not burn away. May we, rich in heroes, speak loudly at the rite.",
+  "text_flags": [],
+  "notes": "'mā ati dhak bhagaḥ naḥ': form and sense uncertain (dhak read as from √dah 'burn'); bhaga read as 'share' (or the god Bhaga). Final refrain 'bṛhad vadema vidathe suvīrāḥ' as in 2.13.13 and 2.14.12.",
+  "confidence": "low"
+ }
+]

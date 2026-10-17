@@ -1,0 +1,164 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "चितकबरी (मादाओं)",
+     "problem": "Bracketed interpretation '(मादाओं)' (females) is not in the text and is forbidden inside translations; English has no such addition.",
+     "fix": "चितकबरियों और भालों से युक्त",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "चितकबरी (मादाओं) और भालों से युक्त",
+      "new": "चितकबरियों और भालों से युक्त"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "pṛṣatībhiṝṣṭibhir",
+     "problem": "The flag calls the printed ṝ a 'probable typo' with a firm suggestion. The Vedic samhitā convention (r dropped before r-initial, with compensatory lengthening) can produce exactly this printed form, so it is at least as likely to be regular printing as an error. Soften to 'unusual; possibly regular Vedic sandhi, not certainly a typo'. No patch (text_flags not patchable).",
+     "fix": "soften why: 'unusual ṝ (probably the printed Vedic r-sandhi pṛṣatībhir ṛṣṭibhiḥ); check the edition'",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हमारे पास आओ",
+     "problem": "'hi' (indeed) is rendered in English ('Come to us indeed') but dropped in the Hindi.",
+     "fix": "होकर हमारे पास अवश्य आओ",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "होकर हमारे पास आओ",
+      "new": "होकर हमारे पास अवश्य आओ"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "तू जिसके साथ आनन्दित गण है",
+     "problem": "Mis-parses the bahuvrīhi sumadgaṇaḥ ('having a joyful host'); the Hindi reads as a clause 'with whom there is a joyful host'.",
+     "fix": "आनन्दित गण से युक्त",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तू जिसके साथ आनन्दित गण है",
+      "new": "आनन्दित गण से युक्त"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हे प्रेरित",
+     "problem": "'प्रेरित' means 'impelled/sent'; English and gloss say 'inspired one' (vipra), a different sense. Use a plain Hindi transliteration of the word to avoid a wrong sense.",
+     "fix": "हे विप्र",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे प्रेरित",
+      "new": "हे विप्र"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "(prati vīhi)",
+     "problem": "'prati' is glossed 'toward' but is dropped in both translations. Acceptable as a preverb idiom, but say so in notes.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "append_note",
+      "text": "prati vīhi: prati is a preverb with vīhi ('partake'); not rendered separately."
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "तृप्त होकर पियो",
+     "problem": "Hindi takes tṛpat as a participle ('satisfied') while English and gloss take it as adverb 'to satisfaction'; align with the gloss.",
+     "fix": "तृप्ति तक पियो",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "तृप्त होकर पियो",
+      "new": "तृप्ति तक पियो"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पुरुषार्थ",
+     "problem": "पुरुषार्थ is a loaded later technical term (the four aims); nṛmṇa = manly power.",
+     "fix": "पौरुष बढ़ाने वाला",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुरुषार्थ बढ़ाने वाला",
+      "new": "पौरुष बढ़ाने वाला"
+     }
+    },
+    {
+     "field": "english",
+     "where": "from the Brāhmaṇa priest",
+     "problem": "'Brāhmaṇa priest' conflicts with the glossary pair Brahman priest (m., ब्रह्मा) vs brahman (n.); here the word is brāhmaṇa (m.). The identification of the office is not stated in the line. Needs a glossary decision (e.g. 'from the Brāhmaṇa'); the note should say the exact office is unclear.",
+     "fix": "glossary decision needed",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "āvṛtam",
+     "problem": "Gender 'm.' is asserted for a form the notes call uncertain; the stem (āvṛta / āvṛt) is not settled.",
+     "fix": "acc. sg. (stem and gender uncertain)",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "āvṛtam",
+      "field": "gram",
+      "value": "acc. sg. (stem and gender uncertain)"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 6 units. 0 error, 10 minor (8 with machine patches). Main points: unit 2 Hindi bracket '(मादाओं)'; the ṝ text flag in unit 2 is plausibly regular Vedic sandhi, not a typo; unit 3 Hindi sumadgaṇaḥ mis-parsed and 'hi' dropped; unit 4 'प्रेरित' for vipra; unit 5 Hindi tṛpat/पुरुषार्थ and 'Brāhmaṇa priest' vs the Brahman-priest entry; unit 6 āvṛtam gram. No regrouping suggested. Confidence levels honest (units 5, 6 low)."
+}

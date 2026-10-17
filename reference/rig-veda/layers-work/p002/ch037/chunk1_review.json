@@ -1,0 +1,260 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "at your pleasure",
+     "problem": "'your' is not in the line (joṣam = at pleasure/to one's liking).",
+     "fix": "at pleasure",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "english",
+      "old": "at your pleasure",
+      "new": "at pleasure"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अपनी प्रसन्नता",
+     "problem": "Same added 'अपनी'.",
+     "fix": "प्रसन्नता के अनुसार",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपनी प्रसन्नता के अनुसार",
+      "new": "प्रसन्नता के अनुसार"
+     }
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "3",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "स्वागत पाकर",
+     "problem": "abhigūrya is an active absolutive ('having welcomed'); 'स्वागत पाकर' (having received welcome) reverses the voice and disagrees with the English and gloss.",
+     "fix": "जुड़कर और स्वागत करके",
+     "severity": "error",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्वागत पाकर",
+      "new": "स्वागत करके"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "वनस्पति के स्वामी",
+     "problem": "Fixed rendering is Lord of the Forest; 'वनस्पति के स्वामी' reads 'lord of the plants/vanaspati'. Use 'वन के स्वामी'.",
+     "fix": "हे वन के स्वामी",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे वनस्पति के स्वामी",
+      "new": "हे वन के स्वामी"
+     }
+    }
+   ]
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "ajuṣata",
+     "problem": "Number missing, and the note calls it 'plural-looking'. The form a-juṣ-a-ta is the regular 3 sg. middle (imperfect/thematic aorist of juṣate); the plural would be -anta. It agrees with the singular subject, so the note's doubt is unfounded.",
+     "fix": "3 sg. impf. mid. √juṣ",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "ajuṣata",
+      "field": "gram",
+      "value": "3 sg. impf. mid. √juṣ"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "ajuṣata",
+     "problem": "The note about a plural-looking ending should be corrected.",
+     "fix": "append correction",
+     "severity": "error",
+     "patch": {
+      "n": "4",
+      "op": "append_note",
+      "text": "Correction: ajuṣata is the regular 3 sg. middle (stem juṣa- + -ta); it agrees with the singular subject, so no plural subject is needed."
+     }
+    },
+    {
+     "field": "english",
+     "where": "Let Draviṇodas drink",
+     "problem": "draviṇodāḥ is the epithet 'wealth-giver' (rendered so in the vocatives of units 1-3); the English turns it into a name here while the Hindi has 'धन देने वाला'. Make English, Hindi and gloss agree.",
+     "fix": "Let the wealth-giver drink",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "Let Draviṇodas drink",
+      "new": "Let the wealth-giver drink"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "draviṇodāḥ",
+     "problem": "Gloss 'Draviṇodas, wealth-giver' mixes name and epithet.",
+     "fix": "wealth-giver",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "draviṇodāḥ",
+      "field": "gloss",
+      "value": "wealth-giver"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "drāviṇodasaḥ",
+     "problem": "Labelled 'm. abl. sg.' while the note says 'ablative/genitive' of an unstated noun; the parallel with hotrāt, potrāt, neṣṭrāt suggests an office-noun. English 'from the Drāviṇodasa' is opaque. Needs a human decision on the stem; no patch.",
+     "fix": "abl. sg. (stem and gender uncertain)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अपने इस ओर",
+     "problem": "'अपने' (own) is not in the line.",
+     "fix": "आज इस ओर",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "आज अपने इस ओर",
+      "new": "आज इस ओर"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "खोलने का स्थान",
+     "problem": "'स्थान' (place) is an addition; vimocanam is 'unyoking' and the notes already say '(place)' is supplied.",
+     "fix": "यहाँ तुम्हारा विमोचन है",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यहाँ तुम्हारा खोलने का स्थान है",
+      "new": "यहाँ तुम्हारा विमोचन है"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "पुरस्कार रूपी धन वाले दोनो",
+     "problem": "Hindi 'prize-form wealth' does not match English 'rich in the prize'; and the spelling 'दोनो' is wrong (दोनों).",
+     "fix": "हे पुरस्कार से समृद्ध दोनों",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे पुरस्कार रूपी धन वाले दोनो",
+      "new": "हे पुरस्कार से समृद्ध दोनों"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vājinīvasū",
+     "problem": "vājinī (f., 'prize-winning mare'/'rich in prizes') is not the same as vāja (prize); the glossary renders vājin as prize-winner, so the compound is not settled. Hedge in notes.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "append_note",
+      "text": "vājinīvasū: vājinī is not simply vāja; 'rich in the prize' is tentative (alternative: having the wealth of the prize-winning mare)."
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "लोगों के लिए रचे ब्रह्म",
+     "problem": "'रचे' (composed) and 'for' are added; janyam is only 'belonging to the people' per the English and notes.",
+     "fix": "लोगों से संबंधित ब्रह्म में",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "लोगों के लिए रचे ब्रह्म में",
+      "new": "लोगों से संबंधित ब्रह्म में"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हे वसु",
+     "problem": "English/gloss 'O good one'; Hindi 'वसु' collides with the glossary entry Vasus.",
+     "fix": "हे उत्तम",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे वसु",
+      "new": "हे उत्तम"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "mahaḥ",
+     "problem": "Labelled 'm. voc.' but mahaḥ (printed maha before u) is not a vocative singular of mahā/mahant (that is mahān/mahat). It could be a gen. sg./acc. pl. form or adverb; the construction 'great' with the vocative is therefore uncertain.",
+     "fix": "gram: 'form uncertain (not a voc. sg.)'; keep translation tentative",
+     "severity": "minor"
+    },
+    {
+     "field": "text_flags",
+     "where": "ṷśa̱taḥ",
+     "problem": "The modifier letter ṷ is a systematic printing mark in this edition (also anṷ, madhṷ, hṷve, ahṷve, prahṷta, dhṷkṣan in other units) and is not flagged there; flagging it as a 'probable typo' only here is inconsistent. Drop the flag or treat it as the edition's convention.",
+     "fix": "remove flag",
+     "severity": "minor"
+    },
+    {
+     "field": "notes",
+     "where": "brahma",
+     "problem": "Note says 'not yet in glossary'; the glossary now has brahman (n.) = prayer / sacred utterance.",
+     "fix": "update note",
+     "severity": "minor"
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 6 units. 3 error (counting gram and note of one ajuṣata problem separately), 15 minor. Errors: unit 3 Hindi 'स्वागत पाकर' reverses the active absolutive; unit 4 ajuṣata is a regular 3 sg. middle (the note's 'plural-looking' is wrong). Minor: added words in Hindi (units 1, 5, 6), Draviṇodas name vs epithet (unit 4), 'वनस्पति के स्वामी' (unit 3), 'हे वसु' collision with Vasus (unit 6), mahaḥ gram (unit 6), the ṷ text flag is inconsistent with the edition's convention. No regrouping suggested. Confidence levels honest (units 3, 4, 6 low)."
+}

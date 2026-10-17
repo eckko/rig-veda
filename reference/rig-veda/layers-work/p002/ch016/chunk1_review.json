@@ -1,0 +1,382 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "heroic powers",
+     "problem": "vīrya is fixed as heroic deeds in the glossary.",
+     "fix": "all heroic deeds",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "heroic powers",
+      "new": "heroic deeds"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vīryā",
+     "problem": "Same: glossary vīrya = heroic deeds.",
+     "fix": "heroic deeds",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "vīryā",
+      "field": "gloss",
+      "value": "heroic deeds"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "yasmāt",
+     "problem": "yasmāt agrees with indrāt (masculine), not neuter.",
+     "fix": "m. abl. sg. rel.",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "yasmāt",
+      "field": "gram",
+      "value": "m. abl. sg. rel."
+     }
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सब ही उस",
+     "problem": "hi is causal \"for\" (English says \"For all bring\"); Hindi \"ही\" (emphasis) disagrees with the English and the gloss.",
+     "fix": "क्योंकि सब उस",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सब ही उस",
+      "new": "क्योंकि सब उस"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "hi",
+     "problem": "Gloss \"indeed\" disagrees with English \"For\".",
+     "fix": "for",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "hi",
+      "field": "gloss",
+      "value": "for"
+     }
+    }
+   ]
+  },
+  {
+   "n": "5",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "मधुर लहर",
+     "problem": "madhvaḥ ūrmiḥ is \"a wave of honey\"; Hindi \"मधुर\" (sweet) changes honey into an adjective, English says honey.",
+     "fix": "मधु की लहर के रूप में",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मधुर लहर के रूप में",
+      "new": "मधु की लहर के रूप में"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "vṛṣabha-annāya",
+     "problem": "Besides the bahuvrīhi, annāya may be the plain dative of anna (n.) \"for the bull's food\", parallel to the datives vṛṣabhāya pātave; the note should say so.",
+     "fix": "add alternative reading",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "append_note",
+      "text": "Alternatively vṛṣabha-annāya is a tatpuruṣa, n. dat. sg. \"for the bull's food\", parallel to vṛṣabhāya pātave."
+     }
+    }
+   ]
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "दोनों हरे घोड़े",
+     "problem": "Hindi हरे means green; harī = the two tawny horses (glossary), and English says tawny.",
+     "fix": "दोनों भूरे-पीले घोड़े",
+     "severity": "error",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "दोनों हरे घोड़े",
+      "new": "दोनों भूरे-पीले घोड़े"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "Hindi हरे घोड़े",
+     "problem": "Note defends the wrong Hindi word.",
+     "fix": "Hindi भूरे-पीले घोड़े = tawny horses.",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "notes",
+      "old": "Hindi हरे घोड़े = tawny horses (hari is a colour range).",
+      "new": "Hindi भूरे-पीले घोड़े = tawny horses."
+     }
+    },
+    {
+     "field": "english",
+     "where": "the Soma of the bull",
+     "problem": "vṛṣabhasya agrees with somasya (bull Soma, as in unit 5 and as the Hindi has it); English makes it a separate genitive.",
+     "fix": "take your fill of the bull Soma",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "take your fill of the Soma of the bull",
+      "new": "take your fill of the bull Soma"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vṛṣabhasya",
+     "problem": "Adjective agreeing with somasya.",
+     "fix": "of the bull-like",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "vṛṣabhasya",
+      "field": "gloss",
+      "value": "of the bull-like"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "kuvit",
+     "problem": "\"will\" is not the meaning; kuvit is a question particle (\"Will he heed\").",
+     "fix": "interrogative particle",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "kuvit",
+      "field": "gloss",
+      "value": "interrogative particle"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रार्थना के साथ",
+     "problem": "Glossary fixes brahman (n.) in Hindi as ब्रह्म.",
+     "fix": "ब्रह्म के साथ",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रार्थना के साथ",
+      "new": "ब्रह्म के साथ"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "vacasyuvam",
+     "problem": "Labelled f. only by agreement with nāvam, which the notes themselves call a guess; gender is not secure (vacasyú is an adjective, accusative -uvam).",
+     "fix": "m./f. acc. sg.",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "संकट से पहले",
+     "problem": "sambādha is a tight place (English); संकट (distress) is interpretation and clashes with the aṃhas = distress entry.",
+     "fix": "तंग स्थान से पहले",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "संकट से पहले",
+      "new": "तंग स्थान से पहले"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अपने बछड़े / अपनी पत्नियों / बैल",
+     "problem": "\"अपने\", \"अपनी\" are not in the text (vatsam, patnībhiḥ); \"बैल\" breaks the rendering vṛṣan = वृषभ used in units 4-6.",
+     "fix": "बछड़े की ओर; जैसे वृषभ पत्नियों से",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अपने बछड़े की ओर",
+      "new": "बछड़े की ओर"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जैसे बैल अपनी पत्नियों से",
+     "problem": "See previous.",
+     "fix": "जैसे वृषभ पत्नियों से",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जैसे बैल अपनी पत्नियों से",
+      "new": "जैसे वृषभ पत्नियों से"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "su",
+     "problem": "Token su (sakṛt su \"once and for all / well\") is glossed but not rendered in either translation; the note should say it is left out.",
+     "fix": "append note",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "append_note",
+      "text": "su in sakṛt su is not rendered separately in the translations."
+     }
+    }
+   ]
+  },
+  {
+   "n": "9",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "speak mightily",
+     "problem": "Glossary fixes the refrain as \"speak greatly in the rite\".",
+     "fix": "May we, rich in heroes, speak greatly in the rite.",
+     "severity": "error",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "speak mightily in the rite",
+      "new": "speak greatly in the rite"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "प्रबल रूप से",
+     "problem": "Same: bṛhat = greatly, not \"mighty\".",
+     "fix": "महान् रूप से",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "प्रबल रूप से बोलें",
+      "new": "महान् रूप से बोलें"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bṛhat",
+     "problem": "Same.",
+     "fix": "greatly",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "word",
+      "match_w": "bṛhat",
+      "field": "gloss",
+      "value": "greatly"
+     }
+    },
+    {
+     "field": "notes",
+     "where": "bṛhat",
+     "problem": "Same.",
+     "fix": "greatly",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "notes",
+      "old": "('mightily')",
+      "new": "('greatly')"
+     }
+    },
+    {
+     "field": "english",
+     "where": "do not burn beyond them",
+     "problem": "Glossary fixes mā ati dhak = \"do not burn beyond\"; \"them\" is an unmarked addition (notes say the object is not stated).",
+     "fix": "do not burn beyond;",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "english",
+      "old": "do not burn beyond them;",
+      "new": "do not burn beyond;"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उन्हें जलाकर आगे न बढ़ जा",
+     "problem": "Adds \"उन्हें\" and turns \"burn beyond\" into \"burn and go past\".",
+     "fix": "परे तक न जला",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उन्हें जलाकर आगे न बढ़ जा",
+      "new": "परे तक न जला"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 9 units. 2 error, 22 minor. Errors: unit 6 Hindi हरे (green) for harī; unit 9 refrain English \"mightily\" against glossary \"greatly\". Minor: heroic powers vs glossary heroic deeds (unit 2), hi rendered \"indeed\" in gloss and \"ही\" in Hindi against \"For\" (unit 4), Hindi \"मधुर\" for honey (unit 5), kuvit glossed \"will\" (unit 7), Hindi additions and संकट for sambādha (unit 8), refrain \"them\" (unit 9). Unit 7 correctly low. No text_flags needed. No regrouping suggested."
+}
