@@ -1,0 +1,422 @@
+[
+ {
+  "id": "001.051.4a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.051.14a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.055.4a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.058.7a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.072.6b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.080.3a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.080.11a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.082.5a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.091.5",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.101.8a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.113.12b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.121.14a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.139.4a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.155.5a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.164.10a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "001.190.5b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "003.001.15b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "003.004.4b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "003.021.5b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "003.030.12a",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "",
+  "why": "Line is only a stray double danda; the previous line already ends with the verse mark and the real 12a (दिश: सूर्यो ...) follows, so this line should be removed."
+ },
+ {
+  "id": "003.032.12b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "003.041.2",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "003.044.4a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "003.054.19a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "003.055.10a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "003.060.2a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "004.008.2",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "004.028.5a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "004.038.9a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "005.008.1a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "005.022.3",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "005.029.3b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "005.029.10a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "005.040.4b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "005.041.19a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "005.048.3b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "005.052.16b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "005.055.1a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "005.076.1a",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "आ भा॑त्य॒ग्निरु॒षसा॒मनी॑क॒मुद् विप्रा॑णां देव॒या वाचो॑ अस्थुः ।",
+  "why": "First word of the hymn dropped: the line-initial syllable carries a svarita (needs a preceding udatta) and the first pada has 10 syllables instead of 11; the missing word is the initial आ."
+ },
+ {
+  "id": "006.001.1b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "006.004.5b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "006.006.2b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "006.020.1a",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "द्यौर्न य इ॑न्द्रा॒भि भूमा॒र्यस्त॒स्थौ र॒यिः शव॑सा पृ॒त्सु जना॑न् ।",
+  "why": "Hymn-initial words dropped: line-initial syllable carries a svarita (needs a preceding udatta) and the first pada has only 8 syllables of 11; the missing opening is द्यौर्न य."
+ },
+ {
+  "id": "006.031.4a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "006.047.7a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "006.053.8",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "006.064.2a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "006.068.5a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "006.075.8a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "007.002.4a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "007.006.5b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "007.007.7b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "007.009.1a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "007.036.2a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "007.090.7b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "008.002.31",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "008.003.20",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "008.006.46",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "008.022.1",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ },
+ {
+  "id": "008.027.17",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Reads correctly; sandhi, accents and metre are consistent with the neighbouring lines."
+ }
+]
