@@ -1,0 +1,557 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "asṛkṣi",
+     "problem": "gram says '1 sg. aor. pass.', the gloss says 'has been sent forth' (a 3 sg. sense), and the English says 'I have sent forth' (active); three readings in three fields.",
+     "fix": "Pick one (e.g. gram '1 sg./3 sg. aor. pass.', gloss and English consistent) and keep the alternative in notes.",
+     "severity": "minor"
+    },
+    {
+     "field": "gram",
+     "where": "joṣiṣat",
+     "problem": "joṣiṣat is an s-aorist subjunctive; Vedic has no future of this shape ('fut.' is wrong).",
+     "fix": "3 sg. aor. subj. √juṣ",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "word",
+      "match_w": "joṣiṣat",
+      "field": "gram",
+      "value": "3 sg. aor. subj. √juṣ"
+     }
+    },
+    {
+     "field": "english",
+     "where": "may the rivers place delight",
+     "problem": "The translation commits to nādyaḥ = 'rivers' although the notes concede that the singular dadhīta does not agree; kuvit is also 'surely' here but 'perhaps' in unit 2.",
+     "fix": "Keep the translation tentative in notes only; render kuvit the same way in both verses.",
+     "severity": "minor"
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "2",
+   "issues": [
+    {
+     "field": "gloss",
+     "where": "mantram",
+     "problem": "The gloss says 'hymn' but the English and Hindi say 'mantra'; glossary reserves hymn for manman/gir.",
+     "fix": "mantra",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "mantram",
+      "field": "gloss",
+      "value": "mantra"
+     }
+    },
+    {
+     "field": "english",
+     "where": "has begotten all beings",
+     "problem": "bhuvana is 'world' in 2.33.9; keep one rendering across the hymn group.",
+     "fix": "has begotten all worlds",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "has begotten all beings",
+      "new": "has begotten all worlds"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "सब प्राणियों",
+     "problem": "Same.",
+     "fix": "सब लोकों",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सब प्राणियों",
+      "new": "सब लोकों"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhuvanā",
+     "problem": "Same.",
+     "fix": "worlds",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "bhuvanā",
+      "field": "gloss",
+      "value": "worlds"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "3",
+   "issues": [
+    {
+     "field": "english",
+     "where": "others go up",
+     "problem": "upa yanti is 'go near, go to'; 'up' disagrees with the Hindi 'पास जाती हैं' and with the preposition.",
+     "fix": "others go near",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "others go up",
+      "new": "others go near"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "upa",
+     "problem": "Same.",
+     "fix": "near",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "word",
+      "match_w": "upa",
+      "field": "gloss",
+      "value": "near"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "4",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "वह उज्ज्वल बलवान के साथ",
+     "problem": "śukrebhiḥ śikvabhiḥ are plural ('with bright, strong ones'); the Hindi singular disagrees with the English.",
+     "fix": "वह उज्ज्वलों और बलवानों के साथ",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "वह उज्ज्वल बलवान के साथ",
+      "new": "वह उज्ज्वलों और बलवानों के साथ"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "जल के रूप में जाती हैं",
+     "problem": "'in the form of' is added; the English has the waters in apposition ('the young women go ... the waters').",
+     "fix": "Render the apposition literally, e.g. '... शुद्ध की जाती हुई, जाती हैं, जल।'",
+     "severity": "minor"
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "5",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "dhayati",
+     "problem": "The root of dhayati 'sucks, drinks' is √dhe, not √dhā.",
+     "fix": "3 sg. pres. √dhe",
+     "severity": "minor",
+     "patch": {
+      "n": "5",
+      "op": "word",
+      "match_w": "dhayati",
+      "field": "gram",
+      "value": "3 sg. pres. √dhe"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "6",
+   "issues": [
+    {
+     "field": "english",
+     "where": "and of heaven",
+     "problem": "Glossary: svar = (heaven's) light. The English also treats svar as a genitive ('of heaven') while gram labels it acc. sg.",
+     "fix": "and heaven's light",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "and of heaven;",
+      "new": "and heaven's light;"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "स्वर् की रक्षा करो",
+     "problem": "Same: left untranslated in Hindi.",
+     "fix": "इसके तथा स्वर्ग के प्रकाश की रक्षा करो",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "इसके तथा स्वर् की रक्षा करो",
+      "new": "इसके तथा स्वर्ग के प्रकाश की रक्षा करो"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "svar",
+     "problem": "Same.",
+     "fix": "heaven's light",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "word",
+      "match_w": "svar",
+      "field": "gloss",
+      "value": "heaven's light"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "7",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सरलता से दुही जाने वाली गाय",
+     "problem": "sudughā is active 'good-milking' (as fixed in the review of 2.3 unit 6), not passive 'easily milked'.",
+     "fix": "भली प्रकार दूध देने वाली गाय",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "सरलता से दुही जाने वाली गाय",
+      "new": "भली प्रकार दूध देने वाली गाय"
+     }
+    },
+    {
+     "field": "english",
+     "where": "the easily milked cow",
+     "problem": "Same.",
+     "fix": "the good-milking cow",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "the easily milked cow",
+      "new": "the good-milking cow"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "sudughā",
+     "problem": "Same.",
+     "fix": "good-milking",
+     "severity": "error",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "sudughā",
+      "field": "gloss",
+      "value": "good-milking"
+     }
+    },
+    {
+     "field": "english",
+     "where": "his other beings",
+     "problem": "bhuvana = world (2.33.9); 'other worlds' is also the natural sense of 'branches indeed are his other worlds'.",
+     "fix": "his other worlds",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "english",
+      "old": "his other beings",
+      "new": "his other worlds"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अन्य प्राणी",
+     "problem": "Same.",
+     "fix": "अन्य लोक",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अन्य प्राणी हैं",
+      "new": "अन्य लोक हैं"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhuvanāni",
+     "problem": "Same.",
+     "fix": "worlds",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "word",
+      "match_w": "bhuvanāni",
+      "field": "gloss",
+      "value": "worlds"
+     }
+    },
+    {
+     "field": "text_flags",
+     "where": "apsva1ntarvasudeyāya",
+     "problem": "'१' in the Devanagari is the independent svarita sign written after a semivowel; it is accent notation, not a stray digit or footnote.",
+     "fix": "[]",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "set",
+      "field": "text_flags",
+      "value": []
+     }
+    },
+    {
+     "field": "notes",
+     "where": "This unit has 4 printed lines",
+     "problem": "The note is misleading: the four lines are two verses (7ab and 7cd, the latter standard RV 2.35.8 'yo apsv ā ...'), each a complete sentence, which the translations already keep apart.",
+     "fix": "Regroup: split into two units (lines a-b and c-d), or at least say in the note that two verses are printed under one number.",
+     "severity": "minor"
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "8",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "टेढ़ी बहने वालियों ... तीव्र धाराएँ",
+     "problem": "'बहने' (flowing) and 'धाराएँ' (streams) supply nouns that jihmānām and hiraṇyavarṇāḥ yahvīḥ do not have; the English keeps them as 'the slanting ones' and 'swift ones'.",
+     "fix": "टेढ़ियों की गोद ... सोने के रंग वाली तीव्र वालियाँ (or keep the noun in notes only)",
+     "severity": "minor"
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "9",
+   "issues": [
+    {
+     "field": "split",
+     "where": "niṣadya",
+     "problem": "The printed token is niṣadyā (long ā); the split 'niṣadya' silently drops the length. Either it is the lengthened absolutive niṣadyā or niṣadya + ā; the notes should say which.",
+     "fix": "Record the printed ā in w/gram or add a note.",
+     "severity": "minor"
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "10",
+   "issues": [
+    {
+     "field": "split",
+     "where": "samittha",
+     "problem": "'samittha' is not a word: the printed sami̱tthā is sam + itthā ('together' + 'thus').",
+     "fix": "Split into two words: sam [together; ind.] and itthā [thus; ind.]",
+     "severity": "minor"
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "11",
+   "issues": [
+    {
+     "field": "split",
+     "where": "haviḥ-bhiḥ",
+     "problem": "Invented segmentation: the inflected form is havirbhiḥ (inst. pl. of havis), as printed.",
+     "fix": "havirbhiḥ",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "word",
+      "match_w": "haviḥ-bhiḥ",
+      "field": "w",
+      "value": "havirbhiḥ"
+     }
+    },
+    {
+     "field": "english",
+     "where": "I cleanse his ridge",
+     "problem": "'his' is not in the text; the notes themselves say the referent of sānu is not stated.",
+     "fix": "I cleanse the ridge",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "english",
+      "old": "I cleanse his ridge",
+      "new": "I cleanse the ridge"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "उसकी चोटी",
+     "problem": "Same.",
+     "fix": "चोटी",
+     "severity": "minor",
+     "patch": {
+      "n": "11",
+      "op": "replace",
+      "field": "hindi",
+      "old": "मैं उसकी चोटी को शुद्ध करता हूँ",
+      "new": "मैं चोटी को शुद्ध करता हूँ"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "12",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उन (जलों) में",
+     "problem": "Bracketed interpretation in the Hindi; the line has only tāsu ('in them'), and the notes say the referent is not stated.",
+     "fix": "उनमें",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उन (जलों) में",
+      "new": "उनमें"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "dhayati",
+     "problem": "Root is √dhe, not √dhā.",
+     "fix": "3 sg. pres. √dhe",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "dhayati",
+      "field": "gram",
+      "value": "3 sg. pres. √dhe"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "13",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "अटूट (धाराओं) के साथ",
+     "problem": "Bracketed interpretation in the Hindi; also 'जल, पुत्र के लिए' is garbled by the comma.",
+     "fix": "अटूटों के साथ ... जल पुत्र के लिए",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "hindi",
+      "old": "अटूट (धाराओं) के साथ",
+      "new": "अटूटों के साथ"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "14",
+   "issues": [
+    {
+     "field": "english",
+     "where": "may we speak greatly at the rite, rich in heroes",
+     "problem": "Refrain must have one wording in every hymn: 'may we, rich in heroes, speak greatly in the rite'.",
+     "fix": "may we, rich in heroes, speak greatly in the rite",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "may we speak greatly at the rite, rich in heroes",
+      "new": "may we, rich in heroes, speak greatly in the rite"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "यज्ञ में बड़ी वाणी बोलें",
+     "problem": "'बड़ी वाणी' adds a noun and differs from the Hindi used in 2.33.15; use one Hindi wording.",
+     "fix": "यज्ञ में महान् रूप से बोलें",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "hindi",
+      "old": "यज्ञ में बड़ी वाणी बोलें",
+      "new": "यज्ञ में महान् रूप से बोलें"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "vidathe",
+     "problem": "Fixed rendering 'in the rite'.",
+     "fix": "in the rite",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "vidathe",
+      "field": "gloss",
+      "value": "in the rite"
+     }
+    },
+    {
+     "field": "english",
+     "where": "for the generous patrons",
+     "problem": "maghavan = bountiful in the fixed renderings; 'patron' is reserved for sūri.",
+     "fix": "for the bountiful",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "replace",
+      "field": "english",
+      "old": "for the generous patrons",
+      "new": "for the bountiful"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "maghavadbhyaḥ",
+     "problem": "Same.",
+     "fix": "for the bountiful",
+     "severity": "minor",
+     "patch": {
+      "n": "14",
+      "op": "word",
+      "match_w": "maghavadbhyaḥ",
+      "field": "gloss",
+      "value": "for the bountiful"
+     }
+    }
+   ],
+   "verdict": "fix"
+  }
+ ],
+ "summary": "Reviewed 14 units of RV 2.35. Total issues: 3 error, 34 minor. Errors: unit 7 sudughā rendered passive 'easily milked' (Hindi, English, gloss) instead of active 'good-milking'. Minor: bhuvana 'beings' vs 'world' (units 2, 7), svar left as 'heaven'/'स्वर्', bracketed interpretations in Hindi (units 12, 13), invented splits (haviḥ-bhiḥ, samittha), niṣadya vs printed niṣadyā, gram slips (joṣiṣat 'fut.', dhayati √dhā, asṛkṣi in three readings), '१' accent mark wrongly raised as a digit flag in unit 7, refrain and maghavan wording in unit 14, additions ('his ridge'). Regrouping suggested: unit 7 holds two verses (7ab = 2.35.7, 7cd = 2.35.8) and should be split. Confidences honest."
+}

@@ -126,7 +126,7 @@
      "field": "english",
      "where": "Like one in the heat reaching shade, free from fault may I attain it",
      "problem": "The English (and Hindi) supply 'one in', 'reaching' and an object 'it'; the line has only ghṛṇiḥ iva chāyām (heat ... shade) arapāḥ aśīya. The notes claim 'only what the grammar needs' is supplied, which is not so.",
-     "fix": "Keep closer to the text, e.g. 'Like heat (seeking) shade' is still supplied; at least move the supplied words to the notes and render 'Like heat, shade; free from fault may I attain' with a note.",
+     "fix": "Keep to the text: 'Like heat (seeking) shade, free from fault may I attain' is still a supply; move 'one in', 'reaching' and 'it' to the notes and leave the object of aśīya open.",
      "severity": "minor"
     }
    ],

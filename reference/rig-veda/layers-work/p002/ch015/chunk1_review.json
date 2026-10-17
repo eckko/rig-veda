@@ -1,0 +1,203 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "कार्य ... कर्म",
+"problem": "karaṇāni is rendered 'deeds'; the notes say Hindi uses कृत्य, but the Hindi has कार्य (reserved for apas) and कर्म (reserved for karma = action). Use कृत्य as the notes state.",
+"fix": "महान् और सच्चे कृत्य, उस सत्य के कृत्य",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "replace",
+"field": "hindi",
+"old": "महान् और सच्चे कार्य, उस सत्य के कर्म",
+"new": "महान् और सच्चे कृत्य, उस सत्य के कृत्य"
+}
+},
+{
+"field": "notes",
+"where": "drank of this pressed Soma",
+"problem": "'Soma' is not in the line; supplied noun is presented as plain translation, so the notes should say so.",
+"fix": "'Soma' is supplied in the translation: the line has only 'of this pressed (drink)' (sutasya asya) and 'its' exhilaration.",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "append_note",
+"text": "'Soma' is supplied in the translation: the line has only 'of this pressed (drink)' (sutasya asya) and 'its' exhilaration."
+}
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "ā",
+"problem": "'ā' is glossed 'forth' and the note takes it with dyām; the idiom is ā ... apṛṇat ('filled'), as both translations treat it. Gloss and note contradict the translation.",
+"fix": "preverb with apṛṇat",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "word",
+"match_w": "ā",
+"field": "gloss",
+"value": "preverb with apṛṇat"
+}
+},
+{
+"field": "notes",
+"where": "note",
+"problem": "The note 'bṛhantam ā taken with dyām' disagrees with the translation.",
+"fix": "Correction: ā is a preverb with apṛṇat (ā ... apṛṇat, 'filled'), not with dyām; bṛhantam agrees with dyām.",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "append_note",
+"text": "Correction: ā is a preverb with apṛṇat (ā ... apṛṇat, 'filled'), not with dyām; bṛhantam agrees with dyām."
+}
+},
+{
+"field": "gram",
+"where": "tā (refrain, units 2-9)",
+"problem": "Refrain 'tā ... cakāra': tā before cakāra is most likely f. acc. pl. (a neuter plural tā is rare), not 'n.'; 'those deeds' supplies a noun. Same point as in 2.13-14; hymn-wide decision needed.",
+"fix": "gram 'pron. f. acc. pl. (or n. pl.)'; keep 'those deeds' only if noted as supplied",
+"severity": "minor"
+}
+]
+},
+{
+"n": "3",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "4",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "5",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "6",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "रथ",
+"problem": "anas is a cart/wagon ('cart' in the English); 'रथ' is the chariot (ratha) and blurs two different words.",
+"fix": "उषा के शकट को",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "replace",
+"field": "hindi",
+"old": "उषा के रथ को",
+"new": "उषा के शकट को"
+}
+}
+]
+},
+{
+"n": "7",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "8",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "9",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "them",
+"problem": "'them' (the object of abhyupya) is not in the line, nor in the Hindi.",
+"fix": "Having strewn over with sleep",
+"severity": "minor",
+"patch": {
+"n": "9",
+"op": "replace",
+"field": "english",
+"old": "Having strewn them over with sleep",
+"new": "Having strewn over with sleep"
+}
+}
+]
+},
+{
+"n": "10",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "let our share not burn away",
+"problem": "Fixed rendering in the glossary for this refrain pāda: bhaga = share, mā ati dhak = 'do not burn beyond'.",
+"fix": "Give to the praisers; do not burn beyond; the share is ours.",
+"severity": "minor",
+"patch": {
+"n": "10",
+"op": "replace",
+"field": "english",
+"old": "Give to the praisers; let our share not burn away.",
+"new": "Give to the praisers; do not burn beyond; the share is ours."
+}
+},
+{
+"field": "hindi",
+"where": "हमारा भाग न जल जाए",
+"problem": "Same, aligned with the Hindi used for the same pāda in ch016.",
+"fix": "स्तोताओं को दे; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है",
+"severity": "minor",
+"patch": {
+"n": "10",
+"op": "replace",
+"field": "hindi",
+"old": "स्तोताओं को दे; हमारा भाग न जल जाए",
+"new": "स्तोताओं को दे; उन्हें जलाकर आगे न बढ़ जा; भाग हमारा है"
+}
+},
+{
+"field": "english",
+"where": "speak loudly at the rite",
+"problem": "The one wording for this refrain is 'may we, rich in heroes, speak greatly in the rite'.",
+"fix": "speak greatly in the rite",
+"severity": "minor",
+"patch": {
+"n": "10",
+"op": "replace",
+"field": "english",
+"old": "speak loudly at the rite",
+"new": "speak greatly in the rite"
+}
+},
+{
+"field": "gloss",
+"where": "bṛhat",
+"problem": "Same.",
+"fix": "greatly",
+"severity": "minor",
+"patch": {
+"n": "10",
+"op": "word",
+"match_w": "bṛhat",
+"field": "gloss",
+"value": "greatly"
+}
+}
+]
+}
+],
+"summary": "Reviewed 10 units. 0 errors, 11 minor (9 with machine patches). Tokens, splits, cases and roots are sound; uncertain verses are marked low/medium. Issues: Hindi कार्य/कर्म for karaṇāni (unit 1), ā mis-attached in gloss and note (unit 2), Hindi रथ for anas (unit 6), unsupported 'them' (unit 9), final verse not in the fixed renderings (share/burn, 'speak greatly in the rite'), refrain 'tā' labelled n. The refrain line itself is hymn-wide. Units 3, 4, 5, 7, 8 are ok. No regrouping suggested."
+}
