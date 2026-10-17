@@ -1,0 +1,632 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "split",
+"where": "sota (sa + u + ta)",
+"problem": "The printed sota is sa + uta (sa uta). The draft splits it into sa + u + ta and glosses u \"and\" and ta \"also\"; ta is not a word. The note itself says \"sa before uta\", so draft and note disagree. Replace the two words u and ta by one word uta \"also\".",
+"fix": "sa + uta (uta = \"also\")",
+"severity": "error"
+},
+{
+"field": "hindi",
+"where": "जो तुम स्वामी हो",
+"problem": "\"स्वामी\" (lord) is not in ya īśiṣe; English has \"you who rule\".",
+"fix": "जो तुम शासन करते हो",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "replace",
+"field": "hindi",
+"old": "जो तुम स्वामी हो",
+"new": "जो तुम शासन करते हो"
+}
+},
+{
+"field": "hindi",
+"where": "सफल करो",
+"problem": "Hindi imperative but the English and the verb (sīṣadhaḥ, subjunctive) have \"you shall bring\"; make them agree.",
+"fix": "और तुम हमारी बुद्धि को सफल करोगे",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "replace",
+"field": "hindi",
+"old": "और तुम हमारी बुद्धि को सफल करो",
+"new": "और तुम हमारी बुद्धि को सफल करोगे"
+}
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "जो झुकने योग्य और दूसरे थे",
+"problem": "Hindi renders nantvā (\"to be bent\") plus anyā, English only \"bent down the others\"; the two translations disagree and Hindi is garbled. Align on one reading (nantvā is flagged unclear in the note).",
+"fix": "Make Hindi and English say the same thing about nantvā anyā, e.g. Hindi \"जिसने बल से दूसरों को झुका दिया\" if nantvā is left unrendered and noted.",
+"severity": "minor"
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "with the sacred word",
+"problem": "brahman (n.) is fixed as prayer / sacred utterance in the glossary, not \"sacred word\".",
+"fix": "with the sacred utterance",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "english",
+"old": "with the sacred word",
+"new": "with the sacred utterance"
+}
+},
+{
+"field": "gloss",
+"where": "brahmaṇā",
+"problem": "Same as above.",
+"fix": "with the sacred utterance",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "word",
+"match_w": "brahmaṇā",
+"field": "gloss",
+"value": "with the sacred utterance"
+}
+},
+{
+"field": "hindi",
+"where": "देवों में सबसे देवतुल्य के लिए",
+"problem": "\"देवतुल्य\" (godlike) is not \"most divine\" (devatama).",
+"fix": "देवों में सबसे दिव्य के लिए",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "देवों में सबसे देवतुल्य के लिए",
+"new": "देवों में सबसे दिव्य के लिए"
+}
+}
+]
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "towards which he went",
+"problem": "Invented clause. The relative clause is abhi yam ojasā atṛṇat \"which he split open with might\"; there is no verb \"went\" and abhi is a preverb of atṛṇat. The line already says \"split open\".",
+"fix": "delete \", towards which he went\"",
+"severity": "error",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "english",
+"old": ", towards which he went",
+"new": ""
+}
+},
+{
+"field": "hindi",
+"where": "जिसके विरुद्ध वह गया",
+"problem": "Same invented clause in Hindi.",
+"fix": "कुएँ को चीर डाला",
+"severity": "error",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "hindi",
+"old": "कुएँ को, जिसके विरुद्ध वह गया, चीर डाला",
+"new": "कुएँ को चीर डाला"
+}
+},
+{
+"field": "split",
+"where": "madhu-dhāram + abhi",
+"problem": "The word abhi belongs to the token madhudhārama̱bhi (end of line a), but the draft lists it under the next token yamoja̱sātṛ̭ṇat; the token madhudhāram+abhi is therefore incomplete and the next token has an extra word. Move abhi to the earlier token and gloss it as the preverb of atṛṇat (\"upon, over\"), not \"towards\".",
+"fix": "move abhi to token madhudhārama̱bhi",
+"severity": "minor"
+},
+{
+"field": "english",
+"where": "together they poured out much of the spring",
+"problem": "\"much of\" (partitive) is not in the text; bahu is adverbial (\"abundantly\").",
+"fix": "together they poured out abundantly the spring full of water",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "english",
+"old": "together they poured out much of the spring full of water",
+"new": "together they poured out abundantly the spring full of water"
+}
+}
+]
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "gram",
+"where": "carataḥ",
+"problem": "\"m. nom. du. pres. part.\" is impossible: a nom. du. of a participle ends in -antau or Vedic -antā; carataḥ is gen./abl. sg. or acc. pl. The Hindi \"दोनों\" and English \"the two moving\" rest on this label (the dual can only come from ayatantā).",
+"fix": "pres. part. √car, case unclear (gen. sg. or acc. pl.; not nom. du.)",
+"severity": "error",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "carataḥ",
+"field": "gram",
+"value": "m. gen. sg. or acc. pl. pres. part. √car (not nom. du.)"
+}
+},
+{
+"field": "gram",
+"where": "vayunā",
+"problem": "vayunā is not an instrumental (inst. sg. would be vayunena); it is n. nom./acc. pl. of vayuna (\"pattern, way, design\"), and the relative yā (n. pl.) agrees with it: \"which patterns Brahmaṇaspati made\". The draft translation (\"which Brahmaṇaspati made with insight\") rests on a wrong case. No patch: gloss and both translations need a decision.",
+"fix": "vayunā n. acc. pl. \"ways/designs\"; English e.g. \"the ways that Brahmaṇaspati made\"",
+"severity": "error"
+},
+{
+"field": "split",
+"where": "duraḥ",
+"problem": "duraḥ is part of the printed token śa̱radbhi̱rduro̭, but the draft puts it under the token varanta (and gives the token śaradbhirduro only śaradbhiḥ). Word-to-token assignment is shifted by one word.",
+"fix": "move duraḥ to token śa̱radbhi̱rduro̭",
+"severity": "minor"
+},
+{
+"field": "english",
+"where": "those some beings",
+"problem": "\"those some beings\" is ungrammatical and bhuvanā is glossed \"beings, worlds\" while the Hindi has भुवन (worlds).",
+"fix": "those several worlds that were to come to be (and gloss \"worlds\")",
+"severity": "minor"
+}
+]
+},
+{
+"n": "6",
+"verdict": "fix",
+"issues": [
+{
+"field": "gram",
+"where": "ud-īyuḥ",
+"problem": "īyuḥ is the 3 pl. perfect of √i (īyuḥ), not an optative/imperfect; the note's \"opt. or impf.\" is a guess. Translation (went up) unchanged.",
+"fix": "3 pl. pf. ud-√i",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "word",
+"match_w": "ud-īyuḥ",
+"field": "gram",
+"value": "3 pl. pf. ud-√i"
+}
+}
+]
+},
+{
+"n": "7",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "The truth-keeping seers",
+"problem": "ṛta = order in the glossary, so ṛtāvan = possessing/keeping order, not \"truth\".",
+"fix": "The order-keeping seers",
+"severity": "minor",
+"patch": {
+"n": "7",
+"op": "replace",
+"field": "english",
+"old": "The truth-keeping seers",
+"new": "The order-keeping seers"
+}
+},
+{
+"field": "hindi",
+"where": "सत्य वाले कवि",
+"problem": "ṛta is ऋत in Hindi.",
+"fix": "ऋत वाले कवि",
+"severity": "minor",
+"patch": {
+"n": "7",
+"op": "replace",
+"field": "hindi",
+"old": "सत्य वाले कवि",
+"new": "ऋत वाले कवि"
+}
+},
+{
+"field": "gloss",
+"where": "ṛtāvānaḥ",
+"problem": "Same.",
+"fix": "keepers of order",
+"severity": "minor",
+"patch": {
+"n": "7",
+"op": "word",
+"match_w": "ṛtāvānaḥ",
+"field": "gloss",
+"value": "keepers of order"
+}
+},
+{
+"field": "split",
+"where": "su + u (ṣo)",
+"problem": "The printed ṣo cannot come from su + u (that gives ṣū); it is saḥ + u (cf. sota in unit 1 of ch024): naki ṣo = nakiḥ ṣaḥ u asti. The draft invents su \"indeed\" + u \"and\".",
+"fix": "replace su+u by sa \"he\" + u \"and\"",
+"severity": "error"
+}
+]
+},
+{
+"n": "8",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "whose string is truth",
+"problem": "ṛta = order.",
+"fix": "whose string is order",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "english",
+"old": "whose string is truth",
+"new": "whose string is order"
+}
+},
+{
+"field": "hindi",
+"where": "सत्य की डोरी वाले",
+"problem": "ṛta is ऋत.",
+"fix": "ऋत की डोरी वाले",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "hindi",
+"old": "सत्य की डोरी वाले",
+"new": "ऋत की डोरी वाले"
+}
+},
+{
+"field": "gloss",
+"where": "ṛta-jyena",
+"problem": "Same.",
+"fix": "with order as bowstring",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "word",
+"match_w": "ṛta-jyena",
+"field": "gloss",
+"value": "with order as bowstring"
+}
+},
+{
+"field": "hindi",
+"where": "मनुष्यों को देखने वाले के देखने के लिए",
+"problem": "English says \"to be seen of the one who watches men\" (gloss: \"to be seen\"), Hindi says \"for the watcher's seeing\"; the translations disagree (active vs passive). Align Hindi to English/gloss; \"of\" should also be \"by\".",
+"fix": "Hindi: मनुष्यों को देखने वाले द्वारा देखे जाने के लिए; English: to be seen by the one who watches men",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "hindi",
+"old": "मनुष्यों को देखने वाले के देखने के लिए",
+"new": "मनुष्यों को देखने वाले द्वारा देखे जाने के लिए"
+}
+},
+{
+"field": "english",
+"where": "to be seen of the one",
+"problem": "Archaic \"of\" for agent.",
+"fix": "to be seen by the one",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "english",
+"old": "to be seen of the one",
+"new": "to be seen by the one"
+}
+}
+]
+},
+{
+"n": "9",
+"verdict": "fix",
+"issues": [
+{
+"field": "text_flags",
+"where": "[{\"src\":\"src\",\"suggest\":\"suggest\",\"why\":\"why\"}]",
+"problem": "Template placeholder left in text_flags; no real flag is recorded and the unit shows no typo.",
+"fix": "[]",
+"severity": "error",
+"patch": {
+"n": "9",
+"op": "set",
+"field": "text_flags",
+"value": []
+}
+},
+{
+"field": "hindi",
+"where": "पुरोहित",
+"problem": "English renders purohita \"one placed in front\"; Hindi gives the later technical sense \"house priest\". Keep literal.",
+"fix": "आगे रखा हुआ",
+"severity": "minor",
+"patch": {
+"n": "9",
+"op": "replace",
+"field": "hindi",
+"old": "वह अलग ले चलने वाला, पुरोहित,",
+"new": "वह अलग ले चलने वाला, आगे रखा हुआ,"
+}
+}
+]
+},
+{
+"n": "10",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "भली प्रकार दिए जाने योग्य सिद्ध करने योग्य दान",
+"problem": "Hindi does not match the English/gloss: suvidatrāṇi \"well bestowed\" vs \"योग्य दिए जाने\", rādhyā \"to be won\" vs \"सिद्ध करने योग्य\". Also \"gifts\"/\"दान\" is a supplied head noun (the neuter adjectives have no stated noun); note it.",
+"fix": "भली प्रकार दिए हुए, पाने योग्य दान",
+"severity": "minor",
+"patch": {
+"n": "10",
+"op": "replace",
+"field": "hindi",
+"old": "भली प्रकार दिए जाने योग्य सिद्ध करने योग्य दान",
+"new": "भली प्रकार दिए हुए, पाने योग्य दान"
+}
+}
+]
+},
+{
+"n": "11",
+"verdict": "fix",
+"issues": [
+{
+"field": "gram",
+"where": "mahām",
+"problem": "mahām is not \"f. acc. sg.\" (the verb and subject are masculine; a feminine accusative has no function here). It is the Vedic sandhi form of m. nom. sg. mahān before u, predicative with the subject.",
+"fix": "m. nom. sg. (sandhi form of mahān)",
+"severity": "minor",
+"patch": {
+"n": "11",
+"op": "word",
+"match_w": "mahām",
+"field": "gram",
+"value": "m. nom. sg. (sandhi form of mahān)"
+}
+}
+]
+},
+{
+"n": "12",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "even the waters violate your ordinance",
+"problem": "Negation lost: cana with the clause means \"not even the waters violate your ordinance\" (the Hindi has नहीं, so Hindi and English contradict each other).",
+"fix": "not even the waters violate your ordinance",
+"severity": "error",
+"patch": {
+"n": "12",
+"op": "replace",
+"field": "english",
+"old": "even the waters violate your ordinance",
+"new": "not even the waters violate your ordinance"
+}
+},
+{
+"field": "english",
+"where": "O bounteous two",
+"problem": "maghavan is fixed as \"bountiful\".",
+"fix": "O bountiful two",
+"severity": "minor",
+"patch": {
+"n": "12",
+"op": "replace",
+"field": "english",
+"old": "O bounteous two",
+"new": "O bountiful two"
+}
+},
+{
+"field": "gloss",
+"where": "maghavānā",
+"problem": "Same.",
+"fix": "O bountiful two",
+"severity": "minor",
+"patch": {
+"n": "12",
+"op": "word",
+"match_w": "maghavānā",
+"field": "gloss",
+"value": "O bountiful two"
+}
+}
+]
+},
+{
+"n": "13",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "सभा का कवि",
+"problem": "vipra is \"inspired one\" (English); kavi is fixed as \"seer\", so Hindi कवि for vipra clashes with the glossary.",
+"fix": "सभा का प्रेरित जन",
+"severity": "minor",
+"patch": {
+"n": "13",
+"op": "replace",
+"field": "hindi",
+"old": "सभा का कवि",
+"new": "सभा का प्रेरित जन"
+}
+},
+{
+"field": "gram",
+"where": "vaśaḥ",
+"problem": "\"m. acc. sg.\" does not fit the form: the acc. sg. of vaśa is vaśam, and vaśaḥ is nom. sg. (or acc. pl.). Check against the printed text; no patch because the construction with anu is unsettled.",
+"fix": "m. nom. sg. (or acc. pl.)",
+"severity": "minor"
+}
+]
+},
+{
+"n": "14",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "in different directions",
+"problem": "pṛthak is glossed \"apart\"; \"in different directions\" adds. Hindi अलग-अलग is closer.",
+"fix": "like a great stream he ran apart with force",
+"severity": "minor",
+"patch": {
+"n": "14",
+"op": "replace",
+"field": "english",
+"old": "ran with force in different directions",
+"new": "ran apart with force"
+}
+}
+]
+},
+{
+"n": "15",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "with the sacred word",
+"problem": "brahman = prayer / sacred utterance.",
+"fix": "with the sacred utterance",
+"severity": "minor",
+"patch": {
+"n": "15",
+"op": "replace",
+"field": "english",
+"old": "with the sacred word",
+"new": "with the sacred utterance"
+}
+},
+{
+"field": "gloss",
+"where": "brahmaṇā",
+"problem": "Same.",
+"fix": "with the sacred utterance",
+"severity": "minor",
+"patch": {
+"n": "15",
+"op": "word",
+"match_w": "brahmaṇā",
+"field": "gloss",
+"value": "with the sacred utterance"
+}
+},
+{
+"field": "gram",
+"where": "me",
+"problem": "Case missing; me havam is the enclitic genitive.",
+"fix": "pron. 1 sg. gen. (enclitic)",
+"severity": "minor",
+"patch": {
+"n": "15",
+"op": "word",
+"match_w": "me",
+"field": "gram",
+"value": "pron. 1 sg. gen. (enclitic)"
+}
+}
+]
+},
+{
+"n": "16",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "at the rite",
+"problem": "Refrain wording fixed in the glossary is \"in the rite\".",
+"fix": "may we speak greatly in the rite",
+"severity": "minor",
+"patch": {
+"n": "16",
+"op": "replace",
+"field": "english",
+"old": "at the rite",
+"new": "in the rite"
+}
+},
+{
+"field": "gloss",
+"where": "vidathe",
+"problem": "Same (gloss \"at the rite\").",
+"fix": "in the rite",
+"severity": "minor",
+"patch": {
+"n": "16",
+"op": "word",
+"match_w": "vidathe",
+"field": "gloss",
+"value": "in the rite"
+}
+},
+{
+"field": "english",
+"where": "our offspring",
+"problem": "\"our\" is not in the text (tanayam alone); Hindi has no \"our\".",
+"fix": "quicken offspring",
+"severity": "minor",
+"patch": {
+"n": "16",
+"op": "replace",
+"field": "english",
+"old": "quicken our offspring",
+"new": "quicken offspring"
+}
+},
+{
+"field": "split",
+"where": "sū-ktasya",
+"problem": "su + ukta gives sūkta; \"sū-ktasya\" is not a dictionary-style split.",
+"fix": "su-uktasya (or sūktasya)",
+"severity": "minor",
+"patch": {
+"n": "16",
+"op": "word",
+"match_w": "sū-ktasya",
+"field": "w",
+"value": "su-uktasya"
+}
+}
+]
+}
+],
+"summary": "Reviewed 16 units. Total issues: 8 error, 34 minor (34 carry a machine patch). Errors: unit 1 sota split invents ta (sa+uta); unit 4 invents \"went\" for atṛṇat and misplaces abhi; unit 5 carataḥ labelled nom. du. and vayunā labelled instrumental (yā vayunā are n. pl.); unit 7 ṣo split su+u is impossible; unit 9 placeholder text_flags; unit 12 English drops the negation (cana: not even the waters). Recurring minor: ṛta rendered truth instead of order (units 7, 8), brahman as sacred word (3, 15), maghavan as bounteous (12), refrain at/in the rite (16), Hindi-English mismatches (2, 8, 10). No text_flags needed (printed lines show no clear typos). Glossary proposals: see final report. No regrouping suggested."
+}

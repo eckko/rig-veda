@@ -1,0 +1,401 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "of one will",
+"problem": "kratu is fixed as \"resolve\"; Hindi already has संकल्प.",
+"fix": "of one resolve",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "english",
+"old": "of one will",
+"new": "of one resolve"
+}
+},
+{
+"field": "gloss",
+"where": "sa-kratavaḥ",
+"problem": "Same.",
+"fix": "of one resolve",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "word",
+"match_w": "sa-kratavaḥ",
+"field": "gloss",
+"value": "of one resolve"
+}
+}
+]
+},
+{
+"n": "3",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "keepers of truth",
+"problem": "ṛta = order; ṛtāvan = keeper of order.",
+"fix": "keepers of order",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "english",
+"old": "keepers of truth",
+"new": "keepers of order"
+}
+},
+{
+"field": "hindi",
+"where": "सत्य के पालक",
+"problem": "ṛta is ऋत in Hindi.",
+"fix": "ऋत के पालक",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "hindi",
+"old": "सत्य के पालक",
+"new": "ऋत के पालक"
+}
+},
+{
+"field": "gloss",
+"where": "ṛtāvānaḥ",
+"problem": "Same.",
+"fix": "keepers of order",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "word",
+"match_w": "ṛtāvānaḥ",
+"field": "gloss",
+"value": "keepers of order"
+}
+}
+]
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "gram",
+"where": "avasaḥ",
+"problem": "Labelled \"n. gen. sg.\" (gloss \"of help\") but both translations treat it as the object of vidyāma (\"find this help\"). Label and translation disagree; avaḥ would be the acc. sg., avasaḥ is gen. sg. (or acc. pl.). Decide the construction and state it in the note.",
+"fix": "align gram/gloss with the translation or the translation with the gen.",
+"severity": "minor"
+}
+]
+},
+{
+"n": "6",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "तुम्हारा मार्ग सुगम है",
+"problem": "hi (\"for\") is dropped in Hindi; the English has \"For\".",
+"fix": "हे अर्यमा, हे मित्र, क्योंकि तुम्हारा मार्ग सुगम है",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "replace",
+"field": "hindi",
+"old": "हे अर्यमा, हे मित्र, तुम्हारा मार्ग सुगम है",
+"new": "हे अर्यमा, हे मित्र, क्योंकि तुम्हारा मार्ग सुगम है"
+}
+}
+]
+},
+{
+"n": "7",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "8",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "By truth, O Ādityas",
+"problem": "ṛta = order.",
+"fix": "By order, O Ādityas",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "english",
+"old": "By truth, O Ādityas",
+"new": "By order, O Ādityas"
+}
+},
+{
+"field": "hindi",
+"where": "सत्य से तुम्हारी महिमा",
+"problem": "ṛta is ऋत in Hindi.",
+"fix": "ऋत से तुम्हारी महिमा",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "hindi",
+"old": "सत्य से तुम्हारी महिमा",
+"new": "ऋत से तुम्हारी महिमा"
+}
+},
+{
+"field": "gloss",
+"where": "ṛtena",
+"problem": "Same.",
+"fix": "by order",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "word",
+"match_w": "ṛtena",
+"field": "gloss",
+"value": "by order"
+}
+}
+]
+},
+{
+"n": "9",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "10",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "asura",
+"problem": "The glossary fixes the gloss of asura as \"asura\" (translation \"lord/god\"); the draft glosses \"O lord\".",
+"fix": "asura",
+"severity": "minor",
+"patch": {
+"n": "10",
+"op": "word",
+"match_w": "asura",
+"field": "gloss",
+"value": "asura"
+}
+}
+]
+},
+{
+"n": "11",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "12",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "वसुओं का दाता",
+"problem": "Error: Hindi has \"giver of the Vasus\", but vasu here is \"goods\" (English \"giver of goods\"; the note says Vasus is not meant).",
+"fix": "धन का दाता",
+"severity": "error",
+"patch": {
+"n": "12",
+"op": "replace",
+"field": "hindi",
+"old": "वसुओं का दाता",
+"new": "धन का दाता"
+}
+},
+{
+"field": "english",
+"where": "truth-bound kings",
+"problem": "ṛta = order (ṛta-nibhyaḥ is also marked unclear).",
+"fix": "order-bound kings",
+"severity": "minor",
+"patch": {
+"n": "12",
+"op": "replace",
+"field": "english",
+"old": "truth-bound kings",
+"new": "order-bound kings"
+}
+},
+{
+"field": "hindi",
+"where": "सत्य से बंधे राजाओं",
+"problem": "ṛta is ऋत in Hindi.",
+"fix": "ऋत से बंधे राजाओं",
+"severity": "minor",
+"patch": {
+"n": "12",
+"op": "replace",
+"field": "hindi",
+"old": "सत्य से बंधे राजाओं",
+"new": "ऋत से बंधे राजाओं"
+}
+},
+{
+"field": "gloss",
+"where": "ṛta-nibhyaḥ",
+"problem": "Same.",
+"fix": "order-bound",
+"severity": "minor",
+"patch": {
+"n": "12",
+"op": "word",
+"match_w": "ṛta-nibhyaḥ",
+"field": "gloss",
+"value": "order-bound"
+}
+}
+]
+},
+{
+"n": "13",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "14",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "15",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "the fortunate one, thriving",
+"problem": "nāma (glossed \"indeed\") is dropped from both translations; the note admits it may also mean \"by name\".",
+"fix": "the fortunate one indeed, thriving",
+"severity": "minor",
+"patch": {
+"n": "15",
+"op": "replace",
+"field": "english",
+"old": "the fortunate one, thriving",
+"new": "the fortunate one indeed, thriving"
+}
+},
+{
+"field": "hindi",
+"where": "वह भाग्यवान्",
+"problem": "nāma dropped in Hindi.",
+"fix": "वह सचमुच भाग्यवान्",
+"severity": "minor",
+"patch": {
+"n": "15",
+"op": "replace",
+"field": "hindi",
+"old": "वह भाग्यवान्",
+"new": "वह सचमुच भाग्यवान्"
+}
+}
+]
+},
+{
+"n": "16",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "शत्रु के लिए",
+"problem": "ripave is \"deceiver\" in the English; Hindi has \"शत्रु\", and \"हानि करने वाले\" floats loose, so abhidruhe and ripave are not rendered as two datives.",
+"fix": "जो हानि करने वाले के लिए, छली के लिए फैलाए हुए फंदे हैं",
+"severity": "minor",
+"patch": {
+"n": "16",
+"op": "replace",
+"field": "hindi",
+"old": "जो हानि करने वाले, शत्रु के लिए फैलाए हुए फंदे हैं",
+"new": "जो हानि करने वाले के लिए, छली के लिए फैलाए हुए फंदे हैं"
+}
+}
+]
+},
+{
+"n": "17",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "a bounteous, dear, much-giving friend",
+"problem": "maghavan/maghonī is fixed as \"bountiful\".",
+"fix": "from a bountiful, dear, much-giving friend",
+"severity": "minor",
+"patch": {
+"n": "17",
+"op": "replace",
+"field": "english",
+"old": "a bounteous, dear",
+"new": "a bountiful, dear"
+}
+},
+{
+"field": "gloss",
+"where": "maghonaḥ",
+"problem": "Same.",
+"fix": "of the bountiful",
+"severity": "minor",
+"patch": {
+"n": "17",
+"op": "word",
+"match_w": "maghonaḥ",
+"field": "gloss",
+"value": "of the bountiful"
+}
+},
+{
+"field": "english",
+"where": "at the rite",
+"problem": "Refrain wording fixed in the glossary is \"in the rite\".",
+"fix": "may we speak greatly in the rite",
+"severity": "minor",
+"patch": {
+"n": "17",
+"op": "replace",
+"field": "english",
+"old": "at the rite",
+"new": "in the rite"
+}
+},
+{
+"field": "gloss",
+"where": "vidathe",
+"problem": "Same.",
+"fix": "in the rite",
+"severity": "minor",
+"patch": {
+"n": "17",
+"op": "word",
+"match_w": "vidathe",
+"field": "gloss",
+"value": "in the rite"
+}
+}
+]
+}
+],
+"summary": "Reviewed 17 units. Total issues: 1 error, 21 minor (21 carry a machine patch). Error: unit 12 Hindi \"वसुओं का दाता\" (Vasus) for vasu-dāvan \"giver of goods\", against the English and the unit's own note. Recurring minor: ṛta rendered truth instead of order (4, 8, 12), maghavan as bounteous (17), kratu as will (2), refrain at/in the rite (17), nāma dropped (15), Hindi hi dropped (6) and ripave rendered शत्रु (16). Units 1, 3, 7, 9, 11, 13, 14 are ok. No regrouping suggested."
+}

@@ -1,0 +1,385 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "2",
+   "issues": [
+    {
+     "field": "english",
+     "where": "When Rudra, the bull, begot you",
+     "problem": "gram says ajani is 3 sg. aor. PASSIVE ('was born'), the gloss says 'was born, begot', and vaḥ is glossed acc. pl. ('you'); a passive cannot take 'you' as object. The translation (and Hindi) picks the active 'begot', which the notes admit is 'taken from the sense of the line'.",
+     "fix": "Make gram, gloss, vo and both translations agree: either passive ('when Rudra, the bull, was born / begotten for you, O Maruts ... in the bright udder of Pṛśni' with vaḥ dat./gen.) or defend 'begot' in notes; no patch because it is a decision.",
+     "severity": "error"
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "3",
+   "issues": [
+    {
+     "field": "english",
+     "where": "sprinkle their horses",
+     "problem": "'their' is not in the text (aśvān atyān iva only); Hindi has no possessive either.",
+     "fix": "They sprinkle the horses",
+     "severity": "minor",
+     "patch": {
+      "n": "3",
+      "op": "replace",
+      "field": "english",
+      "old": "They sprinkle their horses",
+      "new": "They sprinkle the horses"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "4",
+   "issues": [
+    {
+     "field": "english",
+     "where": "all these beings",
+     "problem": "bhuvana is rendered 'world' in 2.33.9 (bhuvanasya 'of this ... world'); 'beings' makes the group inconsistent.",
+     "fix": "all these worlds",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "english",
+      "old": "all these beings",
+      "new": "all these worlds"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ये सब प्राणी",
+     "problem": "Same.",
+     "fix": "ये सब लोक",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "replace",
+      "field": "hindi",
+      "old": "ये सब प्राणी",
+      "new": "ये सब लोक"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "bhuvanā",
+     "problem": "Same.",
+     "fix": "worlds",
+     "severity": "minor",
+     "patch": {
+      "n": "4",
+      "op": "word",
+      "match_w": "bhuvanā",
+      "field": "gloss",
+      "value": "worlds"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "5",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "कुछ अनिश्चित अर्थ वाले ईंधन-जैसे",
+     "problem": "A reviewer-style remark ('of somewhat uncertain meaning') has been written into the translation; it is not a translation of indhanvabhiḥ, and 'ईंधन-जैसे' ('fuel-like') disagrees with the English 'kindling'.",
+     "fix": "प्रज्वलित करने वाली, भरे थनों वाली दुधारू गायों के साथ",
+     "severity": "error",
+     "patch": {
+      "n": "5",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कुछ अनिश्चित अर्थ वाले ईंधन-जैसे, भरे थनों वाली दुधारू गायों के साथ",
+      "new": "प्रज्वलित करने वाली, भरे थनों वाली दुधारू गायों के साथ"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "6",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "हमारी प्रार्थनाओं",
+     "problem": "Glossary: brahman (n.) = prayer / sacred utterance, Hindi ब्रह्म.",
+     "fix": "हमारे ब्रह्म की ओर आओ",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हमारी प्रार्थनाओं की ओर आओ",
+      "new": "हमारे ब्रह्म की ओर आओ"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "बुद्धि",
+     "problem": "Glossary: dhī = thought (धी); English says 'thought'.",
+     "fix": "पुरस्कारों से सजी धी बनाओ",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "hindi",
+      "old": "पुरस्कारों से सजी बुद्धि बनाओ",
+      "new": "पुरस्कारों से सजी धी बनाओ"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "7",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "रथ में विजय पाने वाले को",
+     "problem": "vājin = prize-winner (English), fixed Hindi uses पुरस्कार; 'विजय पाने वाले' drifts. Also brahma (n.) should be ब्रह्म, not 'प्रार्थना'.",
+     "fix": "रथ में पुरस्कार जीतने वाले को, दिन-प्रतिदिन जगाने वाले, प्राप्त होने वाले ब्रह्म को",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "रथ में विजय पाने वाले को, दिन-प्रतिदिन जगाने वाली, प्राप्त होने वाली प्रार्थना को",
+      "new": "रथ में पुरस्कार जीतने वाले को, दिन-प्रतिदिन जगाने वाले, प्राप्त होने वाले ब्रह्म को"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अन्न",
+     "problem": "iṣ is 'refreshment' in the English; 'अन्न' (food) disagrees.",
+     "fix": "स्तुति करने वालों को स्फूर्ति",
+     "severity": "minor",
+     "patch": {
+      "n": "7",
+      "op": "replace",
+      "field": "hindi",
+      "old": "स्तुति करने वालों को अन्न",
+      "new": "स्तुति करने वालों को स्फूर्ति"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "8",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "महान् अन्न",
+     "problem": "Same iṣ mismatch.",
+     "fix": "महान् स्फूर्ति को बढ़ाते हैं",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "महान् अन्न को बढ़ाते हैं",
+      "new": "महान् स्फूर्ति को बढ़ाते हैं"
+     }
+    },
+    {
+     "field": "english",
+     "where": "for the share",
+     "problem": "ā (glossed 'hither') is untranslated in English while Hindi has 'यहाँ'; the two translations disagree.",
+     "fix": "Treat ā the same way in both (leave it out of Hindi or render in both).",
+     "severity": "minor"
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "9",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "vadhaḥ",
+     "problem": "'m. inst. pl.' is impossible: an instrumental plural ends in -aiḥ, never -aḥ. vadhaḥ can only be nom. sg. m. of vadha, or acc. sg. of the neuter vadhas/vadhar; so 'with weapons' has no grammatical basis.",
+     "fix": "Relabel gram (e.g. 'n. acc. sg. vadhas or m. nom. sg.') and revise the English/Hindi ('with weapons') accordingly; needs a human decision.",
+     "severity": "error"
+    },
+    {
+     "field": "gram",
+     "where": "aśasaḥ",
+     "problem": "Gloss is singular 'the accursed one', but gram says 'm. acc. pl.' (or gen. sg.); the labels and the translation contradict each other.",
+     "fix": "Choose one analysis and state it in gram and notes.",
+     "severity": "minor"
+    },
+    {
+     "field": "hindi",
+     "where": "उसकी हानि से",
+     "problem": "'उसकी' (his) is added; riṣaḥ is plain 'from harm' (English is right).",
+     "fix": "हानि से हमारी रक्षा करो",
+     "severity": "minor",
+     "patch": {
+      "n": "9",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उसकी हानि से हमारी रक्षा करो",
+      "new": "हानि से हमारी रक्षा करो"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "10",
+   "issues": [
+    {
+     "field": "gram",
+     "where": "duhuḥ",
+     "problem": "duhuḥ is an augmentless imperfect/injunctive 3 pl. (the perfect would be duduhuḥ), not 'pf.'.",
+     "fix": "3 pl. impf. (augmentless) √duh",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "duhuḥ",
+      "field": "gram",
+      "value": "3 pl. impf. (augmentless) √duh"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "nide",
+     "problem": "nid is feminine (the draft itself has f. nidaḥ in unit 15).",
+     "fix": "f. dat. sg.",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "word",
+      "match_w": "nide",
+      "field": "gram",
+      "value": "f. dat. sg."
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हे अजेय",
+     "problem": "adābhya is 'unbeguilable' (English), not 'invincible'.",
+     "fix": "हे न ठगे जा सकने वालो",
+     "severity": "minor",
+     "patch": {
+      "n": "10",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे अजेय",
+      "new": "हे न ठगे जा सकने वालो"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "11",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "12",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "उषाओं के उदय",
+     "problem": "uṣasaḥ is glossed gen. sg. and English has 'of the dawn'; the plural 'उषाओं' disagrees.",
+     "fix": "उषा के उदय के समय",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "उषाओं के उदय के समय",
+      "new": "उषा के उदय के समय"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "लाल किरणों से",
+     "problem": "'किरणों' (rays) is added; aruṇaiḥ has no noun (English: 'the ruddy ones').",
+     "fix": "अरुणों से",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "replace",
+      "field": "hindi",
+      "old": "लाल किरणों से",
+      "new": "अरुणों से"
+     }
+    },
+    {
+     "field": "gram",
+     "where": "mahaḥ",
+     "problem": "'n. inst. sg.' cannot be right for -aḥ; the notes themselves call the form irregular.",
+     "fix": "form uncertain (-aḥ is not inst.; agrees loosely with jyotiṣā)",
+     "severity": "minor",
+     "patch": {
+      "n": "12",
+      "op": "word",
+      "match_w": "mahaḥ",
+      "field": "gram",
+      "value": "form uncertain (-aḥ is not inst.; agrees loosely with jyotiṣā)"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "13",
+   "issues": [
+    {
+     "field": "english",
+     "where": "seats of ṛta",
+     "problem": "Fixed rendering: ṛta = order (ऋत in Hindi); English should say 'order'.",
+     "fix": "in the seats of order",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "replace",
+      "field": "english",
+      "old": "seats of ṛta",
+      "new": "seats of order"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "ṛtasya",
+     "problem": "Same.",
+     "fix": "of order",
+     "severity": "minor",
+     "patch": {
+      "n": "13",
+      "op": "word",
+      "match_w": "ṛtasya",
+      "field": "gloss",
+      "value": "of order"
+     }
+    }
+   ],
+   "verdict": "fix"
+  },
+  {
+   "n": "14",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "15",
+   "verdict": "ok",
+   "issues": []
+  }
+ ],
+ "summary": "Reviewed 15 units of RV 2.34. Total issues: 3 error, 20 minor. Errors: unit 2 ajani is labelled aor. passive but the translations have the active 'begot' with 'you' as object; unit 5 Hindi contains the stray remark 'कुछ अनिश्चित अर्थ वाले' inside the translation; unit 9 vadhaḥ labelled inst. pl. (impossible form), so 'with weapons' is unsupported. Minor: fixed-rendering deviations (brahman/dhī/vājin/ṛta in Hindi or English, units 6, 7, 13), iṣ Hindi 'अन्न' vs 'refreshment', bhuvana 'beings' vs 'world', additions in Hindi/English ('उसकी', 'किरणों', 'their'), small gram points (duhuḥ, nide, mahaḥ), unit 8 ā translated in Hindi only. Units 1, 11, 14, 15 are ok. The '१' marks in vya१bhriyā are accent signs and rightly not flagged. Confidences honest. No regrouping suggested."
+}

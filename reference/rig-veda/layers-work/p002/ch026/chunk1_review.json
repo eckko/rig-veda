@@ -1,0 +1,158 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "सीधा वक्ता",
+"problem": "English and gloss say \"honest\" (ṛju \"straight, honest\"); Hindi \"सीधा\" (straight/simple) differs.",
+"fix": "ईमानदार वक्ता",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "replace",
+"field": "hindi",
+"old": "सीधा वक्ता",
+"new": "ईमानदार वक्ता"
+}
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "make your mind good, of the zealous, in the smiting of obstacles",
+"problem": "\"of the zealous\" hangs loose in English, while Hindi takes manāyataḥ as the one for whom the mind is made good (\"उत्साही के लिए\"); translations disagree. Settle one reading and use it in both.",
+"fix": "Make Hindi and English agree on the role of manāyataḥ (the note allows a genitive or a participle on the addressee).",
+"severity": "minor"
+},
+{
+"field": "english",
+"where": "vṛtra-tūrye \"in the smiting of obstacles\"",
+"problem": "The glossary says names stay names (Vṛtra). The draft reads vṛtra- as \"obstacle\" and says so in the note. This is probably right for the compound vṛtratūrya, but it is a deviation that needs a glossary decision.",
+"fix": "Add glossary entry: vṛtra-tūrya = smiting of obstacles / of Vṛtra (choose one) and use it in every chunk.",
+"severity": "minor"
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "gram",
+"where": "śraddhā-manāḥ",
+"problem": "\"inst. sg. agreeing with haviṣā\" is wrong: an s-stem instrumental would be -manasā; the printed śraddhāmanā is the nom. sg. m. śraddhā-manāḥ (visarga lost before h), agreeing with yaḥ: \"who, faithful-minded, honours ... with an oblation\". The English \"an oblation given in faith\" and Hindi \"श्रद्धापूर्ण मन से हवि\" follow the wrong case.",
+"fix": "bahuvrīhi, m. nom. sg. (agreeing with yaḥ)",
+"severity": "error",
+"patch": {
+"n": "3",
+"op": "word",
+"match_w": "śraddhā-manāḥ",
+"field": "gram",
+"value": "bahuvrīhi, m. nom. sg. (agreeing with yaḥ)"
+}
+},
+{
+"field": "english",
+"where": "he who honours the father of the gods, Brahmaṇaspati, with an oblation given in faith",
+"problem": "\"given in faith\" is not in the text; see gram.",
+"fix": "he who, faithful-minded, honours with an oblation the father of the gods, Brahmaṇaspati",
+"severity": "error",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "english",
+"old": "he who honours the father of the gods, Brahmaṇaspati, with an oblation given in faith",
+"new": "he who, faithful-minded, honours with an oblation the father of the gods, Brahmaṇaspati"
+}
+},
+{
+"field": "hindi",
+"where": "श्रद्धापूर्ण मन से हवि द्वारा",
+"problem": "Same.",
+"fix": "जो श्रद्धापूर्ण मन वाला होकर देवों के पिता ब्रह्मणस्पति की हवि द्वारा सेवा करता है",
+"severity": "error",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "जो देवों के पिता ब्रह्मणस्पति की श्रद्धापूर्ण मन से हवि द्वारा सेवा करता है",
+"new": "जो श्रद्धापूर्ण मन वाला होकर देवों के पिता ब्रह्मणस्पति की हवि द्वारा सेवा करता है"
+}
+},
+{
+"field": "notes",
+"where": "śraddhāmanā",
+"problem": "The note offers the instrumental reading as primary; revise to say the nominative agreeing with yaḥ is the reading and that the draft's earlier instrumental was rejected.",
+"fix": "append the correction",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "append_note",
+"text": "śraddhāmanā is read as nom. sg. śraddhā-manāḥ agreeing with yaḥ (visarga lost before h)."
+}
+}
+]
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "text_flags",
+"where": "[two placeholder entries]",
+"problem": "text_flags holds two template placeholders ({\"src\":\"src\",\"suggest\":\"suggest\",\"why\":\"why\"} twice) and no real flag, although the note admits the printed tokens are corrupt: ri̱ṣo̱ṃ3 'hości̭dasmā should be riṣo 'ṃhościd asmā (aṃhoḥ split across tokens, stray 3).",
+"fix": "one real flag on the corrupt printed tokens",
+"severity": "error",
+"patch": {
+"n": "4",
+"op": "set",
+"field": "text_flags",
+"value": [
+{
+"src": "ri̱ṣo̱ṃ3 'hości̭dasmā",
+"suggest": "ri̱ṣo̱ 'ṃhości̭dasmā",
+"why": "stray ṃ3: the expected text is riṣo 'ṃhościd asmā (aṃhoḥ cit asmai), split across two printed tokens"
+}
+]
+}
+},
+{
+"field": "english",
+"where": "leads him forward on the forward path",
+"problem": "\"path\" is not in the text; prācā is an adverbial instrumental \"forward\".",
+"fix": "Brahmaṇaspati leads him forth, forwards",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "english",
+"old": "Brahmaṇaspati leads him forward on the forward path",
+"new": "Brahmaṇaspati leads him forth, forwards"
+}
+},
+{
+"field": "hindi",
+"where": "आगे के मार्ग से",
+"problem": "Same (\"मार्ग\" added).",
+"fix": "आगे की ओर ले चलता है",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "hindi",
+"old": "आगे के मार्ग से ले चलता है",
+"new": "आगे की ओर ले चलता है"
+}
+}
+]
+}
+],
+"summary": "Reviewed 4 units. Total issues: 4 error, 6 minor (8 carry a machine patch). Errors: unit 3 śraddhāmanā wrongly taken as instrumental (nom. sg. agreeing with yaḥ), carrying \"given in faith\" into English and Hindi; unit 4 text_flags are two template placeholders although the printed tokens ri̱ṣo̱ṃ3 'hości̭dasmā are corrupt. Minor: Hindi \"सीधा\" for ṛju, a hanging \"of the zealous\" in unit 2, vṛtratūrya vs the glossary rule that Vṛtra stays a name, and \"path\" added in unit 4. Unit 1 is otherwise ok. No regrouping suggested."
+}

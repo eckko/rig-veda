@@ -1,0 +1,360 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "pīyūṣam",
+"problem": "'pīyūṣa, first milk' imports a later meaning (colostrum) and duplicates 'first' (prathamam); keep the bare word.",
+"fix": "pīyūṣa",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "word",
+"match_w": "pīyūṣam",
+"field": "gloss",
+"value": "pīyūṣa"
+}
+},
+{
+"field": "text_flags",
+"where": "payo̱ṃ",
+"problem": "The flag is real (stray anusvāra: payo 'ṃśoḥ intended), but 'suggest: payaḥ' replaces the whole token; the correction is to move the ṃ: payo̱ + 'ṃśoḥ.",
+"fix": "suggest 'payo' for this token and 'ṃśoḥ for the next",
+"severity": "minor"
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "ढलानों का मार्ग उनके बहने के लिए",
+"problem": "Hindi makes 'ढलानों का' depend on 'मार्ग' and adds 'उनके'; English (and the gloss: pravatām anuṣyade, 'for running along the slopes') has the infinitive for flowing along the slopes. Align Hindi to English.",
+"fix": "ढलानों के साथ बहने के लिए मार्ग एक ही है",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "ढलानों का मार्ग उनके बहने के लिए एक ही है",
+"new": "ढलानों के साथ बहने के लिए मार्ग एक ही है"
+}
+},
+{
+"field": "gram",
+"where": "tā (refrain, also units 3 and 4)",
+"problem": "yastākṛṇoḥ = yaḥ + tāḥ + akṛṇoḥ; the visarga of tāḥ drops before a, so w 'tā' / 'n. acc. pl.' is most likely f. acc. pl. tāḥ (neuter pl. is tāni). The translation also supplies the noun 'deeds', which is not in the Sanskrit. The note flags uncertainty, but the form label should be reconsidered and the supplied noun kept out of the gloss.",
+"fix": "w 'tāḥ', gram 'pron. f. acc. pl.' (human decision on 'those deeds' vs 'those things')",
+"severity": "minor"
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "minan tat apāḥ",
+"problem": "The second 'tat' is glossed 'that' but is rendered in neither English nor Hindi (the translation reads 'diminishing the forms, working'). The gram 'ind.' for it is also wrong for a pronoun/adverb. The split is admitted a guess, so either translate it or say it is left untranslated in notes.",
+"fix": "append to notes: 'second tat left unrendered (adverbial, thereupon?)'",
+"severity": "minor"
+}
+]
+},
+{
+"n": "4",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "बलशाली",
+"problem": "vājin is fixed as prize-winner (English has 'prize-winning'); 'बलशाली' (mighty) deviates from the glossary and from the English.",
+"fix": "पुरस्कार जीतने वाले देव",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "replace",
+"field": "hindi",
+"old": "बलशाली देव",
+"new": "पुरस्कार जीतने वाले देव"
+}
+},
+{
+"field": "gram",
+"where": "sā",
+"problem": "Gram 'pron.' lacks case, number and gender.",
+"fix": "pron. m. nom. sg.",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "sā",
+"field": "gram",
+"value": "pron. m. nom. sg."
+}
+},
+{
+"field": "w",
+"where": "sā",
+"problem": "Elsewhere in the hymn the same sandhi (sāsi = saḥ + asi) is split as saḥ; use the dictionary form here too.",
+"fix": "saḥ",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "sā",
+"field": "w",
+"value": "saḥ"
+}
+},
+{
+"field": "english",
+"where": "made the earth to be seen together with heaven",
+"problem": "'together with heaven' renders the dative dive as an instrumental 'with'; gloss says 'for heaven' and the note admits 'for the sight of heaven'. English/Hindi contradict the gloss.",
+"fix": "e.g. 'made the earth to be seen for heaven' (needs a human decision)",
+"severity": "minor"
+}
+]
+},
+{
+"n": "6",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "देता है",
+"problem": "dayase is √day 'share, distribute' (gloss and English 'share'); 'देता है' (gives) is a different verb.",
+"fix": "भोजन और वृद्धि बाँटता है",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "replace",
+"field": "hindi",
+"old": "भोजन और वृद्धि देता है",
+"new": "भोजन और वृद्धि बाँटता है"
+}
+}
+]
+},
+{
+"n": "7",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "अनुपम चमकती हुई को",
+"problem": "didyutaḥ and asamāḥ are accusative plural (English 'unequalled shining ones'); Hindi is singular.",
+"fix": "अनुपम चमकने वालियों को",
+"severity": "minor",
+"patch": {
+"n": "7",
+"op": "replace",
+"field": "hindi",
+"old": "अनुपम चमकती हुई को",
+"new": "अनुपम चमकने वालियों को"
+}
+}
+]
+},
+{
+"n": "8",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "आज भी",
+"problem": "uta eva adya = 'and indeed today'; 'भी' (even) turns eva into 'even today', which the English does not have.",
+"fix": "और आज निश्चय ही बहुत करने वाला",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "hindi",
+"old": "और आज भी बहुत करने वाला",
+"new": "और आज निश्चय ही बहुत करने वाला"
+}
+},
+{
+"field": "hindi",
+"where": "बलवती",
+"problem": "ūrjayantī is the causative participle 'strengthening' (English and gloss); 'बलवती' means mighty.",
+"fix": "बल देने वाली के अबाध मुख को",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "hindi",
+"old": "बलवती के अबाध मुख को",
+"new": "बल देने वाली के अबाध मुख को"
+}
+},
+{
+"field": "gram",
+"where": "puru-kṛt",
+"problem": "purukṛt 'doing much' has the object as first member (upapada compound), not a bahuvrīhi.",
+"fix": "tat-puruṣa m. nom. sg. (root noun √kṛ)",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "word",
+"match_w": "puru-kṛt",
+"field": "gram",
+"value": "tat-puruṣa m. nom. sg. (root noun √kṛ)"
+}
+}
+]
+},
+{
+"n": "9",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "10",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "बाँधों",
+"problem": "rodhana here is 'bank'; 'बाँध' means a dam, which the English 'banks' does not.",
+"fix": "तटों ने",
+"severity": "minor",
+"patch": {
+"n": "10",
+"op": "replace",
+"field": "hindi",
+"old": "बाँधों ने",
+"new": "तटों ने"
+}
+},
+{
+"field": "hindi",
+"where": "सबसे",
+"problem": "'सबसे' (than all) is not in 'pari paro abhavaḥ'; English 'far beyond'.",
+"fix": "तू बहुत परे हुआ",
+"severity": "minor",
+"patch": {
+"n": "10",
+"op": "replace",
+"field": "hindi",
+"old": "तू सबसे परे हुआ",
+"new": "तू बहुत परे हुआ"
+}
+}
+]
+},
+{
+"n": "11",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "heroism",
+"problem": "Fixed rendering vīrya = heroic deeds.",
+"fix": "Your heroic deed is well proclaimed",
+"severity": "minor",
+"patch": {
+"n": "11",
+"op": "replace",
+"field": "english",
+"old": "Your heroism is well proclaimed",
+"new": "Your heroic deed is well proclaimed"
+}
+},
+{
+"field": "gloss",
+"where": "vīryam",
+"problem": "Same as above.",
+"fix": "heroic deed",
+"severity": "minor",
+"patch": {
+"n": "11",
+"op": "word",
+"match_w": "vīryam",
+"field": "gloss",
+"value": "heroic deed"
+}
+},
+{
+"field": "hindi",
+"where": "बल बढ़ाया",
+"problem": "'increased' is not in the line; the English has 'set forth' (pra). Hindi disagrees with English.",
+"fix": "बल आगे रखा",
+"severity": "minor",
+"patch": {
+"n": "11",
+"op": "replace",
+"field": "hindi",
+"old": "बल बढ़ाया",
+"new": "बल आगे रखा"
+}
+}
+]
+},
+{
+"n": "12",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "13",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "speak loudly at the rite",
+"problem": "The brief's one wording for this refrain is 'may we, rich in heroes, speak greatly in the rite' (bṛhad vadema vidathe suvīrāḥ).",
+"fix": "speak greatly in the rite",
+"severity": "minor",
+"patch": {
+"n": "13",
+"op": "replace",
+"field": "english",
+"old": "speak loudly at the rite",
+"new": "speak greatly in the rite"
+}
+},
+{
+"field": "gloss",
+"where": "bṛhat",
+"problem": "Same.",
+"fix": "greatly",
+"severity": "minor",
+"patch": {
+"n": "13",
+"op": "word",
+"match_w": "bṛhat",
+"field": "gloss",
+"value": "greatly"
+}
+},
+{
+"field": "gram",
+"where": "śravasyāḥ",
+"problem": "Labelled 'f. nom. pl.' but it describes the speakers ('we'); the gender label is unsupported (the form is a nom. pl. in -āḥ of an adjective/denominative); the translation 'desiring glory' is fine.",
+"fix": "'nom. pl. (uncertain)'",
+"severity": "minor"
+},
+{
+"field": "notes",
+"where": "'The same verse recurs as 2.14.12 (line b with a different word division in the print)'",
+"problem": "The claim about a different word division is not checkable from this chunk; keep only if it matches ch014's printed line.",
+"fix": "check against ch014 chunk1_in",
+"severity": "minor"
+}
+]
+}
+],
+"summary": "Reviewed 13 units. 0 errors, 23 minor (about 19 with machine patches). All units except 4, 9 and 12 have at least one issue. The draft is honest about the very obscure verses (low confidence), and tokens and splits match the print. Issues: Hindi/English disagreement (units 2, 5, 6, 7, 8, 11), added or altered words in Hindi (भी, सबसे, बलवती, बाँधों, बढ़ाया), vājin not rendered as prize-winner, the refrain 'tā' labelled n. instead of f. tāḥ (units 2-4), untranslated second tat in unit 3, the final refrain not in the fixed wording (unit 13), gloss 'first milk' for pīyūṣa. No regrouping suggested."
+}

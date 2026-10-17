@@ -1,0 +1,153 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "जात के साथ वह जात से आगे",
+"problem": "\"जात\" in modern Hindi also means caste; use the plain participle for jāta \"born\".",
+"fix": "उत्पन्न के साथ वह उत्पन्न से आगे बढ़ जाता है",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "replace",
+"field": "hindi",
+"old": "जात के साथ वह जात से आगे बढ़ जाता है",
+"new": "उत्पन्न के साथ वह उत्पन्न से आगे बढ़ जाता है"
+}
+},
+{
+"field": "hindi",
+"where": "जिसने हवि दी है",
+"problem": "English says \"whose oblation is given\" (rāta-havya, passive) but Hindi has the active \"who has given\"; make them agree.",
+"fix": "जिसकी हवि दी गई है",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "replace",
+"field": "hindi",
+"old": "जिसने हवि दी है",
+"new": "जिसकी हवि दी गई है"
+}
+},
+{
+"field": "english",
+"where": "made the sacred word",
+"problem": "brahman = prayer / sacred utterance in the glossary.",
+"fix": "made the sacred utterance",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "replace",
+"field": "english",
+"old": "made the sacred word",
+"new": "made the sacred utterance"
+}
+},
+{
+"field": "gloss",
+"where": "kṛta-brahmā",
+"problem": "Same.",
+"fix": "who has made the sacred utterance",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "word",
+"match_w": "kṛta-brahmā",
+"field": "gloss",
+"value": "who has made the sacred utterance"
+}
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "With heroes he shall win heroes and the hostile",
+"problem": "\"and\" is added: the line has vīrān vanuṣyataḥ with no conjunction, and the note itself says vanuṣyataḥ is in apposition (contradicting the translation). vanuṣyataḥ is most simply the gen. sg. \"of the hostile one\" (the same form as in units 1 and 3 is acc. pl.), i.e. \"he shall win the heroes of the hostile one\". Hindi has the same added \"और\". No patch: needs a decision on the construction.",
+"fix": "With heroes he shall win the heroes of the hostile one (gram vanuṣyataḥ m. gen. sg.); Hindi: वीरों के साथ वह विरोधी के वीरों को जीत ले",
+"severity": "error"
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "उबलता हुआ",
+"problem": "\"boiling\" does not render ṛghāyataḥ \"storming\" (English).",
+"fix": "उग्र होता हुआ",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "उबलता हुआ",
+"new": "उग्र होता हुआ"
+}
+},
+{
+"field": "hindi",
+"where": "निर्बलों",
+"problem": "vadhrīn is \"the emasculated\" (English, gloss); \"निर्बल\" (weak) is an interpretation.",
+"fix": "नपुंसक किए हुओं की ओर",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "निर्बलों की ओर",
+"new": "नपुंसक किए हुओं की ओर"
+}
+}
+]
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "दिव्य, अक्षय धाराएँ बहती हैं",
+"problem": "\"धाराएँ\" (streams) is an addition; the note even says \"streams is not added\" and the English has only \"the heavenly unfailing ones\".",
+"fix": "दिव्य और अक्षय बहती हैं",
+"severity": "error",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "hindi",
+"old": "दिव्य, अक्षय धाराएँ बहती हैं",
+"new": "दिव्य और अक्षय बहती हैं"
+}
+},
+{
+"field": "hindi",
+"where": "अटल बल वाला",
+"problem": "\"अटल\" (unshaken) is not \"unassailed\" (anibhṛṣṭa).",
+"fix": "अनाक्रान्त बल वाला",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "hindi",
+"old": "अटल बल वाला",
+"new": "अनाक्रान्त बल वाला"
+}
+}
+]
+},
+{
+"n": "5",
+"verdict": "ok",
+"issues": []
+}
+],
+"summary": "Reviewed 5 units. Total issues: 2 error, 7 minor (8 carry a machine patch). Errors: unit 2 adds \"and\" between the objects (and contradicts its own note about apposition); unit 4 Hindi adds \"धाराएँ\" although the note says streams is not added. Other issues are minor Hindi wording (जात = caste, उबलता, निर्बल, अटल), brahman rendered \"sacred word\", and a passive/active mismatch for rāta-havya in unit 1. Unit 5 is ok. No regrouping suggested."
+}
