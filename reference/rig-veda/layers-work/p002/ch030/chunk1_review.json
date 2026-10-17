@@ -1,0 +1,220 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "सत्य को रचनेवाले",
+"problem": "Glossary: ṛta = order (ऋत in Hindi); 'सत्य' deviates.",
+"fix": "ऋत करनेवाले",
+"severity": "minor"
+},
+{
+"field": "hindi",
+"where": "जल रुके नहीं",
+"problem": "Reads as a prohibition ('let the waters not rest'); English says 'did not come to rest', and ramanta is a past injunctive/impf. Also the Hindi fuses savitre into Indra ('प्रेरक इन्द्र ... जो अहि का हनन करनेवाला है'), whereas English has three separate datives.",
+"fix": "ऋत करनेवाले देव के लिए, प्रेरक के लिए, अहि का हनन करनेवाले इन्द्र के लिए जल नहीं रुके।",
+"severity": "error",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "सत्य को रचनेवाले देव के लिए, प्रेरक इन्द्र के लिए, जो अहि का हनन करनेवाला है, जल रुके नहीं।",
+"new": "ऋत करनेवाले देव के लिए, प्रेरक के लिए, अहि का हनन करनेवाले इन्द्र के लिए जल नहीं रुके।",
+"n": "1"
+}
+},
+{
+"field": "english",
+"where": "for the impeller",
+"problem": "savitre next to devāya kṛṇvate and Indra is most naturally the god Savitṛ; the glossary writes divine names in plain IAST (Savitṛ). The draft's own note says so. Decide; if Savitṛ, change English, gloss, Hindi (सविता). No patch.",
+"fix": "for Savitṛ",
+"severity": "minor"
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "गरजती धाराएँ",
+"problem": "'धाराएँ' (streams) is an interpretation; dhunayaḥ is 'roaring ones'.",
+"fix": "गरजनेवालियाँ",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "मार्गों को काटती हुई गरजती धाराएँ प्रतिदिन",
+"new": "मार्गों को काटती हुई गरजनेवालियाँ प्रतिदिन",
+"n": "2"
+}
+},
+{
+"field": "split",
+"where": "viduṣaḥ",
+"problem": "Printed viduṣa u- allows viduṣe (dat., 'to the knowing one') + uvāca by the same e-before-vowel sandhi the draft itself uses for upāyane (2.28.2); that gives 'the mother declared him to the knowing one' and removes the unnamed 'knowing one' of the notes. Mention as alternative in notes; no patch.",
+"fix": "add alternative viduṣe (dat.) to notes",
+"severity": "minor"
+}
+]
+},
+{
+"n": "3",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "तपते हुए पत्थर के समान",
+"problem": "Hindi 'like a burning stone' differs from English 'with burning, as it were with a stone' (tapuṣā aśnā iva).",
+"fix": "ताप से, मानो पत्थर से",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "तपते हुए पत्थर के समान",
+"new": "ताप से, मानो पत्थर से",
+"n": "4"
+}
+}
+]
+},
+{
+"n": "5",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "6",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "7",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "जो मेरी इच्छा पूरी करे",
+"problem": "'इच्छा' (desire) is added; pṛṇāt is 'satisfies/fills'; English says 'satisfies me'.",
+"fix": "जो मुझे तृप्त करे",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "जो मेरी इच्छा पूरी करे",
+"new": "जो मुझे तृप्त करे",
+"n": "7"
+}
+},
+{
+"field": "english",
+"where": "May nothing exhaust me",
+"problem": "'nothing' is an unmarked subject; the verbs are bare 3 sg. subjunctives.",
+"fix": "May it not exhaust me, nor tire me, nor make me slack",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "english",
+"old": "May nothing exhaust me",
+"new": "May it not exhaust me",
+"n": "7"
+}
+},
+{
+"field": "hindi",
+"where": "न कुछ मुझे थकाए",
+"problem": "Same unmarked subject 'कुछ'.",
+"fix": "वह मुझे न थकाए",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "न कुछ मुझे थकाए",
+"new": "वह मुझे न थकाए",
+"n": "7"
+}
+}
+]
+},
+{
+"n": "8",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "9",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "10",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "वीरों के साथ, वीरों के साथ",
+"problem": "satvabhiḥ is 'warriors' (English, gloss), śūraiḥ 'heroes'; Hindi uses 'वीरों' for both.",
+"fix": "हमारे अपने योद्धाओं के साथ, वीरों के साथ",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "हमारे अपने वीरों के साथ, वीरों के साथ",
+"new": "हमारे अपने योद्धाओं के साथ, वीरों के साथ",
+"n": "10"
+}
+}
+]
+},
+{
+"n": "11",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "सुख की इच्छा",
+"problem": "Glossary: sumna = favour; Hindi 'सुख' (happiness) deviates.",
+"fix": "कृपा की इच्छा",
+"severity": "minor"
+},
+{
+"field": "english",
+"where": "with a song",
+"problem": "Glossary: gir = hymn/praise.",
+"fix": "with a hymn and homage",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "english",
+"old": "with a song and homage",
+"new": "with a hymn and homage",
+"n": "11"
+}
+},
+{
+"field": "hindi",
+"where": "गीत ... स्तुति करता हूँ",
+"problem": "'गीत' (song) deviates from gir = hymn; 'स्तुति करता हूँ' renders upa bruve, which English gives as 'address', and repeats the idea of the hymn.",
+"fix": "कृपा की इच्छा करता हुआ मैं स्तुति और नमस्कार के साथ तुम्हारे उस मरुतों के दल को, उस दिव्य जन को संबोधित करता हूँ",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "सुख की इच्छा करता हुआ मैं गीत और नमस्कार के साथ तुम्हारे उस मरुतों के दल के, उस दिव्य जन के पास स्तुति करता हूँ",
+"new": "कृपा की इच्छा करता हुआ मैं स्तुति और नमस्कार के साथ तुम्हारे उस मरुतों के दल को, उस दिव्य जन को संबोधित करता हूँ",
+"n": "11"
+}
+}
+]
+}
+],
+"summary": "Reviewed 11 units. 1 error, 12 minor. Error: unit 1 Hindi (ṛta rendered सत्य, prohibitive 'रुके नहीं' vs past, savitre fused with Indra); savitre is probably Savitṛ and needs a decision. Others: gir/sumna glossary deviations in unit 11, unmarked subject in unit 7, Hindi/English mismatch in unit 4, alternative viduṣe in unit 2. Units 3, 5, 6, 8, 9 ok. No regrouping suggested."
+}

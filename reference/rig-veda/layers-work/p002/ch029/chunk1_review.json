@@ -1,0 +1,220 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "स्त्री करती है",
+"problem": "Added verb 'करती है'; the simile is only 'like a rahasū' (English has no verb).",
+"fix": "गुप्त रूप से प्रसव करनेवाली स्त्री के समान",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "जैसे गुप्त रूप से प्रसव करनेवाली स्त्री करती है",
+"new": "गुप्त रूप से प्रसव करनेवाली स्त्री के समान",
+"n": "1"
+}
+},
+{
+"field": "hindi",
+"where": "वेगवान् आदित्यो",
+"problem": "English and gloss say 'vigorous' (iṣira); 'वेगवान्' is 'swift'.",
+"fix": "हे स्फूर्तिमान् आदित्यो",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "हे वेगवान् आदित्यो",
+"new": "हे स्फूर्तिमान् आदित्यो",
+"n": "1"
+}
+}
+]
+},
+{
+"n": "2",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "बाद के से",
+"problem": "Ungrammatical Hindi for apareṇa ('with the later one').",
+"fix": "बाद वाले से क्या करें",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "बाद के से क्या करें",
+"new": "बाद वाले से क्या करें",
+"n": "3"
+}
+},
+{
+"field": "notes",
+"where": "adite could also be read with ca",
+"problem": "This alternative is not workable (ca follows adite; a vocative cannot be 'read with ca' as an alternative to itself). Drop or rephrase; no patch.",
+"fix": "delete the remark",
+"severity": "minor"
+}
+]
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "not be without ...",
+"problem": "The translation breaks off with '...' and leaves 'madhyamavāṭ' as an untranslated Sanskrit word inside the English; the Hindi likewise has 'बिना ...'. A layer must give a complete rendering: translate mā vo ratho madhyamavāḍ ṛte bhūt literally, e.g. 'may your chariot, the middle-drawer, not be without ...' and say in the notes what is unclear, or give a full best-effort reading. Needs a human.",
+"fix": "complete the sentence in English and Hindi",
+"severity": "error"
+},
+{
+"field": "english",
+"where": "so be gracious",
+"problem": "'so' is not in the Sanskrit (te mṛḷata); te is a resumptive 'they/those'.",
+"fix": "you are indeed kinsmen; be gracious to me",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "english",
+"old": "kinsmen; so be gracious",
+"new": "kinsmen; be gracious",
+"n": "4"
+}
+},
+{
+"field": "hindi",
+"where": "इसलिए",
+"problem": "'इसलिए' is an added causal link.",
+"fix": "तुम ही तो बन्धु हो; मुझ याचक पर कृपा करो",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "तुम ही तो बन्धु हो; इसलिए मुझ याचक पर कृपा करो",
+"new": "तुम ही तो बन्धु हो; मुझ याचक पर कृपा करो",
+"n": "4"
+}
+}
+]
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "उसने मुझे पिता के समान जुआरी की तरह दण्ड दिया है",
+"problem": "Garbled and does not match the Sanskrit: mā ... kitavam are both accusative ('me, the gambler') and pitā iva is the subject. The English 'as a father chastises a gambler' also changes the construction.",
+"fix": "क्योंकि पिता के समान उसने मुझ जुआरी को दण्ड दिया है",
+"severity": "error",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "क्योंकि उसने मुझे पिता के समान जुआरी की तरह दण्ड दिया है",
+"new": "क्योंकि पिता के समान उसने मुझ जुआरी को दण्ड दिया है",
+"n": "5"
+}
+},
+{
+"field": "english",
+"where": "as a father chastises a gambler",
+"problem": "mā kitavam = 'me, the gambler' (both acc.); 'pitā iva' is a nominative simile.",
+"fix": "since, like a father, he has chastised me, the gambler",
+"severity": "error",
+"patch": {
+"op": "replace",
+"field": "english",
+"old": "since he has chastised me as a father chastises a gambler",
+"new": "since, like a father, he has chastised me, the gambler",
+"n": "5"
+}
+},
+{
+"field": "english",
+"where": "over my son",
+"problem": "'my' is not in the text (putre only).",
+"fix": "over the son",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "english",
+"old": "over my son",
+"new": "over the son",
+"n": "5"
+}
+}
+]
+},
+{
+"n": "6",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "7",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "a bounteous, dear friend",
+"problem": "Glossary: maghavan/maghonī = bountiful.",
+"fix": "a bountiful, dear friend",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "english",
+"old": "a bounteous, dear friend",
+"new": "a bountiful, dear friend",
+"n": "7"
+}
+},
+{
+"field": "gloss",
+"where": "maghonaḥ",
+"problem": "Same: bountiful.",
+"fix": "of the bountiful one",
+"severity": "minor",
+"patch": {
+"op": "word",
+"match_w": "maghonaḥ",
+"field": "gloss",
+"value": "of the bountiful one",
+"n": "7"
+}
+},
+{
+"field": "hindi",
+"where": "बन्धु",
+"problem": "English and gloss say 'friend' (āpi).",
+"fix": "प्रिय और बहुत देनेवाले मित्र की कमी",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "प्रिय और बहुत देनेवाले बन्धु की कमी",
+"new": "प्रिय और बहुत देनेवाले मित्र की कमी",
+"n": "7"
+}
+},
+{
+"field": "hindi",
+"where": "ऊँचे स्वर से",
+"problem": "Refrain: 'loudly', not the glossary 'greatly'; Hindi refrain varies across chunks. Needs one glossary wording; no patch.",
+"fix": "use the glossary Hindi wording",
+"severity": "minor"
+}
+]
+}
+],
+"summary": "Reviewed 7 units. 3 error, 11 minor. Errors: unit 4 translation breaks off with '...' and leaves madhyamavāṭ untranslated; unit 5 Hindi and English misconstrue 'pitā iva ... mā kitavam śaśāsa'. Unit 7 repeats 2.28.11 and gets the same fixes. Units 2 and 6 ok. No regrouping suggested."
+}

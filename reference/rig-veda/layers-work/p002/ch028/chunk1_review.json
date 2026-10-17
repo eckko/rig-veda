@@ -1,0 +1,405 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "of the wise Āditya",
+"problem": "kavi is fixed as 'seer' in the glossary; 'wise' deviates (same in gloss of kaveḥ).",
+"fix": "of the seer Āditya",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "english",
+"old": "of the wise Āditya",
+"new": "of the seer Āditya",
+"n": "1"
+}
+},
+{
+"field": "gloss",
+"where": "kaveḥ",
+"problem": "'wise one' deviates from glossary kavi = seer.",
+"fix": "of the seer",
+"severity": "minor",
+"patch": {
+"op": "word",
+"match_w": "kaveḥ",
+"field": "gloss",
+"value": "of the seer",
+"n": "1"
+}
+},
+{
+"field": "hindi",
+"where": "यह बुद्धिमान् स्वराट् आदित्य का है; यह ...",
+"problem": "Added copula 'है' and a doubled 'यह' (the Sanskrit has one idam with genitives, no 'is of'); 'बुद्धिमान्' for kavi.",
+"fix": "कवि, स्वराट् आदित्य का यह अपनी महिमा से सब पर छा जाए।",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "यह बुद्धिमान् स्वराट् आदित्य का है; यह अपनी महिमा से सब पर छा जाए।",
+"new": "कवि, स्वराट् आदित्य का यह अपनी महिमा से सब पर छा जाए।",
+"n": "1"
+}
+},
+{
+"field": "hindi",
+"where": "और यजन के योग्य है",
+"problem": "yajathāya is a dative 'for worship'; 'योग्य' (worthy of) is an addition and the Hindi no longer matches the English 'for worship'.",
+"fix": "जो देव यजन के लिए अत्यन्त आनन्ददायक है",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "जो देव अत्यन्त आनन्ददायक है और यजन के योग्य है",
+"new": "जो देव यजन के लिए अत्यन्त आनन्ददायक है",
+"n": "1"
+}
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "having praised you",
+"problem": "tuṣṭuvāṃsaḥ has no object in the line; 'you' is an unmarked addition.",
+"fix": "having praised",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "english",
+"old": "having praised you",
+"new": "having praised",
+"n": "2"
+}
+},
+{
+"field": "hindi",
+"where": "स्तुति करनेवाले होकर",
+"problem": "tuṣṭuvāṃsaḥ is a perfect participle ('having praised'); the Hindi reads as a present agent noun and duplicates jaramāṇāḥ ('praising') later.",
+"fix": "भक्त और स्तुति कर चुके होकर",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "भक्त और स्तुति करनेवाले होकर",
+"new": "भक्त और स्तुति कर चुके होकर",
+"n": "2"
+}
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "who have many heroes",
+"problem": "Glossary: puru-vīra = rich in many heroes (the gloss already says so).",
+"fix": "you who are rich in many heroes and widely praised",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "english",
+"old": "you who have many heroes and are widely praised",
+"new": "you who are rich in many heroes and widely praised",
+"n": "3"
+}
+},
+{
+"field": "hindi",
+"where": "हे अपराजित देवो",
+"problem": "adabdha is rendered 'undeceived' in English and the gloss; 'अपराजित' (unconquered) is a different sense.",
+"fix": "हे न छले जानेवाले देवो",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "हे अपराजित देवो",
+"new": "हे न छले जानेवाले देवो",
+"n": "3"
+}
+},
+{
+"field": "gloss",
+"where": "naḥ",
+"problem": "Gloss says 'our' but both translations take naḥ as the object ('towards us'); draft contradicts itself (the notes mention both). Decide one reading; no patch.",
+"fix": "align gloss with the translation ('us') or translate 'sons of Aditi, ours'",
+"severity": "minor"
+}
+]
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "split",
+"where": "vidhartā~",
+"problem": "The printed nasal sign (-ā̃ before ṛ-) marks final -ān; a nominative singular vidhartā would carry no nasal. The notes' 'nasal a sandhi or editorial mark' is an unsupported explanation. Likely vidhartān (acc. pl.), i.e. 'Āditya sent them forth, the (upholders/ordainers)'; the translation of the whole half-line then needs rework. Same marker appears as asmā~ (acc. pl.) in RV 2.30.5, 2.30.6, 2.30.8. Needs a human decision, no patch.",
+"fix": "re-read as vidhartān (acc. pl.) and redo the translation of line a",
+"severity": "error"
+},
+{
+"field": "confidence",
+"where": "unit",
+"problem": "Given the unresolved vidhartā~ and the unclear construction, 'medium' is too firm.",
+"fix": "low",
+"severity": "minor",
+"patch": {
+"op": "set",
+"field": "confidence",
+"value": "low",
+"n": "4"
+}
+},
+{
+"field": "notes",
+"where": "'paptū' in 'papta'",
+"problem": "Garbled note ('papta' is not a form here).",
+"fix": "paptū is paptuḥ with ḥ lost before r- (paptū raghuyā)",
+"severity": "minor"
+},
+{
+"field": "hindi",
+"where": "की ओर जाती हैं",
+"problem": "English says 'go along the order', Hindi 'go towards the order'; align (yanti + acc. ṛtam is ambiguous). No patch.",
+"fix": "use one preposition in both",
+"severity": "minor"
+}
+]
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "apasaḥ",
+"problem": "Glossary fixes apas = work(s), Hindi कार्य; draft renders 'of the worker'. Both are possible grammatically (adj. apás) but the choice should follow the glossary or be justified in notes (it is, partly). No patch.",
+"fix": "the measure of the work",
+"severity": "minor"
+},
+{
+"field": "confidence",
+"where": "unit",
+"problem": "Notes themselves say ṛdh + acc., khām, and mātrā are uncertain; 'medium' is too firm.",
+"fix": "low",
+"severity": "minor",
+"patch": {
+"op": "set",
+"field": "confidence",
+"value": "low",
+"n": "5"
+}
+}
+]
+},
+{
+"n": "6",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "मुझे अपना लो",
+"problem": "anu √grabh 'take hold of'; 'अपना लो' (adopt/accept) adds the sense of favour which the notes say is not stated; English says 'take hold of me'.",
+"fix": "मुझे थाम लो",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "मुझे अपना लो",
+"new": "मुझे थाम लो",
+"n": "6"
+}
+}
+]
+},
+{
+"n": "7",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "O Asura",
+"problem": "Glossary: asura in the Ṛgveda = lord/god (gloss 'asura'); the English 'O Asura' capitalised as a name deviates (the notes wrongly claim 'glossary: lord').",
+"fix": "O lord",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "english",
+"old": "O Asura",
+"new": "O lord",
+"n": "7"
+}
+},
+{
+"field": "gloss",
+"where": "asura",
+"problem": "Gloss should be the plain word 'asura' per glossary.",
+"fix": "O asura",
+"severity": "minor",
+"patch": {
+"op": "word",
+"match_w": "asura",
+"field": "gloss",
+"value": "O asura",
+"n": "7"
+}
+},
+{
+"field": "english",
+"where": "go to journeys away",
+"problem": "Ungrammatical; pravasathāni acc. pl. with ganma is 'go on journeys'.",
+"fix": "May we not go on journeys away from the light",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "english",
+"old": "May we not go to journeys away from the light",
+"new": "May we not go on journeys away from the light",
+"n": "7"
+}
+},
+{
+"field": "english",
+"where": "lay the foes low",
+"problem": "Hindi 'ढीला कर दो' (loosen) and English 'lay low' disagree on śiśrathaḥ; gloss says 'loosen, lay low'. Align both; no patch.",
+"fix": "use one sense in English and Hindi",
+"severity": "minor"
+}
+]
+},
+{
+"n": "8",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "हे महाबलशाली",
+"problem": "tuvi-jāta 'mighty-born'; Hindi drops 'born' and disagrees with English and gloss.",
+"fix": "हे प्रबल जन्मवाले",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "हे वरुण, हे महाबलशाली,",
+"new": "हे वरुण, हे प्रबल जन्मवाले,",
+"n": "8"
+}
+},
+{
+"field": "hindi",
+"where": "हे अजेय, तुझमें तेरे व्रत ... अचल रखे हुए हैं",
+"problem": "dūḍabha is 'hard to deceive' (English, gloss); 'अजेय' (invincible) is a different word. 'तेरे' is added (vratāni has no pronoun) and 'अचल रखे हुए हैं' is awkward; 'hi' (for) is dropped.",
+"fix": "क्योंकि हे जिसे ठगना कठिन है, तुझमें व्रत पर्वत पर टिके हुए के समान अटल स्थित हैं।",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "हे अजेय, तुझमें तेरे व्रत पर्वत पर टिके हुए के समान अचल रखे हुए हैं।",
+"new": "क्योंकि हे जिसे ठगना कठिन है, तुझमें व्रत पर्वत पर टिके हुए के समान अटल स्थित हैं।",
+"n": "8"
+}
+}
+]
+},
+{
+"n": "9",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "enjoy what another has done",
+"problem": "anya-kṛtena is instrumental ('by/through what another has done'); both translations make it the object of bhojam. The notes admit 'suffer' is possible. Rework to keep the instrumental; no patch.",
+"fix": "may I not enjoy through what another has done (and the same in Hindi)",
+"severity": "minor"
+}
+]
+},
+{
+"n": "10",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "जो भी मेरा साथी",
+"problem": "'भी' is not in the Sanskrit (yo ... yujyaḥ vā sakhā vā).",
+"fix": "जो मेरा साथी या मित्र",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "जो भी मेरा साथी या मित्र",
+"new": "जो मेरा साथी या मित्र",
+"n": "10"
+}
+}
+]
+},
+{
+"n": "11",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "a bounteous, dear friend",
+"problem": "Glossary: maghavan/maghonī = bountiful.",
+"fix": "a bountiful, dear friend",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "english",
+"old": "a bounteous, dear friend",
+"new": "a bountiful, dear friend",
+"n": "11"
+}
+},
+{
+"field": "gloss",
+"where": "maghonaḥ",
+"problem": "Same: bountiful.",
+"fix": "of the bountiful one",
+"severity": "minor",
+"patch": {
+"op": "word",
+"match_w": "maghonaḥ",
+"field": "gloss",
+"value": "of the bountiful one",
+"n": "11"
+}
+},
+{
+"field": "hindi",
+"where": "बन्धु",
+"problem": "English and gloss say 'friend' (āpi); 'बन्धु' (kinsman) differs and the same word glosses āpayaḥ as kinsmen in 2.29.4.",
+"fix": "प्रिय और बहुत देनेवाले मित्र की कमी",
+"severity": "minor",
+"patch": {
+"op": "replace",
+"field": "hindi",
+"old": "प्रिय और बहुत देनेवाले बन्धु की कमी",
+"new": "प्रिय और बहुत देनेवाले मित्र की कमी",
+"n": "11"
+}
+},
+{
+"field": "hindi",
+"where": "ऊँचे स्वर से",
+"problem": "Refrain: English follows the glossary ('speak greatly'), but Hindi 'ऊँचे स्वर से' = loudly, and the Hindi refrain varies across chunks (प्रबल रूप से / महान् वचन / बड़ी वाणी). Needs one glossary wording; no patch.",
+"fix": "use the one Hindi wording the glossary will fix",
+"severity": "minor"
+}
+]
+}
+],
+"summary": "Reviewed 11 units. 1 error, 27 minor (about 20 with a machine patch). Error: unit 4 vidhartā~ (nasal marks acc. pl. -ān; the 'editorial mark' explanation is unsupported; line a needs rework). Recurrent: glossary deviations (kavi=seer, maghavan=bountiful, asura vocative, puru-vīra), Hindi additions (है, भी, ओर vs along), Hindi/English disagreement (tuvijāta, dūḍabha, adjective choices), confidence too high in units 4 and 5. No regrouping suggested."
+}
