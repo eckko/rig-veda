@@ -1,0 +1,296 @@
+[
+ {
+  "id": "008.031.8",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "008.035.17b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "008.052.6",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "008.071.14",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "008.073.8",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "008.082.1",
+  "kind": "sample",
+  "verdict": "error",
+  "suggest": "आ प्र द्र॑व परा॒वतो॑ऽर्वा॒वत॑श्च वृत्रहन् । मध्व॒: प्रति॒ प्रभ॑र्मणि ॥",
+  "why": "First half-verse has only 13 of 16 gayatri syllables and opens with a svarita (द्र॑) that needs a preceding udatta word, so the opening preverbs before द्रव are missing."
+ },
+ {
+  "id": "008.083.3",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "009.023.4",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "009.030.4",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "009.034.6",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "009.061.12",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "009.069.7b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "009.084.2b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "009.086.12b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "009.095.2b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "009.096.12a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "009.097.15b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.002.4a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.007.5b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.007.6b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.008.5b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.012.9a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.028.7b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary tristubh line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.031.8a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.037.3b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.043.3a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.064.12a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.081.1a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.088.2a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.089.2a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.119.6",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.134.2a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.135.6",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.149.4b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.150.1",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.161.3b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "010.165.5b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "002.004.8b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "002.016.7b",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "002.034.11a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Space after virama (तान् वो) is this mandala's typing style, seen in the neighbouring lines too."
+ },
+ {
+  "id": "002.036.4a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ },
+ {
+  "id": "002.043.1a",
+  "kind": "sample",
+  "verdict": "ok",
+  "suggest": "",
+  "why": "Ordinary line; grammar, sandhi and metre are fine."
+ }
+]
