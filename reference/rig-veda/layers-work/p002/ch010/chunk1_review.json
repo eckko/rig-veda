@@ -1,0 +1,173 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "text_flags",
+"where": "śrava̱sya1:",
+"problem": "Same as 2.8.4: the digit is the Vaidika notation, not a stray mark; the flag is self-contradictory (\"stray ... independent svarita\") and proposes dropping the notation. Not a typo.",
+"fix": "drop the flag or reword as \"notation, not a typo\"",
+"severity": "minor"
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "चित्र-तेज वाला",
+"problem": "\"चित्र-तेज\" is not natural Hindi and citra is \"bright\" in English (and in 2.8).",
+"fix": "उज्ज्वल तेज वाला",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "चित्र-तेज वाला",
+"new": "उज्ज्वल तेज वाला"
+}
+},
+{
+"field": "hindi",
+"where": "काले दोनों ... लाल दोनों ... अरुण दोनों",
+"problem": "Word order \"काले दोनों\" is unidiomatic; should be \"दोनों काले\".",
+"fix": "दोनों काले रथ को ढोते हैं, अथवा दोनों लाल, अथवा दोनों अरुण",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "काले दोनों रथ को ढोते हैं, अथवा लाल दोनों, अथवा अरुण दोनों",
+"new": "दोनों काले रथ को ढोते हैं, अथवा दोनों लाल, अथवा दोनों अरुण"
+}
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "split",
+"where": "śiriṇāyāṃ + cit",
+"problem": "Token \"śiri̭ṇāyāṃ\" contains only śiriṇāyām; the word cit is wrongly listed under it as well, so cit appears twice, and in the next token it stands after aktunā although it is printed first (cid aktunā).",
+"fix": "token 1: śiriṇāyām only; token 2: cit, aktunā (in that order)",
+"severity": "error"
+},
+{
+"field": "notes",
+"where": "cit is taken twice",
+"problem": "There is a single printed cit (śiriṇāyāṃ cid aktunā).",
+"fix": "cit occurs once, between śiriṇāyām and aktunā.",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "notes",
+"old": "cit is taken twice, once with śiriṇāyām, once with aktunā; rendered 'also'.",
+"new": "cit occurs once (śiriṇāyāṃ cid aktunā) and is rendered 'as well'; its attachment is uncertain."
+}
+},
+{
+"field": "hindi",
+"where": "अनेक रूपों वाली स्त्रियों में",
+"problem": "\"स्त्रियों\" (women) is an addition; purupeśāsu is only \"in the many-formed (fem.) ones\", as the English says.",
+"fix": "अनेक रूपों वालियों में",
+"severity": "error",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "अनेक रूपों वाली स्त्रियों में",
+"new": "अनेक रूपों वालियों में"
+}
+},
+{
+"field": "hindi",
+"where": "महिमाओं से",
+"problem": "English and gloss have \"powers\" (mahobhiḥ).",
+"fix": "शक्तियों से",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "महिमाओं से",
+"new": "शक्तियों से"
+}
+}
+]
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "सब भुवनों के सामने",
+"problem": "English \"all beings\" vs Hindi भुवन (worlds); bhuvana should be rendered the same in both. No patch.",
+"fix": "choose \"worlds\" (or beings) in both",
+"severity": "minor"
+}
+]
+},
+{
+"n": "5",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "6",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "चुनी हुई वस्तु से",
+"problem": "\"वस्तु\" and \"चुनी हुई\" are added; English has \"with choice\" (vareṇa).",
+"fix": "चयन से",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "replace",
+"field": "hindi",
+"old": "चुनी हुई वस्तु से",
+"new": "चयन से"
+}
+},
+{
+"field": "english",
+"where": "having you as envoy",
+"problem": "Glossary: dūta = messenger.",
+"fix": "having you as messenger",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "replace",
+"field": "english",
+"old": "having you as envoy",
+"new": "having you as messenger"
+}
+},
+{
+"field": "gloss",
+"where": "tvā-dūtāsaḥ",
+"problem": "Glossary: dūta = messenger.",
+"fix": "having you as messenger",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "word",
+"match_w": "tvā-dūtāsaḥ",
+"field": "gloss",
+"value": "having you as messenger"
+}
+}
+]
+}
+],
+"summary": "Reviewed 6 units. Errors: unit 3 Hindi adds 'स्त्रियों'; unit 3 split lists cit twice and in the wrong order. Minor: Hindi/English mismatches (महिमा vs powers, चुनी हुई वस्तु), envoy vs messenger, notes saying cit is taken twice, unit 1 text flag on the digit notation is not a typo. Units 4-5 are low-confidence but honest. No regrouping suggested."
+}

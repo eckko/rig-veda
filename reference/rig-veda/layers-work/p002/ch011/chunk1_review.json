@@ -1,0 +1,876 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "उन महान् (धाराओं) को",
+"problem": "Bracketed interpretation in Hindi (no noun is stated in the verse).",
+"fix": "उन महतियों को",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "उन महान् (धाराओं) को",
+"new": "उन महतियों को"
+}
+},
+{
+"field": "hindi",
+"where": "हे शूर, वे बहुत थीं",
+"problem": "Hindi turns the apposition pūrvīḥ into a clause with a copula; English has \"the many\".",
+"fix": "हे शूर, उन बहुतों को",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "हे शूर, वे बहुत थीं",
+"new": "हे शूर, उन बहुतों को"
+}
+},
+{
+"field": "english",
+"where": "the dāsa, even",
+"problem": "Glossary: dāsa/dasyu = Dāsa/Dasyu (names).",
+"fix": "the Dāsa, even",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "english",
+"old": "the dāsa, even",
+"new": "the Dāsa, even"
+}
+},
+{
+"field": "gloss",
+"where": "dāsam",
+"problem": "Same.",
+"fix": "the Dāsa",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "word",
+"match_w": "dāsam",
+"field": "gloss",
+"value": "the Dāsa"
+}
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "split",
+"where": "ukthesu",
+"problem": "Spelling error: ṣ missing.",
+"fix": "ukthesu with ṣ (u-k-t-h-e-ṣ-u)",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "word",
+"match_w": "ukthesu",
+"field": "w",
+"value": "uktheṣu"
+}
+},
+{
+"field": "hindi",
+"where": "उज्ज्वल धाराओं के समान",
+"problem": "\"धाराओं\" (streams) is an addition; śubhrāḥ is only \"bright ones\" (English \"like bright ones\"). The Hindi also merges stomeṣu with rudriyeṣu and drops \"and\", while English keeps \"in the praises, O Indra, and in those of Rudra\"; glossary stoma = praise (स्तोम).",
+"fix": "हे शूर, अब उन स्तोत्रों में जिनमें तुमने आनन्द लिया, हे इन्द्र, स्तोमों में और रुद्र-सम्बन्धियों में भी; ये तुम्हारे ही लिए हैं, जिनमें हर्षित होते हुए तुम हो; उज्ज्वलों के समान ये वायु की ओर बह चलती हैं।",
+"severity": "error",
+"patch": {
+"n": "3",
+"op": "set",
+"field": "hindi",
+"value": "हे शूर, अब उन स्तोत्रों में जिनमें तुमने आनन्द लिया, हे इन्द्र, स्तोमों में और रुद्र-सम्बन्धियों में भी; ये तुम्हारे ही लिए हैं, जिनमें हर्षित होते हुए तुम हो; उज्ज्वलों के समान ये वायु की ओर बह चलती हैं।"
+}
+}
+]
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "the dāsa clans",
+"problem": "Glossary: Dāsa (name).",
+"fix": "the Dāsa clans",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "english",
+"old": "the dāsa clans",
+"new": "the Dāsa clans"
+}
+},
+{
+"field": "gloss",
+"where": "dāsīḥ",
+"problem": "Same.",
+"fix": "Dāsa",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "word",
+"match_w": "dāsīḥ",
+"field": "gloss",
+"value": "Dāsa"
+}
+}
+]
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "with your heroism",
+"problem": "Glossary: vīrya = heroic deeds; \"your\" is added.",
+"fix": "with heroic deeds",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "replace",
+"field": "english",
+"old": "with your heroism",
+"new": "with heroic deeds"
+}
+},
+{
+"field": "gloss",
+"where": "vīryeṇa",
+"problem": "Glossary: vīrya = heroic deeds.",
+"fix": "with heroic deeds",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "vīryeṇa",
+"field": "gloss",
+"value": "with heroic deeds"
+}
+},
+{
+"field": "hindi",
+"where": "वीरता से मारा",
+"problem": "Align with heroic deeds (Hindi, avoiding कर्म).",
+"fix": "वीर कृत्यों से मारा",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "replace",
+"field": "hindi",
+"old": "वीरता से मारा",
+"new": "वीर कृत्यों से मारा"
+}
+},
+{
+"field": "english",
+"where": "dwelling there",
+"problem": "\"there\" is not in the text (kṣiyantam).",
+"fix": "dwelling;",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "replace",
+"field": "english",
+"old": "dwelling there;",
+"new": "dwelling;"
+}
+},
+{
+"field": "hindi",
+"where": "वहाँ रहते हुए को",
+"problem": "\"वहाँ\" is not in the text.",
+"fix": "रहते हुए को",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "replace",
+"field": "hindi",
+"old": "वहाँ रहते हुए को",
+"new": "रहते हुए को"
+}
+}
+]
+},
+{
+"n": "6",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "the two bays",
+"problem": "Glossary: harī = the two tawny horses.",
+"fix": "the two tawny horses, the two beacons of the sun",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "replace",
+"field": "english",
+"old": "the two bays",
+"new": "the two tawny horses"
+}
+},
+{
+"field": "gloss",
+"where": "harī",
+"problem": "Glossary.",
+"fix": "the two tawny horses",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "word",
+"match_w": "harī",
+"field": "gloss",
+"value": "the two tawny horses"
+}
+},
+{
+"field": "hindi",
+"where": "हरि (घोड़ों)",
+"problem": "Bracketed gloss in Hindi; use the glossary rendering.",
+"fix": "दोनों भूरे घोड़ों की, सूर्य के दोनों केतुओं की, स्तुति करूँगा",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "replace",
+"field": "hindi",
+"old": "सूर्य के दोनों केतु रूप हरि (घोड़ों) की स्तुति करूँगा",
+"new": "दोनों भूरे घोड़ों की, सूर्य के दोनों केतुओं की, स्तुति करूँगा"
+}
+}
+]
+},
+{
+"n": "7",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "your two bays",
+"problem": "Glossary: harī = the two tawny horses.",
+"fix": "your two tawny horses",
+"severity": "minor",
+"patch": {
+"n": "7",
+"op": "replace",
+"field": "english",
+"old": "your two bays",
+"new": "your two tawny horses"
+}
+},
+{
+"field": "gloss",
+"where": "harī",
+"problem": "Glossary.",
+"fix": "the two tawny horses",
+"severity": "minor",
+"patch": {
+"n": "7",
+"op": "word",
+"match_w": "harī",
+"field": "gloss",
+"value": "the two tawny horses"
+}
+},
+{
+"field": "hindi",
+"where": "तुम्हारे दोनों हरि",
+"problem": "Hindi transliterates harī; use the glossary rendering.",
+"fix": "तुम्हारे दोनों भूरे घोड़े",
+"severity": "minor",
+"patch": {
+"n": "7",
+"op": "replace",
+"field": "hindi",
+"old": "तुम्हारे दोनों हरि",
+"new": "तुम्हारे दोनों भूरे घोड़े"
+}
+}
+]
+},
+{
+"n": "8",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "वह साथ-साथ दौड़ा",
+"problem": "akrān = strode (English \"strode together\"); दौड़ा is \"ran\".",
+"fix": "वह साथ-साथ चला",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "hindi",
+"old": "वह साथ-साथ दौड़ा",
+"new": "वह साथ-साथ चला"
+}
+},
+{
+"field": "hindi",
+"where": "धमनी",
+"problem": "English renders dhamanim as \"stream\"; Hindi transliterates धमनी (artery).",
+"fix": "इन्द्र द्वारा भेजी गई धारा को फैला दिया",
+"severity": "minor",
+"patch": {
+"n": "8",
+"op": "replace",
+"field": "hindi",
+"old": "इन्द्र की भेजी हुई धमनी को फैला दिया",
+"new": "इन्द्र द्वारा भेजी गई धारा को फैला दिया"
+}
+}
+]
+},
+{
+"n": "9",
+"verdict": "ok",
+"issues": []
+},
+{
+"n": "10",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "दबाए हुए (सोम) को पीकर",
+"problem": "Bracketed interpretation; also \"दबाए हुए\" is inconsistent with \"निचोड़े हुए\" used for suta elsewhere.",
+"fix": "निचोड़े हुए को पीकर",
+"severity": "minor",
+"patch": {
+"n": "10",
+"op": "replace",
+"field": "hindi",
+"old": "दबाए हुए (सोम) को पीकर",
+"new": "निचोड़े हुए को पीकर"
+}
+},
+{
+"field": "gram",
+"where": "aroravīt",
+"problem": "The augmented intensive form aroravīt is an imperfect, not an aorist.",
+"fix": "3 sg. impf. intens. √ru",
+"severity": "minor",
+"patch": {
+"n": "10",
+"op": "word",
+"match_w": "aroravīt",
+"field": "gram",
+"value": "3 sg. impf. intens. √ru"
+}
+}
+]
+},
+{
+"n": "11",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "निचोड़े हुए (रस)",
+"problem": "Bracketed interpretation in Hindi.",
+"fix": "हर्ष देने वाले निचोड़े हुए तुम्हें प्रसन्न करें",
+"severity": "minor",
+"patch": {
+"n": "11",
+"op": "replace",
+"field": "hindi",
+"old": "हर्ष देने वाले निचोड़े हुए (रस) तुम्हें",
+"new": "हर्ष देने वाले निचोड़े हुए तुम्हें"
+}
+},
+{
+"field": "gram",
+"where": "āva",
+"problem": "Labelled \"ā-√av\" with a preverb ā, which is not what the printed indramāva requires (āva = 3 sg. perfect of √av; the ā is the perfect augment). Labelled uncertain already.",
+"fix": "3 sg. pf. √av (uncertain)",
+"severity": "minor",
+"patch": {
+"n": "11",
+"op": "word",
+"match_w": "āva",
+"field": "gram",
+"value": "3 sg. pf. √av (uncertain)"
+}
+}
+]
+},
+{
+"n": "12",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "ज्ञानी होकर",
+"problem": "viprāḥ is \"inspired ones\" in English; Hindi says ज्ञानी (learned).",
+"fix": "प्रेरित होकर",
+"severity": "minor",
+"patch": {
+"n": "12",
+"op": "replace",
+"field": "hindi",
+"old": "ज्ञानी होकर",
+"new": "प्रेरित होकर"
+}
+},
+{
+"field": "english",
+"where": "serving rightly",
+"problem": "Glossary: ṛta = order; Hindi has \"ऋत के अनुसार\" but English \"rightly\".",
+"fix": "serving according to order",
+"severity": "minor",
+"patch": {
+"n": "12",
+"op": "replace",
+"field": "english",
+"old": "serving rightly",
+"new": "serving according to order"
+}
+},
+{
+"field": "gloss",
+"where": "ṛtayā",
+"problem": "Align.",
+"fix": "according to order",
+"severity": "minor",
+"patch": {
+"n": "12",
+"op": "word",
+"match_w": "ṛtayā",
+"field": "gloss",
+"value": "according to order"
+}
+},
+{
+"field": "hindi",
+"where": "हम तुरन्त भागी हों",
+"problem": "\"भागी\" (sharers) is an addition and differs from the refrain in verse 1 (\"दान में रहें\"); English \"may we be in your giving\".",
+"fix": "तुम्हारे धन के दान में हम तुरन्त रहें",
+"severity": "minor",
+"patch": {
+"n": "12",
+"op": "replace",
+"field": "hindi",
+"old": "हम तुरन्त भागी हों",
+"new": "हम तुरन्त रहें"
+}
+}
+]
+},
+{
+"n": "13",
+"verdict": "fix",
+"issues": [
+{
+"field": "gloss",
+"where": "te / ta",
+"problem": "The second te is glossed \"those (nom. pl.)\", which makes \"those ... who\" a doubled relative with no support. All three te/ta are most naturally the enclitic \"your/yours\" (te is printed ta before a vowel). English \"May we be yours, those, O Indra, who\" is unnatural. No patch.",
+"fix": "May we be yours, yours, O Indra, who ... by your help ...",
+"severity": "minor"
+},
+{
+"field": "hindi",
+"where": "अत्यन्त बलवान् (धन)",
+"problem": "Bracketed interpretation in Hindi.",
+"fix": "जिस अत्यन्त बलवान् की हमने कामना की है",
+"severity": "minor",
+"patch": {
+"n": "13",
+"op": "replace",
+"field": "hindi",
+"old": "अत्यन्त बलवान् (धन) की",
+"new": "अत्यन्त बलवान् की"
+}
+}
+]
+},
+{
+"n": "14",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "वायु (देव)",
+"problem": "Bracketed gloss in Hindi; English has \"the Vāyus\" (plural).",
+"fix": "वे वायुगण आगे के नेतृत्व की रक्षा करते हैं",
+"severity": "minor",
+"patch": {
+"n": "14",
+"op": "replace",
+"field": "hindi",
+"old": "वे वायु (देव) आगे",
+"new": "वे वायुगण आगे"
+}
+}
+]
+},
+{
+"n": "15",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "you drink the Soma",
+"problem": "pāhi is the imperative (as the gram says), not \"you drink\"; Hindi \"तुमने ... पिया\" is a past tense. Both translations contradict the gram.",
+"fix": "in whom, rejoicing, drink the Soma to satisfaction",
+"severity": "error",
+"patch": {
+"n": "15",
+"op": "replace",
+"field": "english",
+"old": "in whom, rejoicing, you drink the Soma",
+"new": "in whom, rejoicing, drink the Soma"
+}
+},
+{
+"field": "hindi",
+"where": "तुमने तृप्ति से सोम पिया",
+"problem": "Past tense for an imperative.",
+"fix": "जिनमें हर्षित होकर तृप्ति से सोम पियो, दृढ़ता से",
+"severity": "error",
+"patch": {
+"n": "15",
+"op": "replace",
+"field": "hindi",
+"old": "जिनमें हर्षित होकर तुमने तृप्ति से सोम पिया, दृढ़ता से",
+"new": "जिनमें हर्षित होकर तृप्ति से सोम पियो, दृढ़ता से"
+}
+},
+{
+"field": "hindi",
+"where": "हमें युद्धों में भली-भाँति तुमने बढ़ाया",
+"problem": "Hindi makes asmān the object of avardhayaḥ, while English leaves \"Us, well, in battles\" without a verb and the note says asmān has no clear verb. The two must agree. No patch.",
+"fix": "state the same construction in English, Hindi and notes",
+"severity": "minor"
+}
+]
+},
+{
+"n": "16",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "अनुग्रह की कामना करते हैं",
+"problem": "Hindi is an indicative; āvivāsān is glossed and translated as subjunctive \"may seek\".",
+"fix": "अनुग्रह की कामना करें",
+"severity": "minor",
+"patch": {
+"n": "16",
+"op": "replace",
+"field": "hindi",
+"old": "अनुग्रह की कामना करते हैं",
+"new": "अनुग्रह की कामना करें"
+}
+},
+{
+"field": "english",
+"where": "with hymns; ... vā",
+"problem": "The word vā (gloss \"or\") has no rendering in English or Hindi (Hindi has \"अथवा\" hanging between hymns and favour). No patch.",
+"fix": "render vā in both or explain in the notes",
+"severity": "minor"
+}
+]
+},
+{
+"n": "17",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "with the two bays",
+"problem": "Glossary: harī = the two tawny horses.",
+"fix": "with the two tawny horses",
+"severity": "minor",
+"patch": {
+"n": "17",
+"op": "replace",
+"field": "english",
+"old": "with the two bays",
+"new": "with the two tawny horses"
+}
+},
+{
+"field": "gloss",
+"where": "haribhyām",
+"problem": "Glossary.",
+"fix": "with the two tawny horses",
+"severity": "minor",
+"patch": {
+"n": "17",
+"op": "word",
+"match_w": "haribhyām",
+"field": "gloss",
+"value": "with the two tawny horses"
+}
+},
+{
+"field": "hindi",
+"where": "दोनों हरि (घोड़ों) के साथ",
+"problem": "Bracketed gloss in Hindi.",
+"fix": "दोनों भूरे घोड़ों के साथ",
+"severity": "minor",
+"patch": {
+"n": "17",
+"op": "replace",
+"field": "hindi",
+"old": "दोनों हरि (घोड़ों) के साथ",
+"new": "दोनों भूरे घोड़ों के साथ"
+}
+}
+]
+},
+{
+"n": "18",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "the dasyu",
+"problem": "Glossary: Dasyu (name).",
+"fix": "the Dasyu was set down",
+"severity": "minor",
+"patch": {
+"n": "18",
+"op": "replace",
+"field": "english",
+"old": "the dasyu was set down",
+"new": "the Dasyu was set down"
+}
+},
+{
+"field": "gloss",
+"where": "dasyuḥ",
+"problem": "Same.",
+"fix": "the Dasyu",
+"severity": "minor",
+"patch": {
+"n": "18",
+"op": "word",
+"match_w": "dasyuḥ",
+"field": "gloss",
+"value": "the Dasyu"
+}
+},
+{
+"field": "gram",
+"where": "abhinat",
+"problem": "Labelled \"you split, 2 sg.\" here but \"split, 3 sg.\" in unit 2, with the same form; for the root-class verb the 2 sg. would be abhinaḥ, so abhinat is 3 sg. (Vedic person shift within the address). No patch: decide once and apply to both units.",
+"fix": "3 sg. in both units, with the shift noted",
+"severity": "minor"
+},
+{
+"field": "english",
+"where": "Vṛtra, Dānu, Aurṇavābha",
+"problem": "Presented as three separate victims; dānum aurṇavābham may be one adversary (\"Dānu Aurṇavābha\"). A count taken as fact. No patch.",
+"fix": "keep the list but state in notes that dānum aurṇavābham could be one name",
+"severity": "minor"
+}
+]
+},
+{
+"n": "19",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "the dasyus",
+"problem": "Glossary: Dasyu (name).",
+"fix": "the Dasyus",
+"severity": "minor",
+"patch": {
+"n": "19",
+"op": "replace",
+"field": "english",
+"old": "the dasyus. For us",
+"new": "the Dasyus. For us"
+}
+},
+{
+"field": "gloss",
+"where": "dasyūn",
+"problem": "Same.",
+"fix": "the Dasyus",
+"severity": "minor",
+"patch": {
+"n": "19",
+"op": "word",
+"match_w": "dasyūn",
+"field": "gloss",
+"value": "the Dasyus"
+}
+}
+]
+},
+{
+"n": "20",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "On this exhilarating (drink) of Trita being pressed",
+"problem": "Bracketed interpretation \"(drink)\" in English; the genitives are not tied to a drink in the text.",
+"fix": "Of this one being pressed, the exhilarating, of Trita, ...",
+"severity": "minor",
+"patch": {
+"n": "20",
+"op": "replace",
+"field": "english",
+"old": "On this exhilarating (drink) of Trita being pressed",
+"new": "Of this one being pressed, the exhilarating, of Trita"
+}
+},
+{
+"field": "hindi",
+"where": "हर्ष देने वाले के (रस पर)",
+"problem": "Bracketed interpretation in Hindi.",
+"fix": "हर्ष देने वाले के, त्रित के",
+"severity": "minor",
+"patch": {
+"n": "20",
+"op": "replace",
+"field": "hindi",
+"old": "हर्ष देने वाले के (रस पर), त्रित के",
+"new": "हर्ष देने वाले के, त्रित के"
+}
+},
+{
+"field": "english",
+"where": "He rolled it",
+"problem": "The note says \"it\" is not in the Sanskrit, but English supplies \"it\" unbracketed.",
+"fix": "He rolled, like the sun a wheel,",
+"severity": "minor",
+"patch": {
+"n": "20",
+"op": "replace",
+"field": "english",
+"old": "He rolled it like the sun a wheel",
+"new": "He rolled, like the sun a wheel,"
+}
+}
+]
+},
+{
+"n": "21",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "according to his choice",
+"problem": "\"his\" is not in the text (prati varam); Hindi \"उसकी\" likewise.",
+"fix": "according to choice",
+"severity": "minor",
+"patch": {
+"n": "21",
+"op": "replace",
+"field": "english",
+"old": "according to his choice",
+"new": "according to choice"
+}
+},
+{
+"field": "hindi",
+"where": "उसकी इच्छा के अनुसार",
+"problem": "Same.",
+"fix": "इच्छा के अनुसार",
+"severity": "minor",
+"patch": {
+"n": "21",
+"op": "replace",
+"field": "hindi",
+"old": "उसकी इच्छा के अनुसार",
+"new": "इच्छा के अनुसार"
+}
+}
+]
+},
+{
+"n": "22",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "May we speak loudly in the rite, rich in heroes.",
+"problem": "Glossary: bṛhad vadema vidathe suvīrāḥ = \"may we, rich in heroes, speak greatly in the rite\" (one wording in every refrain).",
+"fix": "May we, rich in heroes, speak greatly in the rite.",
+"severity": "minor",
+"patch": {
+"n": "22",
+"op": "replace",
+"field": "english",
+"old": "May we speak loudly in the rite, rich in heroes.",
+"new": "May we, rich in heroes, speak greatly in the rite."
+}
+},
+{
+"field": "hindi",
+"where": "ऊँचे स्वर से बोलें",
+"problem": "Same refrain wording.",
+"fix": "हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।",
+"severity": "minor",
+"patch": {
+"n": "22",
+"op": "replace",
+"field": "hindi",
+"old": "हम यज्ञ में उत्तम वीरों से युक्त होकर ऊँचे स्वर से बोलें।",
+"new": "हम उत्तम वीरों से युक्त होकर यज्ञ में महान् रूप से बोलें।"
+}
+},
+{
+"field": "gloss",
+"where": "bṛhat",
+"problem": "Same refrain wording.",
+"fix": "greatly",
+"severity": "minor",
+"patch": {
+"n": "22",
+"op": "word",
+"match_w": "bṛhat",
+"field": "gloss",
+"value": "greatly"
+}
+},
+{
+"field": "notes",
+"where": "bṛhat is read adverbially 'loudly'",
+"problem": "Same.",
+"fix": "bṛhat is read adverbially 'greatly'",
+"severity": "minor",
+"patch": {
+"n": "22",
+"op": "replace",
+"field": "notes",
+"old": "bṛhat is read adverbially 'loudly'",
+"new": "bṛhat is read adverbially 'greatly'"
+}
+},
+{
+"field": "english",
+"where": "may Bhaga not burn past us",
+"problem": "The glossary gives the same refrain line (2.16-19 verse 9) as bhaga = share (not the god), mā ati dhak = \"do not burn beyond\"; but the same glossary lists Bhaga among names that stay names. Draft takes the god. Needs a decision, applied to all occurrences of this line. No patch.",
+"fix": "keep consistent with the glossary decision on bhaga in this refrain",
+"severity": "minor"
+}
+]
+}
+],
+"summary": "Reviewed 22 units. Errors: unit 3 Hindi adds 'धाराओं' and merges stomeṣu with rudriyeṣu; unit 15 translates the imperative pāhi as 'you drink' (English) and past tense (Hindi). Recurring minor: bracketed glosses in Hindi (units 2, 10, 11, 13, 14, 17, 20) and English (unit 20); harī rendered 'bays' against the glossary (units 6, 7, 17); dāsa/dasyu not capitalised (units 2, 4, 18, 19); vīrya, ṛta, refrain wording (unit 22) off the glossary; ukthesu missing ṣ (unit 3). No regrouping suggested."
+}

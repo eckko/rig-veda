@@ -1,0 +1,235 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "अविनाशी व्रत वाला",
+"problem": "adabdha = unharmed (English \"unharmed\", and unit 6 Hindi अहिंसित); अविनाशी (imperishable) is a different sense.",
+"fix": "अहिंसित व्रत वाला",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "replace",
+"field": "hindi",
+"old": "अविनाशी व्रत वाला",
+"new": "अहिंसित व्रत वाला"
+}
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "the envoy",
+"problem": "Glossary: dūta = messenger.",
+"fix": "the messenger",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "english",
+"old": "the envoy",
+"new": "the messenger"
+}
+},
+{
+"field": "gloss",
+"where": "dūtaḥ",
+"problem": "Glossary: dūta = messenger.",
+"fix": "messenger",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "word",
+"match_w": "dūtaḥ",
+"field": "gloss",
+"value": "messenger"
+}
+},
+{
+"field": "english",
+"where": "the leader to the better",
+"problem": "Glossary: vasyas = better fortune.",
+"fix": "the leader to better fortune",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "english",
+"old": "the leader to the better",
+"new": "the leader to better fortune"
+}
+},
+{
+"field": "gloss",
+"where": "vasyaḥ",
+"problem": "Glossary: vasyas = better fortune.",
+"fix": "better fortune",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "word",
+"match_w": "vasyaḥ",
+"field": "gloss",
+"value": "better fortune"
+}
+},
+{
+"field": "hindi",
+"where": "श्रेष्ठतर की ओर",
+"problem": "Align with vasyas = better fortune.",
+"fix": "बेहतर सौभाग्य की ओर",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "श्रेष्ठतर की ओर",
+"new": "बेहतर सौभाग्य की ओर"
+}
+},
+{
+"field": "hindi",
+"where": "तुम ही हमारे रक्षक",
+"problem": "\"ही\" (emphasis) is added; English has \"also\" (u).",
+"fix": "तुम भी हमारे रक्षक",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "hindi",
+"old": "तुम ही हमारे रक्षक",
+"new": "तुम भी हमारे रक्षक"
+}
+},
+{
+"field": "english",
+"where": "of our child, of our offspring, of our selves",
+"problem": "tane is labelled dat. but all three are rendered as genitives; Hindi renders tanūnām as शरीरों (bodies), English as \"selves\", gloss says both. The three do not agree.",
+"fix": "pick one rendering of tanū- for English, Hindi and gloss, and state the case of tane in the note",
+"severity": "minor"
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "स्तोत्रों से उपासना",
+"problem": "Glossary: stoma = praise (स्तोम); stomaiḥ is rendered \"with praises\" in English.",
+"fix": "हम निम्नतर सहस्थान में स्तोमों से उपासना करें",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "स्तोत्रों से उपासना",
+"new": "स्तोमों से उपासना"
+}
+},
+{
+"field": "hindi",
+"where": "आहुतियाँ अर्पित",
+"problem": "Glossary: havis = oblation (हवि); English has \"oblations\".",
+"fix": "हवियाँ अर्पित की जाती हैं",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "replace",
+"field": "hindi",
+"old": "आहुतियाँ अर्पित",
+"new": "हवियाँ अर्पित"
+}
+},
+{
+"field": "notes",
+"where": "yaje taṃ",
+"problem": "tam (m. acc.) can equally refer to Agni (\"I worship you\"); the draft fixes it to the source (yoni) without saying the alternative.",
+"fix": "add the alternative to the note",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "append_note",
+"text": "tam is masculine accusative and could also be Agni himself ('I worship him'); the translation takes it as the source (yoni)."
+}
+}
+]
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "best worshipper",
+"problem": "yajīyān is a comparative (\"better at worshipping\"); Hindi adds \"बनकर\" and श्रेष्ठ; the English \"best\" and the gram \"compar.\" disagree. No patch: needs a decision.",
+"fix": "as the better worshipper (and Hindi श्रेष्ठतर)",
+"severity": "minor"
+},
+{
+"field": "english",
+"where": "lord of wealth of riches",
+"problem": "rayi-patiḥ rayīṇām is rendered with \"wealth\" and \"riches\" for the same word rayi, a doubling in English and Hindi (धनपति ... धनों).",
+"fix": "the lord of riches",
+"severity": "minor"
+}
+]
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "अपने स्तोता को",
+"problem": "\"अपने\" is not in the text (jaritāram only).",
+"fix": "स्तोता को",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "replace",
+"field": "hindi",
+"old": "अपने स्तोता को",
+"new": "स्तोता को"
+}
+}
+]
+},
+{
+"n": "6",
+"verdict": "fix",
+"issues": [
+{
+"field": "split",
+"where": "saḥ + inaḥ + anīkena",
+"problem": "Sandhi does not fit: saḥ + inaḥ + anīkena would give sa ino 'nīkena. The printed sainānīkena (ai ... ā) points to sa + ena(ā) + anīkena (a+e = ai; ā+a = ā), \"he, with this host\". \"inaḥ\" (mighty one) is invented; the English and Hindi \"the mighty one / शक्तिशाली\" rest on it. No patch because the replacement form (ena / enā) needs a decision.",
+"fix": "saḥ [he] + enā [with this, inst. pron.] + anīkena [with the host]; English \"He, with this host\"; Hindi \"वह इस सेना के साथ\"",
+"severity": "error"
+},
+{
+"field": "hindi",
+"where": "यजन करने वाला है;",
+"problem": "Hindi supplies a copula \"है\" that English does not and the note does not mention (svasti has no verb).",
+"fix": "... सर्वश्रेष्ठ यजन करने वाला; कल्याण के लिए।",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "replace",
+"field": "hindi",
+"old": "यजन करने वाला है; कल्याण",
+"new": "यजन करने वाला; कल्याण"
+}
+}
+]
+}
+],
+"summary": "Reviewed 6 units. Error: unit 6 split (saḥ + inaḥ + anīkena does not match the printed sainānīkena; expect saḥ + ena/enā + anīkena) with invented 'mighty one'. Minor: glossary deviations (dūta = messenger, vasyas = better fortune, stoma/havis in Hindi), small Hindi additions (ही, अपने, बनकर), unit 4 doubling of rayi. No regrouping suggested."
+}

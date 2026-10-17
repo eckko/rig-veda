@@ -1,0 +1,355 @@
+{
+"units": [
+{
+"n": "1",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "योगों (जुती हुई टोलियों) ... जो अत्यन्त यशस्वी और उदार हैं",
+"problem": "Bracketed gloss in Hindi (not allowed); also the relative clause \"जो ... हैं\" attaches to the chariots/teams, whereas yaśastamasya mīḻhuṣaḥ are genitives agreeing with agneḥ (as English and the note say).",
+"fix": "पुरस्कार की कामना करने वाले के समान अब रथों की, टोलियों की स्तुति करो, अत्यन्त यशस्वी, उदार अग्नि के।",
+"severity": "minor",
+"patch": {
+"n": "1",
+"op": "replace",
+"field": "hindi",
+"old": "अब अग्नि के रथों की, योगों (जुती हुई टोलियों) की स्तुति करो, जो अत्यन्त यशस्वी और उदार हैं।",
+"new": "अब रथों की, टोलियों की स्तुति करो, अत्यन्त यशस्वी, उदार अग्नि के।"
+}
+}
+]
+},
+{
+"n": "2",
+"verdict": "fix",
+"issues": [
+{
+"field": "english",
+"where": "offered to",
+"problem": "\"offered to\" is not a complete rendering of āhutaḥ (ā-√hu, ppp.).",
+"fix": "to whom offering is made",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "english",
+"old": "fair-faced, offered to.",
+"new": "fair-faced, to whom offering is made."
+}
+},
+{
+"field": "gloss",
+"where": "āhutaḥ",
+"problem": "Same as above.",
+"fix": "to whom offering is made",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "word",
+"match_w": "āhutaḥ",
+"field": "gloss",
+"value": "to whom offering is made"
+}
+},
+{
+"field": "notes",
+"where": "āhutaḥ could also be rendered 'invoked'",
+"problem": "The printed vowel is short (āhutaḥ, ā-√hu); \"invoked\" belongs to āhūta (ā-√hve) with a long ū, which is not the printed form.",
+"fix": "āhutaḥ (short u) is from ā-√hu \"pour in, offer\"; \"invoked\" would need āhūtaḥ.",
+"severity": "minor",
+"patch": {
+"n": "2",
+"op": "replace",
+"field": "notes",
+"old": "āhutaḥ could also be rendered 'invoked'.",
+"new": "āhutaḥ (short u) is from ā-√hu 'pour in, offer'; 'invoked' would need āhūtaḥ."
+}
+}
+]
+},
+{
+"n": "3",
+"verdict": "fix",
+"issues": [
+{
+"field": "gram",
+"where": "dameṣu",
+"problem": "dama (house) is masculine in the Ṛgveda, not neuter.",
+"fix": "m. loc. pl.",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "word",
+"match_w": "dameṣu",
+"field": "gram",
+"value": "m. loc. pl."
+}
+},
+{
+"field": "gram",
+"where": "praśasyate",
+"problem": "Tense missing.",
+"fix": "3 sg. pres. pass. pra-√śaṃs",
+"severity": "minor",
+"patch": {
+"n": "3",
+"op": "word",
+"match_w": "praśasyate",
+"field": "gram",
+"value": "3 sg. pres. pass. pra-√śaṃs"
+}
+}
+]
+},
+{
+"n": "4",
+"verdict": "fix",
+"issues": [
+{
+"field": "hindi",
+"where": "अजर (शिखाओं) को सजाता हुआ / विचित्र (तेजस्वी)",
+"problem": "Two bracketed interpretations in the Hindi; \"अजर (शिखाओं) को\" is accusative while ajaraiḥ is instrumental (English has \"with\"); \"अपनी किरण\" and \"सूर्य\" do not follow the glossary or add \"अपनी\".",
+"fix": "जो स्वर्ग के प्रकाश के समान तेज से प्रकट होकर चमकता है, उज्ज्वल, ज्वाला से, अजरों से सजता हुआ।",
+"severity": "error",
+"patch": {
+"n": "4",
+"op": "set",
+"field": "hindi",
+"value": "जो स्वर्ग के प्रकाश के समान तेज से प्रकट होकर चमकता है, उज्ज्वल, ज्वाला से, अजरों से सजता हुआ।"
+}
+},
+{
+"field": "english",
+"where": "like the sun with his light, bright, with his flame",
+"problem": "Glossary: svar = (heaven's) light, not \"sun\"; \"his\" is not in the text.",
+"fix": "like heaven's light with radiance, bright, with flame",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "replace",
+"field": "english",
+"old": "like the sun with his light, bright, with his flame",
+"new": "like heaven's light with radiance, bright, with flame"
+}
+},
+{
+"field": "gloss",
+"where": "svaḥ",
+"problem": "Glossary: svar = (heaven's) light.",
+"fix": "heaven's light",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "word",
+"match_w": "svaḥ",
+"field": "gloss",
+"value": "heaven's light"
+}
+},
+{
+"field": "gloss",
+"where": "bhānunā",
+"problem": "Align with the English \"with radiance\".",
+"fix": "with radiance",
+"severity": "minor",
+"patch": {
+"n": "4",
+"op": "word",
+"match_w": "bhānunā",
+"field": "gloss",
+"value": "with radiance"
+}
+},
+{
+"field": "text_flags",
+"where": "sva1rṇa",
+"problem": "The digit 1 is not a stray mark: it is the Vaidika notation for the independent svarita on a vowel resolved from kṣaipra (svar read suvar); the flag text calls it both \"stray\" and \"independent svarita\". Nothing is misprinted, so no correction svarṇa is needed.",
+"fix": "drop the flag or reword it as \"notation, not a typo\"",
+"severity": "minor"
+}
+]
+},
+{
+"n": "5",
+"verdict": "fix",
+"issues": [
+{
+"field": "split",
+"where": "atri-vat + nu",
+"problem": "Invented analysis. The printed text is atrim anu (Devanagari अत्रिमनु): atrim = Atri (acc.), anu = after/along. \"atri-vat\" is not in the text and there is no \"nu\" to account for the final u.",
+"fix": "atrim (m. acc. sg., Atri) + anu (ind., after)",
+"severity": "error"
+},
+{
+"field": "gloss",
+"where": "atri-vat",
+"problem": "See split.",
+"fix": "Atri",
+"severity": "error",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "atri-vat",
+"field": "gloss",
+"value": "Atri"
+}
+},
+{
+"field": "gram",
+"where": "atri-vat",
+"problem": "See split.",
+"fix": "m. acc. sg.",
+"severity": "error",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "atri-vat",
+"field": "gram",
+"value": "m. acc. sg."
+}
+},
+{
+"field": "split",
+"where": "atri-vat",
+"problem": "See split.",
+"fix": "atrim",
+"severity": "error",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "atri-vat",
+"field": "w",
+"value": "atrim"
+}
+},
+{
+"field": "gloss",
+"where": "nu",
+"problem": "See split.",
+"fix": "after",
+"severity": "error",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "nu",
+"field": "gloss",
+"value": "after"
+}
+},
+{
+"field": "gram",
+"where": "nu",
+"problem": "See split.",
+"fix": "ind. (with acc.)",
+"severity": "error",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "nu",
+"field": "gram",
+"value": "ind. (with acc.)"
+}
+},
+{
+"field": "split",
+"where": "nu",
+"problem": "See split.",
+"fix": "anu",
+"severity": "error",
+"patch": {
+"n": "5",
+"op": "word",
+"match_w": "nu",
+"field": "w",
+"value": "anu"
+}
+},
+{
+"field": "english",
+"where": "Like Atri, now,",
+"problem": "Follows the invented split.",
+"fix": "After Atri,",
+"severity": "error",
+"patch": {
+"n": "5",
+"op": "replace",
+"field": "english",
+"old": "Like Atri, now,",
+"new": "After Atri,"
+}
+},
+{
+"field": "hindi",
+"where": "अत्रि के समान अब",
+"problem": "Follows the invented split.",
+"fix": "अत्रि के पीछे",
+"severity": "error",
+"patch": {
+"n": "5",
+"op": "replace",
+"field": "hindi",
+"old": "अत्रि के समान अब",
+"new": "अत्रि के पीछे"
+}
+},
+{
+"field": "text_flags",
+"where": "atri̱manṷ",
+"problem": "The flag claims the printed form is \"not a recognisable word\" and suggests the invented \"atrivan nu\". The printed atrim anu is regular; there is no typo.",
+"fix": "remove the flag",
+"severity": "error"
+},
+{
+"field": "notes",
+"where": "the reading 'like Atri, now' is tentative",
+"problem": "Note repeats the wrong reading.",
+"fix": "atrim anu: 'after Atri' (anu with the accusative atrim); the printed text is sound.",
+"severity": "minor",
+"patch": {
+"n": "5",
+"op": "replace",
+"field": "notes",
+"old": "The first token is doubtful and the reading 'like Atri, now' is tentative.",
+"new": "atrim anu: 'after Atri' (anu with the accusative atrim); the printed text is sound, and the sense of the phrase is still tentative."
+}
+}
+]
+},
+{
+"n": "6",
+"verdict": "fix",
+"issues": [
+{
+"field": "gram",
+"where": "ariṣyantaḥ",
+"problem": "ariṣyant is the future participle (a-√riṣ, \"not about to be harmed\"), not a present participle.",
+"fix": "m. nom. pl. fut. part. a-√riṣ",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "word",
+"match_w": "ariṣyantaḥ",
+"field": "gram",
+"value": "m. nom. pl. fut. part. a-√riṣ"
+}
+},
+{
+"field": "gram",
+"where": "vayam",
+"problem": "Gender-neutral pronoun, label incomplete.",
+"fix": "nom. pl. pron. (1st person)",
+"severity": "minor",
+"patch": {
+"n": "6",
+"op": "word",
+"match_w": "vayam",
+"field": "gram",
+"value": "nom. pl. pron. (1st person)"
+}
+}
+]
+}
+],
+"summary": "Reviewed 6 units. Errors: unit 4 (Hindi bracketed glosses and an accusative for an instrumental), unit 5 (invented split atri-vat + nu; the printed atrim anu is regular, and the text flag proposing 'atrivan nu' is baseless). Recurring minor: bracketed glosses in Hindi, svar rendered 'sun' against the glossary, wrong gender for dama, ariṣyant labelled present. No regrouping suggested."
+}
