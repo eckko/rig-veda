@@ -1,0 +1,175 @@
+{
+ "units": [
+  {
+   "n": "1",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "hindi",
+     "where": "सोम कूटने के पत्थर",
+     "problem": "'Soma' is added; the English and the line have only grāvāṇā 'pressing stones'.",
+     "fix": "जैसे दो निचोड़ने के पत्थर",
+     "severity": "minor",
+     "patch": {
+      "n": "1",
+      "op": "replace",
+      "field": "hindi",
+      "old": "जैसे दो सोम कूटने के पत्थर",
+      "new": "जैसे दो निचोड़ने के पत्थर"
+     }
+    },
+    {
+     "field": "english",
+     "where": "reciting hymns",
+     "problem": "ukthaśāsā: English renders uktha as 'hymns' (the glossary's word for manman/gir) while the Hindi keeps 'उक्थ'. Inconsistent; needs a glossary entry for uktha. No patch.",
+     "fix": "glossary decision (uktha)",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "2",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "knowing skill",
+     "problem": "Glossary fixes kratu = resolve (संकल्प); draft uses 'skill' in English, Hindi and gloss.",
+     "fix": "a married pair knowing resolve among the people",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "english",
+      "old": "knowing skill among",
+      "new": "knowing resolve among"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "कर्मकौशल जानने वाले",
+     "problem": "Same deviation from kratu = संकल्प.",
+     "fix": "संकल्प जानने वाले",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "replace",
+      "field": "hindi",
+      "old": "कर्मकौशल जानने वाले",
+      "new": "संकल्प जानने वाले"
+     }
+    },
+    {
+     "field": "gloss",
+     "where": "kratu-vidā",
+     "problem": "Same deviation.",
+     "fix": "knowing resolve",
+     "severity": "minor",
+     "patch": {
+      "n": "2",
+      "op": "word",
+      "match_w": "kratu-vidā",
+      "field": "gloss",
+      "value": "knowing resolve"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "अभीष्ट के पास जाते हो",
+     "problem": "English 'attend the boon' (√sac, accompany) is rendered in Hindi as 'go to what is desired': the verb sense and the word vara (boon, not अभीष्ट) differ. The notes flag the phrase as tentative. Suggest Hindi follow the English more closely. No patch.",
+     "fix": "तुम दोनों वर का साथ देते हो",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "n": "3",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "4",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "5",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "6",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "be so for us",
+     "problem": "'so' is supplied and not in bhūtam asme; the notes acknowledge a supplied complement, but the translation should not add words.",
+     "fix": "be for us",
+     "severity": "minor",
+     "patch": {
+      "n": "6",
+      "op": "replace",
+      "field": "english",
+      "old": "be so for us",
+      "new": "be for us"
+     }
+    }
+   ]
+  },
+  {
+   "n": "7",
+   "verdict": "ok",
+   "issues": []
+  },
+  {
+   "n": "8",
+   "verdict": "fix",
+   "issues": [
+    {
+     "field": "english",
+     "where": "may we speak greatly in the rite, rich in heroes",
+     "problem": "Glossary fixes one wording for the refrain: 'may we, rich in heroes, speak greatly in the rite'.",
+     "fix": "may we, rich in heroes, speak greatly in the rite",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "english",
+      "old": "may we speak greatly in the rite, rich in heroes",
+      "new": "may we, rich in heroes, speak greatly in the rite"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "ऊँचे स्वर में बोलें",
+     "problem": "Hindi 'in a loud voice' does not match English 'greatly' (bṛhat); the refrain should be uniform.",
+     "fix": "हम, उत्तम वीरों से युक्त, यज्ञ में महान् रूप से बोलें",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हम यज्ञ में उत्तम वीरों से युक्त होकर ऊँचे स्वर में बोलें",
+      "new": "हम, उत्तम वीरों से युक्त, यज्ञ में महान् रूप से बोलें"
+     }
+    },
+    {
+     "field": "hindi",
+     "where": "हे वीरो",
+     "problem": "narā is 'O men' (English and gloss); 'वीर' is the glossary rendering of vīra, a different word.",
+     "fix": "हे नरो",
+     "severity": "minor",
+     "patch": {
+      "n": "8",
+      "op": "replace",
+      "field": "hindi",
+      "old": "हे वीरो, उनका",
+      "new": "हे नरो, उनका"
+     }
+    }
+   ]
+  }
+ ],
+ "summary": "Reviewed 8 units. 0 error, 10 minor (8 with machine patches). Main points: kratu rendered 'skill' against the glossary (unit 2), the refrain wording and Hindi 'ऊँचे स्वर में' in unit 8, Hindi 'सोम' added in unit 1, 'be so for us' in unit 6, uktha needs a glossary entry. Units 3, 4, 5, 7 ok (low-confidence simile verses are honestly marked). No regrouping suggested."
+}
