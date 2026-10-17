@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.051.1a",
+   "007.051.1b"
+  ],
+  "lines_deva": [
+   "आ॒दि॒त्याना॒मव॑सा॒ नूत॑नेन सक्षी॒महि॒ शर्म॑णा॒ शंत॑मेन",
+   "अ॒ना॒गा॒स्त्वे अ॑दिति॒त्वे तु॒रास॑ इ॒मं य॒ज्ञं द॑धतु॒ श्रोष॑माणाः"
+  ],
+  "lines_iast": [
+   "ā̱di̱tyānā̱mava̭sā̱ nūta̭nena sakṣī̱mahi̱ śarma̭ṇā̱ śaṃta̭mena",
+   "a̱nā̱gā̱stve a̭diti̱tve tu̱rāsa̭ i̱maṃ ya̱jñaṃ da̭dhatu̱ śroṣa̭māṇāḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.051.2a",
+   "007.051.2b"
+  ],
+  "lines_deva": [
+   "आ॒दि॒त्यासो॒ अदि॑तिर्मादयन्तां मि॒त्रो अ॑र्य॒मा वरु॑णो॒ रजि॑ष्ठाः",
+   "अ॒स्माकं॑ सन्तु॒ भुव॑नस्य गो॒पाः पिब॑न्तु॒ सोम॒मव॑से नो अ॒द्य"
+  ],
+  "lines_iast": [
+   "ā̱di̱tyāso̱ adi̭tirmādayantāṃ mi̱tro a̭rya̱mā varṷṇo̱ raji̭ṣṭhāḥ",
+   "a̱smāka̭ṃ santu̱ bhuva̭nasya go̱pāḥ piba̭ntu̱ soma̱mava̭se no a̱dya"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.051.3a",
+   "007.051.3b"
+  ],
+  "lines_deva": [
+   "आ॒दि॒त्या विश्वे॑ म॒रुत॑श्च॒ विश्वे॑ दे॒वाश्च॒ विश्व॑ ऋ॒भव॑श्च॒ विश्वे॑",
+   "इन्द्रो॑ अ॒ग्निर॒श्विना॑ तुष्टुवा॒ना यू॒यं पा॑त स्व॒स्तिभि॒: सदा॑ नः"
+  ],
+  "lines_iast": [
+   "ā̱di̱tyā viśvḙ ma̱ruta̭śca̱ viśvḙ de̱vāśca̱ viśva̭ ṛ̱bhava̭śca̱ viśvḙ",
+   "indro̭ a̱gnira̱śvinā̭ tuṣṭuvā̱nā yū̱yaṃ pā̭ta sva̱stibhi̱: sadā̭ naḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

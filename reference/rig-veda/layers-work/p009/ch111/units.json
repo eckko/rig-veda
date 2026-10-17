@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "009.111.1a",
+   "009.111.1b"
+  ],
+  "lines_deva": [
+   "अ॒या रु॒चा हरि॑ण्या पुना॒नो विश्वा॒ द्वेषां॑सि तरति स्व॒युग्व॑भि॒: सूरो॒ न स्व॒युग्व॑भिः",
+   "धारा॑ सु॒तस्य॑ रोचते पुना॒नो अ॑रु॒षो हरि॑: । विश्वा॒ यद्रू॒पा प॑रि॒यात्यृक्व॑भिः स॒प्तास्ये॑भि॒ॠक्व॑भिः"
+  ],
+  "lines_iast": [
+   "a̱yā ru̱cā hari̭ṇyā punā̱no viśvā̱ dveṣā̭ṃsi tarati sva̱yugva̭bhi̱: sūro̱ na sva̱yugva̭bhiḥ",
+   "dhārā̭ su̱tasya̭ rocate punā̱no a̭ru̱ṣo hari̭: | viśvā̱ yadrū̱pā pa̭ri̱yātyṛkva̭bhiḥ sa̱ptāsyḙbhi̱ṝkva̭bhiḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "009.111.2a",
+   "009.111.2b"
+  ],
+  "lines_deva": [
+   "त्वं त्यत्प॑णी॒नां वि॑दो॒ वसु॒ सं मा॒तृभि॑र्मर्जयसि॒ स्व आ दम॑ ऋ॒तस्य॑ धी॒तिभि॒र्दमे॑",
+   "प॒रा॒वतो॒ न साम॒ तद्यत्रा॒ रण॑न्ति धी॒तय॑: । त्रि॒धातु॑भि॒ररु॑षीभि॒र्वयो॑ दधे॒ रोच॑मानो॒ वयो॑ दधे"
+  ],
+  "lines_iast": [
+   "tvaṃ tyatpa̭ṇī̱nāṃ vi̭do̱ vasu̱ saṃ mā̱tṛbhi̭rmarjayasi̱ sva ā dama̭ ṛ̱tasya̭ dhī̱tibhi̱rdamḙ",
+   "pa̱rā̱vato̱ na sāma̱ tadyatrā̱ raṇa̭nti dhī̱taya̭: | tri̱dhātṷbhi̱rarṷṣībhi̱rvayo̭ dadhe̱ roca̭māno̱ vayo̭ dadhe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "009.111.3a",
+   "009.111.3b"
+  ],
+  "lines_deva": [
+   "पूर्वा॒मनु॑ प्र॒दिशं॑ याति॒ चेकि॑त॒त्सं र॒श्मिभि॑र्यतते दर्श॒तो रथो॒ दैव्यो॑ दर्श॒तो रथ॑:",
+   "अग्म॑न्नु॒क्थानि॒ पौंस्येन्द्रं॒ जैत्रा॑य हर्षयन् । वज्र॑श्च॒ यद्भव॑थो॒ अन॑पच्युता स॒मत्स्वन॑पच्युता"
+  ],
+  "lines_iast": [
+   "pūrvā̱manṷ pra̱diśa̭ṃ yāti̱ ceki̭ta̱tsaṃ ra̱śmibhi̭ryatate darśa̱to ratho̱ daivyo̭ darśa̱to ratha̭:",
+   "agma̭nnu̱kthāni̱ pauṃsyendra̱ṃ jaitrā̭ya harṣayan | vajra̭śca̱ yadbhava̭tho̱ ana̭pacyutā sa̱matsvana̭pacyutā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

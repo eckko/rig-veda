@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.098.1a",
+   "001.098.1b"
+  ],
+  "lines_deva": [
+   "वै॒श्वा॒न॒रस्य॑ सुम॒तौ स्या॑म॒ राजा॒ हि कं॒ भुव॑नानामभि॒श्रीः",
+   "इ॒तो जा॒तो विश्व॑मि॒दं वि च॑ष्टे वैश्वान॒रो य॑तते॒ सूर्ये॑ण"
+  ],
+  "lines_iast": [
+   "vai̱śvā̱na̱rasya̭ suma̱tau syā̭ma̱ rājā̱ hi ka̱ṃ bhuva̭nānāmabhi̱śrīḥ",
+   "i̱to jā̱to viśva̭mi̱daṃ vi ca̭ṣṭe vaiśvāna̱ro ya̭tate̱ sūryḙṇa"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.098.2a",
+   "001.098.2b"
+  ],
+  "lines_deva": [
+   "पृ॒ष्टो दि॒वि पृ॒ष्टो अ॒ग्निः पृ॑थि॒व्यां पृ॒ष्टो विश्वा॒ ओष॑धी॒रा वि॑वेश",
+   "वै॒श्वा॒न॒रः सह॑सा पृ॒ष्टो अ॒ग्निः स नो॒ दिवा॒ स रि॒षः पा॑तु॒ नक्त॑म्"
+  ],
+  "lines_iast": [
+   "pṛ̱ṣṭo di̱vi pṛ̱ṣṭo a̱gniḥ pṛ̭thi̱vyāṃ pṛ̱ṣṭo viśvā̱ oṣa̭dhī̱rā vi̭veśa",
+   "vai̱śvā̱na̱raḥ saha̭sā pṛ̱ṣṭo a̱gniḥ sa no̱ divā̱ sa ri̱ṣaḥ pā̭tu̱ nakta̭m"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.098.3a",
+   "001.098.3b"
+  ],
+  "lines_deva": [
+   "वैश्वा॑नर॒ तव॒ तत् स॒त्यम॑स्त्व॒स्मान् रायो॑ म॒घवा॑नः सचन्ताम्",
+   "तन्नो॑ मि॒त्रो वरु॑णो मामहन्ता॒मदि॑ति॒: सिन्धु॑: पृथि॒वी उ॒त द्यौः"
+  ],
+  "lines_iast": [
+   "vaiśvā̭nara̱ tava̱ tat sa̱tyama̭stva̱smān rāyo̭ ma̱ghavā̭naḥ sacantām",
+   "tanno̭ mi̱tro varṷṇo māmahantā̱madi̭ti̱: sindhṷ: pṛthi̱vī u̱ta dyauḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,233 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.061.1a",
+   "007.061.1b"
+  ],
+  "lines_deva": [
+   "उद्वां॒ चक्षु॑र्वरुण सु॒प्रती॑कं दे॒वयो॑रेति॒ सूर्य॑स्तत॒न्वान्",
+   "अ॒भि यो विश्वा॒ भुव॑नानि॒ चष्टे॒ स म॒न्युं मर्त्ये॒ष्वा चि॑केत"
+  ],
+  "lines_iast": [
+   "udvā̱ṃ cakṣṷrvaruṇa su̱pratī̭kaṃ de̱vayo̭reti̱ sūrya̭stata̱nvān",
+   "a̱bhi yo viśvā̱ bhuva̭nāni̱ caṣṭe̱ sa ma̱nyuṃ martye̱ṣvā ci̭keta"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.061.2a",
+   "007.061.2b"
+  ],
+  "lines_deva": [
+   "प्र वां॒ स मि॑त्रावरुणावृ॒तावा॒ विप्रो॒ मन्मा॑नि दीर्घ॒श्रुदि॑यर्ति",
+   "यस्य॒ ब्रह्मा॑णि सुक्रतू॒ अवा॑थ॒ आ यत्क्रत्वा॒ न श॒रद॑: पृ॒णैथे॑"
+  ],
+  "lines_iast": [
+   "pra vā̱ṃ sa mi̭trāvaruṇāvṛ̱tāvā̱ vipro̱ manmā̭ni dīrgha̱śrudi̭yarti",
+   "yasya̱ brahmā̭ṇi sukratū̱ avā̭tha̱ ā yatkratvā̱ na śa̱rada̭: pṛ̱ṇaithḙ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.061.3a",
+   "007.061.3b"
+  ],
+  "lines_deva": [
+   "प्रोरोर्मि॑त्रावरुणा पृथि॒व्याः प्र दि॒व ऋ॒ष्वाद्बृ॑ह॒तः सु॑दानू",
+   "स्पशो॑ दधाथे॒ ओष॑धीषु वि॒क्ष्वृध॑ग्य॒तो अनि॑मिषं॒ रक्ष॑माणा"
+  ],
+  "lines_iast": [
+   "prorormi̭trāvaruṇā pṛthi̱vyāḥ pra di̱va ṛ̱ṣvādbṛ̭ha̱taḥ sṷdānū",
+   "spaśo̭ dadhāthe̱ oṣa̭dhīṣu vi̱kṣvṛdha̭gya̱to ani̭miṣa̱ṃ rakṣa̭māṇā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "007.061.4a",
+   "007.061.4b"
+  ],
+  "lines_deva": [
+   "शंसा॑ मि॒त्रस्य॒ वरु॑णस्य॒ धाम॒ शुष्मो॒ रोद॑सी बद्बधे महि॒त्वा",
+   "अय॒न्मासा॒ अय॑ज्वनाम॒वीरा॒: प्र य॒ज्ञम॑न्मा वृ॒जनं॑ तिराते"
+  ],
+  "lines_iast": [
+   "śaṃsā̭ mi̱trasya̱ varṷṇasya̱ dhāma̱ śuṣmo̱ roda̭sī badbadhe mahi̱tvā",
+   "aya̱nmāsā̱ aya̭jvanāma̱vīrā̱: pra ya̱jñama̭nmā vṛ̱jana̭ṃ tirāte"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "007.061.5a",
+   "007.061.5b"
+  ],
+  "lines_deva": [
+   "अमू॑रा॒ विश्वा॑ वृषणावि॒मा वां॒ न यासु॑ चि॒त्रं ददृ॑शे॒ न य॒क्षम्",
+   "द्रुह॑: सचन्ते॒ अनृ॑ता॒ जना॑नां॒ न वां॑ नि॒ण्यान्य॒चिते॑ अभूवन्"
+  ],
+  "lines_iast": [
+   "amṷ̄rā̱ viśvā̭ vṛṣaṇāvi̱mā vā̱ṃ na yāsṷ ci̱traṃ dadṛ̭śe̱ na ya̱kṣam",
+   "druha̭: sacante̱ anṛ̭tā̱ janā̭nā̱ṃ na vā̭ṃ ni̱ṇyānya̱citḙ abhūvan"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "007.061.6a",
+   "007.061.6b"
+  ],
+  "lines_deva": [
+   "समु॑ वां य॒ज्ञं म॑हयं॒ नमो॑भिर्हु॒वे वां॑ मित्रावरुणा स॒बाध॑:",
+   "प्र वां॒ मन्मा॑न्यृ॒चसे॒ नवा॑नि कृ॒तानि॒ ब्रह्म॑ जुजुषन्नि॒मानि॑"
+  ],
+  "lines_iast": [
+   "samṷ vāṃ ya̱jñaṃ ma̭haya̱ṃ namo̭bhirhu̱ve vā̭ṃ mitrāvaruṇā sa̱bādha̭:",
+   "pra vā̱ṃ manmā̭nyṛ̱case̱ navā̭ni kṛ̱tāni̱ brahma̭ jujuṣanni̱māni̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "007.061.7a",
+   "007.061.7b"
+  ],
+  "lines_deva": [
+   "इ॒यं दे॑व पु॒रोहि॑तिर्यु॒वभ्यां॑ य॒ज्ञेषु॑ मित्रावरुणावकारि",
+   "विश्वा॑नि दु॒र्गा पि॑पृतं ति॒रो नो॑ यू॒यं पा॑त स्व॒स्तिभि॒: सदा॑ नः"
+  ],
+  "lines_iast": [
+   "i̱yaṃ dḙva pu̱rohi̭tiryu̱vabhyā̭ṃ ya̱jñeṣṷ mitrāvaruṇāvakāri",
+   "viśvā̭ni du̱rgā pi̭pṛtaṃ ti̱ro no̭ yū̱yaṃ pā̭ta sva̱stibhi̱: sadā̭ naḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

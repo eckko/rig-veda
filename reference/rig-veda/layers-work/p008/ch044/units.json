@@ -1,0 +1,782 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "008.044.1"
+  ],
+  "lines_deva": [
+   "स॒मिधा॒ग्निं दु॑वस्यत घृ॒तैर्बो॑धय॒ताति॑थिम् । आस्मि॑न्ह॒व्या जु॑होतन"
+  ],
+  "lines_iast": [
+   "sa̱midhā̱gniṃ dṷvasyata ghṛ̱tairbo̭dhaya̱tāti̭thim | āsmi̭nha̱vyā jṷhotana"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "008.044.2"
+  ],
+  "lines_deva": [
+   "अग्ने॒ स्तोमं॑ जुषस्व मे॒ वर्ध॑स्वा॒नेन॒ मन्म॑ना । प्रति॑ सू॒क्तानि॑ हर्य नः"
+  ],
+  "lines_iast": [
+   "agne̱ stoma̭ṃ juṣasva me̱ vardha̭svā̱nena̱ manma̭nā | prati̭ sū̱ktāni̭ harya naḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "008.044.3"
+  ],
+  "lines_deva": [
+   "अ॒ग्निं दू॒तं पु॒रो द॑धे हव्य॒वाह॒मुप॑ ब्रुवे । दे॒वाँ आ सा॑दयादि॒ह"
+  ],
+  "lines_iast": [
+   "a̱gniṃ dū̱taṃ pu̱ro da̭dhe havya̱vāha̱mupa̭ bruve | de̱vā~ ā sā̭dayādi̱ha"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "008.044.4"
+  ],
+  "lines_deva": [
+   "उत्ते॑ बृ॒हन्तो॑ अ॒र्चय॑: समिधा॒नस्य॑ दीदिवः । अग्ने॑ शु॒क्रास॑ ईरते"
+  ],
+  "lines_iast": [
+   "uttḙ bṛ̱hanto̭ a̱rcaya̭: samidhā̱nasya̭ dīdivaḥ | agnḙ śu̱krāsa̭ īrate"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "008.044.5"
+  ],
+  "lines_deva": [
+   "उप॑ त्वा जु॒ह्वो॒३ मम॑ घृ॒ताची॑र्यन्तु हर्यत । अग्ने॑ ह॒व्या जु॑षस्व नः"
+  ],
+  "lines_iast": [
+   "upa̭ tvā ju̱hvo̱3 mama̭ ghṛ̱tācī̭ryantu haryata | agnḙ ha̱vyā jṷṣasva naḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "008.044.6"
+  ],
+  "lines_deva": [
+   "म॒न्द्रं होता॑रमृ॒त्विजं॑ चि॒त्रभा॑नुं वि॒भाव॑सुम् । अ॒ग्निमी॑ळे॒ स उ॑ श्रवत्"
+  ],
+  "lines_iast": [
+   "ma̱ndraṃ hotā̭ramṛ̱tvija̭ṃ ci̱trabhā̭nuṃ vi̱bhāva̭sum | a̱gnimī̭ḻe̱ sa ṷ śravat"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "7",
+  "type": "verse",
+  "line_ids": [
+   "008.044.7"
+  ],
+  "lines_deva": [
+   "प्र॒त्नं होता॑र॒मीड्यं॒ जुष्ट॑म॒ग्निं क॒विक्र॑तुम् । अ॒ध्व॒राणा॑मभि॒श्रिय॑म्"
+  ],
+  "lines_iast": [
+   "pra̱tnaṃ hotā̭ra̱mīḍya̱ṃ juṣṭa̭ma̱gniṃ ka̱vikra̭tum | a̱dhva̱rāṇā̭mabhi̱śriya̭m"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "8",
+  "type": "verse",
+  "line_ids": [
+   "008.044.8"
+  ],
+  "lines_deva": [
+   "जु॒षा॒णो अ॑ङ्गिरस्तमे॒मा ह॒व्यान्या॑नु॒षक् । अग्ने॑ य॒ज्ञं न॑य ऋतु॒था"
+  ],
+  "lines_iast": [
+   "ju̱ṣā̱ṇo a̭ṅgirastame̱mā ha̱vyānyā̭nu̱ṣak | agnḙ ya̱jñaṃ na̭ya ṛtu̱thā"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "9",
+  "type": "verse",
+  "line_ids": [
+   "008.044.9"
+  ],
+  "lines_deva": [
+   "स॒मि॒धा॒न उ॑ सन्त्य॒ शुक्र॑शोच इ॒हा व॑ह । चि॒कि॒त्वान्दैव्यं॒ जन॑म्"
+  ],
+  "lines_iast": [
+   "sa̱mi̱dhā̱na ṷ santya̱ śukra̭śoca i̱hā va̭ha | ci̱ki̱tvāndaivya̱ṃ jana̭m"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "10",
+  "type": "verse",
+  "line_ids": [
+   "008.044.10"
+  ],
+  "lines_deva": [
+   "विप्रं॒ होता॑रम॒द्रुहं॑ धू॒मके॑तुं वि॒भाव॑सुम् । य॒ज्ञानां॑ के॒तुमी॑महे"
+  ],
+  "lines_iast": [
+   "vipra̱ṃ hotā̭rama̱druha̭ṃ dhū̱makḙtuṃ vi̱bhāva̭sum | ya̱jñānā̭ṃ ke̱tumī̭mahe"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "11",
+  "type": "verse",
+  "line_ids": [
+   "008.044.11"
+  ],
+  "lines_deva": [
+   "अग्ने॒ नि पा॑हि न॒स्त्वं प्रति॑ ष्म देव॒ रीष॑तः । भि॒न्धि द्वेष॑: सहस्कृत"
+  ],
+  "lines_iast": [
+   "agne̱ ni pā̭hi na̱stvaṃ prati̭ ṣma deva̱ rīṣa̭taḥ | bhi̱ndhi dveṣa̭: sahaskṛta"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "12",
+  "type": "verse",
+  "line_ids": [
+   "008.044.12"
+  ],
+  "lines_deva": [
+   "अ॒ग्निः प्र॒त्नेन॒ मन्म॑ना॒ शुम्भा॑नस्त॒न्वं१ स्वाम् । क॒विर्विप्रे॑ण वावृधे"
+  ],
+  "lines_iast": [
+   "a̱gniḥ pra̱tnena̱ manma̭nā̱ śumbhā̭nasta̱nvaṃ1 svām | ka̱virviprḙṇa vāvṛdhe"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "13",
+  "type": "verse",
+  "line_ids": [
+   "008.044.13"
+  ],
+  "lines_deva": [
+   "ऊ॒र्जो नपा॑त॒मा हु॑वे॒ऽग्निं पा॑व॒कशो॑चिषम् । अ॒स्मिन्य॒ज्ञे स्व॑ध्व॒रे"
+  ],
+  "lines_iast": [
+   "ū̱rjo napā̭ta̱mā hṷve̱'gniṃ pā̭va̱kaśo̭ciṣam | a̱sminya̱jñe sva̭dhva̱re"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "14",
+  "type": "verse",
+  "line_ids": [
+   "008.044.14"
+  ],
+  "lines_deva": [
+   "स नो॑ मित्रमह॒स्त्वमग्ने॑ शु॒क्रेण॑ शो॒चिषा॑ । दे॒वैरा स॑त्सि ब॒र्हिषि॑"
+  ],
+  "lines_iast": [
+   "sa no̭ mitramaha̱stvamagnḙ śu̱kreṇa̭ śo̱ciṣā̭ | de̱vairā sa̭tsi ba̱rhiṣi̭"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "15",
+  "type": "verse",
+  "line_ids": [
+   "008.044.15"
+  ],
+  "lines_deva": [
+   "यो अ॒ग्निं त॒न्वो॒३ दमे॑ दे॒वं मर्त॑: सप॒र्यति॑ । तस्मा॒ इद्दी॑दय॒द्वसु॑"
+  ],
+  "lines_iast": [
+   "yo a̱gniṃ ta̱nvo̱3 damḙ de̱vaṃ marta̭: sapa̱ryati̭ | tasmā̱ iddī̭daya̱dvasṷ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "16",
+  "type": "verse",
+  "line_ids": [
+   "008.044.16"
+  ],
+  "lines_deva": [
+   "अ॒ग्निर्मू॒र्धा दि॒वः क॒कुत्पति॑: पृथि॒व्या अ॒यम् । अ॒पां रेतां॑सि जिन्वति"
+  ],
+  "lines_iast": [
+   "a̱gnirmū̱rdhā di̱vaḥ ka̱kutpati̭: pṛthi̱vyā a̱yam | a̱pāṃ retā̭ṃsi jinvati"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "17",
+  "type": "verse",
+  "line_ids": [
+   "008.044.17"
+  ],
+  "lines_deva": [
+   "उद॑ग्ने॒ शुच॑य॒स्तव॑ शु॒क्रा भ्राज॑न्त ईरते । तव॒ ज्योतीं॑ष्य॒र्चय॑:"
+  ],
+  "lines_iast": [
+   "uda̭gne̱ śuca̭ya̱stava̭ śu̱krā bhrāja̭nta īrate | tava̱ jyotī̭ṃṣya̱rcaya̭:"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "18",
+  "type": "verse",
+  "line_ids": [
+   "008.044.18"
+  ],
+  "lines_deva": [
+   "ईशि॑षे॒ वार्य॑स्य॒ हि दा॒त्रस्या॑ग्ने॒ स्व॑र्पतिः । स्तो॒ता स्यां॒ तव॒ शर्म॑णि"
+  ],
+  "lines_iast": [
+   "īśi̭ṣe̱ vārya̭sya̱ hi dā̱trasyā̭gne̱ sva̭rpatiḥ | sto̱tā syā̱ṃ tava̱ śarma̭ṇi"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "19",
+  "type": "verse",
+  "line_ids": [
+   "008.044.19"
+  ],
+  "lines_deva": [
+   "त्वाम॑ग्ने मनी॒षिण॒स्त्वां हि॑न्वन्ति॒ चित्ति॑भिः । त्वां व॑र्धन्तु नो॒ गिर॑:"
+  ],
+  "lines_iast": [
+   "tvāma̭gne manī̱ṣiṇa̱stvāṃ hi̭nvanti̱ citti̭bhiḥ | tvāṃ va̭rdhantu no̱ gira̭:"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "20",
+  "type": "verse",
+  "line_ids": [
+   "008.044.20"
+  ],
+  "lines_deva": [
+   "अद॑ब्धस्य स्व॒धाव॑तो दू॒तस्य॒ रेभ॑त॒: सदा॑ । अ॒ग्नेः स॒ख्यं वृ॑णीमहे"
+  ],
+  "lines_iast": [
+   "ada̭bdhasya sva̱dhāva̭to dū̱tasya̱ rebha̭ta̱: sadā̭ | a̱gneḥ sa̱khyaṃ vṛ̭ṇīmahe"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "21",
+  "type": "verse",
+  "line_ids": [
+   "008.044.21"
+  ],
+  "lines_deva": [
+   "अ॒ग्निः शुचि॑व्रततम॒: शुचि॒र्विप्र॒: शुचि॑: क॒विः । शुची॑ रोचत॒ आहु॑तः"
+  ],
+  "lines_iast": [
+   "a̱gniḥ śuci̭vratatama̱: śuci̱rvipra̱: śuci̭: ka̱viḥ | śucī̭ rocata̱ āhṷtaḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "22",
+  "type": "verse",
+  "line_ids": [
+   "008.044.22"
+  ],
+  "lines_deva": [
+   "उ॒त त्वा॑ धी॒तयो॒ मम॒ गिरो॑ वर्धन्तु वि॒श्वहा॑ । अग्ने॑ स॒ख्यस्य॑ बोधि नः"
+  ],
+  "lines_iast": [
+   "u̱ta tvā̭ dhī̱tayo̱ mama̱ giro̭ vardhantu vi̱śvahā̭ | agnḙ sa̱khyasya̭ bodhi naḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "23",
+  "type": "verse",
+  "line_ids": [
+   "008.044.23"
+  ],
+  "lines_deva": [
+   "यद॑ग्ने॒ स्याम॒हं त्वं त्वं वा॑ घा॒ स्या अ॒हम् । स्युष्टे॑ स॒त्या इ॒हाशिष॑:"
+  ],
+  "lines_iast": [
+   "yada̭gne̱ syāma̱haṃ tvaṃ tvaṃ vā̭ ghā̱ syā a̱ham | syuṣṭḙ sa̱tyā i̱hāśiṣa̭:"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "24",
+  "type": "verse",
+  "line_ids": [
+   "008.044.24"
+  ],
+  "lines_deva": [
+   "वसु॒र्वसु॑पति॒र्हि क॒मस्य॑ग्ने वि॒भाव॑सुः । स्याम॑ ते सुम॒तावपि॑"
+  ],
+  "lines_iast": [
+   "vasu̱rvasṷpati̱rhi ka̱masya̭gne vi̱bhāva̭suḥ | syāma̭ te suma̱tāvapi̭"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "25",
+  "type": "verse",
+  "line_ids": [
+   "008.044.25"
+  ],
+  "lines_deva": [
+   "अग्ने॑ धृ॒तव्र॑ताय ते समु॒द्राये॑व॒ सिन्ध॑वः । गिरो॑ वा॒श्रास॑ ईरते"
+  ],
+  "lines_iast": [
+   "agnḙ dhṛ̱tavra̭tāya te samu̱drāyḙva̱ sindha̭vaḥ | giro̭ vā̱śrāsa̭ īrate"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "26",
+  "type": "verse",
+  "line_ids": [
+   "008.044.26"
+  ],
+  "lines_deva": [
+   "युवा॑नं वि॒श्पतिं॑ क॒विं वि॒श्वादं॑ पुरु॒वेप॑सम् । अ॒ग्निं शु॑म्भामि॒ मन्म॑भिः"
+  ],
+  "lines_iast": [
+   "yuvā̭naṃ vi̱śpati̭ṃ ka̱viṃ vi̱śvāda̭ṃ puru̱vepa̭sam | a̱gniṃ śṷmbhāmi̱ manma̭bhiḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "27",
+  "type": "verse",
+  "line_ids": [
+   "008.044.27"
+  ],
+  "lines_deva": [
+   "य॒ज्ञानां॑ र॒थ्ये॑ व॒यं ति॒ग्मज॑म्भाय वी॒ळवे॑ । स्तोमै॑रिषेमा॒ग्नये॑"
+  ],
+  "lines_iast": [
+   "ya̱jñānā̭ṃ ra̱thyḙ va̱yaṃ ti̱gmaja̭mbhāya vī̱ḻavḙ | stomai̭riṣemā̱gnayḙ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "28",
+  "type": "verse",
+  "line_ids": [
+   "008.044.28"
+  ],
+  "lines_deva": [
+   "अ॒यम॑ग्ने॒ त्वे अपि॑ जरि॒ता भू॑तु सन्त्य । तस्मै॑ पावक मृळय"
+  ],
+  "lines_iast": [
+   "a̱yama̭gne̱ tve api̭ jari̱tā bhṷ̄tu santya | tasmai̭ pāvaka mṛḻaya"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "29",
+  "type": "verse",
+  "line_ids": [
+   "008.044.29"
+  ],
+  "lines_deva": [
+   "धीरो॒ ह्यस्य॑द्म॒सद्विप्रो॒ न जागृ॑वि॒: सदा॑ । अग्ने॑ दी॒दय॑सि॒ द्यवि॑"
+  ],
+  "lines_iast": [
+   "dhīro̱ hyasya̭dma̱sadvipro̱ na jāgṛ̭vi̱: sadā̭ | agnḙ dī̱daya̭si̱ dyavi̭"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "30",
+  "type": "verse",
+  "line_ids": [
+   "008.044.30"
+  ],
+  "lines_deva": [
+   "पु॒राग्ने॑ दुरि॒तेभ्य॑: पु॒रा मृ॒ध्रेभ्य॑: कवे । प्र ण॒ आयु॑र्वसो तिर"
+  ],
+  "lines_iast": [
+   "pu̱rāgnḙ duri̱tebhya̭: pu̱rā mṛ̱dhrebhya̭: kave | pra ṇa̱ āyṷrvaso tira"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ }
+]

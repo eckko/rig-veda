@@ -1,0 +1,75 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "010.172.1a",
+   "010.172.1b"
+  ],
+  "lines_deva": [
+   "आ या॑हि॒ वन॑सा स॒ह गाव॑: सचन्त वर्त॒निं यदूध॑भिः",
+   "आ या॑हि॒ वस्व्या॑ धि॒या मंहि॑ष्ठो जार॒यन्म॑खः सु॒दानु॑भिः"
+  ],
+  "lines_iast": [
+   "ā yā̭hi̱ vana̭sā sa̱ha gāva̭: sacanta varta̱niṃ yadūdha̭bhiḥ",
+   "ā yā̭hi̱ vasvyā̭ dhi̱yā maṃhi̭ṣṭho jāra̱yanma̭khaḥ su̱dānṷbhiḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "।१",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "010.172.2a",
+   "010.172.2b",
+   "010.172.2c"
+  ],
+  "lines_deva": [
+   "",
+   "पि॒तु॒भृतो॒ न तन्तु॒मित्सु॒दान॑व॒: प्रति॑ दध्मो॒ यजा॑मसि",
+   "उ॒षा अप॒ स्वसु॒स्तम॒: सं व॑र्तयति वर्त॒निं सु॑जा॒तता॑"
+  ],
+  "lines_iast": [
+   "",
+   "pi̱tu̱bhṛto̱ na tantu̱mitsu̱dāna̭va̱: prati̭ dadhmo̱ yajā̭masi",
+   "u̱ṣā apa̱ svasu̱stama̱: saṃ va̭rtayati varta̱niṃ sṷjā̱tatā̭"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "२",
+   "।३",
+   " ॥"
+  ]
+ }
+]

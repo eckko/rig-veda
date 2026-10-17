@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "010.170.1a",
+   "010.170.1b"
+  ],
+  "lines_deva": [
+   "वि॒भ्राड्बृ॒हत्पि॑बतु सो॒म्यं मध्वायु॒र्दध॑द्य॒ज्ञप॑ता॒ववि॑ह्रुतम्",
+   "वात॑जूतो॒ यो अ॑भि॒रक्ष॑ति॒ त्मना॑ प्र॒जाः पु॑पोष पुरु॒धा वि रा॑जति"
+  ],
+  "lines_iast": [
+   "vi̱bhrāḍbṛ̱hatpi̭batu so̱myaṃ madhvāyu̱rdadha̭dya̱jñapa̭tā̱vavi̭hrutam",
+   "vāta̭jūto̱ yo a̭bhi̱rakṣa̭ti̱ tmanā̭ pra̱jāḥ pṷpoṣa puru̱dhā vi rā̭jati"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "010.170.2a",
+   "010.170.2b"
+  ],
+  "lines_deva": [
+   "वि॒भ्राड्बृ॒हत्सुभृ॑तं वाज॒सात॑मं॒ धर्म॑न्दि॒वो ध॒रुणे॑ स॒त्यमर्पि॑तम्",
+   "अ॒मि॒त्र॒हा वृ॑त्र॒हा द॑स्यु॒हन्त॑मं॒ ज्योति॑र्जज्ञे असुर॒हा स॑पत्न॒हा"
+  ],
+  "lines_iast": [
+   "vi̱bhrāḍbṛ̱hatsubhṛ̭taṃ vāja̱sāta̭ma̱ṃ dharma̭ndi̱vo dha̱ruṇḙ sa̱tyamarpi̭tam",
+   "a̱mi̱tra̱hā vṛ̭tra̱hā da̭syu̱hanta̭ma̱ṃ jyoti̭rjajñe asura̱hā sa̭patna̱hā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "010.170.3a",
+   "010.170.3b"
+  ],
+  "lines_deva": [
+   "इ॒दं श्रेष्ठं॒ ज्योति॑षां॒ ज्योति॑रुत्त॒मं वि॑श्व॒जिद्ध॑न॒जिदु॑च्यते बृ॒हत्",
+   "वि॒श्व॒भ्राड्भ्रा॒जो महि॒ सूर्यो॑ दृ॒श उ॒रु प॑प्रथे॒ सह॒ ओजो॒ अच्यु॑तम्"
+  ],
+  "lines_iast": [
+   "i̱daṃ śreṣṭha̱ṃ jyoti̭ṣā̱ṃ jyoti̭rutta̱maṃ vi̭śva̱jiddha̭na̱jidṷcyate bṛ̱hat",
+   "vi̱śva̱bhrāḍbhrā̱jo mahi̱ sūryo̭ dṛ̱śa u̱ru pa̭prathe̱ saha̱ ojo̱ acyṷtam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "010.170.4a",
+   "010.170.4b"
+  ],
+  "lines_deva": [
+   "वि॒भ्राज॒ञ्ज्योति॑षा॒ स्व१रग॑च्छो रोच॒नं दि॒वः",
+   "येने॒मा विश्वा॒ भुव॑ना॒न्याभृ॑ता वि॒श्वक॑र्मणा वि॒श्वदे॑व्यावता"
+  ],
+  "lines_iast": [
+   "vi̱bhrāja̱ñjyoti̭ṣā̱ sva1raga̭ccho roca̱naṃ di̱vaḥ",
+   "yene̱mā viśvā̱ bhuva̭nā̱nyābhṛ̭tā vi̱śvaka̭rmaṇā vi̱śvadḙvyāvatā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

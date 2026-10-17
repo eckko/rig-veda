@@ -1,0 +1,80 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "010.188.1"
+  ],
+  "lines_deva": [
+   "प्र नू॒नं जा॒तवे॑दस॒मश्वं॑ हिनोत वा॒जिन॑म् । इ॒दं नो॑ ब॒र्हिरा॒सदे॑"
+  ],
+  "lines_iast": [
+   "pra nū̱naṃ jā̱tavḙdasa̱maśva̭ṃ hinota vā̱jina̭m | i̱daṃ no̭ ba̱rhirā̱sadḙ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "010.188.2"
+  ],
+  "lines_deva": [
+   "अ॒स्य प्र जा॒तवे॑दसो॒ विप्र॑वीरस्य मी॒ळ्हुष॑: । म॒हीमि॑यर्मि सुष्टु॒तिम्"
+  ],
+  "lines_iast": [
+   "a̱sya pra jā̱tavḙdaso̱ vipra̭vīrasya mī̱ḻhuṣa̭: | ma̱hīmi̭yarmi suṣṭu̱tim"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "010.188.3"
+  ],
+  "lines_deva": [
+   "या रुचो॑ जा॒तवे॑दसो देव॒त्रा ह॑व्य॒वाह॑नीः । ताभि॑र्नो य॒ज्ञमि॑न्वतु"
+  ],
+  "lines_iast": [
+   "yā ruco̭ jā̱tavḙdaso deva̱trā ha̭vya̱vāha̭nīḥ | tābhi̭rno ya̱jñami̭nvatu"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ }
+]

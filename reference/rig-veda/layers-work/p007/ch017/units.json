@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.017.1a",
+   "007.017.1b"
+  ],
+  "lines_deva": [
+   "अग्ने॒ भव॑ सुष॒मिधा॒ समि॑द्ध उ॒त ब॒र्हिरु॑र्वि॒या वि स्तृ॑णीताम्",
+   "उ॒त द्वार॑ उश॒तीर्वि श्र॑यन्तामु॒त दे॒वाँ उ॑श॒त आ व॑हे॒ह"
+  ],
+  "lines_iast": [
+   "agne̱ bhava̭ suṣa̱midhā̱ sami̭ddha u̱ta ba̱rhirṷrvi̱yā vi stṛ̭ṇītām",
+   "u̱ta dvāra̭ uśa̱tīrvi śra̭yantāmu̱ta de̱vā~ ṷśa̱ta ā va̭he̱ha"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " १",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.017.2a",
+   "007.017.2b",
+   "007.017.2c"
+  ],
+  "lines_deva": [
+   "",
+   "अग्ने॑ वी॒हि ह॒विषा॒ यक्षि॑ दे॒वान्त्स्व॑ध्व॒रा कृ॑णुहि जातवेदः",
+   "स्व॒ध्व॒रा क॑रति जा॒तवे॑दा॒ यक्ष॑द्दे॒वाँ अ॒मृता॑न्पि॒प्रय॑च्च"
+  ],
+  "lines_iast": [
+   "",
+   "agnḙ vī̱hi ha̱viṣā̱ yakṣi̭ de̱vāntsva̭dhva̱rā kṛ̭ṇuhi jātavedaḥ",
+   "sva̱dhva̱rā ka̭rati jā̱tavḙdā̱ yakṣa̭dde̱vā~ a̱mṛtā̭npi̱praya̭cca"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   "२",
+   " ३",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.017.3a",
+   "007.017.3b"
+  ],
+  "lines_deva": [
+   "वंस्व॒ विश्वा॒ वार्या॑णि प्रचेतः स॒त्या भ॑वन्त्वा॒शिषो॑ नो अ॒द्य",
+   "त्वामु॒ ते द॑धिरे हव्य॒वाहं॑ दे॒वासो॑ अग्न ऊ॒र्ज आ नपा॑तम्"
+  ],
+  "lines_iast": [
+   "vaṃsva̱ viśvā̱ vāryā̭ṇi pracetaḥ sa̱tyā bha̭vantvā̱śiṣo̭ no a̱dya",
+   "tvāmu̱ te da̭dhire havya̱vāha̭ṃ de̱vāso̭ agna ū̱rja ā napā̭tam"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ५",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "007.017.4"
+  ],
+  "lines_deva": [
+   "ते ते॑ दे॒वाय॒ दाश॑तः स्याम म॒हो नो॒ रत्ना॒ वि द॑ध इया॒नः"
+  ],
+  "lines_iast": [
+   "te tḙ de̱vāya̱ dāśa̭taḥ syāma ma̱ho no̱ ratnā̱ vi da̭dha iyā̱naḥ"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ }
+]

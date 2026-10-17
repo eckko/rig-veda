@@ -35,3 +35,7 @@
 | 010.134 | numbering | source markers are not 1..n; IDs use position: 1 2 4 4 5 6 7 | S1 | check against print edition |
 | 010.157 | numbering | source markers are not 1..n; IDs use position: 1 1 3 2 3 | S1 | check against print edition |
 | 010.172 | numbering | stray marker text "४" left after the last verse | S1 | check against print edition |
+| all | possible-typo | Verify stage: 17 AI proposals, 10 were parser bugs (fixed), 7 open: see checks/proposals_status.tsv | S1 | check against printed edition |
+| all | other | S1 mixes spellings ह्ल and ळ्ह (e.g. मीह्लुषे 3x vs मीळ्हुषे 4x); an orthographic inconsistency of the typed file, left as is | S1 | decide on a normal form in a later stage |
+| 2.* | other | Mandala 2 is typed with a space after virama before a following word (e.g. "तान् वो"); consistent edition style | S1 | none |
+| all | other | Metre check not run on Vedic metres (assumes anushtubh line lengths); 9,463 flags set aside | tools | needs a Vedic-metre checker |

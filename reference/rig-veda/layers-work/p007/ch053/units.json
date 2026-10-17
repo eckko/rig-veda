@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.053.1a",
+   "007.053.1b"
+  ],
+  "lines_deva": [
+   "प्र द्यावा॑ य॒ज्ञैः पृ॑थि॒वी नमो॑भिः स॒बाध॑ ईळे बृह॒ती यज॑त्रे",
+   "ते चि॒द्धि पूर्वे॑ क॒वयो॑ गृ॒णन्त॑: पु॒रो म॒ही द॑धि॒रे दे॒वपु॑त्रे"
+  ],
+  "lines_iast": [
+   "pra dyāvā̭ ya̱jñaiḥ pṛ̭thi̱vī namo̭bhiḥ sa̱bādha̭ īḻe bṛha̱tī yaja̭tre",
+   "te ci̱ddhi pūrvḙ ka̱vayo̭ gṛ̱ṇanta̭: pu̱ro ma̱hī da̭dhi̱re de̱vapṷtre"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.053.2a",
+   "007.053.2b"
+  ],
+  "lines_deva": [
+   "प्र पू॑र्व॒जे पि॒तरा॒ नव्य॑सीभिर्गी॒र्भिः कृ॑णुध्वं॒ सद॑ने ऋ॒तस्य॑",
+   "आ नो॑ द्यावापृथिवी॒ दैव्ये॑न॒ जने॑न यातं॒ महि॑ वां॒ वरू॑थम्"
+  ],
+  "lines_iast": [
+   "pra pṷ̄rva̱je pi̱tarā̱ navya̭sībhirgī̱rbhiḥ kṛ̭ṇudhva̱ṃ sada̭ne ṛ̱tasya̭",
+   "ā no̭ dyāvāpṛthivī̱ daivyḙna̱ janḙna yāta̱ṃ mahi̭ vā̱ṃ varṷ̄tham"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.053.3a",
+   "007.053.3b"
+  ],
+  "lines_deva": [
+   "उ॒तो हि वां॑ रत्न॒धेया॑नि॒ सन्ति॑ पु॒रूणि॑ द्यावापृथिवी सु॒दासे॑",
+   "अ॒स्मे ध॑त्तं॒ यदस॒दस्कृ॑धोयु यू॒यं पा॑त स्व॒स्तिभि॒: सदा॑ नः"
+  ],
+  "lines_iast": [
+   "u̱to hi vā̭ṃ ratna̱dheyā̭ni̱ santi̭ pu̱rūṇi̭ dyāvāpṛthivī su̱dāsḙ",
+   "a̱sme dha̭tta̱ṃ yadasa̱daskṛ̭dhoyu yū̱yaṃ pā̭ta sva̱stibhi̱: sadā̭ naḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

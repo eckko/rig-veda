@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "010.041.1a",
+   "010.041.1b"
+  ],
+  "lines_deva": [
+   "स॒मा॒नमु॒ त्यं पु॑रुहू॒तमु॒क्थ्यं१ रथं॑ त्रिच॒क्रं सव॑ना॒ गनि॑ग्मतम्",
+   "परि॑ज्मानं विद॒थ्यं॑ सुवृ॒क्तिभि॑र्व॒यं व्यु॑ष्टा उ॒षसो॑ हवामहे"
+  ],
+  "lines_iast": [
+   "sa̱mā̱namu̱ tyaṃ pṷruhū̱tamu̱kthyaṃ1 ratha̭ṃ trica̱kraṃ sava̭nā̱ gani̭gmatam",
+   "pari̭jmānaṃ vida̱thya̭ṃ suvṛ̱ktibhi̭rva̱yaṃ vyṷṣṭā u̱ṣaso̭ havāmahe"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "010.041.2a",
+   "010.041.2b"
+  ],
+  "lines_deva": [
+   "प्रा॒त॒र्युजं॑ नास॒त्याधि॑ तिष्ठथः प्रात॒र्यावा॑णं मधु॒वाह॑नं॒ रथ॑म्",
+   "विशो॒ येन॒ गच्छ॑थो॒ यज्व॑रीर्नरा की॒रेश्चि॑द्य॒ज्ञं होतृ॑मन्तमश्विना"
+  ],
+  "lines_iast": [
+   "prā̱ta̱ryuja̭ṃ nāsa̱tyādhi̭ tiṣṭhathaḥ prāta̱ryāvā̭ṇaṃ madhu̱vāha̭na̱ṃ ratha̭m",
+   "viśo̱ yena̱ gaccha̭tho̱ yajva̭rīrnarā kī̱reści̭dya̱jñaṃ hotṛ̭mantamaśvinā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "010.041.3a",
+   "010.041.3b"
+  ],
+  "lines_deva": [
+   "अ॒ध्व॒र्युं वा॒ मधु॑पाणिं सु॒हस्त्य॑म॒ग्निधं॑ वा धृ॒तद॑क्षं॒ दमू॑नसम्",
+   "विप्र॑स्य वा॒ यत्सव॑नानि॒ गच्छ॒थोऽत॒ आ या॑तं मधु॒पेय॑मश्विना"
+  ],
+  "lines_iast": [
+   "a̱dhva̱ryuṃ vā̱ madhṷpāṇiṃ su̱hastya̭ma̱gnidha̭ṃ vā dhṛ̱tada̭kṣa̱ṃ damṷ̄nasam",
+   "vipra̭sya vā̱ yatsava̭nāni̱ gaccha̱tho'ta̱ ā yā̭taṃ madhu̱peya̭maśvinā"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

@@ -1,0 +1,113 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "010.191.1"
+  ],
+  "lines_deva": [
+   "संस॒मिद्यु॑वसे वृष॒न्नग्ने॒ विश्वा॑न्य॒र्य आ । इ॒ळस्प॒दे समि॑ध्यसे॒ स नो॒ वसू॒न्या भ॑र"
+  ],
+  "lines_iast": [
+   "saṃsa̱midyṷvase vṛṣa̱nnagne̱ viśvā̭nya̱rya ā | i̱ḻaspa̱de sami̭dhyase̱ sa no̱ vasū̱nyā bha̭ra"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "010.191.2"
+  ],
+  "lines_deva": [
+   "सं ग॑च्छध्वं॒ सं व॑दध्वं॒ सं वो॒ मनां॑सि जानताम् । दे॒वा भा॒गं यथा॒ पूर्वे॑ संजाना॒ना उ॒पास॑ते"
+  ],
+  "lines_iast": [
+   "saṃ ga̭cchadhva̱ṃ saṃ va̭dadhva̱ṃ saṃ vo̱ manā̭ṃsi jānatām | de̱vā bhā̱gaṃ yathā̱ pūrvḙ saṃjānā̱nā u̱pāsa̭te"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "010.191.3a",
+   "010.191.3b"
+  ],
+  "lines_deva": [
+   "स॒मा॒नो मन्त्र॒: समि॑तिः समा॒नी स॑मा॒नं मन॑: स॒ह चि॒त्तमे॑षाम्",
+   "स॒मा॒नं मन्त्र॑म॒भि म॑न्त्रये वः समा॒नेन॑ वो ह॒विषा॑ जुहोमि"
+  ],
+  "lines_iast": [
+   "sa̱mā̱no mantra̱: sami̭tiḥ samā̱nī sa̭mā̱naṃ mana̭: sa̱ha ci̱ttamḙṣām",
+   "sa̱mā̱naṃ mantra̭ma̱bhi ma̭ntraye vaḥ samā̱nena̭ vo ha̱viṣā̭ juhomi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "010.191.4"
+  ],
+  "lines_deva": [
+   "स॒मा॒नी व॒ आकू॑तिः समा॒ना हृद॑यानि वः । स॒मा॒नम॑स्तु वो॒ मनो॒ यथा॑ व॒: सुस॒हास॑ति"
+  ],
+  "lines_iast": [
+   "sa̱mā̱nī va̱ ākṷ̄tiḥ samā̱nā hṛda̭yāni vaḥ | sa̱mā̱nama̭stu vo̱ mano̱ yathā̭ va̱: susa̱hāsa̭ti"
+  ],
+  "book_split": [
+   ""
+  ],
+  "book_hindi": [
+   ""
+  ],
+  "book_english": [
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ॥"
+  ]
+ }
+]

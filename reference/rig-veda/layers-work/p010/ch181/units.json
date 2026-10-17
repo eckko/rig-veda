@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "010.181.1a",
+   "010.181.1b"
+  ],
+  "lines_deva": [
+   "प्रथ॑श्च॒ यस्य॑ स॒प्रथ॑श्च॒ नामाऽऽनु॑ष्टुभस्य ह॒विषो॑ ह॒विर्यत्",
+   "धा॒तुर्द्युता॑नात्सवि॒तुश्च॒ विष्णो॑ रथंत॒रमा ज॑भारा॒ वसि॑ष्ठः"
+  ],
+  "lines_iast": [
+   "pratha̭śca̱ yasya̭ sa̱pratha̭śca̱ nāmā''nṷṣṭubhasya ha̱viṣo̭ ha̱viryat",
+   "dhā̱turdyutā̭nātsavi̱tuśca̱ viṣṇo̭ rathaṃta̱ramā ja̭bhārā̱ vasi̭ṣṭhaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "010.181.2a",
+   "010.181.2b"
+  ],
+  "lines_deva": [
+   "अवि॑न्द॒न्ते अति॑हितं॒ यदासी॑द्य॒ज्ञस्य॒ धाम॑ पर॒मं गुहा॒ यत्",
+   "धा॒तुर्द्युता॑नात्सवि॒तुश्च॒ विष्णो॑र्भ॒रद्वा॑जो बृ॒हदा च॑क्रे अ॒ग्नेः"
+  ],
+  "lines_iast": [
+   "avi̭nda̱nte ati̭hita̱ṃ yadāsī̭dya̱jñasya̱ dhāma̭ para̱maṃ guhā̱ yat",
+   "dhā̱turdyutā̭nātsavi̱tuśca̱ viṣṇo̭rbha̱radvā̭jo bṛ̱hadā ca̭kre a̱gneḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "010.181.3a",
+   "010.181.3b"
+  ],
+  "lines_deva": [
+   "ते॑ऽविन्द॒न्मन॑सा॒ दीध्या॑ना॒ यजु॑: ष्क॒न्नं प्र॑थ॒मं दे॑व॒यान॑म्",
+   "धा॒तुर्द्युता॑नात्सवि॒तुश्च॒ विष्णो॒रा सूर्या॑दभरन्घ॒र्ममे॒ते"
+  ],
+  "lines_iast": [
+   "tḙ'vinda̱nmana̭sā̱ dīdhyā̭nā̱ yajṷ: ṣka̱nnaṃ pra̭tha̱maṃ dḙva̱yāna̭m",
+   "dhā̱turdyutā̭nātsavi̱tuśca̱ viṣṇo̱rā sūryā̭dabharangha̱rmame̱te"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

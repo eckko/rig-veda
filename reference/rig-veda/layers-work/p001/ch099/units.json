@@ -1,0 +1,35 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.099.1a",
+   "001.099.1b"
+  ],
+  "lines_deva": [
+   "जा॒तवे॑दसे सुनवाम॒ सोम॑मरातीय॒तो नि द॑हाति॒ वेद॑:",
+   "स न॑: पर्ष॒दति॑ दु॒र्गाणि॒ विश्वा॑ ना॒वेव॒ सिन्धुं॑ दुरि॒तात्य॒ग्निः"
+  ],
+  "lines_iast": [
+   "jā̱tavḙdase sunavāma̱ soma̭marātīya̱to ni da̭hāti̱ veda̭:",
+   "sa na̭: parṣa̱dati̭ du̱rgāṇi̱ viśvā̭ nā̱veva̱ sindhṷṃ duri̱tātya̱gniḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

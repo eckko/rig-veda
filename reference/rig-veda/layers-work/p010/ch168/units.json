@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "010.168.1a",
+   "010.168.1b"
+  ],
+  "lines_deva": [
+   "वात॑स्य॒ नु म॑हि॒मानं॒ रथ॑स्य रु॒जन्ने॑ति स्त॒नय॑न्नस्य॒ घोष॑:",
+   "दि॒वि॒स्पृग्या॑त्यरु॒णानि॑ कृ॒ण्वन्नु॒तो ए॑ति पृथि॒व्या रे॒णुमस्य॑न्"
+  ],
+  "lines_iast": [
+   "vāta̭sya̱ nu ma̭hi̱māna̱ṃ ratha̭sya ru̱jannḙti sta̱naya̭nnasya̱ ghoṣa̭:",
+   "di̱vi̱spṛgyā̭tyaru̱ṇāni̭ kṛ̱ṇvannu̱to ḙti pṛthi̱vyā re̱ṇumasya̭n"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "010.168.2a",
+   "010.168.2b"
+  ],
+  "lines_deva": [
+   "सं प्रेर॑ते॒ अनु॒ वात॑स्य वि॒ष्ठा ऐनं॑ गच्छन्ति॒ सम॑नं॒ न योषा॑:",
+   "ताभि॑: स॒युक्स॒रथं॑ दे॒व ई॑यते॒ऽस्य विश्व॑स्य॒ भुव॑नस्य॒ राजा॑"
+  ],
+  "lines_iast": [
+   "saṃ prera̭te̱ anu̱ vāta̭sya vi̱ṣṭhā aina̭ṃ gacchanti̱ sama̭na̱ṃ na yoṣā̭:",
+   "tābhi̭: sa̱yuksa̱ratha̭ṃ de̱va ī̭yate̱'sya viśva̭sya̱ bhuva̭nasya̱ rājā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "010.168.3a",
+   "010.168.3b"
+  ],
+  "lines_deva": [
+   "अ॒न्तरि॑क्षे प॒थिभि॒रीय॑मानो॒ न नि वि॑शते कत॒मच्च॒नाह॑:",
+   "अ॒पां सखा॑ प्रथम॒जा ऋ॒तावा॒ क्व॑ स्विज्जा॒तः कुत॒ आ ब॑भूव"
+  ],
+  "lines_iast": [
+   "a̱ntari̭kṣe pa̱thibhi̱rīya̭māno̱ na ni vi̭śate kata̱macca̱nāha̭:",
+   "a̱pāṃ sakhā̭ prathama̱jā ṛ̱tāvā̱ kva̭ svijjā̱taḥ kuta̱ ā ba̭bhūva"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "010.168.4a",
+   "010.168.4b"
+  ],
+  "lines_deva": [
+   "आ॒त्मा दे॒वानां॒ भुव॑नस्य॒ गर्भो॑ यथाव॒शं च॑रति दे॒व ए॒षः",
+   "घोषा॒ इद॑स्य शृण्विरे॒ न रू॒पं तस्मै॒ वाता॑य ह॒विषा॑ विधेम"
+  ],
+  "lines_iast": [
+   "ā̱tmā de̱vānā̱ṃ bhuva̭nasya̱ garbho̭ yathāva̱śaṃ ca̭rati de̱va e̱ṣaḥ",
+   "ghoṣā̱ ida̭sya śṛṇvire̱ na rū̱paṃ tasmai̱ vātā̭ya ha̱viṣā̭ vidhema"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

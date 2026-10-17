@@ -1,0 +1,134 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.153.1a",
+   "001.153.1b"
+  ],
+  "lines_deva": [
+   "यजा॑महे वां म॒हः स॒जोषा॑ ह॒व्येभि॑र्मित्रावरुणा॒ नमो॑भिः",
+   "घृ॒तैर्घृ॑तस्नू॒ अध॒ यद् वा॑म॒स्मे अ॑ध्व॒र्यवो॒ न धी॒तिभि॒र्भर॑न्ति"
+  ],
+  "lines_iast": [
+   "yajā̭mahe vāṃ ma̱haḥ sa̱joṣā̭ ha̱vyebhi̭rmitrāvaruṇā̱ namo̭bhiḥ",
+   "ghṛ̱tairghṛ̭tasnū̱ adha̱ yad vā̭ma̱sme a̭dhva̱ryavo̱ na dhī̱tibhi̱rbhara̭nti"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.153.2a",
+   "001.153.2b"
+  ],
+  "lines_deva": [
+   "प्रस्तु॑तिर्वां॒ धाम॒ न प्रयु॑क्ति॒रया॑मि मित्रावरुणा सुवृ॒क्तिः",
+   "अ॒नक्ति॒ यद् वां॑ वि॒दथे॑षु॒ होता॑ सु॒म्नं वां॑ सू॒रिर्वृ॑षणा॒विय॑क्षन्"
+  ],
+  "lines_iast": [
+   "prastṷtirvā̱ṃ dhāma̱ na prayṷkti̱rayā̭mi mitrāvaruṇā suvṛ̱ktiḥ",
+   "a̱nakti̱ yad vā̭ṃ vi̱dathḙṣu̱ hotā̭ su̱mnaṃ vā̭ṃ sū̱rirvṛ̭ṣaṇā̱viya̭kṣan"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.153.3a",
+   "001.153.3b"
+  ],
+  "lines_deva": [
+   "पी॒पाय॑ धे॒नुरदि॑तिर्ऋ॒ताय॒ जना॑य मित्रावरुणा हवि॒र्दे",
+   "हि॒नोति॒ यद् वां॑ वि॒दथे॑ सप॒र्यन् त्स रा॒तह॑व्यो॒ मानु॑षो॒ न होता॑"
+  ],
+  "lines_iast": [
+   "pī̱pāya̭ dhe̱nuradi̭tirṛ̱tāya̱ janā̭ya mitrāvaruṇā havi̱rde",
+   "hi̱noti̱ yad vā̭ṃ vi̱dathḙ sapa̱ryan tsa rā̱taha̭vyo̱ mānṷṣo̱ na hotā̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "001.153.4a",
+   "001.153.4b"
+  ],
+  "lines_deva": [
+   "उ॒त वां॑ वि॒क्षु मद्या॒स्वन्धो॒ गाव॒ आप॑श्च पीपयन्त दे॒वीः",
+   "उ॒तो नो॑ अ॒स्य पू॒र्व्यः पति॒र्दन् वी॒तं पा॒तं पय॑स उ॒स्रिया॑याः"
+  ],
+  "lines_iast": [
+   "u̱ta vā̭ṃ vi̱kṣu madyā̱svandho̱ gāva̱ āpa̭śca pīpayanta de̱vīḥ",
+   "u̱to no̭ a̱sya pū̱rvyaḥ pati̱rdan vī̱taṃ pā̱taṃ paya̭sa u̱sriyā̭yāḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

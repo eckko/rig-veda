@@ -1,0 +1,200 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "007.063.1a",
+   "007.063.1b"
+  ],
+  "lines_deva": [
+   "उद्वे॑ति सु॒भगो॑ वि॒श्वच॑क्षा॒: साधा॑रण॒: सूर्यो॒ मानु॑षाणाम्",
+   "चक्षु॑र्मि॒त्रस्य॒ वरु॑णस्य दे॒वश्चर्मे॑व॒ यः स॒मवि॑व्य॒क्तमां॑सि"
+  ],
+  "lines_iast": [
+   "udvḙti su̱bhago̭ vi̱śvaca̭kṣā̱: sādhā̭raṇa̱: sūryo̱ mānṷṣāṇām",
+   "cakṣṷrmi̱trasya̱ varṷṇasya de̱vaścarmḙva̱ yaḥ sa̱mavi̭vya̱ktamā̭ṃsi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "007.063.2a",
+   "007.063.2b"
+  ],
+  "lines_deva": [
+   "उद्वे॑ति प्रसवी॒ता जना॑नां म॒हान्के॒तुर॑र्ण॒वः सूर्य॑स्य",
+   "स॒मा॒नं च॒क्रं प॑र्या॒विवृ॑त्स॒न्यदे॑त॒शो वह॑ति धू॒र्षु यु॒क्तः"
+  ],
+  "lines_iast": [
+   "udvḙti prasavī̱tā janā̭nāṃ ma̱hānke̱tura̭rṇa̱vaḥ sūrya̭sya",
+   "sa̱mā̱naṃ ca̱kraṃ pa̭ryā̱vivṛ̭tsa̱nyadḙta̱śo vaha̭ti dhū̱rṣu yu̱ktaḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "007.063.3a",
+   "007.063.3b"
+  ],
+  "lines_deva": [
+   "वि॒भ्राज॑मान उ॒षसा॑मु॒पस्था॑द्रे॒भैरुदे॑त्यनुम॒द्यमा॑नः",
+   "ए॒ष मे॑ दे॒वः स॑वि॒ता च॑च्छन्द॒ यः स॑मा॒नं न प्र॑मि॒नाति॒ धाम॑"
+  ],
+  "lines_iast": [
+   "vi̱bhrāja̭māna u̱ṣasā̭mu̱pasthā̭dre̱bhairudḙtyanuma̱dyamā̭naḥ",
+   "e̱ṣa mḙ de̱vaḥ sa̭vi̱tā ca̭cchanda̱ yaḥ sa̭mā̱naṃ na pra̭mi̱nāti̱ dhāma̭"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "4",
+  "type": "verse",
+  "line_ids": [
+   "007.063.4a",
+   "007.063.4b"
+  ],
+  "lines_deva": [
+   "दि॒वो रु॒क्म उ॑रु॒चक्षा॒ उदे॑ति दू॒रेअ॑र्थस्त॒रणि॒र्भ्राज॑मानः",
+   "नू॒नं जना॒: सूर्ये॑ण॒ प्रसू॑ता॒ अय॒न्नर्था॑नि कृ॒णव॒न्नपां॑सि"
+  ],
+  "lines_iast": [
+   "di̱vo ru̱kma ṷru̱cakṣā̱ udḙti dū̱rea̭rthasta̱raṇi̱rbhrāja̭mānaḥ",
+   "nū̱naṃ janā̱: sūryḙṇa̱ prasṷ̄tā̱ aya̱nnarthā̭ni kṛ̱ṇava̱nnapā̭ṃsi"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "5",
+  "type": "verse",
+  "line_ids": [
+   "007.063.5a",
+   "007.063.5b"
+  ],
+  "lines_deva": [
+   "यत्रा॑ च॒क्रुर॒मृता॑ गा॒तुम॑स्मै श्ये॒नो न दीय॒न्नन्वे॑ति॒ पाथ॑:",
+   "प्रति॑ वां॒ सूर॒ उदि॑ते विधेम॒ नमो॑भिर्मित्रावरुणो॒त ह॒व्यैः"
+  ],
+  "lines_iast": [
+   "yatrā̭ ca̱krura̱mṛtā̭ gā̱tuma̭smai śye̱no na dīya̱nnanvḙti̱ pātha̭:",
+   "prati̭ vā̱ṃ sūra̱ udi̭te vidhema̱ namo̭bhirmitrāvaruṇo̱ta ha̱vyaiḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "6",
+  "type": "verse",
+  "line_ids": [
+   "007.063.6a",
+   "007.063.6b"
+  ],
+  "lines_deva": [
+   "नू मि॒त्रो वरु॑णो अर्य॒मा न॒स्त्मने॑ तो॒काय॒ वरि॑वो दधन्तु",
+   "सु॒गा नो॒ विश्वा॑ सु॒पथा॑नि सन्तु यू॒यं पा॑त स्व॒स्तिभि॒: सदा॑ नः"
+  ],
+  "lines_iast": [
+   "nū mi̱tro varṷṇo arya̱mā na̱stmanḙ to̱kāya̱ vari̭vo dadhantu",
+   "su̱gā no̱ viśvā̭ su̱pathā̭ni santu yū̱yaṃ pā̭ta sva̱stibhi̱: sadā̭ naḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

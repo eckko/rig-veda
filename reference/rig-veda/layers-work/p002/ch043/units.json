@@ -1,0 +1,108 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "002.043.1a",
+   "002.043.1b"
+  ],
+  "lines_deva": [
+   "प्र॒द॒क्षि॒णिद॒भि गृ॑णन्ति का॒रवो॒ वयो॒ वद॑न्त ऋतु॒था श॒कुन्त॑यः",
+   "उ॒भे वाचौ॑ वदति साम॒गा इ॑व गाय॒त्रं च॒ त्रैष्टु॑भं॒ चानु॑ राजति"
+  ],
+  "lines_iast": [
+   "pra̱da̱kṣi̱ṇida̱bhi gṛ̭ṇanti kā̱ravo̱ vayo̱ vada̭nta ṛtu̱thā śa̱kunta̭yaḥ",
+   "u̱bhe vācaṷ vadati sāma̱gā i̭va gāya̱traṃ ca̱ traiṣṭṷbha̱ṃ cānṷ rājati"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "002.043.2a",
+   "002.043.2b",
+   "002.043.2c"
+  ],
+  "lines_deva": [
+   "उ॒द्गा॒तेव॑ शकुने॒ साम॑ गायसि ब्रह्मपु॒त्र इ॑व॒ सव॑नेषु शंससि",
+   "वृषे॑व वा॒जी शिशु॑मतीर॒पीत्या॑ स॒र्वतो॑ नः शकुने भ॒द्रमा व॑द",
+   "वि॒श्वतो॑ नः शकुने॒ पुण्य॒मा व॑द"
+  ],
+  "lines_iast": [
+   "u̱dgā̱teva̭ śakune̱ sāma̭ gāyasi brahmapu̱tra i̭va̱ sava̭neṣu śaṃsasi",
+   "vṛṣḙva vā̱jī śiśṷmatīra̱pītyā̭ sa̱rvato̭ naḥ śakune bha̱dramā va̭da",
+   "vi̱śvato̭ naḥ śakune̱ puṇya̱mā va̭da"
+  ],
+  "book_split": [
+   "",
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   "",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "002.043.3a",
+   "002.043.3b"
+  ],
+  "lines_deva": [
+   "आ॒वदं॒स्त्वं श॑कुने भ॒द्रमा व॑द तू॒ष्णीमासी॑नः सुम॒तिं चि॑किद्धि नः",
+   "यदु॒त्पत॒न् वद॑सि कर्क॒रिर्य॑था बृ॒हद् व॑देम वि॒दथे॑ सु॒वीरा॑:"
+  ],
+  "lines_iast": [
+   "ā̱vada̱ṃstvaṃ śa̭kune bha̱dramā va̭da tū̱ṣṇīmāsī̭naḥ suma̱tiṃ ci̭kiddhi naḥ",
+   "yadu̱tpata̱n vada̭si karka̱rirya̭thā bṛ̱had va̭dema vi̱dathḙ su̱vīrā̭:"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]

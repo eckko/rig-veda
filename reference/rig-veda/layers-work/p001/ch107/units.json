@@ -1,0 +1,101 @@
+[
+ {
+  "n": "1",
+  "type": "verse",
+  "line_ids": [
+   "001.107.1a",
+   "001.107.1b"
+  ],
+  "lines_deva": [
+   "य॒ज्ञो दे॒वानां॒ प्रत्ये॑ति सु॒म्नमादि॑त्यासो॒ भव॑ता मृळ॒यन्त॑:",
+   "आ वो॒ऽर्वाची॑ सुम॒तिर्व॑वृत्यादं॒होश्चि॒द्या व॑रिवो॒वित्त॒रास॑त्"
+  ],
+  "lines_iast": [
+   "ya̱jño de̱vānā̱ṃ pratyḙti su̱mnamādi̭tyāso̱ bhava̭tā mṛḻa̱yanta̭:",
+   "ā vo̱'rvācī̭ suma̱tirva̭vṛtyāda̱ṃhości̱dyā va̭rivo̱vitta̱rāsa̭t"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "2",
+  "type": "verse",
+  "line_ids": [
+   "001.107.2a",
+   "001.107.2b"
+  ],
+  "lines_deva": [
+   "उप॑ नो दे॒वा अव॒सा ग॑म॒न्त्वङ्गि॑रसां॒ साम॑भिः स्तू॒यमा॑नाः",
+   "इन्द्र॑ इन्द्रि॒यैर्म॒रुतो॑ म॒रुद्भि॑रादि॒त्यैर्नो॒ अदि॑ति॒: शर्म॑ यंसत्"
+  ],
+  "lines_iast": [
+   "upa̭ no de̱vā ava̱sā ga̭ma̱ntvaṅgi̭rasā̱ṃ sāma̭bhiḥ stū̱yamā̭nāḥ",
+   "indra̭ indri̱yairma̱ruto̭ ma̱rudbhi̭rādi̱tyairno̱ adi̭ti̱: śarma̭ yaṃsat"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ },
+ {
+  "n": "3",
+  "type": "verse",
+  "line_ids": [
+   "001.107.3a",
+   "001.107.3b"
+  ],
+  "lines_deva": [
+   "तन्न॒ इन्द्र॒स्तद् वरु॑ण॒स्तद॒ग्निस्तद॑र्य॒मा तत् स॑वि॒ता चनो॑ धात्",
+   "तन्नो॑ मि॒त्रो वरु॑णो मामहन्ता॒मदि॑ति॒: सिन्धु॑: पृथि॒वी उ॒त द्यौः"
+  ],
+  "lines_iast": [
+   "tanna̱ indra̱stad varṷṇa̱stada̱gnistada̭rya̱mā tat sa̭vi̱tā cano̭ dhāt",
+   "tanno̭ mi̱tro varṷṇo māmahantā̱madi̭ti̱: sindhṷ: pṛthi̱vī u̱ta dyauḥ"
+  ],
+  "book_split": [
+   "",
+   ""
+  ],
+  "book_hindi": [
+   "",
+   ""
+  ],
+  "book_english": [
+   "",
+   ""
+  ],
+  "uncertain": [],
+  "trailers": [
+   " ।",
+   " ॥"
+  ]
+ }
+]
